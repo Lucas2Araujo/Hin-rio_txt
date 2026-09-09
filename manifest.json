@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "modules": [
+    {
+      "id": "ACF",
+      "file": "ACF.sqlite.gz",
+      "size_bytes": 1719646,
+      "url": "https://github.com/Lucas2Araujo/biblias/releases/download/v1.1/ACF.sqlite.gz"
+    },
+    {
+      "id": "ARA",
+      "file": "ARA.sqlite.gz",
+      "size_bytes": 1736290,
+      "url": "https://github.com/Lucas2Araujo/biblias/releases/download/v1.1/ARA.sqlite.gz"
+    },
+    {
+      "id": "ARC",
+      "file": "ARC.sqlite.gz",
+      "size_bytes": 1713232,
+      "url": "https://github.com/Lucas2Araujo/biblias/releases/download/v1.1/ARC.sqlite.gz"
+    },
+    {
+      "id": "AS21",
+      "file": "AS21.sqlite.gz",
+      "size_bytes": 1709751,
+      "url": "https://github.com/Lucas2Araujo/biblias/releases/download/v1.1/AS21.sqlite.gz"
+    },
+    {
+      "id": "JFAA",
+      "file": "JFAA.sqlite.gz",
+      "size_bytes": 1737071,
+      "url": "https://github.com/Lucas2Araujo/biblias/releases/download/v1.1/JFAA.sqlite.gz"
+    },
+    {
+      "id": "KJA",
+      "file": "KJA.sqlite.gz",
+      "size_bytes": 2042404,
+      "url": "https://github.com/Lucas2Araujo/biblias/releases/download/v1.1/KJA.sqlite.gz"
+    },
+    {
+      "id": "KJF",
+      "file": "KJF.sqlite.gz",
+      "size_bytes": 1753203,
+      "url": "https://github.com/Lucas2Araujo/biblias/releases/download/v1.1/KJF.sqlite.gz"
+    },
+    {
+      "id": "NAA",
+      "file": "NAA.sqlite.gz",
+      "size_bytes": 1791507,
+      "url": "https://github.com/Lucas2Araujo/biblias/releases/download/v1.1/NAA.sqlite.gz"
+    },
+    {
+      "id": "NBV",
+      "file": "NBV.sqlite.gz",
+      "size_bytes": 1944266,
+      "url": "https://github.com/Lucas2Araujo/biblias/releases/download/v1.1/NBV.sqlite.gz"
+    },
+    {
+      "id": "NTLH",
+      "file": "NTLH.sqlite.gz",
+      "size_bytes": 1820972,
+      "url": "https://github.com/Lucas2Araujo/biblias/releases/download/v1.1/NTLH.sqlite.gz"
+    },
+    {
+      "id": "NVI",
+      "file": "NVI.sqlite.gz",
+      "size_bytes": 1757483,
+      "url": "https://github.com/Lucas2Araujo/biblias/releases/download/v1.1/NVI.sqlite.gz"
+    },
+    {
+      "id": "NVT",
+      "file": "NVT.sqlite.gz",
+      "size_bytes": 1800632,
+      "url": "https://github.com/Lucas2Araujo/biblias/releases/download/v1.1/NVT.sqlite.gz"
+    },
+    {
+      "id": "TB",
+      "file": "TB.sqlite.gz",
+      "size_bytes": 1729453,
+      "url": "https://github.com/Lucas2Araujo/biblias/releases/download/v1.1/TB.sqlite.gz"
+    },
+    {
+      "id": "hinario",
+      "file": "hinario.db.gz",
+      "size_bytes": 707850,
+      "url": "https://github.com/Lucas2Araujo/Hin-rio_txt/releases/download/v1.0.0/hinario.db.gz"
+    },
+    {
+      "id": "hinario_antigo",
+      "file": "hinario_antigo.db.gz",
+      "size_bytes": 623237,
+      "url": "https://github.com/Lucas2Araujo/Hin-rio_txt/releases/download/v1.0.0/hinario_antigo.db.gz"
+    },
+    {
+      "id": "hinario_comparativo",
+      "file": "hinario_comparativo.db.gz",
+      "size_bytes": 868077,
+      "url": "https://github.com/Lucas2Araujo/Hin-rio_txt/releases/download/v1.0.0/hinario_comparativo.db.gz"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+name: Release Hinário Databases
+
+'on':
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+    inputs:
+      tag_name:
+        description: 'Tag da release (ex: v1.0.0). Se vazio, usa a data atual.'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Set release tag
+        id: vars
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ github.event.inputs.tag_name }}" ]; then
+            TAG="${{ github.event.inputs.tag_name }}"
+          elif [ "${{ github.ref_type }}" = "tag" ]; then
+            TAG="${{ github.ref_name }}"
+          else
+            TAG="v$(date +'%Y.%m.%d-%H%M')"
+          fi
+          echo "tag=${TAG}" >> "$GITHUB_OUTPUT"
+          echo "Release tag definida como: ${TAG}"
+
+      - name: Prepare and Optimize SQLite Databases
+        run: |
+          sudo apt-get update && sudo apt-get install -y sqlite3
+          
+          # Garante que os bancos estejam com checkpoint concluído e em modo DELETE (autocontido)
+          for db in hinario.db hinario_antigo.db hinario_comparativo.db; do
+            db_path="basesdedados/$db"
+            if [ -f "$db_path" ]; then
+              echo "Otimizando $db_path..."
+              sqlite3 "$db_path" "PRAGMA wal_checkpoint(TRUNCATE); PRAGMA journal_mode = DELETE; VACUUM;"
+            else
+              echo "Erro: $db_path não encontrado!"
+              exit 1
+            fi
+          done
+
+      - name: Compress Databases (.db.gz)
+        run: |
+          mkdir -p release_assets
+          
+          gzip -9 -c basesdedados/hinario.db > release_assets/hinario.db.gz
+          gzip -9 -c basesdedados/hinario_antigo.db > release_assets/hinario_antigo.db.gz
+          gzip -9 -c basesdedados/hinario_comparativo.db > release_assets/hinario_comparativo.db.gz
+          
+          cd release_assets
+          sha256sum hinario.db.gz hinario_antigo.db.gz hinario_comparativo.db.gz > checksums.sha256
+          ls -lh
+          cd ..
+
+      - name: Update manifest.json with download URLs
+        id: update_manifest
+        run: |
+          python3 - << 'EOF'
+          import json
+          import os
+          import sys
+
+          manifest_path = "manifest.json"
+          tag = "${{ steps.vars.outputs.tag }}"
+          repo = "${{ github.repository }}"
+          assets_dir = "release_assets"
+
+          db_files = [
+              ("hinario", "hinario.db.gz"),
+              ("hinario_antigo", "hinario_antigo.db.gz"),
+              ("hinario_comparativo", "hinario_comparativo.db.gz"),
+          ]
+
+          if not os.path.exists(manifest_path):
+              data = {"version": 1, "modules": []}
+          else:
+              with open(manifest_path, "r", encoding="utf-8") as f:
+                  data = json.load(f)
+
+          modules = data.setdefault("modules", [])
+          existing_by_id = {m.get("id"): m for m in modules}
+
+          for mod_id, filename in db_files:
+              filepath = os.path.join(assets_dir, filename)
+              size_bytes = os.path.getsize(filepath) if os.path.exists(filepath) else 0
+              url = f"https://github.com/{repo}/releases/download/{tag}/{filename}"
+              
+              if mod_id in existing_by_id:
+                  existing_by_id[mod_id]["file"] = filename
+                  existing_by_id[mod_id]["size_bytes"] = size_bytes
+                  existing_by_id[mod_id]["url"] = url
+              else:
+                  modules.append({
+                      "id": mod_id,
+                      "file": filename,
+                      "size_bytes": size_bytes,
+                      "url": url
+                  })
+
+          with open(manifest_path, "w", encoding="utf-8") as f:
+              json.dump(data, f, indent=2, ensure_ascii=False)
+              f.write("\n")
+
+          print(f"manifest.json atualizado com sucesso para a tag {tag}.")
+          EOF
+          
+          cp manifest.json release_assets/manifest.json
+
+      - name: Publish GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.vars.outputs.tag }}
+          name: Release ${{ steps.vars.outputs.tag }}
+          files: |
+            release_assets/hinario.db.gz
+            release_assets/hinario_antigo.db.gz
+            release_assets/hinario_comparativo.db.gz
+            release_assets/manifest.json
+            release_assets/checksums.sha256
+          draft: false
+          prerelease: false
+          generate_release_notes: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push Updated manifest.json to Default Branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          BRANCH="${{ github.event.repository.default_branch }}"
+          if [ -z "$BRANCH" ]; then
+            BRANCH="main"
+          fi
+          
+          git fetch origin "$BRANCH"
+          git checkout "$BRANCH"
+          
+          cp release_assets/manifest.json manifest.json
+          git add manifest.json
+          
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(release): atualizar manifest.json para ${{ steps.vars.outputs.tag }} [skip ci]"
+            git push origin "$BRANCH"
+            echo "manifest.json comitado e enviado para a branch $BRANCH."
+          else
+            echo "Nenhuma alteração pendente em manifest.json."
+          fi

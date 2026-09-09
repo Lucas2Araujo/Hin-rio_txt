@@ -34,3 +34,8 @@ __pycache__/
 *~
 .DS_Store
 Thumbs.db
+
+# Releases e compactações locais
+*.db.gz
+release_assets/
+dist/
