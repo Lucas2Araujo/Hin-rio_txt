@@ -1,0 +1,69 @@
+{
+    "hymn": {
+        "number": "271",
+        "title": "Vaso De Honra",
+        "originalTitle": "Vessel of Honor",
+        "subCategory": 17,
+        "lyricsComposer": [
+            424
+        ],
+        "musicComposer": [
+            424
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Jeremias 18:5, 6",
+        "youtubeURL": "https://www.youtube.com/watch?v=Kr-tDldyFmQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Jeremias 18:6",
+            "Isaías 64:8",
+            "2 Timóteo 2:21"
+        ],
+        "texto_base": "Jeremias 18:5, 6",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Missão e Serviço",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu quero ser um vaso de honra,",
+                "Moldado pelo Senhor,",
+                "Com a mensagem de amor e esperança",
+                "Aos homens por onde for.",
+                "Reaviva-me, inspira minha vida,",
+                "Prepara-me pra fazer o Teu querer.",
+                "Aprofunda-me em Teu poder e graça",
+                "Pra honrar o Teu nome, Senhor!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu quero ser um vaso de honra,",
+                "Moldado pelo Senhor,",
+                "Com a mensagem de amor e esperança",
+                "Aos homens por onde for.",
+                "Reaviva-me, inspira minha vida,",
+                "Prepara-me pra fazer o Teu querer.",
+                "Aprofunda-me em Teu poder e graça",
+                "Pra honrar o Teu nome, Senhor!",
+                "Pra honrar o Teu nome, Senhor!"
+            ]
+        }
+    ]
+}

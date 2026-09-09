@@ -1,0 +1,76 @@
+{
+    "hymn": {
+        "number": "320",
+        "title": "Eu Te Amo, Meu Mestre",
+        "originalTitle": "I Love Thee",
+        "subCategory": 22,
+        "lyricsComposer": [
+            66
+        ],
+        "musicComposer": [
+            363
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 21:15",
+        "youtubeURL": "https://www.youtube.com/watch?v=Wl9Xe0a1WRI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 21:15-17",
+            "Salmos 116:1",
+            "Marcos 12:30"
+        ],
+        "texto_base": "João 21:15",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Palavra de Deus e Lei",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu Te amo, meu Mestre, meu bom Salvador;",
+                "Não posso em palavras",
+                "contar este amor.",
+                "Eu Te amo pra sempre e a todos direi;",
+                "E pelos meus atos o confirmarei."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que grande alegria, que glória, meu Deus,",
+                "Saber que em breve",
+                "eu vou para os Céus!",
+                "De longe diviso as glórias do além.",
+                "Oh, como eu almejo fruí-las também!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Teu nome eu exalto, ó Rei de Salém,",
+                "Pois sempre Teus filhos",
+                "nos braços susténs.",
+                "Eu quero louvar-Te, cantar Teu amor.",
+                "Eu Te amo, meu Mestre, meu bom Salvador."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "hymn": {
+        "number": "131",
+        "title": "Manso E Suave",
+        "originalTitle": "Softly and Tenderly",
+        "subCategory": 10,
+        "lyricsComposer": [
+            511
+        ],
+        "musicComposer": [
+            511
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 11:28-30",
+        "youtubeURL": "https://www.youtube.com/watch?v=U1MtpuMnAK8",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 55:1",
+            "Apocalipse 22:17",
+            "João 7:37"
+        ],
+        "texto_base": "Mateus 11:28-30",
+        "temas_relacionados": [
+            "Graça e Salvação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Manso e suave Jesus ’stá chamando;",
+                "Chama por ti e por mim.",
+                "Eis que Ele à porta está esperando;",
+                "’Spera por ti e por mim."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vem já! Vem já!",
+                "Se estás cansado, vem já!",
+                "Manso e suave Jesus ’stá chamando;",
+                "Chama: “Ó vem, pecador!”"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Correm os dias, as horas se passam,",
+                "Passam por ti e por mim.",
+                "Tempos de angústia por fim nos esperam,",
+                "’Speram por ti e por mim."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vem já! Vem já!",
+                "Se estás cansado, vem já!",
+                "Manso e suave Jesus ’stá chamando;",
+                "Chama: “Ó vem, pecador!”"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, grande amor que Jesus nos tem dado!",
+                "Tem dado a ti, dado a mim.",
+                "Veio salvar-nos do tão vil pecado;",
+                "Veio por ti e por mim."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vem já! Vem já!",
+                "Se estás cansado, vem já!",
+                "Manso e suave Jesus ’stá chamando;",
+                "Chama: “Ó vem, pecador!”"
+            ]
+        }
+    ]
+}

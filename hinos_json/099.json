@@ -1,0 +1,116 @@
+{
+    "hymn": {
+        "number": "99",
+        "title": "Conta-me A Velha História",
+        "originalTitle": "Tell Me the Old, Old Story",
+        "subCategory": 9,
+        "lyricsComposer": [
+            25
+        ],
+        "musicComposer": [
+            522
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 3:16",
+        "youtubeURL": "https://www.youtube.com/watch?v=nkGGdNovUXg",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 João 4:9",
+            "Romanos 5:8",
+            "Efésios 2:8"
+        ],
+        "texto_base": "João 3:16",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Conta-me a velha história,",
+                "suave, com dulçor,",
+                "De meu Jesus e Sua glória,",
+                "de Cristo e Seu amor,",
+                "Com calma e com paciência,",
+                "pois quero alcançar",
+                "A altura do mistério:",
+                "que Deus nos pode amar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Conta-me a velha história,",
+                "Velha e sublime história!",
+                "Conta-me, pois, a história",
+                "Do meigo Salvador!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Fala-me com doçura",
+                "do meigo Redentor,",
+                "De Seu amor e Sua graça,",
+                "pois sou um pecador.",
+                "Sim, para o meu conforto,",
+                "em tempos de aflição,",
+                "Repete a velha história",
+                "de amor e salvação."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Conta-me a velha história,",
+                "Velha e sublime história!",
+                "Conta-me, pois, a história",
+                "Do meigo Salvador!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se o brilho deste mundo",
+                "cobrir do Céu a luz,",
+                "Repete então a mesma história",
+                "da graça de Jesus.",
+                "E quando, enfim, a glória",
+                "do mundo além raiar,",
+                "Oh, conta a mesma história:",
+                "que veio aqui salvar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Conta-me a velha história,",
+                "Velha e sublime história!",
+                "Conta-me, pois, a história",
+                "Do meigo Salvador!"
+            ]
+        }
+    ]
+}

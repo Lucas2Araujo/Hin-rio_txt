@@ -1,0 +1,105 @@
+{
+    "hymn": {
+        "number": "318",
+        "title": "Cantarei De Meu Jesus",
+        "originalTitle": "I Will Sing of Jesus’ Love",
+        "subCategory": 22,
+        "lyricsComposer": [
+            147
+        ],
+        "musicComposer": [
+            147
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Efésios 2:4-7",
+        "youtubeURL": "https://www.youtube.com/watch?v=hrtXSRc5Ces",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 89:1",
+            "Salmos 59:16",
+            "Efésios 5:19"
+        ],
+        "texto_base": "Efésios 2:4-7",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cantarei de meu Jesus,",
+                "Seu amor leal, sem fim,",
+                "Pois desceu dos altos Céus",
+                "E na cruz morreu por mim."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cantarei do meu Salvador,",
+                "Sem cessar Lhe darei louvor,",
+                "Pois morreu pra me salvar.",
+                "Cantarei do Seu amor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Antes de eu poder chorar,",
+                "Cristo já por mim pranteou.",
+                "Antes de eu poder orar,",
+                "Na angústia Ele orou."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cantarei do meu Salvador,",
+                "Sem cessar Lhe darei louvor,",
+                "Pois morreu pra me salvar.",
+                "Cantarei do Seu amor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nada fiz por meu Senhor,",
+                "Como, pois, me pôde amar?",
+                "Quero, assim, em gratidão",
+                "Minha vida Lhe entregar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cantarei do meu Salvador,",
+                "Sem cessar Lhe darei louvor,",
+                "Pois morreu pra me salvar.",
+                "Cantarei do Seu amor."
+            ]
+        }
+    ]
+}

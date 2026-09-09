@@ -1,0 +1,36 @@
+# Arquivos de ambiente e credenciais sensíveis
+.env
+.env.local
+.env.*.local
+
+# Ambientes virtuais Python
+.venv/
+venv/
+env/
+ENV/
+
+# Caches e arquivos temporários Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.pytest_cache/
+.ruff_cache/
+*.log
+
+# Bloqueios e arquivos temporários do SQLite
+*.db-shm
+*.db-wal
+*.db-journal
+*.sqlite-shm
+*.sqlite-wal
+*.sqlite-journal
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db

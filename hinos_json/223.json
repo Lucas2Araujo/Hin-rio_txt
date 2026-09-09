@@ -1,0 +1,71 @@
+{
+    "hymn": {
+        "number": "223",
+        "title": "Há Um Dever",
+        "originalTitle": "God of Our Fathers",
+        "subCategory": 13,
+        "lyricsComposer": [
+            83
+        ],
+        "musicComposer": [
+            175
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Marcos 16:15",
+        "youtubeURL": "https://www.youtube.com/watch?v=cWZK-r9LP2I",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Marcos 16:15",
+            "Atos 1:8",
+            "Romanos 10:14-15"
+        ],
+        "texto_base": "Marcos 16:15",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Missão e Serviço"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Há um dever que Deus nos confiou:",
+                "Ir e anunciar Jesus ao pecador,",
+                "Ir proclamar que já o resgatou,",
+                "Sim, expandir a fé no Salvador."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não demoreis; o fim se aproximou.",
+                "Já brilha o céu no alvor da redenção.",
+                "Ao infeliz que o mal escravizou",
+                "Ó ide já livrar da perdição!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus vos chamou a fim de trabalhar.",
+                "Sim, é Jesus o nosso Capitão.",
+                "Graça e perdão deveis anunciar.",
+                "Quem for fiel terá o galardão."
+            ]
+        }
+    ]
+}

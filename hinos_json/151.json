@@ -1,0 +1,112 @@
+{
+    "hymn": {
+        "number": "151",
+        "title": "Amor Glorioso",
+        "originalTitle": "In Tenderness He Sought Me",
+        "subCategory": 10,
+        "lyricsComposer": [
+            501
+        ],
+        "musicComposer": [
+            9
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Jeremias 31:3",
+        "youtubeURL": "https://www.youtube.com/watch?v=J-LrXdce3BQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Ezequiel 31:3",
+            "Oséias 11:4",
+            "Sofonias 3:17"
+        ],
+        "texto_base": "Jeremias 31:3",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Buscou-me com ternura",
+                "Jesus, o bom Pastor.",
+                "Achou-me na miséria,",
+                "salvou-me com amor.",
+                "No Céu, os anjos, em canção,",
+                "Mostraram sua aprovação."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, que amor glorioso!",
+                "Preço tão grandioso",
+                "Que Jesus por mim na cruz pagou!",
+                "Graça sem igual me resgatou!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ferido, abandonado,",
+                "Jesus me socorreu.",
+                "E segredou-me: “Achei-te;",
+                "de agora em diante és Meu.”",
+                "Tão meiga voz jamais ouvi!",
+                "Prazer maior jamais senti!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, que amor glorioso!",
+                "Preço tão grandioso",
+                "Que Jesus por mim na cruz pagou!",
+                "Graça sem igual me resgatou!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Enquanto as horas passam,",
+                "eu vivo em doce paz",
+                "E aguardo o meu bom Mestre,",
+                "que tão feliz me faz!",
+                "A mim Jesus virá buscar,",
+                "E então com Ele irei morar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, que amor glorioso!",
+                "Preço tão grandioso",
+                "Que Jesus por mim na cruz pagou!",
+                "Graça sem igual me resgatou!"
+            ]
+        }
+    ]
+}

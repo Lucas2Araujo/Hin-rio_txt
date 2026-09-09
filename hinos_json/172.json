@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "172",
+        "title": "Ando Sempre Alegre",
+        "originalTitle": "Sunlight in My Soul",
+        "subCategory": 10,
+        "lyricsComposer": [
+            301
+        ],
+        "musicComposer": [
+            536
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 16:8, 9",
+        "youtubeURL": "https://www.youtube.com/watch?v=qY07MGsAkZ0",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 16:9",
+            "Habacuque 3:18",
+            "Filipenses 4:4"
+        ],
+        "texto_base": "Salmo 16:8, 9",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Perdido eu na escuridão",
+                "Foi que Jesus me achou,",
+                "E com a luz do Seu amor",
+                "As trevas dissipou."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu alegre vou na Sua luz,",
+                "Pois agora Cristo me conduz.",
+                "Desde que me achou, da morte me livrou.",
+                "Ando sempre alegre; Cristo me salvou!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Andando estou na luz de Deus,",
+                "Que doce comunhão!",
+                "Prossigo sempre com vigor,",
+                "Deixando o mundo vão."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu alegre vou na Sua luz,",
+                "Pois agora Cristo me conduz.",
+                "Desde que me achou, da morte me livrou.",
+                "Ando sempre alegre; Cristo me salvou!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu, face a face, então verei",
+                "Jesus, o Salvador,",
+                "O qual a Sua vida deu",
+                "Por mim, vil pecador."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu alegre vou na Sua luz,",
+                "Pois agora Cristo me conduz.",
+                "Desde que me achou, da morte me livrou.",
+                "Ando sempre alegre; Cristo me salvou!"
+            ]
+        }
+    ]
+}

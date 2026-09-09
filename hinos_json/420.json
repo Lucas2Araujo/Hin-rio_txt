@@ -1,0 +1,75 @@
+{
+    "hymn": {
+        "number": "420",
+        "title": "Hora Feliz Do Pôr Do Sol",
+        "originalTitle": "How Sweet the Light",
+        "subCategory": 23,
+        "lyricsComposer": [
+            240
+        ],
+        "musicComposer": [
+            486
+        ],
+        "versionComposer": [
+            11
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 4:8",
+        "youtubeURL": "https://www.youtube.com/watch?v=Ty7iOct_PI8",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 4:8",
+            "Levítico 23:32",
+            "Marcos 1:32"
+        ],
+        "texto_base": "Salmo 4:8",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Hora feliz do pôr do sol,",
+                "Hora de paz e comunhão,",
+                "Hora de luz celestial,",
+                "Hora de fé e de oração."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Bênçãos de paz, de amor e luz",
+                "Para os fiéis vem dar, Senhor.",
+                "Vimos a Ti com gratidão",
+                "Para cantar em Teu louvor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, como é bom aqui sentir",
+                "Teu divinal e eterno amor!",
+                "Dá-nos, ó Deus, o Teu perdão,",
+                "Graça e poder, ó bom Senhor!"
+            ]
+        }
+    ]
+}

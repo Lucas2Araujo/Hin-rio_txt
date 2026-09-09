@@ -1,0 +1,84 @@
+{
+    "hymn": {
+        "number": "291",
+        "title": "Sábado Do Meu Senhor",
+        "originalTitle": "Bei der Arbeit",
+        "subCategory": 20,
+        "lyricsComposer": [
+            88
+        ],
+        "musicComposer": [
+            526
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 58:13, 14",
+        "youtubeURL": "https://www.youtube.com/watch?v=rHs4oa1_D9Q",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Êxodo 20:8",
+            "Isaías 58:13-14",
+            "Ezequiel 20:12"
+        ],
+        "texto_base": "Isaías 58:13, 14",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Gosto de cantar um hino",
+                "Ao sentir cercar-me o mal,",
+                "Ao vagar qual peregrino",
+                "Para o lar celestial.",
+                "Mas real prazer no canto",
+                "Sinto ao dar o meu louvor,",
+                "Ao cantar no dia santo,",
+                "Sábado do meu Senhor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que prazer ouvir as vozes,",
+                "Coros mil angelicais!",
+                "Dores vis, as mais atrozes,",
+                "Logo não as sinto mais.",
+                "Mas real prazer no canto",
+                "Sinto ao dar o meu louvor,",
+                "Ao cantar no dia santo,",
+                "Sábado do meu Senhor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ouço a voz da natureza",
+                "A louvar o Criador.",
+                "E entendo com clareza",
+                "Quanto é débil meu louvor.",
+                "Mas real prazer no canto",
+                "Hei de ter no lar de amor,",
+                "Ao louvar o Mestre santo,",
+                "Grande Deus e Redentor."
+            ]
+        }
+    ]
+}

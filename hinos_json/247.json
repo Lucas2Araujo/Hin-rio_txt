@@ -1,0 +1,130 @@
+{
+    "hymn": {
+        "number": "247",
+        "title": "Unidos Em Cristo",
+        "originalTitle": "",
+        "subCategory": 14,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Coríntios 12:12",
+        "youtubeURL": "https://www.youtube.com/watch?v=LCRzBt65wQA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Coríntios 12:12",
+            "Romanos 12:5",
+            "Efésios 4:16"
+        ],
+        "texto_base": "1 Coríntios 12:12",
+        "temas_relacionados": [
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Lar e Família",
+            "Missão e Serviço",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Uma andorinha não faz verão.",
+                "Uma só pessoa não é multidão.",
+                "Uma estrela só pode até tentar,",
+                "Mas não clareia o céu.",
+                "Uma gota só não é chuva não.",
+                "Um soldado só não é batalhão.",
+                "Uma flor sozinha tem seu valor,",
+                "Mas não é jardim."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Pois a força está na união,",
+                "Na soma do melhor de cada um.",
+                "O segredo está na união,",
+                "Nos tornamos fortes quando damos as mãos.",
+                "No serviço do Senhor,",
+                "Na esperança, no fervor,",
+                "Maravilhas surgirão entre nós,",
+                "Unidos pelo amor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Uma voz sozinha não é coral.",
+                "O amor sozinho não é total.",
+                "Uma nota só pode até soar,",
+                "Mas não é canção.",
+                "Um atleta só não é time não.",
+                "Uma corda só não é violão.",
+                "Nem dá pra fazer o arco-íris",
+                "Só pintando o azul."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Pois a força está na união,",
+                "Na soma do melhor de cada um.",
+                "O segredo está na união,",
+                "Nos tornamos fortes quando damos as mãos.",
+                "No serviço do Senhor,",
+                "Na esperança, no fervor,",
+                "Maravilhas surgirão entre nós,",
+                "Unidos pelo amor."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Chega de viver tão só,",
+                "Chega de viver pra si.",
+                "É hora de fazer amigos,",
+                "De falar de Cristo e de Seu amor."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Pois a força está na união,",
+                "Na soma do melhor de cada um.",
+                "O segredo está na união,",
+                "Nos tornamos fortes quando damos as mãos.",
+                "No serviço do Senhor,",
+                "Na esperança, no fervor,",
+                "Maravilhas surgirão entre nós,",
+                "O Espírito irá nos guiar.",
+                "Viveremos a vitória final",
+                "Quando Cristo voltar."
+            ]
+        }
+    ]
+}

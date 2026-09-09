@@ -1,0 +1,98 @@
+{
+    "hymn": {
+        "number": "120",
+        "title": "Graça",
+        "originalTitle": "",
+        "subCategory": 10,
+        "lyricsComposer": [
+            81
+        ],
+        "musicComposer": [
+            81
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "2 Coríntios 12:9",
+        "youtubeURL": "https://www.youtube.com/watch?v=pb6P7_xmUQs",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Efésios 1:7",
+            "Romanos 5:15",
+            "João 1:16"
+        ],
+        "texto_base": "2 Coríntios 12:9",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A graça é um ponto de encontro,",
+                "Lugar onde os fardos",
+                "se espalham no chão,",
+                "Onde todo que chega cansado",
+                "Tranquilo descansa o seu coração.",
+                "A graça se explica em uma cruz.",
+                "Lá eu posso entender",
+                "o que o Céu me traduz.",
+                "A morte era a minha sentença,",
+                "Mas agora sou livre em Jesus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Graça: simples assim!",
+                "Perdão se recebe, se aceita e fim.",
+                "Pecado não se explica,",
+                "Pecado se paga.",
+                "E Cristo pagou por mim."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Havia imensa separação",
+                "Entre a raça caída",
+                "e o Deus do perdão,",
+                "Mas a graça fechou o abismo",
+                "E sem hesitar estendeu-nos a mão.",
+                "Mostrou-nos a estrada de volta",
+                "À casa do Pai",
+                "onde iremos morar;",
+                "Nos dá a esperança que move",
+                "A certeza que Cristo em breve virá."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Graça: simples assim!",
+                "Perdão se recebe, se aceita e fim.",
+                "Pecado não se explica,",
+                "Pecado se paga.",
+                "E Cristo pagou por mim."
+            ]
+        }
+    ]
+}

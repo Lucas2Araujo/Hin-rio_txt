@@ -1,0 +1,116 @@
+{
+    "hymn": {
+        "number": "362",
+        "title": "O Melhor Lugar Do Mundo",
+        "originalTitle": "",
+        "subCategory": 22,
+        "lyricsComposer": [
+            492
+        ],
+        "musicComposer": [
+            326
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Lucas 7:37, 38",
+        "youtubeURL": "https://www.youtube.com/watch?v=7M1qS8d9a8E",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Lucas 10:38-39",
+            "Salmos 84:10",
+            "Salmos 27:4"
+        ],
+        "texto_base": "Lucas 7:37, 38",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "No mundo, ainda existem belezas",
+                "Que alegram a vida e nos fazem sonhar.",
+                "Recantos felizes da natureza",
+                "Onde qualquer ser humano",
+                "gostaria de estar.",
+                "Mas, de todos os lugares,",
+                "O mais bonito e inspirador",
+                "É onde fico em oração",
+                "Junto aos pés do Salvador."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "O melhor lugar do mundo",
+                "É aos pés do Salvador.",
+                "É ali onde a esperança",
+                "Traz alívio ao sofredor.",
+                "É ali onde eu me encontro",
+                "Com a Fonte do amor.",
+                "O melhor lugar do mundo",
+                "É aos pés do Salvador."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sonhamos com casas que tenham conforto,",
+                "Talvez numa encosta com vista pro mar.",
+                "Mas as maravilhas não fazem sentido",
+                "Se Cristo não está no primeiro lugar.",
+                "Ao sentir a paz de Deus,",
+                "Seu poder e amor profundo,",
+                "Eu posso estar onde for;",
+                "Estou feliz por me encontrar",
+                "No melhor lugar do mundo."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "O melhor lugar do mundo",
+                "É aos pés do Salvador.",
+                "É ali onde a esperança",
+                "Traz alívio ao sofredor.",
+                "É ali onde eu me encontro",
+                "Com a Fonte do amor.",
+                "O melhor lugar do mundo",
+                "É aos pés do Salvador."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O melhor lugar do mundo",
+                "É aos pés do Salvador.",
+                "É ali onde a esperança",
+                "Traz alívio ao sofredor.",
+                "É ali onde eu me encontro",
+                "Com a Fonte do amor.",
+                "O melhor lugar do mundo",
+                "É aos pés do Salvador."
+            ]
+        }
+    ]
+}

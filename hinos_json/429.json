@@ -1,0 +1,106 @@
+{
+    "hymn": {
+        "number": "429",
+        "title": "Quando O Livro Aberto For",
+        "originalTitle": "When the Book Is Opened",
+        "subCategory": 24,
+        "lyricsComposer": [
+            329
+        ],
+        "musicComposer": [
+            313
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 5:9, 10",
+        "youtubeURL": "https://www.youtube.com/watch?v=xXaDj2PGEDs",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 20:12",
+            "Daniel 7:10",
+            "Apocalipse 3:5"
+        ],
+        "texto_base": "Apocalipse 5:9, 10",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Sacrifício e Redenção",
+            "Santuário e Juízo"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quando no juízo o livro aberto for,",
+                "Cristo vai nos proteger.",
+                "Se Jesus é nosso grande Defensor,",
+                "Não há nada que temer."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Com fervor eu hei de então cantar",
+                "Um hino de louvor,",
+                "Pois tenho, sim, o nome escrito já",
+                "No livro do meu Salvador."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quando o meu registro apresentado for,",
+                "Jesus Cristo irá dizer:",
+                "“Pai, o sangue Meu por ele derramei;",
+                "Deixa o pecador viver.”"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Com fervor eu hei de então cantar",
+                "Um hino de louvor,",
+                "Pois tenho, sim, o nome escrito já",
+                "No livro do meu Salvador."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quando ressoar o toque do clarim",
+                "E do Céu vier Jesus,",
+                "Subirei então com os remidos Seus",
+                "Pra morar em Sua luz."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Com fervor eu hei de então cantar",
+                "Um hino de louvor,",
+                "Pois tenho, sim, o nome escrito já",
+                "No livro do meu Salvador."
+            ]
+        }
+    ]
+}

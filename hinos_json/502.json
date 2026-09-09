@@ -1,0 +1,86 @@
+{
+    "hymn": {
+        "number": "502",
+        "title": "Saudade",
+        "originalTitle": "The Home-land Shore",
+        "subCategory": 28,
+        "lyricsComposer": [
+            132
+        ],
+        "musicComposer": [
+            467
+        ],
+        "versionComposer": [
+            306
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 65:17, 18",
+        "youtubeURL": "https://www.youtube.com/watch?v=RduBykShWsE",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Hebreus 11:14-16",
+            "Filipenses 3:20",
+            "Salmos 84:2"
+        ],
+        "texto_base": "Isaías 65:17, 18",
+        "temas_relacionados": [
+            "Crianças e Jovens",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Da linda pátria estou bem longe,",
+                "triste eu estou;",
+                "Eu tenho de Jesus saudade;",
+                "quando será que vou?",
+                "Passarinhos, belas flores,",
+                "fazem-me almejar",
+                "As maravilhas e esplendores",
+                "do meu celeste lar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo me deu fiel promessa:",
+                "vem me buscar;",
+                "Meu coração está com pressa,",
+                "eu quero já voar.",
+                "Meus pecados eram muitos,",
+                "e culpado sou,",
+                "Mas o Seu sangue põe-me limpo,",
+                "e para a pátria vou."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Qual filho, do seu lar, saudoso,",
+                "eu quero ir;",
+                "Qual passarinho para o ninho,",
+                "eu quero ao Céu subir.",
+                "É fiel, a vinda é certa;",
+                "quando, eu não sei,",
+                "Mas Ele me achará alerta;",
+                "com Ele ao Céu irei."
+            ]
+        }
+    ]
+}

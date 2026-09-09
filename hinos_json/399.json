@@ -1,0 +1,143 @@
+{
+    "hymn": {
+        "number": "399",
+        "title": "O Céu É Jesus",
+        "originalTitle": "",
+        "subCategory": 22,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Efésios 1:3",
+        "youtubeURL": "https://www.youtube.com/watch?v=9tzUlynVPgA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Filipenses 1:23",
+            "1 Tessalonicenses 4:17",
+            "João 14:3"
+        ],
+        "texto_base": "Efésios 1:3",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu já ouvi falar",
+                "de uma terra sem igual,",
+                "E onde tudo é paz",
+                "e não há lugar pro mal.",
+                "Almejo este lar, tão puro e sem igual.",
+                "Mas eu não sei",
+                "o dia em que virá pra mim."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Enquanto estou aqui, começo a pensar",
+                "Que deste bom lugar já posso desfrutar.",
+                "E quando vejo mãos se unindo,",
+                "Multidões cantando um hino,",
+                "Vejo anjos celebrando;",
+                "É o Céu que está chegando."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu posso aqui provar",
+                "as delícias deste lar",
+                "Se eu procurar viver",
+                "como meu Jesus viveu.",
+                "Em meio à luta e dor,",
+                "eu posso estar em paz,",
+                "Pois meu viver",
+                "já coloquei nas mãos do Pai."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Enquanto estou aqui, começo a pensar",
+                "Que deste bom lugar já posso desfrutar.",
+                "E quando vejo mãos se unindo,",
+                "Multidões cantando um hino,",
+                "Vejo anjos celebrando;",
+                "É o Céu que está chegando."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "O Céu é aqui,",
+                "se eu tomo tempo pra louvar.",
+                "O Céu é aqui,",
+                "se eu me ajoelho para orar.",
+                "O Céu é aqui,",
+                "se eu aprendi a perdoar.",
+                "O Céu é Jesus,",
+                "e, onde Ele estiver, o Céu será ali."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pois não existe Céu sem Jesus,",
+                "E não existe paz sem Jesus.",
+                "Sem Ele a riqueza",
+                "do Universo é sem valor.",
+                "Pra que mar de cristal sem Jesus?",
+                "E flores que não murcham sem Jesus?",
+                "Pra que viver pra sempre",
+                "sem ter a companhia de Jesus?",
+                "Eu volto a afirmar:",
+                "o Céu é aqui se aqui Jesus está."
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "O Céu é aqui,",
+                "se eu tomo tempo pra louvar.",
+                "O Céu é aqui,",
+                "se eu me ajoelho para orar.",
+                "O Céu é aqui,",
+                "se eu aprendi a perdoar.",
+                "O Céu é Jesus,",
+                "e, onde Ele estiver, o Céu será ali.",
+                "O Céu é Jesus,",
+                "e, onde Ele estiver, o Céu será ali."
+            ]
+        }
+    ]
+}

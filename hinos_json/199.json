@@ -1,0 +1,66 @@
+{
+    "hymn": {
+        "number": "199",
+        "title": "Ao Passares Pelas Águas",
+        "originalTitle": "Through the Waters",
+        "subCategory": 11,
+        "lyricsComposer": [
+            92
+        ],
+        "musicComposer": [
+            92
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 43:1, 2",
+        "youtubeURL": "https://www.youtube.com/watch?v=V6AW8M1Jg-0",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 43:2",
+            "Salmos 66:12",
+            "Daniel 3:25"
+        ],
+        "texto_base": "Isaías 43:1, 2",
+        "temas_relacionados": [
+            "Vida Cristã e Devoção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ao passares pelas águas, serei contigo;",
+                "Ao passares pelas águas, serei contigo.",
+                "Rios caudalosos",
+                "a ti não  podem submergir;",
+                "Ao passares pelo fogo",
+                "não, oh, não te queimarás!",
+                "Ao passares pelas águas, serei contigo;",
+                "Ao passares pelas águas, serei contigo."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ao passares pelas águas, serei contigo;",
+                "Ao passares pelas águas, serei contigo.",
+                "As duras provas",
+                "a ti não podem derrotar;",
+                "Se por Minha causa sofres,",
+                "Tu Me glorificarás.",
+                "Ao passares pelas águas, serei contigo;",
+                "Ao passares pelas águas, serei contigo."
+            ]
+        }
+    ]
+}

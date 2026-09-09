@@ -1,0 +1,96 @@
+{
+    "hymn": {
+        "number": "10",
+        "title": "O Senhor Está Aqui",
+        "originalTitle": "",
+        "subCategory": 1,
+        "lyricsComposer": [
+            463
+        ],
+        "musicComposer": [
+            463
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Habacuque 2:20",
+        "youtubeURL": "https://www.youtube.com/watch?v=XafjwXQ7OF8",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 18:20",
+            "Sofonias 1:7",
+            "Zacarias 2:7"
+        ],
+        "texto_base": "Habacuque 2:20",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Oração e Comunhão",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "O Senhor está aqui!",
+                "O Senhor está aqui!",
+                "Vinde adorá-Lo!",
+                "Vinde exaltá-Lo!",
+                "O Senhor está aqui!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vamos entoar louvores ao Seu nome!",
+                "Vamos exaltar as Suas maravilhas!",
+                "Toda a Terra e Céu deem seu louvor!",
+                "Vamos adorar o grande Criador!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "O Senhor está aqui!",
+                "O Senhor está aqui!",
+                "Vinde adorá-Lo!",
+                "Vinde exaltá-Lo!",
+                "O Senhor está aqui!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nuvens e trovões, proclamem Sua glória!",
+                "Mundos e nações, inclinem-se a Ele!",
+                "Dele é o poder, Dele é o louvor!",
+                "Vamos adorar o grande Criador!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "O Senhor está aqui!",
+                "O Senhor está aqui!",
+                "Vinde adorá-Lo!",
+                "Vinde exaltá-Lo!",
+                "O Senhor está aqui!"
+            ]
+        }
+    ]
+}

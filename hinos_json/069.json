@@ -1,0 +1,110 @@
+{
+    "hymn": {
+        "number": "69",
+        "title": "Obrigado, Bom Pai",
+        "originalTitle": "",
+        "subCategory": 7,
+        "lyricsComposer": [
+            414,
+            426
+        ],
+        "musicComposer": [
+            426
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 8:3-8",
+        "youtubeURL": "https://www.youtube.com/watch?v=4XkYx2_xuPA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Hebreus 2:6-8",
+            "Salmos 144:3",
+            "Jó 7:17"
+        ],
+        "texto_base": "Salmo 8:3-8",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que é o homem pra que mereça favor?",
+                "Que é o homem",
+                "pra que dele Se lembre o Senhor?",
+                "Somos nada, somos pó,",
+                "Mas o Pai nos sustém com imenso amor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vê as nossas lutas, compreende a dor.",
+                "Sabe o que precisamos como ninguém.",
+                "Lê nosso coração",
+                "e transforma o medo em canção de louvor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Obrigado, bom Pai, pela vida,",
+                "pelo pão de cada dia,",
+                "Por Tua proteção,",
+                "Por manteres o Universo",
+                "com Tua poderosa mão,",
+                "Por Tua Palavra,",
+                "luz para os nossos caminhos,",
+                "Por ouvires a oração",
+                "e, em resposta, nos dares",
+                "carinho e perdão.",
+                "Te agradeço."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Obrigado, bom Pai, por Tua graça,",
+                "Pelos dons que Tu nos dás,",
+                "Pela chance de usarmos a voz",
+                "Pra falar do amor com que cuidas de nós,",
+                "E por fim porque em breve",
+                "virás nos buscar.",
+                "Te agradeço, bom Pai, Te agradeço",
+                "Canto muito obrigado, Senhor!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que é o homem pra que mereça favor?",
+                "Que é o homem",
+                "pra que dele Se lembre o Senhor?",
+                "Somos nada, somos pó,",
+                "Mas o Pai nos sustém com imenso amor."
+            ]
+        }
+    ]
+}

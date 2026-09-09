@@ -1,0 +1,75 @@
+{
+    "hymn": {
+        "number": "381",
+        "title": "Teu Divinal Amor",
+        "originalTitle": "Saviour! Thy Dying Love",
+        "subCategory": 22,
+        "lyricsComposer": [
+            474
+        ],
+        "musicComposer": [
+            431
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 3:17",
+        "youtubeURL": "https://www.youtube.com/watch?v=yEIIRYcw480",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Romanos 5:5",
+            "1 João 4:16",
+            "Efésios 3:19"
+        ],
+        "texto_base": "João 3:17",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Teu divinal amor quis me buscar.",
+                "Em gratidão, meu ser vou Te ofertar.",
+                "Pai, ouve lá do Céu,",
+                "pois quero andar na luz;",
+                "Meu fervoroso amor é de Jesus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, dá-me mais amor, mais devoção;",
+                "Tão mau e fraco é meu coração!",
+                "Pai, quero Te louvar",
+                "por Cristo lá na cruz",
+                "E sempre irei viver só por Jesus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pai, o que tenho e sou eu Te darei,",
+                "Pois deste mundo mau não mais serei.",
+                "E, quando ao Céu subir",
+                "e a meu Senhor eu vir,",
+                "Lá viverei em luz junto a Jesus."
+            ]
+        }
+    ]
+}

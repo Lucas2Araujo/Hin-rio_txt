@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "267",
+        "title": "As Searas Maduras",
+        "originalTitle": "Oh, Who Will Go Forth?",
+        "subCategory": 17,
+        "lyricsComposer": [
+            88
+        ],
+        "musicComposer": [
+            88
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 4:35, 36",
+        "youtubeURL": "https://www.youtube.com/watch?v=qShdC3CEHN0",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 4:35",
+            "Mateus 9:37-38",
+            "Lucas 10:2"
+        ],
+        "texto_base": "João 4:35, 36",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Missão e Serviço"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Contemplai as searas maduras;",
+                "Vede os grãos tremulando no ar.",
+                "Eis a voz do Senhor, com ternura,",
+                "Os fiéis para a ceifa a chamar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, quem, pois, dirá para o Mestre:",
+                "“Eis-me aqui, eu vou, Senhor!”?",
+                "Oh, quem a ceifar se consagra",
+                "Com prazer, força e fé, com amor?"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Do semear já o tempo é passado,",
+                "E chegou a estação outonal.",
+                "Eis de Deus o insistente chamado:",
+                "“Partilhai da colheita final!”"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, quem, pois, dirá para o Mestre:",
+                "“Eis-me aqui, eu vou, Senhor!”?",
+                "Oh, quem a ceifar se consagra",
+                "Com prazer, força e fé, com amor?"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que prazer, afinal, o ceifeiro",
+                "Fruirá junto ao bom Semeador!",
+                "Receber vai o prêmio do obreiro,",
+                "Lá no Céu, no eternal lar de amor."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, quem, pois, dirá para o Mestre:",
+                "“Eis-me aqui, eu vou, Senhor!”?",
+                "Oh, quem a ceifar se consagra",
+                "Com prazer, força e fé, com amor?"
+            ]
+        }
+    ]
+}

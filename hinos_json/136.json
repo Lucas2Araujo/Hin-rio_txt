@@ -1,0 +1,103 @@
+{
+    "hymn": {
+        "number": "136",
+        "title": "Quero Estar Ao Pé Da Cruz",
+        "originalTitle": "Near the Cross",
+        "subCategory": 10,
+        "lyricsComposer": [
+            132
+        ],
+        "musicComposer": [
+            522
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Gálatas 6:14",
+        "youtubeURL": "https://www.youtube.com/watch?v=20XieWKvvvA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Gálatas 2:20",
+            "1 Coríntios 2:2",
+            "Filipenses 3:18"
+        ],
+        "texto_base": "Gálatas 6:14",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quero estar ao pé da cruz,",
+                "De onde rica fonte",
+                "Corre franca e salutar",
+                "Sobre o rude monte."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, na cruz, sim, na cruz",
+                "Sempre me glorio.",
+                "Té que ao fim vá descansar,",
+                "Salvo, além do rio."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Desta cruz, Jesus, meu Deus,",
+                "Vem, sim, recordar-me.",
+                "Dela, à sombra, ó Salvador,",
+                "Queiras abrigar-me."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, na cruz, sim, na cruz",
+                "Sempre me glorio.",
+                "Té que ao fim vá descansar,",
+                "Salvo, além do rio."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Junto à cruz, ardendo em fé,",
+                "Sem temor vigio,",
+                "Pois ao lar paterno irei,",
+                "Salvo, além do rio."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, na cruz, sim, na cruz",
+                "Sempre me glorio.",
+                "Té que ao fim vá descansar,",
+                "Salvo, além do rio."
+            ]
+        }
+    ]
+}

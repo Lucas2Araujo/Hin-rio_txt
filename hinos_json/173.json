@@ -1,0 +1,103 @@
+{
+    "hymn": {
+        "number": "173",
+        "title": "Que Prazer É Ser De Cristo",
+        "originalTitle": "’Tis So Sweet to Trust in Jesus",
+        "subCategory": 11,
+        "lyricsComposer": [
+            331
+        ],
+        "musicComposer": [
+            526
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 6:47",
+        "youtubeURL": "https://www.youtube.com/watch?v=1AaW6xXABWM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 6:47",
+            "Romanos 15:13",
+            "1 Pedro 1:8"
+        ],
+        "texto_base": "João 6:47",
+        "temas_relacionados": [
+            "Palavra de Deus e Lei",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que prazer é ser de Cristo,",
+                "Nele crer e confiar,",
+                "Aceitar os Seus ensinos,",
+                "Suas bênçãos desfrutar! "
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo! Cristo! Já confio",
+                "Em Teu nome, em Teu poder.",
+                "Cristo! Cristo, bem-amado,",
+                "Faze em mim a fé crescer."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, que bênção crer em Cristo,",
+                "Crer no sangue que verteu!",
+                "Pois os meus pecados todos",
+                "Sepultou e os esqueceu."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo! Cristo! Já confio",
+                "Em Teu nome, em Teu poder.",
+                "Cristo! Cristo, bem-amado,",
+                "Faze em mim a fé crescer."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Bem feliz eu sou em Cristo,",
+                "Dele aqui desejo ser.",
+                "Quero, pois, humildemente,",
+                "Ao Senhor obedecer."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo! Cristo! Já confio",
+                "Em Teu nome, em Teu poder.",
+                "Cristo! Cristo, bem-amado,",
+                "Faze em mim a fé crescer."
+            ]
+        }
+    ]
+}

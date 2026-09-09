@@ -1,0 +1,112 @@
+{
+    "hymn": {
+        "number": "505",
+        "title": "Muito Além Do Sol",
+        "originalTitle": "Aunque en Esta Vida",
+        "subCategory": 28,
+        "lyricsComposer": [
+            123
+        ],
+        "musicComposer": [
+            123
+        ],
+        "versionComposer": [
+            433
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Coríntios 2:9",
+        "youtubeURL": "https://www.youtube.com/watch?v=D_tT_5jcnU0",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Coríntios 2:9",
+            "João 14:2",
+            "Apocalipse 21:23"
+        ],
+        "texto_base": "1 Coríntios 2:9",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Mesmo que no mundo viva sem riqueza,",
+                "Sei que lá na glória eu terei mansão.",
+                "Em meu desespero, cheio de tristeza,",
+                "O bondoso Cristo me estendeu a mão."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Muito além do Sol, muito além do Sol,",
+                "Está o meu lar, um belo lugar,",
+                "muito além do Sol.",
+                "Muito além do Sol, muito além do Sol,",
+                "Está o meu lar, um belo lugar,",
+                "muito além do Sol."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sempre pelo mundo eu vou caminhando,",
+                "Enfrentando lutas, prova e tentação.",
+                "Mas Jesus, meu Mestre, que me fortalece,",
+                "Vai levar-me a salvo à real mansão."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Muito além do Sol, muito além do Sol,",
+                "Está o meu lar, um belo lugar,",
+                "muito além do Sol.",
+                "Muito além do Sol, muito além do Sol,",
+                "Está o meu lar, um belo lugar,",
+                "muito além do Sol."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se está cansado deste mundo escuro,",
+                "Cristo lhe concede luz e salvação;",
+                "E também morada, feita não por homens,",
+                "Na cidade santa, a real Sião."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Muito além do Sol, muito além do Sol,",
+                "Está o meu lar, um belo lugar,",
+                "muito além do Sol.",
+                "Muito além do Sol, muito além do Sol,",
+                "Está o meu lar, um belo lugar,",
+                "muito além do Sol."
+            ]
+        }
+    ]
+}

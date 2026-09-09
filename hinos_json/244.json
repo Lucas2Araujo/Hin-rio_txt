@@ -1,0 +1,108 @@
+{
+    "hymn": {
+        "number": "244",
+        "title": "Ó Vem À Igreja Comigo",
+        "originalTitle": "The Church in the Wildwood",
+        "subCategory": 14,
+        "lyricsComposer": [
+            532
+        ],
+        "musicComposer": [
+            532
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 122:1-4",
+        "youtubeURL": "https://www.youtube.com/watch?v=Q1aD3qdatVI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 122:1",
+            "Hebreus 10:25",
+            "Salmos 84:4"
+        ],
+        "texto_base": "Salmo 122:1-4",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que prazer, que alegria celeste",
+                "Estarmos perante o Senhor!",
+                "Todos juntos, unidos em Cristo,",
+                "Ao bom Deus elevarmos louvor!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó, vem, vem, vem, vem,",
+                "Vem à igreja comigo",
+                "Louvar e adorar ao Senhor!",
+                "Oh, quão bom é estarmos unidos",
+                "Pelos laços fraternos do amor!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Privilégio maior não existe",
+                "Que estarmos com nosso bom Deus,",
+                "Escutar Seus amáveis conselhos,",
+                "Receber ricas bênçãos dos Céus."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó, vem, vem, vem, vem,",
+                "Vem à igreja comigo",
+                "Louvar e adorar ao Senhor!",
+                "Oh, quão bom é estarmos unidos",
+                "Pelos laços fraternos do amor!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sempre aguardo ansioso a chegada",
+                "Do dia do Deus, Criador.",
+                "Nesse dia minh’alma contente",
+                "Rende graças e ações de louvor."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó, vem, vem, vem, vem,",
+                "Vem à igreja comigo",
+                "Louvar e adorar ao Senhor!",
+                "Oh, quão bom é estarmos unidos",
+                "Pelos laços fraternos do amor!"
+            ]
+        }
+    ]
+}

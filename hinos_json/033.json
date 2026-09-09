@@ -1,0 +1,101 @@
+{
+    "hymn": {
+        "number": "33",
+        "title": "A Esperança É Jesus",
+        "originalTitle": "",
+        "subCategory": 3,
+        "lyricsComposer": [
+            27
+        ],
+        "musicComposer": [
+            27
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Timóteo 1:1",
+        "youtubeURL": "https://www.youtube.com/watch?v=8hKR6ohrexE",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Colossenses 1:27",
+            "Tito 2:13",
+            "Hebreus 6:19"
+        ],
+        "texto_base": "1 Timóteo 1:1",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não há esperança alguma",
+                "Pra um mundo onde Deus não está.",
+                "Não há esperança de amor e de paz",
+                "Onde o ódio deixa marcas fatais."
+            ]
+        },
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não há esperança de vida",
+                "Naqueles que não amam a Deus.",
+                "Não há esperança de um mundo de paz",
+                "Se o homem deixa Deus para trás."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A esperança é Jesus,",
+                "Ele é o caminho.",
+                "A esperança é Jesus,",
+                "Nossa luz entre espinhos.",
+                "A esperança é Jesus,",
+                "Segurança de salvação,",
+                "Onde o mundo pode achar solução.",
+                "A esperança é Jesus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Só há esperança e certeza",
+                "Naquele que é vencedor.",
+                "Só há esperança no nome de Deus",
+                "Para um povo que não tem mais amor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A esperança é Jesus,",
+                "Ele é o caminho.",
+                "A esperança é Jesus,",
+                "Nossa luz entre espinhos.",
+                "A esperança é Jesus,",
+                "Segurança de salvação,",
+                "Onde o mundo pode achar solução.",
+                "A esperança é Jesus."
+            ]
+        }
+    ]
+}

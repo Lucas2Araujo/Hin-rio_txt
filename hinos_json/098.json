@@ -1,0 +1,118 @@
+{
+    "hymn": {
+        "number": "98",
+        "title": "Conta-me A História De Cristo",
+        "originalTitle": "Tell Me the Story of Jesus",
+        "subCategory": 9,
+        "lyricsComposer": [
+            132
+        ],
+        "musicComposer": [
+            282
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 53:4, 5",
+        "youtubeURL": "https://www.youtube.com/watch?v=pcShGyOHlig",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Lucas 24:27",
+            "Atos 8:35",
+            "1 Coríntios 1:18"
+        ],
+        "texto_base": "Isaías 53:4, 5",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Conta-me a história de Cristo,",
+                "Grava-a em meu coração.",
+                "Conta-me a história preciosa,",
+                "Conta-me com emoção!",
+                "Conta-me como Seus anjos",
+                "Deram-Lhe honra ao nascer.",
+                "“Glória ao Senhor, paz na Terra”,",
+                "Ao Céu fizeram ascender."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Conta-me a história de Cristo,",
+                "Grava-a em meu coração.",
+                "Conta-me a história preciosa,",
+                "Conta-me com emoção!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Conta-me a história de Cristo,",
+                "Quando na cruz expirou.",
+                "Conta-me como O choraram,",
+                "E como ressuscitou.",
+                "Nessa história tão terna,",
+                "Vejo o Seu grande amor.",
+                "Quero pra sempre servi-Lo;",
+                "É meu Senhor e Salvador."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Conta-me a história de Cristo,",
+                "Grava-a em meu coração.",
+                "Conta-me a história preciosa,",
+                "Conta-me com emoção!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Essa história bendita",
+                "Deves contar com amor,",
+                "Ao mundo todo falando",
+                "De Seu poder salvador.",
+                "Hoje no Céu intercede",
+                "Esse fiel Redentor;",
+                "Vida eterna concede",
+                "Aos que aceitam Seu favor."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Conta-me a história de Cristo,",
+                "Grava-a em meu coração.",
+                "Conta-me a história preciosa,",
+                "Conta-me com emoção!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "hymn": {
+        "number": "564",
+        "title": "Vamos Adorar",
+        "originalTitle": "",
+        "subCategory": 30,
+        "lyricsComposer": [
+            326
+        ],
+        "musicComposer": [
+            326
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 29:2",
+        "youtubeURL": "https://www.youtube.com/watch?v=WcbKoNxbg6E",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 95:6",
+            "Salmos 96:9",
+            "João 4:24"
+        ],
+        "texto_base": "Salmo 29:2",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vamos adorar ao Senhor;",
+                "Vamos demonstrar gratidão;",
+                "Vamos entoar hinos de louvor",
+                "Ao eterno Deus da criação.",
+                "Que possamos ter nosso ser",
+                "Pronto para ouvir Sua voz!",
+                "Que Jesus nos dê muito mais poder,",
+                "E outros vejam que Ele vive em nós!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ao Senhor vamos adorar;",
+                "Seu amor vamos exaltar;",
+                "Ao nosso grande Deus,",
+                "O Rei do Universo,",
+                "Vamos adorar."
+            ]
+        }
+    ]
+}

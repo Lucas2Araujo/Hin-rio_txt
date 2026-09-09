@@ -1,0 +1,86 @@
+{
+    "hymn": {
+        "number": "313",
+        "title": "Tudo Para Deus",
+        "originalTitle": "",
+        "subCategory": 21,
+        "lyricsComposer": [
+            492
+        ],
+        "musicComposer": [
+            136
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Crônicas 29:14",
+        "youtubeURL": "https://www.youtube.com/watch?v=pI6-8Jet0YU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Coríntios 10:31",
+            "Colossenses 3:17",
+            "2 Coríntios 9:7"
+        ],
+        "texto_base": "1 Crônicas 29:14",
+        "temas_relacionados": [
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo me deu a voz,",
+                "Louvo o Seu nome então.",
+                "Cristo me deu a paz,",
+                "Eu dou meu coração."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Tudo darei a Deus",
+                "E gratidão sem fim.",
+                "Cristo morreu na cruz por mim.",
+                "Tudo darei a Deus",
+                "E gratidão sem fim.",
+                "Cristo morreu na cruz por mim."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vou dedicar a Deus",
+                "Tudo o que recebi.",
+                "No grande plano Seu,",
+                "Há um lugar pra ti. "
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Tudo darei a Deus",
+                "E gratidão sem fim.",
+                "Cristo morreu na cruz por mim.",
+                "Tudo darei a Deus",
+                "E gratidão sem fim.",
+                "Cristo morreu na cruz por mim."
+            ]
+        }
+    ]
+}

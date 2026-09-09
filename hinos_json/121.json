@@ -1,0 +1,78 @@
+{
+    "hymn": {
+        "number": "121",
+        "title": "Por Um Pecador Qual Eu",
+        "originalTitle": "Chief of Sinners",
+        "subCategory": 10,
+        "lyricsComposer": [
+            528
+        ],
+        "musicComposer": [
+            88
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Timóteo 1:15",
+        "youtubeURL": "https://www.youtube.com/watch?v=1d_Sj5oJk2k",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Lucas 5:32",
+            "Marcos 2:17",
+            "Romanos 5:6"
+        ],
+        "texto_base": "1 Timóteo 1:15",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Por um pecador qual eu",
+                "Sobre a cruz Jesus morreu.",
+                "Quis Seu sangue ali verter",
+                "Para eu poder viver.",
+                "Sou eternamente Seu;",
+                "Dele sou, e Ele é meu."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, que ilimitado amor",
+                "Revelou o Redentor!",
+                "Não é tão profundo o mar",
+                "Nem tão alto o céu sem-par!",
+                "Sim, a salvação me traz,",
+                "Dá poder, perdão e paz."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sei que pecador eu sou,",
+                "Mas Jesus já me salvou.",
+                "Seu perdão vem me alcançar;",
+                "Meus pecados lança ao mar.",
+                "Com Jesus desejo andar",
+                "Sempre, aqui e até no lar."
+            ]
+        }
+    ]
+}

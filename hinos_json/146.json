@@ -1,0 +1,107 @@
+{
+    "hymn": {
+        "number": "146",
+        "title": "Eu Não Sou Mais Eu",
+        "originalTitle": "",
+        "subCategory": 10,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Gálatas 2:20",
+        "youtubeURL": "https://www.youtube.com/watch?v=Cp1MchLAT4Q",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Gálatas 2:20",
+            "2 Coríntios 5:17",
+            "Colossenses 3:3"
+        ],
+        "texto_base": "Gálatas 2:20",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu vivi tão longe de Jesus.",
+                "Desprezei esta luz que um dia recebi.",
+                "O Senhor de mim teve compaixão.",
+                "Foi o Seu amor que inundou meu ser",
+                "E uma nova vida começou."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu não sou mais eu, Cristo vive em mim.",
+                "Eu não sou mais eu, tudo em mim mudou.",
+                "Quando encontrei a Jesus meu Rei,",
+                "um milagre aconteceu.",
+                "Vivo não mais eu, Cristo vive em mim!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Do meu Deus completamente sou.",
+                "Me escondi em Sua graça e Seu querer.",
+                "Hoje sei quem sou e também quem fui.",
+                "Vivo do amor que me resgatou",
+                "E Lhe rendo glórias, ó Jesus!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu não sou mais eu, Cristo vive em mim.",
+                "Eu não sou mais eu, tudo em mim mudou.",
+                "Quando encontrei a Jesus meu Rei,",
+                "um milagre aconteceu.",
+                "Vivo não mais eu, Cristo vive em mim!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quem eu era já não sou,",
+                "o passado já se foi.",
+                "Vivo agora na alegria do Senhor.",
+                "Se o pecado me chamar,",
+                "insistindo em convidar,",
+                "Eu direi: “Morri pro mundo,",
+                "Cristo vive em meu lugar!”",
+                "Se o pecado me chamar,",
+                "insistindo em convidar,",
+                "Eu direi: “Morri pro mundo,",
+                "Cristo vive em meu lugar!”",
+                "Eu não sou mais eu.",
+                "Eu não sou mais eu.",
+                "Eu não sou mais eu."
+            ]
+        }
+    ]
+}

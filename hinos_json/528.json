@@ -1,0 +1,80 @@
+{
+    "hymn": {
+        "number": "528",
+        "title": "Quando Estou Com Medo",
+        "originalTitle": "When I Am Afraid",
+        "subCategory": 29,
+        "lyricsComposer": [
+            146
+        ],
+        "musicComposer": [
+            146
+        ],
+        "versionComposer": [
+            294
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 84:12",
+        "youtubeURL": "https://www.youtube.com/watch?v=vh79qX7CK0c",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 56:3",
+            "Salmos 34:4",
+            "Isaías 41:10"
+        ],
+        "texto_base": "Salmo 84:12",
+        "temas_relacionados": [
+            "Adoração e Louvor"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Quando estou com medo, eu confio em Deus,",
+                "Eu confio em Deus, eu confio em Deus.",
+                "Quando estou com medo, eu confio em Deus",
+                "E canto meu louvor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Quando estou com medo, eu confio em Deus,",
+                "Eu confio em Deus, eu confio em Deus.",
+                "Quando estou com medo, eu confio em Deus",
+                "E canto meu louvor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu vou confiar, se com medo estiver;",
+                "Eu vou confiar em Deus, meu Salvador."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Quando estou com medo, eu confio em Deus,",
+                "Eu confio em Deus, eu confio em Deus.",
+                "Quando estou com medo, eu confio em Deus",
+                "E canto meu louvor."
+            ]
+        }
+    ]
+}

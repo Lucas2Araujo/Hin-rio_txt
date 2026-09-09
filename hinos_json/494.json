@@ -1,0 +1,119 @@
+{
+    "hymn": {
+        "number": "494",
+        "title": "Doce Lar",
+        "originalTitle": "We’re Bound for the Land of the Pure",
+        "subCategory": 28,
+        "lyricsComposer": [
+            524
+        ],
+        "musicComposer": [
+            545
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 25:34",
+        "youtubeURL": "https://www.youtube.com/watch?v=ILf6xg2sqhQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 21:3-4",
+            "Isaías 65:19",
+            "Apocalipse 7:17"
+        ],
+        "texto_base": "Mateus 25:34",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "À terra nós vamos",
+                "dos fiéis e dos santos,",
+                "País de glória infinda,",
+                "de bênçãos e luz;",
+                "Já estamos cansados",
+                "de andar pelas trevas;",
+                "Ao lar em breve iremos",
+                "com Cristo Jesus"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Doce lar! Doce lar!",
+                "Doce lar! Doce lar!",
+                "No lar habitaremos",
+                "Com o nosso Jesus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não entram desgostos",
+                "neste lar, nem tristeza,",
+                "Só paz e alegria",
+                "ali reinarão.",
+                "Em nosso caminho,",
+                "vamos muito animados,",
+                "Pois Cristo, nosso Mestre,",
+                "nos deu salvação."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Doce lar! Doce lar!",
+                "Doce lar! Doce lar!",
+                "No lar habitaremos",
+                "Com o nosso Jesus."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sigamos avante",
+                "para o lar, bem contentes,",
+                "E sempre exaltando",
+                "a história da cruz.",
+                "Já vemos a terra",
+                "com os seus lindos campos;",
+                "Ali nós viveremos",
+                "com nosso Jesus."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Doce lar! Doce lar!",
+                "Doce lar! Doce lar!",
+                "No lar habitaremos",
+                "Com o nosso Jesus."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "hymn": {
+        "number": "263",
+        "title": "Mãos",
+        "originalTitle": "",
+        "subCategory": 17,
+        "lyricsComposer": [
+            535
+        ],
+        "musicComposer": [
+            535
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 20:27, 28",
+        "youtubeURL": "https://www.youtube.com/watch?v=eC_SG8HxQ_4",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 20:28",
+            "Marcos 10:45",
+            "João 13:14"
+        ],
+        "texto_base": "Mateus 20:27, 28",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Missão e Serviço",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Estas mãos que Deus me deu",
+                "Foram feitas pra servir",
+                "O vizinho ao lado meu",
+                "Que não sabe mais sorrir.",
+                "Através de minhas mãos,",
+                "Eu pretendo lhe mostrar",
+                "O sorriso de Jesus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Mãos consagradas",
+                "para a causa em prol do amor;",
+                "Mãos dedicadas ao serviço do Senhor;",
+                "Mãos preocupadas em se unir às de Jesus;",
+                "Mãos que não temem o encontro com a luz."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Há no céu, no mar, na flor",
+                "Um detalhe de amor.",
+                "Há também no entardecer",
+                "A poesia do nascer.",
+                "Na beleza natural,",
+                "Eu contemplo a digital",
+                "Dessa mão que me criou."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Mãos consagradas",
+                "para a causa em prol do amor;",
+                "Mãos dedicadas ao serviço do Senhor;",
+                "Mãos preocupadas em se unir às de Jesus;",
+                "Mãos que não temem o encontro com a luz."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Minha mão co’a de Jesus",
+                "Vai se unir no ideal",
+                "De mostrar que a Sua cruz",
+                "É um fato bem real.",
+                "Através dessa união,",
+                "Eu pretendo a integração",
+                "Com Jesus e com você."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Mãos consagradas",
+                "para a causa em prol do amor;",
+                "Mãos dedicadas ao serviço do Senhor;",
+                "Mãos preocupadas em se unir às de Jesus;",
+                "Mãos que não temem o encontro com a luz."
+            ]
+        }
+    ]
+}

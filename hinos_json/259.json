@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "259",
+        "title": "Em Memória De Ti",
+        "originalTitle": "In Remembrance of Thee",
+        "subCategory": 16,
+        "lyricsComposer": [
+            405
+        ],
+        "musicComposer": [
+            279
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Coríntios 11:23, 24",
+        "youtubeURL": "https://www.youtube.com/watch?v=nWIsUdDHHmc",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Coríntios 11:24",
+            "Lucas 22:19",
+            "Atos 20:7"
+        ],
+        "texto_base": "1 Coríntios 11:23, 24",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Missão e Serviço",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A mesa preparada está:",
+                "solene reunião.",
+                "Os doze estão ali enquanto",
+                "estás partindo o pão."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Em memória de Ti, em memória de Ti,",
+                "Isto é feito em memória de Ti.",
+                "E agora ao tomar deste vinho e do pão,",
+                "Isto é feito em memória de Ti."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A cruz eu vejo em que Jesus",
+                "sofrendo ali morreu;",
+                "Estranha graça que salvou",
+                "um pobre como eu."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Em memória de Ti, em memória de Ti,",
+                "Isto é feito em memória de Ti.",
+                "E agora ao tomar deste vinho e do pão,",
+                "Isto é feito em memória de Ti."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Por meus pecados dá perdão:",
+                "indigno sou, Senhor.",
+                "Completa remissão me dá",
+                "Teu sangue, o Teu amor."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Em memória de Ti, em memória de Ti,",
+                "Isto é feito em memória de Ti.",
+                "E agora ao tomar deste vinho e do pão,",
+                "Isto é feito em memória de Ti."
+            ]
+        }
+    ]
+}

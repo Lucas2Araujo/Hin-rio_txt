@@ -1,0 +1,87 @@
+{
+    "hymn": {
+        "number": "248",
+        "title": "Encontros",
+        "originalTitle": "",
+        "subCategory": 14,
+        "lyricsComposer": [
+            505
+        ],
+        "musicComposer": [
+            505
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Hebreus 10:25",
+        "youtubeURL": "https://www.youtube.com/watch?v=zpfmhV1bkS8",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Hebreus 10:25",
+            "Atos 2:46",
+            "Provérbios 27:17"
+        ],
+        "texto_base": "Hebreus 10:25",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "É tão bom encontrar os amigos,",
+                "rever os irmãos",
+                "E sentir a amizade e o amor",
+                "que nos traz união.",
+                "É tão bom partilhar este amor",
+                "com você cada dia.",
+                "Vamos juntos cantar,",
+                "demonstrando a nossa alegria."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "(Grupo A) É tão bom encontrar os amigos,",
+                "rever os irmãos",
+                "(Grupo B) É tão bom encontrar os amigos,",
+                "rever os irmãos",
+                "(Grupo A) E sentir a amizade e o amor",
+                "que nos traz união.",
+                "(Grupo B) Nos traz união.",
+                "(Todos) É tão bom partilhar",
+                "este amor com você cada dia.",
+                "Vamos juntos cantar, demonstrando a nossa alegria."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "É tão bom encontrar os amigos,",
+                "rever os irmãos",
+                "E sentir a amizade e o amor",
+                "que nos traz união.",
+                "É tão bom partilhar",
+                "este amor com você cada dia.",
+                "Vamos juntos cantar,",
+                "demonstrando a nossa alegria.",
+                "Vamos juntos cantar,",
+                "demonstrando a nossa alegria."
+            ]
+        }
+    ]
+}

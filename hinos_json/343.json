@@ -1,0 +1,114 @@
+{
+    "hymn": {
+        "number": "343",
+        "title": "Meu Refúgio Está No Monte",
+        "originalTitle": "To the Mountain",
+        "subCategory": 22,
+        "lyricsComposer": [
+            116
+        ],
+        "musicComposer": [
+            40
+        ],
+        "versionComposer": [
+            83
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 14:23",
+        "youtubeURL": "https://www.youtube.com/watch?v=D60qJG7tseU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 14:23",
+            "Lucas 6:12",
+            "Marcos 1:35"
+        ],
+        "texto_base": "Mateus 14:23",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Meu refúgio está no monte,",
+                "Onde posso descansar",
+                "E beber da limpa fonte",
+                "De água pura e salutar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Bem cedinho e de tarde,",
+                "Sempre vou me refugiar.",
+                "Vou subindo para o monte",
+                "A beber da limpa fonte.",
+                "Bem cedinho e de tarde,",
+                "Vou com Cristo me encontrar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Minha força está no monte,",
+                "Onde fico a meditar.",
+                "Meu poder provém da Fonte",
+                "Quando estou humilde a orar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Bem cedinho e de tarde,",
+                "Sempre vou me refugiar.",
+                "Vou subindo para o monte",
+                "A beber da limpa fonte.",
+                "Bem cedinho e de tarde,",
+                "Vou com Cristo me encontrar."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Minha glória está no monte",
+                "Em que Cristo padeceu,",
+                "Onde vejo a rubra fonte",
+                "De Seu sangue que verteu."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Bem cedinho e de tarde,",
+                "Sempre vou me refugiar.",
+                "Vou subindo para o monte",
+                "A beber da limpa fonte.",
+                "Bem cedinho e de tarde,",
+                "Vou com Cristo me encontrar."
+            ]
+        }
+    ]
+}

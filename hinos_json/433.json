@@ -1,0 +1,102 @@
+{
+    "hymn": {
+        "number": "433",
+        "title": "Sumo Sacerdote",
+        "originalTitle": "",
+        "subCategory": 24,
+        "lyricsComposer": [
+            177
+        ],
+        "musicComposer": [
+            177
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Hebreus 9:24",
+        "youtubeURL": "https://www.youtube.com/watch?v=yuVlG81PVDo",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Hebreus 4:14",
+            "Hebreus 8:1",
+            "Hebreus 9:11"
+        ],
+        "texto_base": "Hebreus 9:24",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Sacrifício e Redenção",
+            "Santuário e Juízo"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Há um templo feito não por homens,",
+                "Onde está o trono do Senhor Altíssimo.",
+                "Toda honra, glória e majestade",
+                "Estão diante Dele",
+                "para todo o sempre."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deus eterno, poderoso, o supremo Juiz!",
+                "Diante da Sua face quem nos justificará?",
+                "Cristo!",
+                "Nosso grande Intercessor,",
+                "Ele é Consumador e Autor de nossa fé.",
+                "Por Seu sangue no santuário entrou",
+                "E nos apresentou cobertos por Sua graça.",
+                "Cristo, Sumo Sacerdote,",
+                "Deus que vence a morte",
+                "E nos dá acesso a Deus, o Pai.",
+                "Diante de Sua face subam nossas vozes;",
+                "Cobre a multidão de nossas transgressões."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nossa vida passa diante Dele;",
+                "Nada está oculto. Deus onisciente!",
+                "Tão solene é este momento:",
+                "Cristo intercedendo",
+                "por Seu povo aqui contrito"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deus eterno, poderoso, o supremo Juiz!",
+                "Diante da Sua face quem nos justificará?",
+                "Cristo!",
+                "Nosso grande Intercessor,",
+                "Ele é Consumador e Autor de nossa fé.",
+                "Por Seu sangue no santuário entrou",
+                "E nos apresentou cobertos por Sua graça.",
+                "Cristo, Sumo Sacerdote,",
+                "Deus que vence a morte",
+                "E nos dá acesso a Deus, o Pai.",
+                "Diante de Sua face subam nossas vozes;",
+                "Cobre a multidão de nossas transgressões."
+            ]
+        }
+    ]
+}

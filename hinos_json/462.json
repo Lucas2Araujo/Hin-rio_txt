@@ -1,0 +1,108 @@
+{
+    "hymn": {
+        "number": "462",
+        "title": "Será De Manhã?",
+        "originalTitle": "It May Be at Morn",
+        "subCategory": 25,
+        "lyricsComposer": [
+            186
+        ],
+        "musicComposer": [
+            248
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Marcos 13:35, 36",
+        "youtubeURL": "https://www.youtube.com/watch?v=7GMgx-h-vCw",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Marcos 13:35",
+            "Lucas 12:38",
+            "1 Tessalonicenses 5:2"
+        ],
+        "texto_base": "Marcos 13:35, 36",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Será de manhã, no começo do dia?",
+                "Será quando a luz seu fulgor irradia",
+                "Que Cristo há de vir",
+                "com os anjos da glória",
+                "Receber deste mundo os Seus?"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó Jesus, Salvador, Senhor,",
+                "Quando vamos cantar:",
+                "“Cristo volta, aleluia, aleluia, amém!",
+                "Aleluia, amém!”?"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Será de manhã ou será pela tarde?",
+                "Também pode ser que as trevas da noite",
+                "Se tornem na luz desse brilho de glória",
+                "Quando Cristo os Seus receber."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó Jesus, Salvador, Senhor,",
+                "Quando vamos cantar:",
+                "“Cristo volta, aleluia, aleluia, amém!",
+                "Aleluia, amém!”?"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, graça sem fim,",
+                "quando a morte vencida,",
+                "E Cristo Jesus revestir-nos de vida,",
+                "E formos então habitar lá na glória,",
+                "Nesse lar que Jesus preparou!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó Jesus, Salvador, Senhor,",
+                "Quando vamos cantar:",
+                "“Cristo volta, aleluia, aleluia, amém!",
+                "Aleluia, amém!”?"
+            ]
+        }
+    ]
+}

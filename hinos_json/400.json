@@ -1,0 +1,83 @@
+{
+    "hymn": {
+        "number": "400",
+        "title": "Mais Semelhante A Jesus",
+        "originalTitle": "",
+        "subCategory": 22,
+        "lyricsComposer": [
+            535
+        ],
+        "musicComposer": [
+            535
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Coríntios 11:1",
+        "youtubeURL": "https://www.youtube.com/watch?v=Pl6dhdohExc",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 João 3:2",
+            "2 Coríntios 3:18",
+            "Romanos 8:29"
+        ],
+        "texto_base": "1 Coríntios 11:1",
+        "temas_relacionados": [
+            "Missão e Serviço",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Mais semelhante a Jesus",
+                "é o que mais eu desejo na vida.",
+                "Mais semelhante a Jesus",
+                "é a vontade sincera nascida em meu ser.",
+                "Mais semelhante a Jesus",
+                "é o ponto de minha partida.",
+                "Para ter nesta vida alegria e poder,",
+                "Quero ser mais semelhante a Jesus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Mais semelhante a Jesus",
+                "é a mensagem cantada e vivida.",
+                "Mais semelhante a Jesus",
+                "é a vontade incontida de sempre louvar.",
+                "Mais semelhante a Jesus",
+                "é o alvo de minha corrida.",
+                "Para ter nesta vida alegria e poder,",
+                "Quero ser mais semelhante a Jesus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Mais semelhante a Jesus é a minha comida e bebida.",
+                "Mais semelhante a Jesus",
+                "é a minha comida e bebida.",
+                "Mais semelhante a Jesus",
+                "é a vontade acolhida no meu coração.",
+                "Mais semelhante a Jesus",
+                "é certeza da luta vencida.",
+                "Para ter nesta vida alegria e poder,",
+                "Quero ser mais semelhante a Jesus."
+            ]
+        }
+    ]
+}

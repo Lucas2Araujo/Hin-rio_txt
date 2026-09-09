@@ -1,0 +1,125 @@
+{
+    "hymn": {
+        "number": "118",
+        "title": "Imenso Amor",
+        "originalTitle": "And Can It Be?",
+        "subCategory": 10,
+        "lyricsComposer": [
+            63
+        ],
+        "musicComposer": [
+            478
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 3:16",
+        "youtubeURL": "https://www.youtube.com/watch?v=p0HlgYN5D6Q",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Romanos 8:39",
+            "Efésios 3:19",
+            "1 João 4:16"
+        ],
+        "texto_base": "João 3:16",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Como entender o imenso amor",
+                "Do Deus que veio me salvar?",
+                "Por mim sofreu enorme dor,",
+                "Provando a cruz em meu lugar.",
+                "Imenso amor, amor sem fim,",
+                "Na cruz Jesus morreu por mim."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Imenso amor, amor sem fim",
+                "Na cruz Jesus morreu por mim."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O trono Seu deixou no Céu",
+                "Pra vir sofrer a morte atroz.",
+                "Provou aqui amargo fel",
+                "E o sangue derramou por nós.",
+                "Graça real que me livrou,",
+                "Divino amor que me alcançou!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Imenso amor, amor sem fim",
+                "Na cruz Jesus morreu por mim."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu prisioneiro fui do mal,",
+                "Atado em dor e escuridão,",
+                "Mas esta graça divinal",
+                "Me trouxe luz e salvação.",
+                "Imensa graça a porta abriu,",
+                "Pois o Seu sangue me remiu."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Imenso amor, amor sem fim",
+                "Na cruz Jesus morreu por mim."
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não há jamais condenação",
+                "Jesus é meu, e Dele eu sou.",
+                "As Suas vestes de perdão",
+                "Jesus em mim as colocou.",
+                "Vou diante Dele sem temer",
+                "E obtenho forças para vencer."
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Imenso amor, amor sem fim",
+                "Na cruz Jesus morreu por mim."
+            ]
+        }
+    ]
+}

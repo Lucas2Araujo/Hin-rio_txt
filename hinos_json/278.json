@@ -1,0 +1,108 @@
+{
+    "hymn": {
+        "number": "278",
+        "title": "A Voz De Deus",
+        "originalTitle": "",
+        "subCategory": 18,
+        "lyricsComposer": [
+            505
+        ],
+        "musicComposer": [
+            505
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Coríntios 14:1",
+        "youtubeURL": "https://www.youtube.com/watch?v=sXZgMQKfLfk",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Coríntios 14:1",
+            "Amós 3:7",
+            "Atos 2:17"
+        ],
+        "texto_base": "1 Coríntios 14:1",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu creio que meu Deus revela",
+                "Os Seus desejos e Seus planos para mim.",
+                "Mostrando a história numa tela,",
+                "O meu Senhor declara",
+                "o Seu amor sem fim."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu creio neste dom divino,",
+                "Na voz que traz conforto e ensino.",
+                "Eu nunca estarei sozinho;",
+                "A voz de Deus meus passos sempre guiará."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu creio que em nossos dias",
+                "Deus escolheu os Seus segredos revelar,",
+                "Chamando homens e mulheres",
+                "Pra com poder,",
+                "do Seu amor, testemunhar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu creio neste dom divino,",
+                "Na voz que traz conforto e ensino.",
+                "Eu nunca estarei sozinho;",
+                "A voz de Deus meus passos sempre guiará."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu creio que ainda é tempo",
+                "Pra descobrir o que meu Deus já revelou.",
+                "Eu quero sempre estar atento",
+                "Pra ouvir a voz do meu Senhor,",
+                "meu Pai de amor."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu creio neste dom divino,",
+                "Na voz que traz conforto e ensino.",
+                "Eu nunca estarei sozinho;",
+                "A voz de Deus meus passos sempre guiará."
+            ]
+        }
+    ]
+}

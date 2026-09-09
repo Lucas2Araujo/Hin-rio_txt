@@ -1,0 +1,82 @@
+{
+    "hymn": {
+        "number": "111",
+        "title": "Ao Ver A Cruz",
+        "originalTitle": "Remember Calvary",
+        "subCategory": 9,
+        "lyricsComposer": [
+            49
+        ],
+        "musicComposer": [
+            49
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Lucas 23:33-38",
+        "youtubeURL": "https://www.youtube.com/watch?v=2wRdBPHruHU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 12:32",
+            "Gálatas 3:13",
+            "Romanos 3:25"
+        ],
+        "texto_base": "Lucas 23:33-38",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ao ver a cruz, meu rude coração",
+                "Fica em silêncio ante tanto horror!",
+                "Eu vejo os pregos sobre Suas mãos,",
+                "E como a sós morreu por ter-me amor!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vejo o Calvário, o monte tão cruel!",
+                "Ali Jesus pregado foi na cruz.",
+                "Vejo o Calvário, o monte do amor!",
+                "A minha culpa ali Jesus pagou."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Aos olhos vêm as cenas tão cruéis,",
+                "E humildemente eu penso em Seu amor.",
+                "Então minh’alma em muda contrição",
+                "Eterna graça rende ao Salvador."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vejo o Calvário, o monte tão cruel!",
+                "Ali Jesus pregado foi na cruz.",
+                "Vejo o Calvário, o monte do amor!",
+                "A minha culpa ali Jesus pagou."
+            ]
+        }
+    ]
+}

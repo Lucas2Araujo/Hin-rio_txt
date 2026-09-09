@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "179",
+        "title": "Eu Sei Em Quem Eu Creio",
+        "originalTitle": "I Know in Whom I Have Believed",
+        "subCategory": 11,
+        "lyricsComposer": [
+            82
+        ],
+        "musicComposer": [
+            248
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "2 Timóteo 1:12",
+        "youtubeURL": "https://www.youtube.com/watch?v=tA4BbhaEKeA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "2 Timóteo 1:12",
+            "Hebreus 11:1",
+            "Romanos 8:38-39"
+        ],
+        "texto_base": "2 Timóteo 1:12",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não sei por que de Deus o amor",
+                "A mim se revelou.",
+                "Por qual razão o Salvador",
+                "Pra Si me resgatou."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Mas eu sei em quem eu creio",
+                "E estou bem certo que é poderoso",
+                "Pra guardar o meu tesouro",
+                "Até o fim chegar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não sei o que de mal ou bem",
+                "Aqui enfrentarei;",
+                "Se maus ou calmos dias vêm,",
+                "Se lutas eu terei."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Mas eu sei em quem eu creio",
+                "E estou bem certo que é poderoso",
+                "Pra guardar o meu tesouro",
+                "Até o fim chegar."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                " Não sei também o dia em que",
+                "Verei Jesus voltar;",
+                "Se de manhã, se à tarde vem",
+                "Pra me levar ao lar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Mas eu sei em quem eu creio",
+                "E estou bem certo que é poderoso",
+                "Pra guardar o meu tesouro",
+                "Até o fim chegar."
+            ]
+        }
+    ]
+}

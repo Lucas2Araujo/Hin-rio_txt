@@ -1,0 +1,51 @@
+{
+    "hymn": {
+        "number": "558",
+        "title": "O Senhor Está Em Seu Templo",
+        "originalTitle": "The Lord Is in His Holy Temple",
+        "subCategory": 30,
+        "lyricsComposer": [
+            170
+        ],
+        "musicComposer": [
+            170
+        ],
+        "versionComposer": [
+            83
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Hebreus 12:28",
+        "youtubeURL": "https://www.youtube.com/watch?v=9w4e6ncQG6U",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Habacuque 2:20",
+            "Salmos 11:4",
+            "Zacarias 2:13"
+        ],
+        "texto_base": "Hebreus 12:28",
+        "temas_relacionados": [
+            "Adoração e Louvor"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O Senhor está em Seu santo templo,",
+                "O Senhor está em Seu santo templo;",
+                "O Céu, o mar e a Terra,",
+                "E vós guardai silêncio perante Deus;",
+                "Silêncio, silêncio perante Deus.",
+                "Amém!"
+            ]
+        }
+    ]
+}

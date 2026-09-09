@@ -1,0 +1,119 @@
+{
+    "hymn": {
+        "number": "65",
+        "title": "Das Mãos Do Criador",
+        "originalTitle": "",
+        "subCategory": 7,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 119:14",
+        "youtubeURL": "https://www.youtube.com/watch?v=38nr_ig4oYk",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Gênesis 1:27",
+            "Salmos 139:13-14",
+            "Efésios 2:10"
+        ],
+        "texto_base": "Salmo 119:14",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nossa vida veio das mãos do Criador.",
+                "Nós éramos perfeitos, a imagem do Senhor.",
+                "Porém, os descaminhos de dor e aflição",
+                "Levaram nossos dias de paz e comunhão."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Foi Deus, o Pai bondoso,",
+                "quem estendeu a mão.",
+                "Desceu até o abismo,",
+                "tornou-Se um de nós,",
+                "Nos devolveu a chance de vida eternal.",
+                "O Seu amor venceu,",
+                "voltaremos para o lar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Fomos conclamados, tocados pela cruz,",
+                "A espalhar no mundo o perfume de Jesus.",
+                "Por um amor profundo e total dedicação,",
+                "Onde existia pranto só haverá canção."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Foi Deus, o Pai bondoso,",
+                "quem estendeu a mão.",
+                "Desceu até o abismo,",
+                "tornou-Se um de nós,",
+                "Nos devolveu a chance de vida eternal.",
+                "O Seu amor venceu,",
+                "voltaremos para o lar."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A felicidade consiste em seguir",
+                "Preceitos e princípios na mente e no agir.",
+                "A fé na providência de um majestoso Rei",
+                "Nos faz crescer na graça e amar a Sua lei."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Foi Deus, o Pai bondoso,",
+                "quem estendeu a mão.",
+                "Desceu até o abismo,",
+                "tornou-Se um de nós,",
+                "Nos devolveu a chance de vida eternal.",
+                "O Seu amor venceu,",
+                "voltaremos para o lar."
+            ]
+        }
+    ]
+}

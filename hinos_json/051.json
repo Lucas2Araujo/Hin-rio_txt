@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "51",
+        "title": "Dá-me A Bíblia",
+        "originalTitle": "Give Me the Bible",
+        "subCategory": 5,
+        "lyricsComposer": [
+            408
+        ],
+        "musicComposer": [
+            103
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "2 Timóteo 3:16, 17",
+        "youtubeURL": "https://www.youtube.com/watch?v=k-O7d-lvwtE",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 119:105",
+            "Hebreus 4:12",
+            "Salmos 119:11"
+        ],
+        "texto_base": "2 Timóteo 3:16, 17",
+        "temas_relacionados": [
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Dá-me a Bíblia, que eu tanto anelo;",
+                "Por seu caminho quero sempre andar.",
+                "Suas palavras são a doce nova",
+                "Que nosso Mestre veio anunciar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Dá-me a Bíblia, livro tão precioso.",
+                "Santa doutrina, fonte é de luz.",
+                "Têm seus ensinos um poder grandioso;",
+                "Eles conduzem para o bom Jesus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Dá-me a Bíblia, dela eu preciso,",
+                "Pois do pecado há de me livrar.",
+                "Suas palavras têm poder e alento",
+                "Que minha alma podem renovar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Dá-me a Bíblia, livro tão precioso.",
+                "Santa doutrina, fonte é de luz.",
+                "Têm seus ensinos um poder grandioso;",
+                "Eles conduzem para o bom Jesus."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Dá-me a Bíblia; que meu guia seja",
+                "Por toda a vida, meu caminho e luz.",
+                "Seus bons ensinos sejam sempre o astro",
+                "Que me conduza para o pé da cruz."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Dá-me a Bíblia, livro tão precioso.",
+                "Santa doutrina, fonte é de luz.",
+                "Têm seus ensinos um poder grandioso;",
+                "Eles conduzem para o bom Jesus."
+            ]
+        }
+    ]
+}

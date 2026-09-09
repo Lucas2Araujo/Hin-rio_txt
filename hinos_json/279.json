@@ -1,0 +1,114 @@
+{
+    "hymn": {
+        "number": "279",
+        "title": "A Verdade Brilhará",
+        "originalTitle": "",
+        "subCategory": 18,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 19:10",
+        "youtubeURL": "https://www.youtube.com/watch?v=7XEXWM9JX0E",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 19:10",
+            "2 Pedro 1:21",
+            "Hebreus 1:1"
+        ],
+        "texto_base": "Apocalipse 19:10",
+        "temas_relacionados": [
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus fala por profetas",
+                "e comunica a Sua vontade.",
+                "Tem sido assim desde o início do mundo.",
+                "A verdade brilhará",
+                "mesmo em meio à escuridão.",
+                "Deus jamais nos abandona,",
+                "e nos toma pela mão."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "O Espírito de Profecia é essa luz menor;",
+                "Ele é quem aponta para a luz maior.",
+                "A palavra viva, santa e eficaz",
+                "É a luz divina sempre a brilhar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus não faria algo",
+                "sem antes avisar Seus profetas.",
+                "O Espírito é nosso guia constante.",
+                "Através de tempos bons",
+                "ou na tempestade atroz,",
+                "Ele é nossa companhia,",
+                "não nos deixará a sós."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "O Espírito de Profecia é essa luz menor;",
+                "Ele é quem aponta para a luz maior.",
+                "A palavra viva, santa e eficaz",
+                "É a luz divina sempre a brilhar."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O Espírito nos fala",
+                "e a todos que lhe derem ouvidos.",
+                "Àqueles que são sinceros e O buscam",
+                "O Senhor Se revelou,",
+                "expressando o Seu amor",
+                "E demonstra Seu cuidado",
+                "neste dom que nos deixou."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "O Espírito de Profecia é essa luz menor;",
+                "Ele é quem aponta para a luz maior.",
+                "A palavra viva, santa e eficaz",
+                "É a luz divina sempre a brilhar."
+            ]
+        }
+    ]
+}

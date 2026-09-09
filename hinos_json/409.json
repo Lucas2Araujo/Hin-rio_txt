@@ -1,0 +1,114 @@
+{
+    "hymn": {
+        "number": "409",
+        "title": "Amor No Lar",
+        "originalTitle": "When There’s Love at Home",
+        "subCategory": 23,
+        "lyricsComposer": [
+            244
+        ],
+        "musicComposer": [
+            244
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Efésios 5:25",
+        "youtubeURL": "https://www.youtube.com/watch?v=qUFlef2oVRM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Efésios 5:25",
+            "Colossenses 3:14",
+            "Provérbios 15:17"
+        ],
+        "texto_base": "Efésios 5:25",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tudo é belo ao meu redor",
+                "com amor no lar.",
+                "Há beleza em cada flor",
+                "com amor no lar.",
+                "Esse amor promove paz,",
+                "toda mágoa e dor desfaz.",
+                "Luz, saúde e vida traz",
+                "sempre o amor no lar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Com amor, com amor,",
+                "Não há dor, não há pesar,",
+                "Com amor no lar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nossa vida tem prazer",
+                "com amor no lar.",
+                "Ódio e mal não pode haver",
+                "com amor no lar.",
+                "Cada rosa em seu matiz,",
+                "vozes de aves tão gentis,",
+                "Tudo fica mais feliz",
+                "com amor no lar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Com amor, com amor,",
+                "Não há dor, não há pesar,",
+                "Com amor no lar."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Meu Jesus, que eu seja Teu;",
+                "dá-me amor no lar.",
+                "Quero renunciar ao eu,",
+                "quero mais amar.",
+                "Vida mais feliz terei,",
+                "hei de estar aos pés do Rei,",
+                "Sempre andando em Sua lei,",
+                "com amor no lar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Com amor, com amor,",
+                "Não há dor, não há pesar,",
+                "Com amor no lar."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "hymn": {
+        "number": "487",
+        "title": "Primeiro Quero Ver Meu Salvador",
+        "originalTitle": "I Want to See My Saviour First of All",
+        "subCategory": 27,
+        "lyricsComposer": [
+            288
+        ],
+        "musicComposer": [
+            288
+        ],
+        "versionComposer": [
+            230
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 25:9",
+        "youtubeURL": "https://www.youtube.com/watch?v=szamXjWAEso",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 25:9",
+            "Jó 19:27",
+            "1 Pedro 1:8"
+        ],
+        "texto_base": "Isaías 25:9",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "No Céu existe muita coisa",
+                "que eu anseio ver:",
+                "Suas mil belezas, glórias e esplendor.",
+                "Mas antes de fruir",
+                "de tais delícias o prazer,",
+                "Primeiro quero ver meu Salvador."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Primeiro quero ver meu Salvador;",
+                "Sim, antes dos queridos ao redor.",
+                "E então por longos dias,",
+                "que doces alegrias!",
+                "Mas quero ver primeiro o Salvador."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "As ruas de ouro eu quero ver",
+                "e o brilho dos portais,",
+                "Eu quero ver as cortes celestiais;",
+                "A árvore da vida",
+                "e o lindo rio do Senhor,",
+                "Mas quero ver primeiro o Salvador."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Primeiro quero ver meu Salvador;",
+                "Sim, antes dos queridos ao redor.",
+                "E então por longos dias,",
+                "que doces alegrias!",
+                "Mas quero ver primeiro o Salvador."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu quero ver mamãe",
+                "e estar com ela no jardim,",
+                "Lembrar o que vivemos, com amor;",
+                "Queridos quero ver,",
+                "os quais partiram antes, sim,",
+                "Mas quero ver primeiro o Salvador."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Primeiro quero ver meu Salvador;",
+                "Sim, antes dos queridos ao redor.",
+                "E então por longos dias,",
+                "que doces alegrias!",
+                "Mas quero ver primeiro o Salvador."
+            ]
+        }
+    ]
+}

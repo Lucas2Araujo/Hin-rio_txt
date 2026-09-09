@@ -1,0 +1,81 @@
+{
+    "hymn": {
+        "number": "104",
+        "title": "Na Senda Do Calvário",
+        "originalTitle": "Follow Me",
+        "subCategory": 9,
+        "lyricsComposer": [
+            225
+        ],
+        "musicComposer": [
+            225
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 16:24, 25",
+        "youtubeURL": "https://www.youtube.com/watch?v=6dOjCNKG3H8",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Marcos 8:34",
+            "Lucas 9:23",
+            "1 Pedro 2:21"
+        ],
+        "texto_base": "Mateus 16:24, 25",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Missão e Serviço",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Seguia tristemente e só,",
+                "ninguém a me observar.",
+                "Curvado ao fardo andava eu",
+                "e quis desesperar.",
+                "Queixei-me então a Cristo",
+                "do mundo a me atrair.",
+                "E Sua voz suave pude ouvir:",
+                "“Na senda do Calvário,",
+                "Meus pés também cansei.",
+                "E, sob a cruz pesada,",
+                "sem forças Me prostrei.",
+                "Cansado peregrino,",
+                "a noite chega ao fim.",
+                "Ó toma a cruz e segue junto a Mim.”"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Do esforço meu por Ti, Jesus,",
+                "às vezes me gabei.",
+                "Quão grande sacrifício fiz,",
+                "na senda estreita andei.",
+                "Deixei fortuna e fama",
+                "a fim de Te seguir.",
+                "E Tua voz suave pude ouvir:",
+                "“Deixei o trono e a glória,",
+                "deixei do Céu a luz.",
+                "E Minhas mãos pregaram",
+                "sobre uma rude cruz.",
+                "Com tua mão na Minha,",
+                "sigamos, pois, assim.",
+                "Ó toma a cruz e segue junto a Mim.”"
+            ]
+        }
+    ]
+}

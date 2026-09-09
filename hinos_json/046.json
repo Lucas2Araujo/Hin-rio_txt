@@ -1,0 +1,88 @@
+{
+    "hymn": {
+        "number": "46",
+        "title": "Dia de Chuva",
+        "originalTitle": "",
+        "subCategory": 4,
+        "lyricsComposer": [
+            27
+        ],
+        "musicComposer": [
+            27
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Joel 2:28",
+        "youtubeURL": "https://www.youtube.com/watch?v=Vwpc1inHrwA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Atos 2:17",
+            "Zacarias 10:1",
+            "Tiago 5:7"
+        ],
+        "texto_base": "Joel 2:28",
+        "temas_relacionados": [
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Hoje é o dia em que temos de pedir",
+                "Pela bênção da presença do Senhor.",
+                "Hoje é o dia em que temos de orar",
+                "Pela bênção da presença desse amor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Derrama a chuva sobre nós,",
+                "Derrama o Teu poder de amor.",
+                "Teu Espírito pedimos, ó Senhor.",
+                "Derrama a chuva sobre nós,",
+                "Derrama o Teu poder de amor.",
+                "Teu Espírito envia, ó Senhor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Hoje é o dia em que temos de orar",
+                "Pra que o Céu derrame bênçãos sobre nós.",
+                "Hoje é o dia em que temos de falar",
+                "Que Jesus está mais perto de voltar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Derrama a chuva sobre nós,",
+                "Derrama o Teu poder de amor.",
+                "Teu Espírito pedimos, ó Senhor.",
+                "Derrama a chuva sobre nós,",
+                "Derrama o Teu poder de amor.",
+                "Teu Espírito envia, ó Senhor."
+            ]
+        }
+    ]
+}

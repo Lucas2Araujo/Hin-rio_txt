@@ -1,0 +1,106 @@
+{
+    "hymn": {
+        "number": "15",
+        "title": "Tu És Fiel, Senhor",
+        "originalTitle": "Great Is Thy Faithfulness",
+        "subCategory": 2,
+        "lyricsComposer": [
+            483
+        ],
+        "musicComposer": [
+            527
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Lamentações 3:22, 23",
+        "youtubeURL": "https://www.youtube.com/watch?v=lVBzxAcXTVk",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Tiago 1:17",
+            "2 Timóteo 2:13",
+            "Salmos 36:5"
+        ],
+        "texto_base": "Lamentações 3:22, 23",
+        "temas_relacionados": [
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                " Tu és fiel, Senhor, ó Deus eterno!",
+                "Teus filhos sabem que não falharás!",
+                "Nunca mudaste, Tu nunca faltaste;",
+                "Tal como eras, sim, sempre serás."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Tu és fiel, Senhor! Tu és fiel, Senhor!",
+                "Dia após dia, Tuas bênçãos nos dás.",
+                "A Tua mão nos sustenta e nos guarda;",
+                "Sim, para sempre, ó Deus, fiel serás."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nuvens no azul do céu, Sol refulgente,",
+                "Montes e vales, campinas em flor,",
+                "Tudo criaste na terra e nos ares,",
+                "E todos louvam-Te, fiel Senhor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Tu és fiel, Senhor! Tu és fiel, Senhor!",
+                "Dia após dia, Tuas bênçãos nos dás.",
+                "A Tua mão nos sustenta e nos guarda;",
+                "Sim, para sempre, ó Deus, fiel serás."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pleno perdão nos dás, que segurança!",
+                "Sempre nos guias na senda do bem;",
+                "E no porvir, oh, que doce esperança,",
+                "Tu nos receberás no lar de além."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Tu és fiel, Senhor! Tu és fiel, Senhor!",
+                "Dia após dia, Tuas bênçãos nos dás.",
+                "A Tua mão nos sustenta e nos guarda;",
+                "Sim, para sempre, ó Deus, fiel serás."
+            ]
+        }
+    ]
+}

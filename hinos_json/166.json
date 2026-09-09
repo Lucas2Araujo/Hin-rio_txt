@@ -1,0 +1,109 @@
+{
+    "hymn": {
+        "number": "166",
+        "title": "Caminhando",
+        "originalTitle": "I’m Pressing on",
+        "subCategory": 10,
+        "lyricsComposer": [
+            290
+        ],
+        "musicComposer": [
+            188
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 40:31",
+        "youtubeURL": "https://www.youtube.com/watch?v=h7uQpNUh9Cw",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 40:31",
+            "Filipenses 3:14",
+            "Hebreus 12:1"
+        ],
+        "texto_base": "Isaías 40:31",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Contente eu já vou",
+                "para o lar celestial,",
+                "Caminhando, caminhando,",
+                "Pois não me encanta mais",
+                "o prazer terreal,",
+                "Caminhando para aquele lar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Caminhando, caminhando",
+                "Para aquele lar onde está Jesus.",
+                "Caminhando, caminhando,",
+                "Pela mão divina de Jesus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu quero pecadores",
+                "comigo levar,",
+                "Caminhando, caminhando.",
+                "Que em Cristo possam eles",
+                "a paz encontrar,",
+                "Caminhando para aquele lar!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Caminhando, caminhando",
+                "Para aquele lar onde está Jesus.",
+                "Caminhando, caminhando,",
+                "Pela mão divina de Jesus."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Com Cristo, meu Senhor,",
+                "para sempre estarei,",
+                "Caminhando, caminhando.",
+                "Seu nome eternamente",
+                "então louvarei,",
+                "Caminhando, sim, naquele lar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Caminhando, caminhando",
+                "Para aquele lar onde está Jesus.",
+                "Caminhando, caminhando,",
+                "Pela mão divina de Jesus."
+            ]
+        }
+    ]
+}

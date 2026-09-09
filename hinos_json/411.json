@@ -1,0 +1,73 @@
+{
+    "hymn": {
+        "number": "411",
+        "title": "Bem De Manhã",
+        "originalTitle": "Still, Still With Thee",
+        "subCategory": 23,
+        "lyricsComposer": [
+            193
+        ],
+        "musicComposer": [
+            134
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 59:16",
+        "youtubeURL": "https://www.youtube.com/watch?v=rioiyg_5IMs",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 5:3",
+            "Salmos 143:8",
+            "Marcos 1:35"
+        ],
+        "texto_base": "Salmo 59:16",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Bem de manhã, sereno surge o dia;",
+                "Já aves mil entoam seu louvor.",
+                "Luz vem encher o mundo de alegria.",
+                "Bem de manhã, Contigo estou, Senhor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Bem de manhã, alegre, a natureza",
+                "Dá seu louvor ao Deus da criação.",
+                "Só, com fervor, eu busco mais pureza;",
+                "Eu venho a Ti, ó Deus, em oração."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pai, quando enfim a luz fugir do mundo",
+                "E quando o céu já bem escuro for,",
+                "Vem conceder, em Teu amor profundo,",
+                "Luz, proteção, descanso em Ti, Senhor."
+            ]
+        }
+    ]
+}

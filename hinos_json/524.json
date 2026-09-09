@@ -1,0 +1,105 @@
+{
+    "hymn": {
+        "number": "524",
+        "title": "Jesus Me Quer Bem",
+        "originalTitle": "Jesus Loves Even Me",
+        "subCategory": 29,
+        "lyricsComposer": [
+            399
+        ],
+        "musicComposer": [
+            399
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 15:9",
+        "youtubeURL": "https://www.youtube.com/watch?v=qQz-1FXuAmk",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 15:9",
+            "1 João 3:1",
+            "Efésios 3:18"
+        ],
+        "texto_base": "João 15:9",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, que prazer que o bom Pai lá do Céu",
+                "Fala na Bíblia do amor que me tem!",
+                "Há nesse livro mil coisas pra mim!",
+                "E ele me diz que Jesus me quer bem."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, que prazer, Jesus me quer bem!",
+                "Sim, me quer bem, sim, me quer bem!",
+                "Oh, que prazer, Jesus me quer bem!",
+                "Sim, Ele me quer bem!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Mesmo que eu suje o meu coração,",
+                "Cristo me ama e me dá Seu perdão.",
+                "Ele me envolve em Seus braços também;",
+                "Oh, que alegria, Jesus me quer bem!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, que prazer, Jesus me quer bem!",
+                "Sim, me quer bem, sim, me quer bem!",
+                "Oh, que prazer, Jesus me quer bem!",
+                "Sim, Ele me quer bem!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se um só hino no Céu eu cantar,",
+                "Quando Jesus eu puder abraçar,",
+                "Eu vou louvar com os anjos também",
+                "“Que maravilha, Jesus me quer bem!”"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, que prazer, Jesus me quer bem!",
+                "Sim, me quer bem, sim, me quer bem!",
+                "Oh, que prazer, Jesus me quer bem!",
+                "Sim, Ele me quer bem!"
+            ]
+        }
+    ]
+}

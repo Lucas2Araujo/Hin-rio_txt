@@ -1,0 +1,59 @@
+{
+    "hymn": {
+        "number": "588",
+        "title": "Deixai Vir A Mim Os Pequeninos",
+        "originalTitle": "",
+        "subCategory": 32,
+        "lyricsComposer": [
+            383
+        ],
+        "musicComposer": [
+            383
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Lucas 18:16",
+        "youtubeURL": "https://www.youtube.com/watch?v=YfhkVkDCUzA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Lucas 18:16",
+            "Mateus 19:14",
+            "Marcos 10:14"
+        ],
+        "texto_base": "Lucas 18:16",
+        "temas_relacionados": [
+            "Crianças e Jovens"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "“Deixai vir a Mim os pequeninos.”",
+                "Vinde a Jesus, vinde a Jesus!",
+                "“Deixai vir a Mim os pequeninos.”",
+                "Dos pequenos é o reino dos Céus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vinde a Jesus, vinde a Jesus,",
+                "Todas as crianças, Ele a todas ama.",
+                "Vinde a Jesus, vinde a Jesus!",
+                "Dos pequenos é o reino dos Céus.",
+                "Dos pequenos é o reino dos Céus."
+            ]
+        }
+    ]
+}

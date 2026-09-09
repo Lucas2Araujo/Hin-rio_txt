@@ -1,0 +1,2184 @@
+{
+    "authors": [
+        {
+            "id": 1,
+            "name": "A. D. Ellington"
+        }, 
+        {
+            "id": 2,
+            "name": "Auguste Decoppet"
+        }, 
+        {
+            "id": 3,
+            "name": "Aaron Williams"
+        }, 
+        {
+            "id": 4,
+            "name": "Ada Blenkhorn"
+        }, 
+        {
+            "id": 5,
+            "name": "Adelaide A. Pollard"
+        }, 
+        {
+            "id": 6,
+            "name": "Ademir Rodriguez"
+        }, 
+        {
+            "id": 7,
+            "name": "Adhemar de Campos"
+        }, 
+        {
+            "id": 8,
+            "name": "Adolphe-Charles Adam"
+        }, 
+        {
+            "id": 9,
+            "name": "Adoniram Judson Gordon"
+        }, 
+        {
+            "id": 10,
+            "name": "Albert Lister Peace"
+        }, 
+        {
+            "id": 11,
+            "name": "Albertina Rodrigues Simon"
+        }, 
+        {
+            "id": 12,
+            "name": "Alexcenah Thomas"
+        }, 
+        {
+            "id": 13,
+            "name": "Alfred B. Smith"
+        }, 
+        {
+            "id": 14,
+            "name": "Alfred H. Ackley"
+        }, 
+        {
+            "id": 15,
+            "name": "Alfredo Henrique da Silva"
+        }, 
+        {
+            "id": 16,
+            "name": "Alice Östergreen Denyszczuk"
+        }, 
+        {
+            "id": 17,
+            "name": "Amauri Barbosa"
+        }, 
+        {
+            "id": 18,
+            "name": "Amelia Matilda Hull"
+        }, 
+        {
+            "id": 19,
+            "name": "Andraé Crouch"
+        }, 
+        {
+            "id": 20,
+            "name": "André Oliveira Santos"
+        }, 
+        {
+            "id": 21,
+            "name": "Anna B. Warner"
+        }, 
+        {
+            "id": 22,
+            "name": "Annie Sherwood Hawks"
+        }, 
+        {
+            "id": 23,
+            "name": "Anthony J. Showalter"
+        }, 
+        {
+            "id": 24,
+            "name": "Antônio Carlos S. Moura Jr."
+        }, 
+        {
+            "id": 25,
+            "name": "Arabella Katherine Hankey"
+        }, 
+        {
+            "id": 26,
+            "name": "Ari Zendron"
+        }, 
+        {
+            "id": 27,
+            "name": "Ariney Balthazar de Oliveira"
+        }, 
+        {
+            "id": 28,
+            "name": "Arnaldo B. Christianini"
+        }, 
+        {
+            "id": 29,
+            "name": "Arthur S. Sullivan"
+        }, 
+        {
+            "id": 30,
+            "name": "Assad Bechara"
+        }, 
+        {
+            "id": 31,
+            "name": "Aubrey Lee Butler"
+        }, 
+        {
+            "id": 32,
+            "name": "August D. Rische"
+        }, 
+        {
+            "id": 33,
+            "name": "August L. Storm"
+        }, 
+        {
+            "id": 34,
+            "name": "Augustus M. Toplady"
+        }, 
+        {
+            "id": 35,
+            "name": "Austris A. Wihtol"
+        }, 
+        {
+            "id": 36,
+            "name": "Azentia I. P. Chapman"
+        }, 
+        {
+            "id": 37,
+            "name": "Ballington Booth"
+        }, 
+        {
+            "id": 38,
+            "name": "Baylus Benjamin McKinney"
+        }, 
+        {
+            "id": 39,
+            "name": "Baynard L. Fox"
+        }, 
+        {
+            "id": 40,
+            "name": "Bentley D. Ackley"
+        }, 
+        {
+            "id": 41,
+            "name": "Blanche Kerr Brock"
+        }, 
+        {
+            "id": 42,
+            "name": "Buryl Red"
+        }, 
+        {
+            "id": 43,
+            "name": "C. Austin Miles"
+        }, 
+        {
+            "id": 44,
+            "name": "C. C. Williams"
+        }, 
+        {
+            "id": 45,
+            "name": "C. Maude Battersby"
+        }, 
+        {
+            "id": 46,
+            "name": "CANTUS DIVERSI"
+        }, 
+        {
+            "id": 47,
+            "name": "Carey Bonner"
+        }, 
+        {
+            "id": 48,
+            "name": "Carl Boberg"
+        }, 
+        {
+            "id": 49,
+            "name": "Carl Harold Lowden"
+        }, 
+        {
+            "id": 50,
+            "name": "Carl S. Hamblen"
+        }, 
+        {
+            "id": 51,
+            "name": "Carlton C. Buck"
+        }, 
+        {
+            "id": 52,
+            "name": "Carolina Vilhelmina Sandell-Berg"
+        }, 
+        {
+            "id": 53,
+            "name": "Carrie E. Breck"
+        }, 
+        {
+            "id": 54,
+            "name": "Carrie E. Rounsefell"
+        }, 
+        {
+            "id": 55,
+            "name": "Carrie Ellis Breck"
+        }, 
+        {
+            "id": 56,
+            "name": "Charles A. Miles"
+        }, 
+        {
+            "id": 57,
+            "name": "Charles C. Converse"
+        }, 
+        {
+            "id": 58,
+            "name": "Charles Edwin Prior"
+        }, 
+        {
+            "id": 59,
+            "name": "Charles F. Weigle"
+        }, 
+        {
+            "id": 60,
+            "name": "Charles H. Gabriel"
+        }, 
+        {
+            "id": 61,
+            "name": "Charles P. Whitford"
+        }, 
+        {
+            "id": 62,
+            "name": "Charles W. Fry"
+        }, 
+        {
+            "id": 63,
+            "name": "Charles Wesley"
+        }, 
+        {
+            "id": 64,
+            "name": "Charlotte Elliott"
+        }, 
+        {
+            "id": 65,
+            "name": "Chester G. Allen"
+        }, 
+        {
+            "id": 66,
+            "name": "Christian Harmony"
+        }, 
+        {
+            "id": 67,
+            "name": "Chuck Fulmore"
+        }, 
+        {
+            "id": 68,
+            "name": "Church Music"
+        }, 
+        {
+            "id": 69,
+            "name": "Civilla D. Martin"
+        }, 
+        {
+            "id": 70,
+            "name": "Clara H. Scott"
+        }, 
+        {
+            "id": 71,
+            "name": "Clare H. Woolston"
+        }, 
+        {
+            "id": 72,
+            "name": "Clayton A. Nunes"
+        }, 
+        {
+            "id": 73,
+            "name": "Cleiton Schaefer"
+        }, 
+        {
+            "id": 74,
+            "name": "Cleland B. McAfee"
+        }, 
+        {
+            "id": 75,
+            "name": "Clênio Abreu"
+        }, 
+        {
+            "id": 76,
+            "name": "Cleverson Pedro"
+        }, 
+        {
+            "id": 77,
+            "name": "Conrad Kocher"
+        }, 
+        {
+            "id": 78,
+            "name": "Dan Dean"
+        }, 
+        {
+            "id": 79,
+            "name": "Daniel B. Towner"
+        }, 
+        {
+            "id": 80,
+            "name": "Daniel Lüdtke"
+        }, 
+        {
+            "id": 81,
+            "name": "Daniel Salles"
+        }, 
+        {
+            "id": 82,
+            "name": "Daniel W. Whittle"
+        }, 
+        {
+            "id": 83,
+            "name": "Dario Pires de Araújo"
+        }, 
+        {
+            "id": 84,
+            "name": "David Huntsinger"
+        }, 
+        {
+            "id": 85,
+            "name": "Deborah D. Smith"
+        }, 
+        {
+            "id": 86,
+            "name": "Delmar Reis"
+        }, 
+        {
+            "id": 87,
+            "name": "Dennis L. Jernigan"
+        }, 
+        {
+            "id": 88,
+            "name": "Desconhecido"
+        }, 
+        {
+            "id": 89,
+            "name": "Dewitt C. Huntington"
+        }, 
+        {
+            "id": 90,
+            "name": "Diane Ball"
+        }, 
+        {
+            "id": 91,
+            "name": "Don Moen"
+        }, 
+        {
+            "id": 92,
+            "name": "Donald J. Wyrtzen"
+        }, 
+        {
+            "id": 93,
+            "name": "Doris Akers"
+        }, 
+        {
+            "id": 94,
+            "name": "Dorothy Ann Thrupp"
+        }, 
+        {
+            "id": 95,
+            "name": "Douglas A. R. Aufranc"
+        }, 
+        {
+            "id": 96,
+            "name": "E. G. Taylor"
+        }, 
+        {
+            "id": 97,
+            "name": "Earl B. Marlatt"
+        }, 
+        {
+            "id": 98,
+            "name": "Eddie Schultz Henrique"
+        }, 
+        {
+            "id": 99,
+            "name": "Eden Reeder Latta"
+        }, 
+        {
+            "id": 100,
+            "name": "Edith M. Clarkson"
+        }, 
+        {
+            "id": 101,
+            "name": "Edmond L. Budry"
+        }, 
+        {
+            "id": 102,
+            "name": "Edmund Hamilton Sears"
+        }, 
+        {
+            "id": 103,
+            "name": "Edmund S. Lorenz"
+        }, 
+        {
+            "id": 104,
+            "name": "Edson Romero Marques"
+        }, 
+        {
+            "id": 105,
+            "name": "Eduard Eyth"
+        }, 
+        {
+            "id": 106,
+            "name": "Edward Mote"
+        }, 
+        {
+            "id": 107,
+            "name": "Edward Perronet"
+        }, 
+        {
+            "id": 108,
+            "name": "Edwin Barnes"
+        }, 
+        {
+            "id": 109,
+            "name": "Edwin Hatch"
+        }, 
+        {
+            "id": 110,
+            "name": "Edwin O. Excell"
+        }, 
+        {
+            "id": 111,
+            "name": "Eleanor A. Schroll"
+        }, 
+        {
+            "id": 112,
+            "name": "Eleanor Farjeon"
+        }, 
+        {
+            "id": 113,
+            "name": "Elias Reis de Azevedo"
+        }, 
+        {
+            "id": 114,
+            "name": "Elijah T. Cassel"
+        }, 
+        {
+            "id": 115,
+            "name": "Elisha A. Hoffman"
+        }, 
+        {
+            "id": 116,
+            "name": "Eliza E. Hewitt"
+        }, 
+        {
+            "id": 117,
+            "name": "Eliza Rivers Smart"
+        }, 
+        {
+            "id": 118,
+            "name": "Elizabeth Cecilia Clephane"
+        }, 
+        {
+            "id": 119,
+            "name": "Elizabeth Rundle Charles"
+        }, 
+        {
+            "id": 120,
+            "name": "Ellen K. Bradford"
+        }, 
+        {
+            "id": 121,
+            "name": "Elton M. Roth"
+        }, 
+        {
+            "id": 122,
+            "name": "Émile Bonnard"
+        }, 
+        {
+            "id": 123,
+            "name": "Emiliano Ponce"
+        }, 
+        {
+            "id": 124,
+            "name": "Emily Divine Wilson"
+        }, 
+        {
+            "id": 125,
+            "name": "Ênio Monteiro"
+        }, 
+        {
+            "id": 126,
+            "name": "Ereli Andrade da Rocha Prates"
+        }, 
+        {
+            "id": 127,
+            "name": "Ereli Prates"
+        }, 
+        {
+            "id": 128,
+            "name": "Eugene M. Bartlett"
+        }, 
+        {
+            "id": 129,
+            "name": "Evaldo Vicente"
+        }, 
+        {
+            "id": 130,
+            "name": "Fannie E. Bolton"
+        }, 
+        {
+            "id": 131,
+            "name": "Fannie E. Stafford"
+        }, 
+        {
+            "id": 132,
+            "name": "Fanny J. Crosby"
+        }, 
+        {
+            "id": 133,
+            "name": "Felipe Tonasso"
+        }, 
+        {
+            "id": 134,
+            "name": "Felix Mendelssohn-Bartholdy"
+        }, 
+        {
+            "id": 135,
+            "name": "Fernando Iglesias"
+        }, 
+        {
+            "id": 136,
+            "name": "Flavio Almeida Santos"
+        }, 
+        {
+            "id": 137,
+            "name": "Antônio Almeida"
+        }, 
+        {
+            "id": 138,
+            "name": "Flávio Araújo Garcia"
+        }, 
+        {
+            "id": 139,
+            "name": "Flo Price"
+        }, 
+        {
+            "id": 140,
+            "name": "Flora H. Cassel"
+        }, 
+        {
+            "id": 141,
+            "name": "Folliott S. Pierpoint"
+        }, 
+        {
+            "id": 142,
+            "name": "Frances R. Havergal"
+        }, 
+        {
+            "id": 143,
+            "name": "Frances Ridley Havergal"
+        }, 
+        {
+            "id": 144,
+            "name": "Francisco de Assis"
+        }, 
+        {
+            "id": 145,
+            "name": "Frank C. Huston"
+        }, 
+        {
+            "id": 146,
+            "name": "Frank Hernandez"
+        }, 
+        {
+            "id": 147,
+            "name": "Franklin E. Belden"
+        }, 
+        {
+            "id": 148,
+            "name": "Franklin L. Sheppard"
+        }, 
+        {
+            "id": 149,
+            "name": "Franz Joseph Haydn"
+        }, 
+        {
+            "id": 150,
+            "name": "Franz Xaver Gruber"
+        }, 
+        {
+            "id": 151,
+            "name": "Freda H. Allen"
+        }, 
+        {
+            "id": 152,
+            "name": "Frederick A. Fillmore"
+        }, 
+        {
+            "id": 153,
+            "name": "Frederick Charles Maker"
+        }, 
+        {
+            "id": 154,
+            "name": "Frederick M. Lehman"
+        }, 
+        {
+            "id": 155,
+            "name": "Frederick W. Faber"
+        }, 
+        {
+            "id": 156,
+            "name": "Frederick Whitfield"
+        }, 
+        {
+            "id": 157,
+            "name": "Friedrich Ferdinand Flemming"
+        }, 
+        {
+            "id": 158,
+            "name": "Friedrich K. von Gerok"
+        }, 
+        {
+            "id": 159,
+            "name": "Friedrich Schneider"
+        }, 
+        {
+            "id": 160,
+            "name": "Friedrich Silcher"
+        }, 
+        {
+            "id": 161,
+            "name": "GEISTLICHE KIRCHENGESÄNGE"
+        }, 
+        {
+            "id": 162,
+            "name": "GENUINE CHURCH MUSIC"
+        }, 
+        {
+            "id": 163,
+            "name": "Geoff Bullock"
+        }, 
+        {
+            "id": 164,
+            "name": "Georg F. Händel"
+        }, 
+        {
+            "id": 165,
+            "name": "George B. Shea"
+        }, 
+        {
+            "id": 166,
+            "name": "George Bennard"
+        }, 
+        {
+            "id": 167,
+            "name": "George C. Hugg"
+        }, 
+        {
+            "id": 168,
+            "name": "George C. Stebbins"
+        }, 
+        {
+            "id": 169,
+            "name": "George E. Lee"
+        }, 
+        {
+            "id": 170,
+            "name": "George F. Root"
+        }, 
+        {
+            "id": 171,
+            "name": "George Harrison Cook"
+        }, 
+        {
+            "id": 172,
+            "name": "George J. Elvey"
+        }, 
+        {
+            "id": 173,
+            "name": "George J. Webb"
+        }, 
+        {
+            "id": 174,
+            "name": "George Matheson"
+        }, 
+        {
+            "id": 175,
+            "name": "George W. Warren"
+        }, 
+        {
+            "id": 176,
+            "name": "George Whelpton"
+        }, 
+        {
+            "id": 177,
+            "name": "Gérson Felipe Salcedo"
+        }, 
+        {
+            "id": 178,
+            "name": "Gloria Gaither"
+        }, 
+        {
+            "id": 179,
+            "name": "Graham Kendrick"
+        }, 
+        {
+            "id": 180,
+            "name": "Grant C. Tullar"
+        }, 
+        {
+            "id": 181,
+            "name": "Guilherme Luiz dos Santos Ferreira"
+        }, 
+        {
+            "id": 182,
+            "name": "Guilherme S. Andrade"
+        }, 
+        {
+            "id": 183,
+            "name": "Guilherme Schlichting"
+        }, 
+        {
+            "id": 184,
+            "name": "H. Ernest Nichol"
+        }, 
+        {
+            "id": 185,
+            "name": "H. L. Graham"
+        }, 
+        {
+            "id": 186,
+            "name": "H. L. Turner"
+        }, 
+        {
+            "id": 187,
+            "name": "Haldor Lillenas"
+        }, 
+        {
+            "id": 188,
+            "name": "Hamp Haygood Sewell"
+        }, 
+        {
+            "id": 189,
+            "name": "Hans Georg Naegeli"
+        }, 
+        {
+            "id": 190,
+            "name": "Hans Leo Hassler"
+        }, 
+        {
+            "id": 191,
+            "name": "Harold A. Miller"
+        }, 
+        {
+            "id": 192,
+            "name": "Harper G. Smyth"
+        }, 
+        {
+            "id": 193,
+            "name": "Harriet E. B. Stowe"
+        }, 
+        {
+            "id": 194,
+            "name": "Harry D. Clarke"
+        }, 
+        {
+            "id": 195,
+            "name": "Harry S. Mason"
+        }, 
+        {
+            "id": 196,
+            "name": "Hart Pease Danks"
+        }, 
+        {
+            "id": 197,
+            "name": "Helen Griggs"
+        }, 
+        {
+            "id": 198,
+            "name": "Helen H. Lemmel"
+        }, 
+        {
+            "id": 199,
+            "name": "Helen Taylor"
+        }, 
+        {
+            "id": 200,
+            "name": "Henri A. C. Malan"
+        }, 
+        {
+            "id": 201,
+            "name": "Henri F. Hemy"
+        }, 
+        {
+            "id": 202,
+            "name": "Henry Alford"
+        }, 
+        {
+            "id": 203,
+            "name": "Henry Barraclough"
+        }, 
+        {
+            "id": 204,
+            "name": "Henry F. Lyte"
+        }, 
+        {
+            "id": 205,
+            "name": "Henry Francis Lyte"
+        }, 
+        {
+            "id": 206,
+            "name": "Henry J. Zelley"
+        }, 
+        {
+            "id": 207,
+            "name": "Henry Maxwell Wright"
+        }, 
+        {
+            "id": 208,
+            "name": "Henry P. Morton"
+        }, 
+        {
+            "id": 209,
+            "name": "Henry Southwick Perkins"
+        }, 
+        {
+            "id": 210,
+            "name": "Henry T. Bergh"
+        }, 
+        {
+            "id": 211,
+            "name": "Henry Van Dyke"
+        }, 
+        {
+            "id": 212,
+            "name": "Hino Latino"
+        }, 
+        {
+            "id": 213,
+            "name": "Homer A. Rodeheaver"
+        }, 
+        {
+            "id": 214,
+            "name": "Homer W. Grimes"
+        }, 
+        {
+            "id": 215,
+            "name": "Hope Gordon Silva"
+        }, 
+        {
+            "id": 216,
+            "name": "Horatio G. Spafford"
+        }, 
+        {
+            "id": 217,
+            "name": "Horatio Richmond Palmer"
+        }, 
+        {
+            "id": 218,
+            "name": "Howard E. Smith"
+        }, 
+        {
+            "id": 219,
+            "name": "Hubert P. Main"
+        }, 
+        {
+            "id": 220,
+            "name": "Hymns and Tunes"
+        }, 
+        {
+            "id": 221,
+            "name": "Hymns for God’s Peculiar People"
+        }, 
+        {
+            "id": 222,
+            "name": "Ida L. Reed"
+        }, 
+        {
+            "id": 223,
+            "name": "Ina Duley Ogdon"
+        }, 
+        {
+            "id": 224,
+            "name": "Ira D. Sankey"
+        }, 
+        {
+            "id": 225,
+            "name": "Ira F. Stanphill"
+        }, 
+        {
+            "id": 226,
+            "name": "Isaac Watts"
+        }, 
+        {
+            "id": 227,
+            "name": "Isaac Woodbury"
+        }, 
+        {
+            "id": 228,
+            "name": "Isaiah Baltzell"
+        }, 
+        {
+            "id": 229,
+            "name": "Isolina A. Valdwogel"
+        }, 
+        {
+            "id": 230,
+            "name": "Isolina Waldvogel"
+        }, 
+        {
+            "id": 231,
+            "name": "J. Costa"
+        }, 
+        {
+            "id": 232,
+            "name": "J. E. Landor"
+        }, 
+        {
+            "id": 233,
+            "name": "J. E. von Hafe"
+        }, 
+        {
+            "id": 234,
+            "name": "Jack Williams Hayford"
+        }, 
+        {
+            "id": 235,
+            "name": "Jader D. Santos"
+        }, 
+        {
+            "id": 236,
+            "name": "Jair Alberto da Silva"
+        }, 
+        {
+            "id": 237,
+            "name": "Jairo Prado"
+        }, 
+        {
+            "id": 238,
+            "name": "James Bingham"
+        }, 
+        {
+            "id": 239,
+            "name": "James E. Orr"
+        }, 
+        {
+            "id": 240,
+            "name": "James Edmeston"
+        }, 
+        {
+            "id": 241,
+            "name": "James Edson White"
+        }, 
+        {
+            "id": 242,
+            "name": "James Ellor"
+        }, 
+        {
+            "id": 243,
+            "name": "James H. Fillmore"
+        }, 
+        {
+            "id": 244,
+            "name": "James H. McNaughton"
+        }, 
+        {
+            "id": 245,
+            "name": "James H. Rosecrans"
+        }, 
+        {
+            "id": 246,
+            "name": "James L. Elginburg"
+        }, 
+        {
+            "id": 247,
+            "name": "James M. Black"
+        }, 
+        {
+            "id": 248,
+            "name": "James McGranahan"
+        }, 
+        {
+            "id": 249,
+            "name": "James Ramsey Murray"
+        }, 
+        {
+            "id": 250,
+            "name": "James Rowe"
+        }, 
+        {
+            "id": 251,
+            "name": "Jane Leitzke"
+        }, 
+        {
+            "id": 252,
+            "name": "Jean J. C. Sibelius"
+        }, 
+        {
+            "id": 253,
+            "name": "Jean Jacques Rousseau"
+        }, 
+        {
+            "id": 254,
+            "name": "Jeff Wood"
+        }, 
+        {
+            "id": 255,
+            "name": "Jeremiah Eames Rankin"
+        }, 
+        {
+            "id": 256,
+            "name": "Jessie B. Pounds"
+        }, 
+        {
+            "id": 257,
+            "name": "Jessie E. Strout"
+        }, 
+        {
+            "id": 258,
+            "name": "Jhohannes A. Hultman"
+        }, 
+        {
+            "id": 259,
+            "name": "Jimmy Owens"
+        }, 
+        {
+            "id": 260,
+            "name": "Joachim Neander"
+        }, 
+        {
+            "id": 261,
+            "name": "João Corrêa da Costa"
+        }, 
+        {
+            "id": 262,
+            "name": "João Gomes da Rocha"
+        }, 
+        {
+            "id": 263,
+            "name": "João José de Oliveira"
+        }, 
+        {
+            "id": 264,
+            "name": "João Wilson Faustini"
+        }, 
+        {
+            "id": 265,
+            "name": "Joel Sarli"
+        }, 
+        {
+            "id": 266,
+            "name": "Johann W. von Goethe"
+        }, 
+        {
+            "id": 267,
+            "name": "John Bacchus Dykes"
+        }, 
+        {
+            "id": 268,
+            "name": "John Darwall"
+        }, 
+        {
+            "id": 269,
+            "name": "John E. Walvoord"
+        }, 
+        {
+            "id": 270,
+            "name": "John Fawcett"
+        }, 
+        {
+            "id": 271,
+            "name": "John H. Kurzenknabe"
+        }, 
+        {
+            "id": 272,
+            "name": "John H. Sammis"
+        }, 
+        {
+            "id": 273,
+            "name": "John H. Tenney"
+        }, 
+        {
+            "id": 274,
+            "name": "John H. Yates"
+        }, 
+        {
+            "id": 275,
+            "name": "John Hart Stockton"
+        }, 
+        {
+            "id": 276,
+            "name": "John Hatton"
+        }, 
+        {
+            "id": 277,
+            "name": "John Hughes"
+        }, 
+        {
+            "id": 278,
+            "name": "John Jenkins Husband"
+        }, 
+        {
+            "id": 279,
+            "name": "John M. Rasley"
+        }, 
+        {
+            "id": 280,
+            "name": "John Newton"
+        }, 
+        {
+            "id": 281,
+            "name": "John R. MacDuff"
+        }, 
+        {
+            "id": 282,
+            "name": "John R. Sweney"
+        }, 
+        {
+            "id": 283,
+            "name": "John R. Wimber"
+        }, 
+        {
+            "id": 284,
+            "name": "John S. Norris"
+        }, 
+        {
+            "id": 285,
+            "name": "John Samuel Bewley Monsell"
+        }, 
+        {
+            "id": 286,
+            "name": "John Sylvester Fearis"
+        }, 
+        {
+            "id": 287,
+            "name": "John T. McFarland"
+        }, 
+        {
+            "id": 288,
+            "name": "John W. Peterson"
+        }, 
+        {
+            "id": 289,
+            "name": "Johnnie B. Wood"
+        }, 
+        {
+            "id": 290,
+            "name": "Johnson Oatman Jr."
+        }, 
+        {
+            "id": 291,
+            "name": "Jonas Monteiro de Souza"
+        }, 
+        {
+            "id": 292,
+            "name": "José Geraldo de Lima"
+        }, 
+        {
+            "id": 293,
+            "name": "José Maria Barbosa da Silva"
+        }, 
+        {
+            "id": 294,
+            "name": "José Newton da Silva Júnior"
+        }, 
+        {
+            "id": 295,
+            "name": "Joseph H. Gilmore"
+        }, 
+        {
+            "id": 296,
+            "name": "Joseph M. Scriven"
+        }, 
+        {
+            "id": 297,
+            "name": "Joseph Mohr"
+        }, 
+        {
+            "id": 298,
+            "name": "Joseph P. Webster"
+        }, 
+        {
+            "id": 299,
+            "name": "Josephine Lang"
+        }, 
+        {
+            "id": 300,
+            "name": "Joy Becker"
+        }, 
+        {
+            "id": 301,
+            "name": "Judson Van DeVenter"
+        }, 
+        {
+            "id": 302,
+            "name": "Julia Harriete Johnston"
+        }, 
+        {
+            "id": 303,
+            "name": "Julia W. Howe"
+        }, 
+        {
+            "id": 304,
+            "name": "Juliana Pinheiro Sanches"
+        }, 
+        {
+            "id": 305,
+            "name": "Julie Katharina von Hausmann"
+        }, 
+        {
+            "id": 306,
+            "name": "Justus H. Nelson"
+        }, 
+        {
+            "id": 307,
+            "name": "Karolina Wilhelmina Sandell-Berg"
+        }, 
+        {
+            "id": 308,
+            "name": "Katholisches Gesangbuch"
+        }, 
+        {
+            "id": 309,
+            "name": "Kátia Rocha"
+        }, 
+        {
+            "id": 310,
+            "name": "Keith Whitford"
+        }, 
+        {
+            "id": 311,
+            "name": "Kelly Carpenter"
+        }, 
+        {
+            "id": 312,
+            "name": "Kelly Willard"
+        }, 
+        {
+            "id": 313,
+            "name": "Kem G. Bottorf"
+        }, 
+        {
+            "id": 314,
+            "name": "Kleber Augusto"
+        }, 
+        {
+            "id": 315,
+            "name": "Kurt F. Kaiser"
+        }, 
+        {
+            "id": 316,
+            "name": "Lanny Wolfe"
+        }, 
+        {
+            "id": 317,
+            "name": "Laurie Klein"
+        }, 
+        {
+            "id": 318,
+            "name": "Lawrence F. Taylor"
+        }, 
+        {
+            "id": 319,
+            "name": "Leander L. Pickett"
+        }, 
+        {
+            "id": 320,
+            "name": "Lelia N. Morris"
+        }, 
+        {
+            "id": 321,
+            "name": "Lenny LeBlanc"
+        }, 
+        {
+            "id": 322,
+            "name": "Leonardo Gonçalves"
+        }, 
+        {
+            "id": 323,
+            "name": "Lewis E. Jones"
+        }, 
+        {
+            "id": 324,
+            "name": "Lewis Henry Redner"
+        }, 
+        {
+            "id": 325,
+            "name": "Lillian D. Avery-Stuttle"
+        }, 
+        {
+            "id": 326,
+            "name": "Lineu Formighieri Soares"
+        }, 
+        {
+            "id": 327,
+            "name": "Lisley Viana"
+        }, 
+        {
+            "id": 328,
+            "name": "LITTLE CHILDRENS BOOK"
+        }, 
+        {
+            "id": 329,
+            "name": "Lizzie DeArmond"
+        }, 
+        {
+            "id": 330,
+            "name": "Louis Bourgeois"
+        }, 
+        {
+            "id": 331,
+            "name": "Louisa M. R. Stead"
+        }, 
+        {
+            "id": 332,
+            "name": "Lowell Mason"
+        }, 
+        {
+            "id": 333,
+            "name": "Luciana Valente"
+        }, 
+        {
+            "id": 334,
+            "name": "Lucinda M. B. Bateman"
+        }, 
+        {
+            "id": 335,
+            "name": "Ludie Carrington Day Pickett"
+        }, 
+        {
+            "id": 336,
+            "name": "Ludwig Van Beethoven"
+        }, 
+        {
+            "id": 337,
+            "name": "Luiz Waldvogel"
+        }, 
+        {
+            "id": 338,
+            "name": "Luther B. Bridgers"
+        }, 
+        {
+            "id": 339,
+            "name": "Lydia Baxter"
+        }, 
+        {
+            "id": 340,
+            "name": "LYRA DAVIDICA"
+        }, 
+        {
+            "id": 341,
+            "name": "Maltbie D. Babcock"
+        }, 
+        {
+            "id": 342,
+            "name": "Marcelo Martins"
+        }, 
+        {
+            "id": 343,
+            "name": "Marcelo Santos Meireles"
+        }, 
+        {
+            "id": 344,
+            "name": "Márcia Secundino"
+        }, 
+        {
+            "id": 345,
+            "name": "Marcos Witt"
+        }, 
+        {
+            "id": 346,
+            "name": "Mariane Scriven"
+        }, 
+        {
+            "id": 347,
+            "name": "Mário Jorge Lima"
+        }, 
+        {
+            "id": 348,
+            "name": "Marjorie Lewis Lloyd"
+        }, 
+        {
+            "id": 349,
+            "name": "Marta Dourado Storch"
+        }, 
+        {
+            "id": 350,
+            "name": "Martinho Lutero"
+        }, 
+        {
+            "id": 351,
+            "name": "Mary A. Lathbury"
+        }, 
+        {
+            "id": 352,
+            "name": "Mary A. Shorey"
+        }, 
+        {
+            "id": 353,
+            "name": "Mary Ann Baker"
+        }, 
+        {
+            "id": 354,
+            "name": "Mary Brown"
+        }, 
+        {
+            "id": 355,
+            "name": "Mary Stanley Bruce Dana"
+        }, 
+        {
+            "id": 356,
+            "name": "Mary Whittle Moody"
+        }, 
+        {
+            "id": 357,
+            "name": "Matthew Bridges"
+        }, 
+        {
+            "id": 358,
+            "name": "Maurice A. Clifton"
+        }, 
+        {
+            "id": 359,
+            "name": "May H. Brahe"
+        }, 
+        {
+            "id": 360,
+            "name": "Melchior Teschner"
+        }, 
+        {
+            "id": 361,
+            "name": "Melodia Gregoriana"
+        }, 
+        {
+            "id": 362,
+            "name": "Melodia Tradicional Alemã"
+        }, 
+        {
+            "id": 363,
+            "name": "Melodia Tradicional Americana"
+        }, 
+        {
+            "id": 364,
+            "name": "Melodia Tradicional Cubana"
+        }, 
+        {
+            "id": 365,
+            "name": "Melodia Tradicional Escocesa"
+        }, 
+        {
+            "id": 366,
+            "name": "Melodia Tradicional Espanhola"
+        }, 
+        {
+            "id": 367,
+            "name": "Melodia Tradicional Francesa"
+        }, 
+        {
+            "id": 368,
+            "name": "Melodia Tradicional Galesa"
+        }, 
+        {
+            "id": 369,
+            "name": "Melodia Tradicional Holandesa"
+        }, 
+        {
+            "id": 370,
+            "name": "Melodia Tradicional Indiana"
+        }, 
+        {
+            "id": 371,
+            "name": "Melodia Tradicional Inglesa"
+        }, 
+        {
+            "id": 372,
+            "name": "Melodia Tradicional Inglesa"
+        }, 
+        {
+            "id": 373,
+            "name": "Melodia Tradicional Irlandesa"
+        }, 
+        {
+            "id": 374,
+            "name": "Melodia Tradicional Judaica"
+        }, 
+        {
+            "id": 375,
+            "name": "Melodia Tradicional Maori"
+        }, 
+        {
+            "id": 376,
+            "name": "Melodia Tradicional Silesiana"
+        }, 
+        {
+            "id": 377,
+            "name": "Melodia Tradicional Sueca"
+        }, 
+        {
+            "id": 378,
+            "name": "Melodia Tradicional Turingiana"
+        }, 
+        {
+            "id": 379,
+            "name": "Michael Ledner"
+        }, 
+        {
+            "id": 380,
+            "name": "Michael W. Smith"
+        }, 
+        {
+            "id": 381,
+            "name": "Milton Mendes Andrade"
+        }, 
+        {
+            "id": 382,
+            "name": "Münster Gesangbuch"
+        }, 
+        {
+            "id": 383,
+            "name": "Myrtes Amaral Ribeiro"
+        }, 
+        {
+            "id": 384,
+            "name": "Nathaniel Niles"
+        }, 
+        {
+            "id": 385,
+            "name": "Negro Spiritual"
+        }, 
+        {
+            "id": 386,
+            "name": "Níbia P. de Mayer"
+        }, 
+        {
+            "id": 387,
+            "name": "Nilton Tuller"
+        }, 
+        {
+            "id": 388,
+            "name": "Norman J. Clayton"
+        }, 
+        {
+            "id": 389,
+            "name": "Norman MacLeod"
+        }, 
+        {
+            "id": 390,
+            "name": "Oliver Holden"
+        }, 
+        {
+            "id": 391,
+            "name": "Oscar Ahnfelt"
+        }, 
+        {
+            "id": 392,
+            "name": "Oswald J. Smith"
+        }, 
+        {
+            "id": 393,
+            "name": "Pablo Sanches"
+        }, 
+        {
+            "id": 394,
+            "name": "Paul Baloche"
+        }, 
+        {
+            "id": 395,
+            "name": "Paulo Souza Ferreira"
+        }, 
+        {
+            "id": 396,
+            "name": "Pedro Grado"
+        }, 
+        {
+            "id": 397,
+            "name": "Peter Christian Lutkin"
+        }, 
+        {
+            "id": 398,
+            "name": "Peter P. Bilhorn"
+        }, 
+        {
+            "id": 399,
+            "name": "Philip P. Bliss"
+        }, 
+        {
+            "id": 400,
+            "name": "Phillip Phillips"
+        }, 
+        {
+            "id": 401,
+            "name": "Phillips Brooks"
+        }, 
+        {
+            "id": 402,
+            "name": "Phoebe Cary"
+        }, 
+        {
+            "id": 403,
+            "name": "Phoebe Palmer Knapp"
+        }, 
+        {
+            "id": 404,
+            "name": "Phoebe Palmer"
+        }, 
+        {
+            "id": 405,
+            "name": "Phyllips C. Michael"
+        }, 
+        {
+            "id": 406,
+            "name": "Placide Cappeau"
+        }, 
+        {
+            "id": 407,
+            "name": "Poema Latino Medieval"
+        }, 
+        {
+            "id": 408,
+            "name": "Priscilla J. Owens"
+        }, 
+        {
+            "id": 409,
+            "name": "Psaumes et Cantiques"
+        }, 
+        {
+            "id": 410,
+            "name": "Rafael Lindemute"
+        }, 
+        {
+            "id": 411,
+            "name": "Ragan Courtney"
+        }, 
+        {
+            "id": 412,
+            "name": "Ralph E. Hudson"
+        }, 
+        {
+            "id": 413,
+            "name": "Ralph R. Carmichael"
+        }, 
+        {
+            "id": 414,
+            "name": "Regina Mota"
+        }, 
+        {
+            "id": 415,
+            "name": "Reginald Heber"
+        }, 
+        {
+            "id": 416,
+            "name": "Repository of Sacred Music – II"
+        }, 
+        {
+            "id": 417,
+            "name": "Rhea F. Miller"
+        }, 
+        {
+            "id": 418,
+            "name": "Ricardo Martins"
+        }, 
+        {
+            "id": 419,
+            "name": "Ricardo Ost Damm Martins"
+        }, 
+        {
+            "id": 420,
+            "name": "Ricardo Pitrowsky"
+        }, 
+        {
+            "id": 421,
+            "name": "Ricardo Viana"
+        }, 
+        {
+            "id": 422,
+            "name": "Richard Blanchard"
+        }, 
+        {
+            "id": 423,
+            "name": "Richard Storrs Willis"
+        }, 
+        {
+            "id": 424,
+            "name": "Rick Kirgham"
+        }, 
+        {
+            "id": 425,
+            "name": "RIPPON´S SELECTION OF HYMNS"
+        }, 
+        {
+            "id": 426,
+            "name": "Rize L. Matheus"
+        }, 
+        {
+            "id": 427,
+            "name": "Robert Cull"
+        }, 
+        {
+            "id": 428,
+            "name": "Robert Grant"
+        }, 
+        {
+            "id": 429,
+            "name": "Robert Harkness"
+        }, 
+        {
+            "id": 430,
+            "name": "Robert Hawkey Moreton"
+        }, 
+        {
+            "id": 431,
+            "name": "Robert Lowry"
+        }, 
+        {
+            "id": 432,
+            "name": "Robert Robinson"
+        }, 
+        {
+            "id": 433,
+            "name": "Rodolpho Belz"
+        }, 
+        {
+            "id": 434,
+            "name": "Rogério Sathler"
+        }, 
+        {
+            "id": 435,
+            "name": "Ronaldo da Silva"
+        }, 
+        {
+            "id": 436,
+            "name": "Ronaldo de Oliveira"
+        }, 
+        {
+            "id": 437,
+            "name": "Ruby E. Dubois"
+        }, 
+        {
+            "id": 438,
+            "name": "Rufus H. McDaniel"
+        }, 
+        {
+            "id": 439,
+            "name": "Russell K. Carter"
+        }, 
+        {
+            "id": 440,
+            "name": "Rute de Matos Bazan"
+        }, 
+        {
+            "id": 441,
+            "name": "Ruth Oberg Guimarães"
+        }, 
+        {
+            "id": 442,
+            "name": "S. J. Graham"
+        }, 
+        {
+            "id": 443,
+            "name": "Sabine Baring-Gould"
+        }, 
+        {
+            "id": 444,
+            "name": "SACRED MELODIES – II"
+        }, 
+        {
+            "id": 445,
+            "name": "Salomão Luiz Ginsburg"
+        }, 
+        {
+            "id": 446,
+            "name": "Samuel Gravino Júnior"
+        }, 
+        {
+            "id": 447,
+            "name": "Samuel John Stone"
+        }, 
+        {
+            "id": 448,
+            "name": "Samuel Krähenbühl"
+        }, 
+        {
+            "id": 449,
+            "name": "Samuel Lóia"
+        }, 
+        {
+            "id": 450,
+            "name": "Samuel S. Wesley"
+        }, 
+        {
+            "id": 451,
+            "name": "Samuel Silva"
+        }, 
+        {
+            "id": 452,
+            "name": "Samuel Stennett"
+        }, 
+        {
+            "id": 453,
+            "name": "Sanford F. Bennett"
+        }, 
+        {
+            "id": 454,
+            "name": "Sarah de Matos Bazan"
+        }, 
+        {
+            "id": 455,
+            "name": "Sarah F. Adams"
+        }, 
+        {
+            "id": 456,
+            "name": "Sarah Poulton Kalley"
+        }, 
+        {
+            "id": 457,
+            "name": "Scott Lawrence"
+        }, 
+        {
+            "id": 458,
+            "name": "Sebastião M. Barbosa Júnior"
+        }, 
+        {
+            "id": 459,
+            "name": "Seleção de John Dobell"
+        }, 
+        {
+            "id": 460,
+            "name": "SELECTION OF HYMNS"
+        }, 
+        {
+            "id": 461,
+            "name": "Sidney Clopton Lanier"
+        }, 
+        {
+            "id": 462,
+            "name": "Sidney S. Brewer"
+        }, 
+        {
+            "id": 463,
+            "name": "Silmar Correia"
+        }, 
+        {
+            "id": 464,
+            "name": "Simeon B. Marsh"
+        }, 
+        {
+            "id": 465,
+            "name": "Sophia Zuberbuhler"
+        }, 
+        {
+            "id": 466,
+            "name": "Sra. J. Hunter"
+        }, 
+        {
+            "id": 467,
+            "name": "Stephen C. Foster"
+        }, 
+        {
+            "id": 468,
+            "name": "Steven L. Fry"
+        }, 
+        {
+            "id": 469,
+            "name": "Stralsund Gesangbuch"
+        }, 
+        {
+            "id": 470,
+            "name": "Stuart K. Hine"
+        }, 
+        {
+            "id": 471,
+            "name": "Sullivan Dutra"
+        }, 
+        {
+            "id": 472,
+            "name": "Suzanne Hirle"
+        }, 
+        {
+            "id": 473,
+            "name": "Suzye Priscilla Coimbra"
+        }, 
+        {
+            "id": 474,
+            "name": "Sylvanus D. Phelps"
+        }, 
+        {
+            "id": 475,
+            "name": "Társis Iraídes"
+        }, 
+        {
+            "id": 476,
+            "name": "Teodulfo de Orleães"
+        }, 
+        {
+            "id": 477,
+            "name": "Theodoro Rodrigues Teixeira"
+        }, 
+        {
+            "id": 478,
+            "name": "Thomas Campbell"
+        }, 
+        {
+            "id": 479,
+            "name": "Thomas E. Fettke"
+        }, 
+        {
+            "id": 480,
+            "name": "Thomas Hastings"
+        }, 
+        {
+            "id": 481,
+            "name": "Thomas Ken"
+        }, 
+        {
+            "id": 482,
+            "name": "Thomas M. Lister"
+        }, 
+        {
+            "id": 483,
+            "name": "Thomas Obadiah Chisholm"
+        }, 
+        {
+            "id": 484,
+            "name": "Thomas Olivers"
+        }, 
+        {
+            "id": 485,
+            "name": "Timbrel of Zion"
+        }, 
+        {
+            "id": 486,
+            "name": "Timothy R. Matthews"
+        }, 
+        {
+            "id": 487,
+            "name": "Tulius C. O’Kane"
+        }, 
+        {
+            "id": 488,
+            "name": "Twila Paris"
+        }, 
+        {
+            "id": 489,
+            "name": "U. B. Oyen"
+        }, 
+        {
+            "id": 490,
+            "name": "Uriah Smith"
+        }, 
+        {
+            "id": 491,
+            "name": "Urias Pires Chagas"
+        }, 
+        {
+            "id": 492,
+            "name": "Valdecir Simões Lima"
+        }, 
+        {
+            "id": 493,
+            "name": "Vernon J. Charlesworth"
+        }, 
+        {
+            "id": 494,
+            "name": "Vinícius Mendes de Oliveira"
+        }, 
+        {
+            "id": 495,
+            "name": "Virgil P. Brock"
+        }, 
+        {
+            "id": 496,
+            "name": "William Elmo Mercer"
+        }, 
+        {
+            "id": 497,
+            "name": "W. G. Irvin"
+        }, 
+        {
+            "id": 498,
+            "name": "W. H. Bellamy"
+        }, 
+        {
+            "id": 499,
+            "name": "W. H. Pike"
+        }, 
+        {
+            "id": 500,
+            "name": "W. J. Bostwick"
+        }, 
+        {
+            "id": 501,
+            "name": "W. Spencer Walton"
+        }, 
+        {
+            "id": 502,
+            "name": "W. Stillman Martin"
+        }, 
+        {
+            "id": 503,
+            "name": "W. T. Meyr"
+        }, 
+        {
+            "id": 504, 
+            "name": "Waldemar Orlando Wensell"
+        }, 
+        {
+            "id": 505,
+            "name": "Wanderson F. Paiva"
+        }, 
+        {
+            "id": 506,
+            "name": "Warren D. Cornell"
+        }, 
+        {
+            "id": 507,
+            "name": "Wayne Hooper"
+        }, 
+        {
+            "id": 508,
+            "name": "Wendel Mattos"
+        }, 
+        {
+            "id": 509,
+            "name": "Werner Kaschel"
+        }, 
+        {
+            "id": 510,
+            "name": "Wilhelm Hey"
+        }, 
+        {
+            "id": 511,
+            "name": "Will L. Thompson"
+        }, 
+        {
+            "id": 512,
+            "name": "William A. Ogden"
+        }, 
+        {
+            "id": 513,
+            "name": "William B. Bradbury"
+        }, 
+        {
+            "id": 514,
+            "name": "William C. Martin"
+        }, 
+        {
+            "id": 515,
+            "name": "William Cowper"
+        }, 
+        {
+            "id": 516,
+            "name": "William D. Longstaff"
+        }, 
+        {
+            "id": 517,
+            "name": "William E. Etzminger"
+        }, 
+        {
+            "id": 518,
+            "name": "William F. Sherwin"
+        }, 
+        {
+            "id": 519,
+            "name": "William G. Cooper"
+        }, 
+        {
+            "id": 520,
+            "name": "William Gould Tomer"
+        }, 
+        {
+            "id": 521,
+            "name": "William Gustavus Fischer"
+        }, 
+        {
+            "id": 522,
+            "name": "William H. Doane"
+        }, 
+        {
+            "id": 523,
+            "name": "William H. Monk"
+        }, 
+        {
+            "id": 524,
+            "name": "William Hunter"
+        }, 
+        {
+            "id": 525,
+            "name": "William J. Gaither"
+        }, 
+        {
+            "id": 526,
+            "name": "William J. Kirkpatrick"
+        }, 
+        {
+            "id": 527,
+            "name": "William Marion Runyan"
+        }, 
+        {
+            "id": 528,
+            "name": "William McComb"
+        }, 
+        {
+            "id": 529,
+            "name": "William O. Cushing"
+        }, 
+        {
+            "id": 530,
+            "name": "William Paton Mackay"
+        }, 
+        {
+            "id": 531,
+            "name": "William Ralph Featherstone"
+        }, 
+        {
+            "id": 532,
+            "name": "William Savage Pitts"
+        }, 
+        {
+            "id": 533,
+            "name": "William T. Sleeper"
+        }, 
+        {
+            "id": 534,
+            "name": "William W. Walford"
+        }, 
+        {
+            "id": 535,
+            "name": "Williams Costa Jr."
+        }, 
+        {
+            "id": 536,
+            "name": "Winfield S. Weeden"
+        }, 
+        {
+            "id": 537,
+            "name": "Wintley Phipps"
+        },
+        {
+            "id": 538,
+            "name": "Guilherme Stein Jr."
+        },
+        {
+            "id": 539,
+            "name": "Issac Nicolau Sallum"
+        },
+     {
+            "id": 540,
+            "name": "Finis Alma Rhine Morgan"
+        },
+        {
+            "id": 541,
+            "name": "Humberto P. Ferreira"
+        },
+        {
+            "id": 542,
+            "name": "Ronnye Dias"
+        },
+        {
+            "id": 543,
+            "name": "Marcos Scheffel"
+        },
+        {
+            "id": 544,
+            "name": "Fernando Campos"
+        },
+        {
+            "id": 545,
+            "name": "Salvation Army Music– I"
+        }
+    ]
+}

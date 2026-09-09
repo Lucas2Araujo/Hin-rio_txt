@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "518",
+        "title": "O Dia Em Que Deus Criou O Mundo",
+        "originalTitle": "",
+        "subCategory": 29,
+        "lyricsComposer": [
+            27
+        ],
+        "musicComposer": [
+            27
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Gênesis 1",
+        "youtubeURL": "https://www.youtube.com/watch?v=444SonCfdPE",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Êxodo 20:11",
+            "Hebreus 11:3",
+            "Gênesis 1:31"
+        ],
+        "texto_base": "Gênesis 1",
+        "temas_relacionados": [
+            "Vida Cristã e Devoção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu sei que Deus criou o mundo em seis dias;",
+                "Por Sua voz tudo se formou.",
+                "Jesus falou, e então tudo apareceu;",
+                "Foi assim que Ele o mundo criou."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu sei que Deus criou o mundo em seis dias;",
+                "Por Sua voz tudo se formou.",
+                "Jesus falou, e então tudo apareceu;",
+                "Foi assim que Ele o mundo criou."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O dia e a noite,",
+                "os rios, o Sol e o mar,",
+                "Estrelas e planetas,",
+                "o céu azul e o ar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu sei que Deus criou o mundo em seis dias;",
+                "Por Sua voz tudo se formou.",
+                "Jesus falou, e então tudo apareceu;",
+                "Foi assim que Ele o mundo criou."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Fez flores e florestas,",
+                "fez peixes e animais;",
+                "Girafas muito enormes,",
+                "tico-ticos e pardais."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "E, quando terminou, olhou muito bem",
+                "E viu que tudo era muito bom.",
+                "Jesus ficou feliz por tudo o que fez.",
+                "E os anjos cantaram: Amém!",
+                "E os anjos cantaram: Amém!",
+                "E os anjos cantaram: Amém!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "495",
+        "title": "Glória Perene",
+        "originalTitle": "The Glory Song",
+        "subCategory": 28,
+        "lyricsComposer": [
+            60
+        ],
+        "musicComposer": [
+            60
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 25:34",
+        "youtubeURL": "https://www.youtube.com/watch?v=yqvOpAcE_EE",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Romanos 8:18",
+            "1 Pedro 5:10",
+            "2 Coríntios 4:17"
+        ],
+        "texto_base": "Mateus 25:34",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quando meu tempo de lutas passar,",
+                "Quando meu Mestre vier me buscar,",
+                "Grato, perante Ele então me prostrar,",
+                "Glória perene será para mim!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, há de ser glória pra mim!",
+                "Glória pra mim! Glória pra mim!",
+                "Quando puder o Seu rosto mirar,",
+                "Oh, há de ser grande glória pra mim!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quando, na graça do Seu grande amor,",
+                "Eu alcançar o infinito favor",
+                "De ir para perto do meu Salvador,",
+                "Glória perene será para mim!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, há de ser glória pra mim!",
+                "Glória pra mim! Glória pra mim!",
+                "Quando puder o Seu rosto mirar,",
+                "Oh, há de ser grande glória pra mim!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Muitos amigos ali hei de achar,",
+                "Paz, alegria, prazer, bem-estar;",
+                "Mas, quando meu Salvador me saudar,",
+                "Glória perene será para mim!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, há de ser glória pra mim!",
+                "Glória pra mim! Glória pra mim!",
+                "Quando puder o Seu rosto mirar,",
+                "Oh, há de ser grande glória pra mim!"
+            ]
+        }
+    ]
+}

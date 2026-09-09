@@ -1,0 +1,78 @@
+{
+    "hymn": {
+        "number": "328",
+        "title": "Meu Deus E Eu",
+        "originalTitle": "My God and I",
+        "subCategory": 22,
+        "lyricsComposer": [
+            35
+        ],
+        "musicComposer": [
+            35
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Gênesis 5:24",
+        "youtubeURL": "https://www.youtube.com/watch?v=AW5sH1Z4XYs",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Gênesis 5:24",
+            "Gênesis 6:9",
+            "Miquéias 6:8"
+        ],
+        "texto_base": "Gênesis 5:24",
+        "temas_relacionados": [
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Meu Deus e eu",
+                "andamos pelos campos,",
+                "Quais bons amigos, juntos a passear.",
+                "Com emoção, alegres conversamos,",
+                "Sem nada, nada a nos atrapalhar.",
+                "Com emoção, alegres conversamos,",
+                "Sem nada, nada a nos atrapalhar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Meu Deus me conta",
+                "de outros tempos, quando",
+                "Eternos planos Ele fez por mim.",
+                "Quando o que vejo era apenas sonho,",
+                "Quando Ele o mundo fez tão belo assim.",
+                "Quando o que vejo era apenas sonho,",
+                "Quando Ele o mundo fez tão belo assim."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Meu Deus e eu,",
+                "eternamente juntos,",
+                "Quais bons amigos, vamos sempre andar.",
+                "Inda que o Céu e a própria Terra passem,",
+                "Nada de Deus me pode separar.",
+                "Inda que o Céu e a própria Terra passem,",
+                "Nada de Deus me pode separar."
+            ]
+        }
+    ]
+}

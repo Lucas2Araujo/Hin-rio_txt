@@ -1,0 +1,81 @@
+{
+    "hymn": {
+        "number": "319",
+        "title": "Cristo É Tudo Para Mim",
+        "originalTitle": "Jesus Is All the World to Me",
+        "subCategory": 22,
+        "lyricsComposer": [
+            511
+        ],
+        "musicComposer": [
+            511
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Filipenses 3:7, 8",
+        "youtubeURL": "https://www.youtube.com/watch?v=s99navSSdWM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Colossenses 3:11",
+            "Filipenses 1:21",
+            "Salmos 73:25"
+        ],
+        "texto_base": "Filipenses 3:7, 8",
+        "temas_relacionados": [
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo é tudo para mim:",
+                "viver, sonhar, cantar.",
+                "É minha força na aflição;",
+                "sem Ele, que pesar!",
+                "Quando em tristeza, a Ele vou,",
+                "pois meu Jesus jamais falhou.",
+                "Quando em pesar, faz-me alegrar.",
+                "Cristo é meu!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo é tudo para mim;",
+                "leal eu Lhe serei.",
+                "Ele é amigo tão fiel!",
+                "Jamais O negarei.",
+                "Quando ao Seu lado, alegre vou;",
+                "em Sua mão, seguro estou.",
+                "Só com Jesus tudo reluz.",
+                "Cristo é meu!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo é tudo para mim.",
+                "Só Ele satisfaz.",
+                "A confiança Nele pus,",
+                "não mais me falta paz.",
+                "Tendo a Jesus comigo assim,",
+                "minha alegria não tem fim:",
+                "Vida eternal, livre do mal!",
+                "Cristo é meu!"
+            ]
+        }
+    ]
+}

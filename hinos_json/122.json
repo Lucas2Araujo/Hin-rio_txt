@@ -1,0 +1,103 @@
+{
+    "hymn": {
+        "number": "122",
+        "title": "Só Um Passo",
+        "originalTitle": "Over the Line",
+        "subCategory": 10,
+        "lyricsComposer": [
+            120
+        ],
+        "musicComposer": [
+            147
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Lucas 15:17-24",
+        "youtubeURL": "https://www.youtube.com/watch?v=zJqNjxb-7SI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 11:28",
+            "Apocalipse 22:17",
+            "Isaías 55:1"
+        ],
+        "texto_base": "Lucas 15:17-24",
+        "temas_relacionados": [
+            "Crianças e Jovens",
+            "Graça e Salvação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Mui terna e doce é do Mestre a voz,",
+                "Chamando-me com amor:",
+                "“De braços abertos te espero, vem!",
+                "Ó vem ao teu Redentor!”"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo me chama e quer me salvar.",
+                "É só um passo, é só confiar!",
+                "Todo o meu ser deponho no altar.",
+                "Aceita-me Tu, ó Cristo!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "“Tu tens muitas culpas e débil fé”,",
+                "Sugere-me o tentador.",
+                "“Eu tudo já fiz”, uma voz me diz,",
+                "“Confia em teu Salvador!”"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo me chama e quer me salvar.",
+                "É só um passo, é só confiar!",
+                "Todo o meu ser deponho no altar.",
+                "Aceita-me Tu, ó Cristo!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O mundo é falso, perdido e mau;",
+                "Pequeno e frágil sou,",
+                "Mas Cristo com voz divinal me diz:",
+                "“Meu filho, Eu forças dou!””"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo me chama e quer me salvar.",
+                "É só um passo, é só confiar!",
+                "Todo o meu ser deponho no altar.",
+                "Aceita-me Tu, ó Cristo!"
+            ]
+        }
+    ]
+}

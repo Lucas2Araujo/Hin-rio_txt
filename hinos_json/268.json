@@ -1,0 +1,105 @@
+{
+    "hymn": {
+        "number": "268",
+        "title": "Compensa Servir A Jesus",
+        "originalTitle": "It Pays to Serve Jesus",
+        "subCategory": 17,
+        "lyricsComposer": [
+            145
+        ],
+        "musicComposer": [
+            145
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 19:27-29",
+        "youtubeURL": "https://www.youtube.com/watch?v=maPqiR2yjy0",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 19:29",
+            "Marcos 10:29-30",
+            "Lucas 18:29-30"
+        ],
+        "texto_base": "Mateus 19:27-29",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Missão e Serviço",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Servir a Jesus, que prazer sem igual!",
+                "Nele há salvação e vida eternal.",
+                "É só confiar e seguir Sua luz;",
+                "Compensa servir a Jesus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Compensa servir a Jesus mais e mais;",
+                "Compensa, pois bênçãos produz.",
+                "Seja a senda da glória difícil demais,",
+                "É prazer, sim, servir a Jesus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ainda que as sombras nos venham cercar",
+                "E espinhos do mal nos façam sangrar,",
+                "O bom Redentor já sofreu sobre a cruz.",
+                "Compensa servir a Jesus."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Compensa servir a Jesus mais e mais;",
+                "Compensa, pois bênçãos produz.",
+                "Seja a senda da glória difícil demais,",
+                "É prazer, sim, servir a Jesus."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Compensa servir a Jesus com amor,",
+                "Embora a sofrer em lutas e dor.",
+                "O Mestre, com graça, nos guarda e conduz.",
+                "Compensa servir a Jesus."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Compensa servir a Jesus mais e mais;",
+                "Compensa, pois bênçãos produz.",
+                "Seja a senda da glória difícil demais,",
+                "É prazer, sim, servir a Jesus."
+            ]
+        }
+    ]
+}

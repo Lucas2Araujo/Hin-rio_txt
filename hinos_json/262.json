@@ -1,0 +1,119 @@
+{
+    "hymn": {
+        "number": "262",
+        "title": "Irei Aonde Jesus Mandar",
+        "originalTitle": "I’ll Go Where You Want Me to Go",
+        "subCategory": 17,
+        "lyricsComposer": [
+            354,
+            58
+        ],
+        "musicComposer": [
+            354,
+            58
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Lucas 9:2",
+        "youtubeURL": "https://www.youtube.com/watch?v=PEUoGbpsQo4",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Lucas 9:2",
+            "Lucas 10:3",
+            "Marcos 16:15"
+        ],
+        "texto_base": "Lucas 9:2",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Missão e Serviço",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Irei aonde Jesus mandar.",
+                "Eu vou sempre obedecer",
+                "Em casa ou mesmo além do mar.",
+                "Aonde mandar, irei,",
+                "Ouvindo a Sua voz de amor,",
+                "Por sendas que não sei.",
+                "Eu hei de dizer a Jesus: “Senhor,",
+                "Aonde mandares irei.”"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Contigo sempre irei, Senhor,",
+                "Por terras ou por mar.",
+                "Eu quero cumprir Teu querer, Senhor.",
+                "Aonde mandares irei."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Talvez o amor, o conforto e a paz",
+                "Eu deva levar a alguém.",
+                "Também levar-lhe a salvação",
+                "Que só de Jesus advém.",
+                "Se sempre me guias, meu Senhor,",
+                "Por onde quer que for,",
+                "Jamais minha voz deixarei calar,",
+                "Sabendo que eu deva falar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Contigo sempre irei, Senhor,",
+                "Por terras ou por mar.",
+                "Eu quero cumprir Teu querer, Senhor.",
+                "Aonde mandares irei."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu sei que há um lugar pra mim",
+                "Na obra do meu Senhor.",
+                "E a ela eu quero me dedicar",
+                "Com todo o meu fervor.",
+                "Eu tudo confio a meu Jesus",
+                "E espero Sua luz.",
+                "Eu quero somente servir ao Rei,",
+                "Seu súdito sempre serei."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Contigo sempre irei, Senhor,",
+                "Por terras ou por mar.",
+                "Eu quero cumprir Teu querer, Senhor.",
+                "Aonde mandares irei."
+            ]
+        }
+    ]
+}

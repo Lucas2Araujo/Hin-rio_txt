@@ -1,0 +1,69 @@
+{
+    "hymn": {
+        "number": "138",
+        "title": "Tal Qual Estou",
+        "originalTitle": "Just As I Am",
+        "subCategory": 10,
+        "lyricsComposer": [
+            64
+        ],
+        "musicComposer": [
+            513
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 103:13, 14",
+        "youtubeURL": "https://www.youtube.com/watch?v=NTBQm-5nTZ0",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 6:37",
+            "Romanos 5:8",
+            "Efésios 2:4-5"
+        ],
+        "texto_base": "Salmo 103:13, 14",
+        "temas_relacionados": [
+            "Graça e Salvação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tal qual estou, eu venho a Ti.",
+                "Aceita-me, ó Salvador!",
+                "Confiante sou em Teu amor.",
+                "Ó Salvador, me achego a Ti!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tal qual estou, eu venho a Ti.",
+                "Perdão me podes conceder",
+                "E minhas faltas esquecer.",
+                "Ó Salvador, me achego a Ti!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tal qual estou, eu venho a Ti.",
+                "E Tu minh’alma limparás.",
+                "Com Teu amor me envolverás.",
+                "Ó Salvador, me achego a Ti!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "hymn": {
+        "number": "220",
+        "title": "Fortalece Tua Igreja",
+        "originalTitle": "God Has Spoken By His Prophets",
+        "subCategory": 12,
+        "lyricsComposer": [
+            207
+        ],
+        "musicComposer": [
+            368
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Habacuque 3:2",
+        "youtubeURL": "https://www.youtube.com/watch?v=ddnROB-Iagk",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Habacuque 3:2",
+            "Salmos 85:6",
+            "Isaías 57:15"
+        ],
+        "texto_base": "Habacuque 3:2",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Lar e Família",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Fortalece Tua igreja,",
+                "ó bendito e bom Senhor.",
+                "Aquecendo nossa vida",
+                "no divino, santo amor.",
+                "Vem, derrama sobre todos",
+                "toda a graça de Jesus,",
+                "Dando as bênçãos da verdade",
+                "que nos mostram Tua luz."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pai, contempla Tua igreja;",
+                "vem, estende Tua mão.",
+                "Dá-lhe a graça insondável",
+                "da divina redenção",
+                "Antes que ela desfaleça",
+                "e se torne sem vigor.",
+                "Vivifica e fortalece",
+                "Tua igreja, ó Senhor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Santifica Tua igreja",
+                "pela graça divinal.",
+                "Faze-a sempre triunfante",
+                "no conflito contra o mal.",
+                "Dá-lhe forças na jornada",
+                "a caminho para o lar,",
+                "E que esteja preparada",
+                "quando Cristo regressar!"
+            ]
+        }
+    ]
+}

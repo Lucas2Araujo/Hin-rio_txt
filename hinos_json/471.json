@@ -1,0 +1,105 @@
+{
+    "hymn": {
+        "number": "471",
+        "title": "Porque Ele Vive",
+        "originalTitle": "Because He Lives",
+        "subCategory": 26,
+        "lyricsComposer": [
+            178,
+            525
+        ],
+        "musicComposer": [
+            525
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 14:19",
+        "youtubeURL": "https://www.youtube.com/watch?v=0doKHQReQH4",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 14:19",
+            "Apocalipse 1:18",
+            "Romanos 6:9"
+        ],
+        "texto_base": "João 14:19",
+        "temas_relacionados": [
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus enviou Seu Filho amado",
+                "Para sofrer em meu lugar;",
+                "Na cruz morreu, mas vivo agora está,",
+                "Pois ressurgiu e para sempre viverá."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Porque Ele vive, posso crer no amanhã;",
+                "Porque Ele vive, temor não há.",
+                "Eu sei que minha vida não será mais vã,",
+                "Pois meu futuro em Suas mãos agora está."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quão grato é viver com Cristo",
+                "E desfrutar Seu doce amor",
+                "E certo estar de Sua proteção",
+                "Nos dias calmos ou nas horas de aflição."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Porque Ele vive, posso crer no amanhã;",
+                "Porque Ele vive, temor não há.",
+                "Eu sei que minha vida não será mais vã,",
+                "Pois meu futuro em Suas mãos agora está."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "E quando, enfim, chegar a hora",
+                "De aqui cessar o meu viver,",
+                "Não temerei, pois Cristo vivo está,",
+                "E eu viverei, pois vida nova me dará."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Porque Ele vive, posso crer no amanhã;",
+                "Porque Ele vive, temor não há.",
+                "Eu sei que minha vida não será mais vã,",
+                "Pois meu futuro em Suas mãos agora está."
+            ]
+        }
+    ]
+}

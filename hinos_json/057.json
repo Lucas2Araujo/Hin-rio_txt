@@ -1,0 +1,84 @@
+{
+    "hymn": {
+        "number": "57",
+        "title": "A Palavra Do Senhor",
+        "originalTitle": "",
+        "subCategory": 5,
+        "lyricsComposer": [
+            508
+        ],
+        "musicComposer": [
+            508
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Hebreus 4:12",
+        "youtubeURL": "https://www.youtube.com/watch?v=86bzYwgHtG4",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 40:8",
+            "Mateus 24:35",
+            "1 Pedro 1:25"
+        ],
+        "texto_base": "Hebreus 4:12",
+        "temas_relacionados": [
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A Palavra do Senhor me dá força e poder.",
+                "Quando estou em provação,",
+                "Me ajuda a vencer.",
+                "Não estarei sozinho,",
+                "É luz do meu caminho.",
+                "Na Palavra do Senhor,",
+                "Ouço a voz de Jesus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Não mudará, não falhará.",
+                "A Palavra do Senhor é promessa de Deus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A Palavra do Senhor me ensina a viver,",
+                "Dá alento ao coração e preenche meu ser.",
+                "Traz paz e segurança,",
+                "Conforto e esperança.",
+                "Na Palavra do Senhor,",
+                "Ouço a voz de Jesus."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Não mudará, não falhará.",
+                "A Palavra do Senhor é promessa de Deus."
+            ]
+        }
+    ]
+}

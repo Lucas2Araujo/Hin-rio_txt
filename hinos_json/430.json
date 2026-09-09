@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "430",
+        "title": "O Juízo",
+        "originalTitle": "The Judgment Has Set",
+        "subCategory": 24,
+        "lyricsComposer": [
+            147
+        ],
+        "musicComposer": [
+            147
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Daniel 7:9, 10",
+        "youtubeURL": "https://www.youtube.com/watch?v=37DO5uB7IOQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Daniel 7:9-10",
+            "Eclesiastes 12:14",
+            "2 Coríntios 5:10"
+        ],
+        "texto_base": "Daniel 7:9, 10",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Sacrifício e Redenção",
+            "Santuário e Juízo"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O Juiz Se assentou, abriram-se os livros;",
+                "Quem dentre nós subsistirá?",
+                "Pois as ações e os pensamentos",
+                "Nosso Juiz à luz trará."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Quem haverá de subsistir?",
+                "Qual há de ser a decisão?",
+                "Só pelo sangue do Cordeiro",
+                "Receberemos salvação."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O juízo iniciou-se pelos que dormem",
+                "E logo aos vivos passará.",
+                "Sim, pela fé, Jesus, o Advogado,",
+                "A todos nós defenderá."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Quem haverá de subsistir?",
+                "Qual há de ser a decisão?",
+                "Só pelo sangue do Cordeiro",
+                "Receberemos salvação."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, como será perante o juízo?",
+                "Nossas ações à luz virão!",
+                "Quando soar a voz dos livros,",
+                "Qual há de ser a decisão?"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Quem haverá de subsistir?",
+                "Qual há de ser a decisão?",
+                "Só pelo sangue do Cordeiro",
+                "Receberemos salvação."
+            ]
+        }
+    ]
+}

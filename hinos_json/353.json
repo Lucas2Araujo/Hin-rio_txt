@@ -1,0 +1,112 @@
+{
+    "hymn": {
+        "number": "353",
+        "title": "É Prazer Servir A Cristo",
+        "originalTitle": "Joy in Serving Jesus",
+        "subCategory": 22,
+        "lyricsComposer": [
+            392
+        ],
+        "musicComposer": [
+            40
+        ],
+        "versionComposer": [
+            83
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 13:44",
+        "youtubeURL": "https://www.youtube.com/watch?v=QTuACjQAEqQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 100:2",
+            "Mateus 25:21",
+            "Romanos 14:17-18"
+        ],
+        "texto_base": "Mateus 13:44",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Missão e Serviço",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "É prazer servir a Cristo",
+                "Mesmo em lutas sem igual.",
+                "Enche a vida de louvores",
+                "E alegria divinal."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Há prazer na vida por Jesus,",
+                "E afasta o coração do mal.",
+                "Cada instante é prazer",
+                "Sob a mão do Seu poder.",
+                "No viver com Cristo",
+                "Há prazer real."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "É prazer servir a Cristo,",
+                "Vai além de toda dor,",
+                "Pois maiores sofrimentos",
+                "Suportou o Salvador."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Há prazer na vida por Jesus,",
+                "E afasta o coração do mal.",
+                "Cada instante é prazer",
+                "Sob a mão do Seu poder.",
+                "No viver com Cristo",
+                "Há prazer real."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "É prazer servir a Cristo,",
+                "Alegria sem igual,",
+                "Pois expulsa as trevas d’alma",
+                "Com a luz celestial."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Há prazer na vida por Jesus,",
+                "E afasta o coração do mal.",
+                "Cada instante é prazer",
+                "Sob a mão do Seu poder.",
+                "No viver com Cristo",
+                "Há prazer real."
+            ]
+        }
+    ]
+}

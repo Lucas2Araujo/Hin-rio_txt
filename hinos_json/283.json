@@ -1,0 +1,111 @@
+{
+    "hymn": {
+        "number": "283",
+        "title": "Crer E Observar",
+        "originalTitle": "Trust and Obey",
+        "subCategory": 19,
+        "lyricsComposer": [
+            272
+        ],
+        "musicComposer": [
+            79
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 7:24, 25",
+        "youtubeURL": "https://www.youtube.com/watch?v=lXpmeNNeztI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 7:24",
+            "Lucas 11:28",
+            "Tiago 1:22"
+        ],
+        "texto_base": "Mateus 7:24, 25",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Em Jesus confiar,",
+                "Sua lei observar,",
+                "Que alegria, que bênção, que paz!",
+                "Satisfeitos, guardar",
+                "tudo quanto ordenar;",
+                "Que prazer tão imenso nos traz!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Crer e observar",
+                "Tudo quanto ordenar.",
+                "O fiel obedece",
+                "Ao que Cristo mandar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O inimigo falaz",
+                "e a calúnia mordaz",
+                "Cristo tem o poder de afastar.",
+                "Nem tristeza, nem dor,",
+                "nem a intriga maior",
+                "Poderão ao fiel abalar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Crer e observar",
+                "Tudo quanto ordenar.",
+                "O fiel obedece",
+                "Ao que Cristo mandar."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Resolutos, Senhor,",
+                "e com fé, zelo e ardor,",
+                "Os Teus passos queremos seguir.",
+                "Teus preceitos guardar,",
+                "o Teu nome exaltar;",
+                "Sempre a Tua vontade cumprir."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Crer e observar",
+                "Tudo quanto ordenar.",
+                "O fiel obedece",
+                "Ao que Cristo mandar."
+            ]
+        }
+    ]
+}

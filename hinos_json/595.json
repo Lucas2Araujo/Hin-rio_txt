@@ -1,0 +1,51 @@
+{
+    "hymn": {
+        "number": "595",
+        "title": "A Bênção",
+        "originalTitle": "",
+        "subCategory": 35,
+        "lyricsComposer": [
+            535
+        ],
+        "musicComposer": [
+            535
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Números 6:24-26",
+        "youtubeURL": "https://www.youtube.com/watch?v=sRZHnhpdE10",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Números 6:24-26",
+            "Salmos 121:7-8",
+            "Salmos 67:1"
+        ],
+        "texto_base": "Números 6:24-26",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que o Senhor te abençoe e te guarde!",
+                "Que o Senhor faça resplandecer",
+                "Seu rosto sobre ti",
+                "E tenha misericórdia de ti!",
+                "Que o Senhor sobre ti levante",
+                "o Seu rosto",
+                "E te dê a paz, E te dê a paz!"
+            ]
+        }
+    ]
+}

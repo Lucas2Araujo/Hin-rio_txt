@@ -1,0 +1,111 @@
+{
+    "hymn": {
+        "number": "103",
+        "title": "Rude Cruz",
+        "originalTitle": "The Old Rugged Cross",
+        "subCategory": 9,
+        "lyricsComposer": [
+            166
+        ],
+        "musicComposer": [
+            166
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Gálatas 6:14",
+        "youtubeURL": "https://www.youtube.com/watch?v=uARK7ATNd94",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Coríntios 1:18",
+            "Filipenses 3:18",
+            "Colossenses 2:14"
+        ],
+        "texto_base": "Gálatas 6:14",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Lar e Família",
+            "Missão e Serviço",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Rude cruz se erigiu,",
+                "dela o dia fugiu",
+                "Em sinal de vergonha e de dor.",
+                "Mas eu amo essa cruz,",
+                "sobre a qual meu Jesus",
+                "Deu a vida por mim, pecador."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, eu amo a mensagem da cruz.",
+                "Té morrer eu a vou proclamar.",
+                "Levarei eu também minha cruz",
+                "Té por uma coroa trocar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Desde a glória dos Céus,",
+                "o Cordeiro de Deus",
+                "Ao Calvário humilhante baixou.",
+                "E essa cruz tem pra mim",
+                "atrativos sem fim",
+                "Pois Jesus nela me resgatou."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, eu amo a mensagem da cruz.",
+                "Té morrer eu a vou proclamar.",
+                "Levarei eu também minha cruz",
+                "Té por uma coroa trocar."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu aqui, com Jesus,",
+                "a vergonha da cruz",
+                "Quero sempre levar e sofrer.",
+                "Ele vem me buscar,",
+                "e com Ele, no lar,",
+                "Uma parte na glória hei de ter."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, eu amo a mensagem da cruz.",
+                "Té morrer eu a vou proclamar.",
+                "Levarei eu também minha cruz",
+                "Té por uma coroa trocar."
+            ]
+        }
+    ]
+}

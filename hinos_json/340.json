@@ -1,0 +1,113 @@
+{
+    "hymn": {
+        "number": "340",
+        "title": "Sou Forasteiro Aqui",
+        "originalTitle": "The King’s",
+        "subCategory": 22,
+        "lyricsComposer": [
+            114
+        ],
+        "musicComposer": [
+            140
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Hebreus 11:13-16",
+        "youtubeURL": "https://www.youtube.com/watch?v=s0qMxW-q6BY",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "2 Coríntios 5:20",
+            "Hebreus 11:13-14",
+            "Filipenses 3:20"
+        ],
+        "texto_base": "Hebreus 11:13-16",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Missão e Serviço"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sou forasteiro aqui,",
+                "em terra estranha estou;",
+                "Do reino lá do Céu,",
+                "embaixador eu sou.",
+                "Meu Rei e Salvador",
+                "vos manda em Seu amor",
+                "As boas-novas de perdão."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "O Salvador em Seu amor",
+                "Vos dá mensagem lá dos Céus:",
+                "“Reconciliai-vos já”, é ordem que Ele dá.",
+                "“Reconciliai-vos já com Deus!”"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "É ordem do meu Rei",
+                "que todo pecador",
+                "Arrependido já",
+                "se volte ao Salvador,",
+                "E salvação terá,",
+                "pois Cristo prometeu",
+                "Dar o perdão por Seu amor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "O Salvador em Seu amor",
+                "Vos dá mensagem lá dos Céus:",
+                "“Reconciliai-vos já”, é ordem que Ele dá.",
+                "“Reconciliai-vos já com Deus!”"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "No meu eterno lar",
+                "não haverá temor,",
+                "Nem lutas e aflições,",
+                "nem mais tristeza ou dor.",
+                "E os redimidos lá",
+                "então receberão",
+                "As boas-vindas do Senhor."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "O Salvador em Seu amor",
+                "Vos dá mensagem lá dos Céus:",
+                "“Reconciliai-vos já”, é ordem que Ele dá.",
+                "“Reconciliai-vos já com Deus!”"
+            ]
+        }
+    ]
+}

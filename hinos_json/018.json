@@ -1,0 +1,71 @@
+{
+    "hymn": {
+        "number": "18",
+        "title": "Deus É Nosso Pai Celeste",
+        "originalTitle": "Children of the Heavenly Father",
+        "subCategory": 2,
+        "lyricsComposer": [
+            307
+        ],
+        "musicComposer": [
+            377
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 103:13",
+        "youtubeURL": "https://www.youtube.com/watch?v=5Zm_BUpeWHI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Romanos 8:15",
+            "1 João 3:1-2",
+            "Mateus 7:11"
+        ],
+        "texto_base": "Salmo 103:13",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Lar e Família"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus é nosso Pai celeste,",
+                "Somos sempre bem guardados;",
+                "Nem às aves e às estrelas",
+                "Ele mostra tais cuidados."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus, com zelo, com ternura,",
+                "Seus filhinhos alimenta;",
+                "Do pecado Ele os livra",
+                "E em Seus braços os sustenta."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Na tristeza ou na alegria,",
+                "Nunca os filhos Deus esquece;",
+                "Seu desejo é levá-los",
+                "Para o santo lar celeste."
+            ]
+        }
+    ]
+}

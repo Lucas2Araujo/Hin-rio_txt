@@ -1,0 +1,71 @@
+{
+    "hymn": {
+        "number": "2",
+        "title": "Ó Adorai O Senhor",
+        "originalTitle": "O Worship the Lord",
+        "subCategory": 1,
+        "lyricsComposer": [
+            285
+        ],
+        "musicComposer": [
+            108
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 96:9",
+        "youtubeURL": "https://www.youtube.com/watch?v=u4c66cbU9-c",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Crônicas 16:29",
+            "Salmos 29:2",
+            "Apocalipse 15:4"
+        ],
+        "texto_base": "Salmo 96:9",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ó adorai o Senhor na beleza",
+                "Da santidade, da glória e poder.",
+                "Vinde e prostrai-vos à Sua grandeza.",
+                "Ele é o princípio e sempre há de ser."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vinde a Seus pés, Ele é caridade,",
+                "Grande e piedoso, tardio em furor.",
+                "Vinde adorá-Lo por Sua bondade,",
+                "Pela grandeza do Seu santo amor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ele criou o Universo e a Terra.",
+                "Vinde e adorai-O com fé e oração.",
+                "Límpida fonte de bênçãos encerra,",
+                "Fonte de graça e de redenção."
+            ]
+        }
+    ]
+}

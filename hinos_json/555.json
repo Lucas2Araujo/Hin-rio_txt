@@ -1,0 +1,82 @@
+{
+    "hymn": {
+        "number": "555",
+        "title": "Um Lugar Feliz É O Céu",
+        "originalTitle": "Heaven Is a Happy Place",
+        "subCategory": 29,
+        "lyricsComposer": [
+            437
+        ],
+        "musicComposer": [
+            437
+        ],
+        "versionComposer": [
+            83
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 11:6",
+        "youtubeURL": "https://www.youtube.com/watch?v=OesQovAZ38Y",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 21:4",
+            "Isaías 11:6",
+            "Apocalipse 21:27"
+        ],
+        "texto_base": "Isaías 11:6",
+        "temas_relacionados": [
+            "Vida Cristã e Devoção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Um lugar feliz é o Céu,",
+                "Um lugar feliz é o Céu,",
+                "Um lugar feliz é o Céu.",
+                "Quero lá estar!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Lá não há mais pranto ou dor,",
+                "Lá não há mais pranto ou dor,",
+                "Lá não há mais pranto ou dor.",
+                "Quero lá estar!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Lá não há pecado ou mal,",
+                "Lá não há pecado ou mal,",
+                "Lá não há pecado ou mal.",
+                "Quero lá estar!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Lá se brinca com leões,",
+                "Lá se brinca com leões,",
+                "Lá se brinca com leões.",
+                "Quero lá estar!"
+            ]
+        }
+    ]
+}

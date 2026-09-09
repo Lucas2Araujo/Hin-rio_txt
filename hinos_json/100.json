@@ -1,0 +1,119 @@
+{
+    "hymn": {
+        "number": "100",
+        "title": "A Doce História",
+        "originalTitle": "I Love to Tell the Story",
+        "subCategory": 9,
+        "lyricsComposer": [
+            25
+        ],
+        "musicComposer": [
+            521
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 53:5",
+        "youtubeURL": "https://www.youtube.com/watch?v=LgbciTZ1VwM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Pedro 2:24",
+            "Romanos 4:25",
+            "Hebreus 9:28"
+        ],
+        "texto_base": "Isaías 53:5",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Alegro-me em proclamar",
+                "a história de Jesus,",
+                "Que veio lá da glória",
+                "morrer na amarga cruz.",
+                "Sim, quero proclamá-la,",
+                "pois ela satisfaz",
+                "Anseios de minh’alma",
+                "e enche-me de paz."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, doce e bela história",
+                "De Cristo, o Salvador,",
+                "De Sua eterna graça,",
+                "De Seu imenso amor!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Desejo sempre repetir",
+                "a história desse amor",
+                "Que trouxe nova vida.",
+                "Oh, glória ao Salvador!",
+                "E Cristo ainda hoje,",
+                "com terna compaixão,",
+                "Procura pecadores",
+                "e dá-lhes o perdão."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, doce e bela história",
+                "De Cristo, o Salvador,",
+                "De Sua eterna graça,",
+                "De Seu imenso amor!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sim, dessa história vou falar",
+                "pra sempre com fervor,",
+                "Pois muitos inda vivem",
+                "nas trevas e na dor.",
+                "E mesmo lá na glória,",
+                "ao meu Jesus voltar,",
+                "Tão linda e doce história",
+                "eu hei de celebrar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, doce e bela história",
+                "De Cristo, o Salvador,",
+                "De Sua eterna graça,",
+                "De Seu imenso amor!"
+            ]
+        }
+    ]
+}

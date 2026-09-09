@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "101",
+        "title": "Seu Maravilhoso Olhar",
+        "originalTitle": "His Wonderful Look of Love",
+        "subCategory": 9,
+        "lyricsComposer": [
+            288
+        ],
+        "musicComposer": [
+            288
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Lucas 22:61, 62",
+        "youtubeURL": "https://www.youtube.com/watch?v=yey65PRKnwY",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Marcos 14:72",
+            "João 21:15-17",
+            "Salmos 32:5"
+        ],
+        "texto_base": "Lucas 22:61, 62",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vivi tão longe do Senhor,",
+                "Assim eu quis andar,",
+                "Até que eu encontrei o amor",
+                "Em Seu bondoso olhar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Seu maravilhoso olhar!",
+                "Seu maravilhoso olhar!",
+                "Transformou meu ser, todo o meu viver,",
+                "Seu maravilhoso olhar!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Seu corpo vi na rude cruz,",
+                "Sofrendo ali por mim,",
+                "E ouvi a voz do meu Jesus:",
+                "“Por ti morri assim.”"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Seu maravilhoso olhar!",
+                "Seu maravilhoso olhar!",
+                "Transformou meu ser, todo o meu viver,",
+                "Seu maravilhoso olhar!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Em contrição então voltei",
+                "À fonte deste amor.",
+                "Perdão e paz em Cristo achei.",
+                "Pertenço ao Salvador!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Seu maravilhoso olhar!",
+                "Seu maravilhoso olhar!",
+                "Transformou meu ser, todo o meu viver,",
+                "Seu maravilhoso olhar!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "hymn": {
+        "number": "289",
+        "title": "A Tua Lei",
+        "originalTitle": "",
+        "subCategory": 19,
+        "lyricsComposer": [
+            381,
+            492
+        ],
+        "musicComposer": [
+            381,
+            492
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 119:97",
+        "youtubeURL": "https://www.youtube.com/watch?v=DnJh2Iu9_4Y",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 119:97",
+            "Salmos 119:165",
+            "Salmos 119:163"
+        ],
+        "texto_base": "Salmo 119:97",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, quanto amo a Tua lei!",
+                "Ela é o meu prazer, Senhor.",
+                "Sim, verdadeiros são seus passos;",
+                "É a verdade dos Teus lábios,",
+                "É motivo do meu louvor.",
+                "Bem-aventurados os que andam na lei.",
+                "Nela tenho vida; não me esquecerei.",
+                "São os seus ensinos luz pro meu caminho.",
+                "Nela seguro estarei."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A Tua lei é perfeita",
+                "Como Tu és perfeito, meu Deus.",
+                "A Tua lei é santa e justa,",
+                "Pois santo e justo Tu és.",
+                "É a mais bela expressão do Teu coração,",
+                "É Teu próprio caráter, Senhor.",
+                "Reflete a grandeza e a Tua beleza.",
+                "Revela por mim Teu amor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, quanto amo a Tua lei!",
+                "Nela vida e paz achei, Senhor.",
+                "Sim, tenho a luz dos seus ensinos",
+                "Que ilumina o meu caminho",
+                "E me leva ao Salvador.",
+                "Bem-aventurados os que guardam a lei.",
+                "Nos seus mandamentos, eu me alegrarei."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tua lei tem a verdade,",
+                "os princípios do amor.",
+                "Sua autoridade vem de Ti, meu Criador.",
+                "Palavras eternas, fontes de luz",
+                "São reveladas em Cristo Jesus."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A Tua lei é perfeita",
+                "Como Tu és perfeito, meu Deus.",
+                "A Tua lei é santa e justa,",
+                "Pois santo e justo Tu és.",
+                "É a mais bela expressão do Teu coração,",
+                "É Teu próprio caráter, Senhor.",
+                "Reflete a grandeza e a Tua beleza.",
+                "Revela por mim Teu amor.",
+                "Oh, quanto amo a Tua lei!",
+                "Ela é o meu prazer, Senhor."
+            ]
+        }
+    ]
+}

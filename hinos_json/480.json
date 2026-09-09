@@ -1,0 +1,116 @@
+{
+    "hymn": {
+        "number": "480",
+        "title": "O Eterno Lar",
+        "originalTitle": "In a Little While We’re Going Home",
+        "subCategory": 27,
+        "lyricsComposer": [
+            116
+        ],
+        "musicComposer": [
+            116
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Hebreus 10:35-37",
+        "youtubeURL": "https://www.youtube.com/watch?v=COAEdwOHpn0",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Hebreus 13:14",
+            "Apocalipse 21:2",
+            "2 Pedro 3:13"
+        ],
+        "texto_base": "Hebreus 10:35-37",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ó irmãos, cantai",
+                "nesta peregrinação;",
+                "Dentro em pouco iremos para o lar!",
+                "Vai então raiar nossa eterna redenção;",
+                "Dentro em pouco iremos para o lar!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Dentro em breve , sim,",
+                "Dentro em breve , sim,",
+                "Estaremos lá no lar.",
+                "Sim, depois de o mar",
+                "Deste mundo atravessar,",
+                "Nós iremos para o eterno lar!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vamos, pois, fazer",
+                "o que está à nossa mão;",
+                "Dentro em pouco iremos para o lar!",
+                "Cada dia Deus nos será a salvação;",
+                "Dentro em pouco iremos para o lar!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Dentro em breve , sim,",
+                "Dentro em breve , sim,",
+                "Estaremos lá no lar.",
+                "Sim, depois de o mar",
+                "Deste mundo atravessar,",
+                "Nós iremos para o eterno lar!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Há descanso, paz",
+                "e alívio afinal;",
+                "Dentro em pouco iremos para o lar!",
+                "Não há pranto ou dor na cidade celestial;",
+                "Dentro em pouco iremos para o lar!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Dentro em breve , sim,",
+                "Dentro em breve , sim,",
+                "Estaremos lá no lar.",
+                "Sim, depois de o mar",
+                "Deste mundo atravessar,",
+                "Nós iremos para o eterno lar!"
+            ]
+        }
+    ]
+}

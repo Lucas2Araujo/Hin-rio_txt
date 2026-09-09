@@ -1,0 +1,105 @@
+{
+    "hymn": {
+        "number": "491",
+        "title": "Há Um Rio Cristalino",
+        "originalTitle": "Shall We Gather at the River?",
+        "subCategory": 28,
+        "lyricsComposer": [
+            431
+        ],
+        "musicComposer": [
+            431
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 22:1",
+        "youtubeURL": "https://www.youtube.com/watch?v=Co7KPOxg-5k",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 22:1",
+            "Salmos 46:4",
+            "Zacarias 14:8"
+        ],
+        "texto_base": "Apocalipse 22:1",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Há um rio cristalino,",
+                "Em que os santos beberão.",
+                "Corre do divino trono,",
+                "Manancial da salvação."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, às margens desse rio,",
+                "Na mansão de glória e luz,",
+                "Com os santos cantaremos",
+                "Em louvor ao Rei Jesus!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Antes que daquele rio",
+                "Formos todos desfrutar,",
+                "A justiça e santidade",
+                "Vai Jesus nos outorgar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, às margens desse rio,",
+                "Na mansão de glória e luz,",
+                "Com os santos cantaremos",
+                "Em louvor ao Rei Jesus!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Breve nosso Rei divino",
+                "Põe um fim à nossa dor.",
+                "Vamos todos junto ao rio",
+                "Desfrutar o Seu amor."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, às margens desse rio,",
+                "Na mansão de glória e luz,",
+                "Com os santos cantaremos",
+                "Em louvor ao Rei Jesus!"
+            ]
+        }
+    ]
+}

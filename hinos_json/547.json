@@ -1,0 +1,62 @@
+{
+    "hymn": {
+        "number": "547",
+        "title": "Eu Sei Por Que Nasci",
+        "originalTitle": "",
+        "subCategory": 29,
+        "lyricsComposer": [
+            344
+        ],
+        "musicComposer": [
+            344
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 23:11",
+        "youtubeURL": "https://www.youtube.com/watch?v=iTfgnKEIbXM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Efésios 2:10",
+            "Jeremias 1:5",
+            "Isaías 43:7"
+        ],
+        "texto_base": "Mateus 23:11",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Missão e Serviço",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu sei por que nasci; foi fácil aprender",
+                "E saber por que Jesus me trouxe aqui.",
+                "Agora eu vou dizer; eu sei por que nasci:",
+                "Eu vim a este mundo pra servir."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sempre ajudar o amigo",
+                "que ao meu lado, sim, está;",
+                "Amor e esperança vou lhe dar.",
+                "Assim, a minha estrela vai brilhar;",
+                "Assim, a minha estrela vai brilhar."
+            ]
+        }
+    ]
+}

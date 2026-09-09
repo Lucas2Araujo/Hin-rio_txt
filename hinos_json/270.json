@@ -1,0 +1,103 @@
+{
+    "hymn": {
+        "number": "270",
+        "title": "Vaso De Bênção",
+        "originalTitle": "Channel of Blessing",
+        "subCategory": 17,
+        "lyricsComposer": [
+            192
+        ],
+        "musicComposer": [
+            192
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Atos 9:15",
+        "youtubeURL": "https://www.youtube.com/watch?v=tLhObj3zj-c",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Atos 9:15",
+            "2 Timóteo 2:21",
+            "Romanos 9:23"
+        ],
+        "texto_base": "Atos 9:15",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Missão e Serviço"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quero ser um vaso de bênção,",
+                "Sim, um vaso escolhido por Deus",
+                "Para as novas levar aos perdidos,",
+                "Boas-novas que vêm lá dos Céus"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Faze-me vaso de bênção, Senhor,",
+                "Vaso que leve a mensagem de amor!",
+                "Eis-me submisso pra Teu serviço.",
+                "Tudo consagro-Te agora, Senhor!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quero ser um vaso de bênção",
+                "Para todos os dias fazer",
+                "Aos culpados que vivem nas trevas",
+                "O perdão de Jesus conhecer."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Faze-me vaso de bênção, Senhor,",
+                "Vaso que leve a mensagem de amor!",
+                "Eis-me submisso pra Teu serviço.",
+                "Tudo consagro-Te agora, Senhor!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Para ser um vaso de bênção",
+                "É preciso uma vida leal,",
+                "Uma vida de fé e pureza,",
+                "Revestida do amor divinal."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Faze-me vaso de bênção, Senhor,",
+                "Vaso que leve a mensagem de amor!",
+                "Eis-me submisso pra Teu serviço.",
+                "Tudo consagro-Te agora, Senhor!"
+            ]
+        }
+    ]
+}

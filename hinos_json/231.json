@@ -1,0 +1,111 @@
+{
+    "hymn": {
+        "number": "231",
+        "title": "Trabalhar E Orar",
+        "originalTitle": "I Want to Be a Worker",
+        "subCategory": 13,
+        "lyricsComposer": [
+            396
+        ],
+        "musicComposer": [
+            228
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 9:4",
+        "youtubeURL": "https://www.youtube.com/watch?v=NWbx4RI3mAg",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 9:4",
+            "1 Tessalonicenses 5:17",
+            "Tiago 2:17"
+        ],
+        "texto_base": "João 9:4",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Missão e Serviço",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu quero trabalhar por meu Senhor,",
+                "Confiante em Seu poder, em Seu amor.",
+                "Vou orar e trabalhar",
+                "e ocupado sempre estar",
+                "Na seara do Senhor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Trabalhar e orar",
+                "Fielmente na seara do Senhor.",
+                "Meu anelo é orar",
+                "e ocupado sempre estar",
+                "Na seara do Senhor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu quero cada dia trabalhar;",
+                "Escravos do pecado libertar.",
+                "E levá-los a Jesus,",
+                "nosso Guia, nossa luz,",
+                "Na seara do Senhor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Trabalhar e orar",
+                "Fielmente na seara do Senhor.",
+                "Meu anelo é orar",
+                "e ocupado sempre estar",
+                "Na seara do Senhor."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu quero ser obreiro de valor,",
+                "Confiante no poder do Salvador.",
+                "E quem queira trabalhar",
+                "achará também lugar",
+                "Na seara do Senhor."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Trabalhar e orar",
+                "Fielmente na seara do Senhor.",
+                "Meu anelo é orar",
+                "e ocupado sempre estar",
+                "Na seara do Senhor."
+            ]
+        }
+    ]
+}

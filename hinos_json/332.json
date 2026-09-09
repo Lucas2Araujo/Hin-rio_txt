@@ -1,0 +1,83 @@
+{
+    "hymn": {
+        "number": "332",
+        "title": "Tudo És Pra Mim",
+        "originalTitle": "You Are My All In All",
+        "subCategory": 22,
+        "lyricsComposer": [
+            87
+        ],
+        "musicComposer": [
+            87
+        ],
+        "versionComposer": [
+            294
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 6:68",
+        "youtubeURL": "https://www.youtube.com/watch?v=1dA0FMuuftU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Colossenses 3:11",
+            "Salmos 16:5",
+            "Salmos 73:26"
+        ],
+        "texto_base": "João 6:68",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Força Tu és, se fraco estou.",
+                "És um tesouro sem igual.",
+                "Tudo és para mim.",
+                "És minha joia de valor.",
+                "Sempre a Ti darei louvor.",
+                "Tudo és para mim."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo, meu Senhor, digno é Teu nome.",
+                "Cristo, meu Senhor, digno é Teu nome."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tu carregaste a rude cruz,",
+                "Mas ressurgiste em força e luz.",
+                "Tudo és para mim.",
+                "Se eu tropeçar, me dás a mão",
+                "E me inspiras a canção.",
+                "Tudo és para mim."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo, meu Senhor, digno é Teu nome.",
+                "Cristo, meu Senhor, digno é Teu nome."
+            ]
+        }
+    ]
+}

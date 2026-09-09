@@ -1,0 +1,89 @@
+{
+    "hymn": {
+        "number": "375",
+        "title": "Canção Da Vida",
+        "originalTitle": "",
+        "subCategory": 22,
+        "lyricsComposer": [
+            104,
+            491,
+            326
+        ],
+        "musicComposer": [
+            326
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 89:1",
+        "youtubeURL": "https://www.youtube.com/watch?v=EyOkqnp-boI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 89:1",
+            "Salmos 104:33",
+            "Salmos 146:2"
+        ],
+        "texto_base": "Salmo 89:1",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Pai querido, obrigado pelos planos,",
+                "Grandes sonhos especiais pra mim.",
+                "Tu me guias nos caminhos desta vida.",
+                "Ao Teu lado, nada faltará."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu Te amo mais que tudo!",
+                "Quando forte, quando fraco,",
+                "Ao meu lado estás.",
+                "Agradeço, Pai querido,",
+                "Por ligar a nossa vida",
+                "Num só coração."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Pai querido, obrigado pelos planos,",
+                "Grandes sonhos especiais pra mim.",
+                "Tu me guias nos caminhos desta vida.",
+                "Ao Teu lado, nada faltará."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu Te amo mais que tudo!",
+                "Quando fraco, Tua força",
+                "Nunca falhará.",
+                "Por Tua graça, Pai, imploro",
+                "Transformar a minha vida",
+                "Em uma canção."
+            ]
+        }
+    ]
+}

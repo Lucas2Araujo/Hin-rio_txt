@@ -1,0 +1,91 @@
+{
+    "hymn": {
+        "number": "54",
+        "title": "Unidos Pela Palavra",
+        "originalTitle": "",
+        "subCategory": 5,
+        "lyricsComposer": [
+            343
+        ],
+        "musicComposer": [
+            343
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Atos 2:42",
+        "youtubeURL": "https://www.youtube.com/watch?v=2rH9XgY6SGQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Colossenses 3:16",
+            "Efésios 4:3",
+            "Salmos 133:1"
+        ],
+        "texto_base": "Atos 2:42",
+        "temas_relacionados": [
+            "Espírito Santo",
+            "Igreja e Comunhão",
+            "Palavra de Deus e Lei",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Lâmpada para os pés,",
+                "Luz para o caminho nós teremos",
+                "Unidos pela Palavra.",
+                "Espada de poder,",
+                "Verdade que liberta nós teremos",
+                "Unidos pela Palavra."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Com porção dobrada do Espírito,",
+                "Ó Senhor, vem nos encher.",
+                "Faz-nos um, unidos pela Palavra.",
+                "Nós faremos grandes maravilhas",
+                "Ao descer o Teu poder.",
+                "Faz-nos um, unidos pela Palavra."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Lâmpada para os pés,",
+                "Luz para o caminho nós teremos",
+                "Unidos pela Palavra.",
+                "Espada de poder,",
+                "Verdade que liberta nós teremos",
+                "Unidos pela Palavra."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Com porção dobrada do Espírito,",
+                "Ó Senhor, vem nos encher.",
+                "Faz-nos um, unidos pela Palavra.",
+                "Nós faremos grandes maravilhas",
+                "Ao descer o Teu poder.",
+                "Faz-nos um, unidos pela Palavra."
+            ]
+        }
+    ]
+}

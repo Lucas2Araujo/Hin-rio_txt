@@ -1,0 +1,87 @@
+{
+    "hymn": {
+        "number": "348",
+        "title": "Graças",
+        "originalTitle": "Thanks to God for My Redeemer",
+        "subCategory": 22,
+        "lyricsComposer": [
+            33
+        ],
+        "musicComposer": [
+            258
+        ],
+        "versionComposer": [
+            16
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Efésios 5:20",
+        "youtubeURL": "https://www.youtube.com/watch?v=On65YomkD4g",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Tessalonicenses 5:18",
+            "Efésios 5:20",
+            "Filipenses 4:6"
+        ],
+        "texto_base": "Efésios 5:20",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Graças dou, sim, pela vida,",
+                "Que o bom Deus a mim legou.",
+                "Graças dou por meu futuro",
+                "E por tudo o que passou,",
+                "Pelas bênçãos derramadas,",
+                "Pela dor e aflição,",
+                "Pelo Seu cuidado infindo,",
+                "Pela graça do perdão."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Graças pelo azul-celeste",
+                "E por nuvens que há também;",
+                "Pelas rosas do caminho",
+                "E os espinhos que elas têm;",
+                "Pela aurora, pela noite,",
+                "Pela estrela que brilhou;",
+                "Pela prece respondida,",
+                "E a esperança que raiou."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pela cruz e o sofrimento,",
+                "E eternal ressurreição;",
+                "Pelo amor que é sem medida,",
+                "Pela paz no coração,",
+                "Pela lágrima vertida",
+                "E o consolo que é sem-par,",
+                "Pelo dom da eterna vida",
+                "Sempre a Deus irei louvar."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "hymn": {
+        "number": "105",
+        "title": "Oh, Fronte Ensanguentada!",
+        "originalTitle": "Salve Caput Cruentatum",
+        "subCategory": 9,
+        "lyricsComposer": [
+            407
+        ],
+        "musicComposer": [
+            190
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 27:29, 30",
+        "youtubeURL": "https://www.youtube.com/watch?v=HRIFTOPGfQo",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Marcos 15:17",
+            "João 19:2",
+            "Isaías 53:3"
+        ],
+        "texto_base": "Mateus 27:29, 30",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, fronte ensanguentada,",
+                "em sofrimento e dor!",
+                "Cruel coroa fere",
+                "Tua fronte, ó Salvador!",
+                "A turba escarnece",
+                "de Tua condição",
+                "E zomba destas dores,",
+                "ferindo o coração!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sem luz estão Teus olhos;",
+                "não brilham mais, assim.",
+                "Por que, Senhor, se apagam?",
+                "Oh, sim, bem sei: por mim!",
+                "Tão grandes sofrimentos",
+                "os meus pecados vis",
+                "Causaram ao meu Mestre,",
+                "que o Sol brilhar não quis"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus, meu grande Amigo,",
+                "morreste em meu lugar!",
+                "Em dor desfaleceste",
+                "a fim de me salvar!",
+                "Palavras não expressam",
+                "a minha gratidão",
+                "Por Tua imensa graça,",
+                "bendita redenção!"
+            ]
+        }
+    ]
+}

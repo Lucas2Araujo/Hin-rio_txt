@@ -1,0 +1,81 @@
+{
+    "hymn": {
+        "number": "67",
+        "title": "Restaura Em Mim",
+        "originalTitle": "",
+        "subCategory": 7,
+        "lyricsComposer": [
+            471
+        ],
+        "musicComposer": [
+            471
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Gênesis 2:7",
+        "youtubeURL": "https://www.youtube.com/watch?v=IN0WMRcnYq4",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 51:10",
+            "Salmos 23:3",
+            "Lamentações 5:21"
+        ],
+        "texto_base": "Gênesis 2:7",
+        "temas_relacionados": [
+            "Espírito Santo",
+            "Lar e Família"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Restaura em mim o Teu querer,",
+                "Envia a mim o Teu Espírito.",
+                "Restaura em mim o Teu propósito,",
+                "Restaura em mim, restaura em mim."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Restaura em mim o Teu querer,",
+                "Envia a mim o Teu Espírito.",
+                "Restaura em mim o Teu propósito,",
+                "Restaura em mim, restaura em mim."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu fui criado pelas mãos do Pai.",
+                "Eu fui criado para a grandeza.",
+                "Eu fui criado para glorificar",
+                "A Ti, Jesus, glorificar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Restaura em mim o Teu querer,",
+                "Envia a mim o Teu Espírito.",
+                "Restaura em mim o Teu propósito,",
+                "Restaura em mim, restaura em mim."
+            ]
+        }
+    ]
+}

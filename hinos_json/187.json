@@ -1,0 +1,102 @@
+{
+    "hymn": {
+        "number": "187",
+        "title": "Refúgio Em Temporal",
+        "originalTitle": "A Shelter in the Time of Storm",
+        "subCategory": 11,
+        "lyricsComposer": [
+            493
+        ],
+        "musicComposer": [
+            147
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 46:1, 2",
+        "youtubeURL": "https://www.youtube.com/watch?v=485b67iCENY",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 46:1-2",
+            "Isaías 25:4",
+            "Salmos 62:8"
+        ],
+        "texto_base": "Salmo 46:1, 2",
+        "temas_relacionados": [
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eterna rocha é meu Jesus,",
+                "Refúgio sempre em temporal.",
+                "A confiança Nele eu pus,",
+                "Refúgio sempre em temporal."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Rocha eterna, nossa proteção,",
+                "Nosso abrigo, nosso Salvador,",
+                "Sempre certo na tribulação,",
+                "Presente sempre em nossa dor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Defesa forte e proteção,",
+                "Refúgio sempre em temporal.",
+                "Não temeremos provação,",
+                "Refúgio sempre em temporal."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Rocha eterna, nossa proteção,",
+                "Nosso abrigo, nosso Salvador,",
+                "Sempre certo na tribulação,",
+                "Presente sempre em nossa dor."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ó Rocha eterna, meu Jesus,",
+                "Refúgio sempre em temporal,",
+                "Sê Tu meu guia, força e luz,",
+                "Refúgio sempre em temporal."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Rocha eterna, nossa proteção,",
+                "Nosso abrigo, nosso Salvador,",
+                "Sempre certo na tribulação,",
+                "Presente sempre em nossa dor."
+            ]
+        }
+    ]
+}

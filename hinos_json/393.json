@@ -1,0 +1,74 @@
+{
+    "hymn": {
+        "number": "393",
+        "title": "Vem Comigo Habitar",
+        "originalTitle": "Abide With Me",
+        "subCategory": 22,
+        "lyricsComposer": [
+            204
+        ],
+        "musicComposer": [
+            523
+        ],
+        "versionComposer": [
+            262
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Lucas 24:28, 29",
+        "youtubeURL": "https://www.youtube.com/watch?v=rzb8Y3fZ7Uw",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Lucas 24:29",
+            "Apocalipse 3:20",
+            "João 14:23"
+        ],
+        "texto_base": "Lucas 24:28, 29",
+        "temas_relacionados": [
+            "Espírito Santo",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Comigo habita, ó Deus, a noite vem!",
+                "As trevas descem, eis, Senhor, convém",
+                "Que me socorra a Tua proteção!",
+                "Ó vem fazer comigo habitação!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vem revelar-Te a mim, Jesus, Senhor,",
+                "Divino Mestre, Rei, Consolador!",
+                "Meu Guia forte, amparo em tentação!",
+                "Ó vem fazer comigo habitação!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Breve, Senhor, terei meu fim mortal.",
+                "É tão fugaz a vida terreal!",
+                "Tem tudo aqui mudança e corrupção!",
+                "Ó vem fazer comigo habitação!"
+            ]
+        }
+    ]
+}

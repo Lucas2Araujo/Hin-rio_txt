@@ -1,0 +1,125 @@
+{
+    "hymn": {
+        "number": "324",
+        "title": "Jesus, Teu Nome Satisfaz",
+        "originalTitle": "The Name of Jesus Is So Sweet",
+        "subCategory": 22,
+        "lyricsComposer": [
+            514
+        ],
+        "musicComposer": [
+            103
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Filipenses 2:9-11",
+        "youtubeURL": "https://www.youtube.com/watch?v=VyKaiFCoIXA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Filipenses 2:9-10",
+            "Atos 4:12",
+            "Mateus 1:21"
+        ],
+        "texto_base": "Filipenses 2:9-11",
+        "temas_relacionados": [
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus, Teu nome satisfaz;",
+                "Por toda a Terra espalha paz;",
+                "Prazer infindo e vida traz,",
+                "Jesus, Senhor amado!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo, nome de valor!",
+                "Cristo, forte Redentor!",
+                "Cristo, sumo e bom Pastor,",
+                "Te louvarei pra sempre!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Com Teu poder, ó Salvador,",
+                "Ao coração tão sofredor",
+                "Concedes forças e vigor,",
+                "Jesus, Senhor amado!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo, nome de valor!",
+                "Cristo, forte Redentor!",
+                "Cristo, sumo e bom Pastor,",
+                "Te louvarei pra sempre!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se fraco estou, em tentação,",
+                "Poder me vem de Tua mão",
+                "Se busco a Ti em oração,",
+                "Jesus, Senhor amado!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo, nome de valor!",
+                "Cristo, forte Redentor!",
+                "Cristo, sumo e bom Pastor,",
+                "Te louvarei pra sempre!"
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus, Teu nome é sem igual,",
+                "Tão meigo e bom, gentil, leal!",
+                "És meu Pastor celestial,",
+                "Jesus, Senhor amado!"
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo, nome de valor!",
+                "Cristo, forte Redentor!",
+                "Cristo, sumo e bom Pastor,",
+                "Te louvarei pra sempre!"
+            ]
+        }
+    ]
+}

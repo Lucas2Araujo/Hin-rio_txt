@@ -1,0 +1,79 @@
+{
+    "hymn": {
+        "number": "230",
+        "title": "Ao Mundo Vou Contar",
+        "originalTitle": "I’ll Tell the World That I’m a Christian",
+        "subCategory": 13,
+        "lyricsComposer": [
+            39
+        ],
+        "musicComposer": [
+            39
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 10:32",
+        "youtubeURL": "https://www.youtube.com/watch?v=Sv1Mk5f8Gm4",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 10:32",
+            "Romanos 1:16",
+            "Salmos 107:2"
+        ],
+        "texto_base": "Mateus 10:32",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ao mundo vou contar que sou cristão;",
+                "Do amor de Cristo eu vou falar.",
+                "Ao mundo vou contar que sou cristão,",
+                "Pois tenho a Cristo no coração.",
+                "Proclamarei o amor de Cristo,",
+                "Que me salvou do mundo mau.",
+                "E eu bem sei que, crendo Nele,",
+                "Terás a paz também que eu encontrei.",
+                "Ao mundo vou contar que sou cristão;",
+                "Do amor de Cristo eu vou falar.",
+                "O meu viver a Ele eu entreguei",
+                "E em Seu caminho sempre andarei."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ao mundo vou falar que Cristo vem;",
+                "Sim, vem em breve buscar os Seus.",
+                "Vivamos, pois, em prontidão aqui,",
+                "E assim iremos morar nos Céus.",
+                "Quando o Senhor voltar em glória",
+                "Com anjos mil, oh, que esplendor!",
+                "Vai levar os escolhidos",
+                "À pátria eternal, que é só de amor!",
+                "Ao mundo vou contar que sou cristão;",
+                "Do amor de Cristo eu vou falar.",
+                "Ao mundo vou contar que sou cristão,",
+                "Pois tenho a Cristo no coração."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "hymn": {
+        "number": "108",
+        "title": "Foi Por Você Também",
+        "originalTitle": "",
+        "subCategory": 9,
+        "lyricsComposer": [
+            535
+        ],
+        "musicComposer": [
+            535
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Romanos 5:8-10",
+        "youtubeURL": "https://www.youtube.com/watch?v=LYPwUpwFqJU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 João 2:2",
+            "Tito 2:14",
+            "Hebreus 2:9"
+        ],
+        "texto_base": "Romanos 5:8-10",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Foi por você também,",
+                "Foi por você também",
+                "que Jesus Se entregou.",
+                "Vejo os cravos a rasgar",
+                "Suas mãos e pés sem-par!",
+                "Foi por você também",
+                "que Jesus Se entregou!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Foi por você também,",
+                "Foi por você também",
+                "que o Mestre agonizou.",
+                "Vejo o sangue de Jesus",
+                "deslizando sobre a cruz!",
+                "Foi por você também",
+                "que o Mestre agonizou!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Foi por você também,",
+                "Foi por você também",
+                "que Jesus mostrou amor.",
+                "Padeceu sem merecer",
+                "e sofreu até morrer!",
+                "Foi por você também",
+                "que Jesus mostrou amor!"
+            ]
+        }
+    ]
+}

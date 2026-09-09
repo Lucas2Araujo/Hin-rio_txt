@@ -1,0 +1,110 @@
+{
+    "hymn": {
+        "number": "397",
+        "title": "Eu Só Quero Estar Onde Estás",
+        "originalTitle": "I Just Want To Be Where You Are",
+        "subCategory": 22,
+        "lyricsComposer": [
+            91
+        ],
+        "musicComposer": [
+            91
+        ],
+        "versionComposer": [
+            127
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Êxodo 33:12-16",
+        "youtubeURL": "https://www.youtube.com/watch?v=AFnJNK48Iv0",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 84:10",
+            "Salmos 27:4",
+            "Êxodo 33:15"
+        ],
+        "texto_base": "Êxodo 33:12-16",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu só quero estar onde estás",
+                "E viver em Tua presença.",
+                "Ver a Tua face e Te adorar;",
+                "Junto a Ti eu quero estar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu só quero estar onde estás,",
+                "Onde tudo é para sempre.",
+                "Leva-me pra este lugar,",
+                "Pois eu quero ali morar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu quero estar Contigo,",
+                "Vendo a Tua face.",
+                "E sentar à mesa,",
+                "Envolvido por Tua glória.",
+                "Na presença do meu Senhor,",
+                "eu quero estar.",
+                "Sim, eu quero estar,",
+                "Quero estar Contigo, ó Deus."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu só quero estar onde estás",
+                "E viver em Tua presença.",
+                "Ver a Tua face e Te adorar;",
+                "Junto a Ti eu quero estar."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ó meu Deus,",
+                "Tu és a força e canção,",
+                "E quando estou Contigo",
+                "Se sou fraco Tu és forte."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu só quero estar onde estás,",
+                "Onde tudo é para sempre.",
+                "Leva-me pra este lugar,",
+                "Sim, eu quero estar,",
+                "Quero estar Contigo, ó Deus."
+            ]
+        }
+    ]
+}

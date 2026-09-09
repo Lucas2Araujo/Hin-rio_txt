@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "490",
+        "title": "Tão Grato Me É Lembrar",
+        "originalTitle": "One Sweetly Solemn Thought",
+        "subCategory": 27,
+        "lyricsComposer": [
+            402
+        ],
+        "musicComposer": [
+            400
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Hebreus 10:35-37",
+        "youtubeURL": "https://www.youtube.com/watch?v=8A0dsuOgLyg",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Romanos 13:11",
+            "Filipenses 3:20",
+            "2 Pedro 3:13"
+        ],
+        "texto_base": "Hebreus 10:35-37",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tão grato me é lembrar",
+                "Que cada dia estou",
+                "Mais perto do celeste lar",
+                "Em que morar eu vou!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cada vez mais Perto do lar,",
+                "Perto do meu eterno lar",
+                "Em que morar eu vou."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Em breve vou partir",
+                "Para onde não há dor.",
+                "Eterna vida vou fruir",
+                "Naquele lar de amor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cada vez mais Perto do lar,",
+                "Perto do meu eterno lar",
+                "Em que morar eu vou."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, quando ali chegar,",
+                "Que dia tão feliz!",
+                "Descanso e paz irei achar",
+                "Naquele bom país."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cada vez mais Perto do lar,",
+                "Perto do meu eterno lar",
+                "Em que morar eu vou."
+            ]
+        }
+    ]
+}

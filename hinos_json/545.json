@@ -1,0 +1,94 @@
+{
+    "hymn": {
+        "number": "545",
+        "title": "Sou Feliz",
+        "originalTitle": "",
+        "subCategory": 29,
+        "lyricsComposer": [
+            326
+        ],
+        "musicComposer": [
+            326
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 84:12",
+        "youtubeURL": "https://www.youtube.com/watch?v=I1D2ayYAKL0",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 144:15",
+            "Provérbios 16:20",
+            "Filipenses 4:4"
+        ],
+        "texto_base": "Salmo 84:12",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ao nosso Mestre vamos dar",
+                "A mais sincera gratidão",
+                "Por tudo que Ele nos ensina,",
+                "Por tudo aquilo que é melhor.",
+                "Pra Cristo vamos entregar",
+                "A nossa mente e o coração,",
+                "Deixando que o Senhor da vida",
+                "Nos guie pelo Seu amor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sou feliz, pois Cristo",
+                "sempre está comigo;",
+                "Sou feliz vivendo sob a Sua luz.",
+                "Sou feliz, pois Cristo",
+                "é o meu melhor Amigo;",
+                "Sou feliz seguindo os passos de Jesus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ao nosso Mestre vamos dar",
+                "A mais sincera devoção",
+                "Por tudo que Ele nos revela",
+                "Naquilo que Ele aqui deixou.",
+                "Com Cristo vamos partilhar",
+                "Aquilo que nos faz feliz;",
+                "E, nos momentos de tristeza,",
+                "O Mestre nos fará sorrir."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sou feliz, pois Cristo",
+                "sempre está comigo;",
+                "Sou feliz vivendo sob a Sua luz.",
+                "Sou feliz, pois Cristo",
+                "é o meu melhor Amigo;",
+                "Sou feliz seguindo os passos de Jesus."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "124",
+        "title": "Deixa A Luz Do Céu Entrar",
+        "originalTitle": "Let the Sunshine In",
+        "subCategory": 10,
+        "lyricsComposer": [
+            4
+        ],
+        "musicComposer": [
+            60
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 8:12",
+        "youtubeURL": "https://www.youtube.com/watch?v=VlxR27Iy9LQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 João 1:5-7",
+            "Efésios 5:14",
+            "1 Pedro 2:9"
+        ],
+        "texto_base": "João 8:12",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tu desejas hoje a salvação fruir?",
+                "E se queres toda a escuridão banir?",
+                "Abre o coração pra Cristo em ti brilhar.",
+                "Deixa a luz do Céu entrar!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deixa a luz do Céu entrar!",
+                "Deixa a luz do Céu entrar!",
+                "Abre o coração pra Cristo em ti brilhar.",
+                "Deixa a luz do Céu entrar!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo, a luz celeste, quer morar em ti,",
+                "Para iluminar o teu caminho aqui!",
+                "Quer do teu pecado o coração limpar!",
+                "Deixa a luz do Céu entrar!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deixa a luz do Céu entrar!",
+                "Deixa a luz do Céu entrar!",
+                "Abre o coração pra Cristo em ti brilhar.",
+                "Deixa a luz do Céu entrar!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que alegria andar no brilho dessa luz!",
+                "Vida eterna e paz no coração produz!",
+                "Abre o coração pra Cristo em ti brilhar.",
+                "Deixa a luz do Céu entrar!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deixa a luz do Céu entrar!",
+                "Deixa a luz do Céu entrar!",
+                "Abre o coração pra Cristo em ti brilhar.",
+                "Deixa a luz do Céu entrar!"
+            ]
+        }
+    ]
+}

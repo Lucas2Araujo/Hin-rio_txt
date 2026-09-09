@@ -1,0 +1,84 @@
+{
+    "hymn": {
+        "number": "56",
+        "title": "Nossa Inspiração",
+        "originalTitle": "",
+        "subCategory": 5,
+        "lyricsComposer": [
+            446
+        ],
+        "musicComposer": [
+            446
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 119:140",
+        "youtubeURL": "https://www.youtube.com/watch?v=5-PCVhz6uzg",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 19:7-8",
+            "2 Timóteo 3:16",
+            "João 17:17"
+        ],
+        "texto_base": "Salmo 119:140",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Grande e lindo é o amor de Deus,",
+                "Que um livro tão precioso nos deixou.",
+                "Seus ensinos servem para nos lembrar",
+                "Que um dia lá no Céu vamos morar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A Bíblia é nossa inspiração,",
+                "Palavra doce ao coração.",
+                "É luz eterna de valor,",
+                "É fonte de esperança e de amor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Curas e milagres de Jesus",
+                "A Bíblia tantas vezes nos mostrou.",
+                "Sempre nós devemos este livro amar,",
+                "Pois muitas vidas pode transformar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A Bíblia é nossa inspiração,",
+                "Palavra doce ao coração.",
+                "É luz eterna de valor,",
+                "É fonte de esperança e de amor.",
+                "É fonte de esperança e de amor."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "hymn": {
+        "number": "40",
+        "title": "Concede-nos O Espírito",
+        "originalTitle": "Rejoice, the Lord Is King",
+        "subCategory": 4,
+        "lyricsComposer": [
+            83
+        ],
+        "musicComposer": [
+            268
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 16:7, 8",
+        "youtubeURL": "https://www.youtube.com/watch?v=AEIOZHynZ10",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Atos 2:38",
+            "Romanos 8:26",
+            "João 14:26"
+        ],
+        "texto_base": "João 16:7, 8",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Santuário e Juízo"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Concede-nos, ó Deus,",
+                "o Espírito de amor,",
+                "E ao nosso coração,",
+                "o Teu Consolador.",
+                "No mundo atroz,",
+                "Que sempre o Santo Espírito",
+                "esteja em nós!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Convença o mundo então",
+                "do juízo e do mal",
+                "E da justiça, enfim,",
+                "com graça divinal.",
+                "Concede, ó Deus,",
+                "Que andem na Verdade aqui",
+                "os filhos Teus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Permite-nos aqui",
+                "louvar a Deus, o Pai;",
+                "E ao Filho em alta voz,",
+                "ó povos, glória dai.",
+                "Louvai também",
+                "O bom e Santo Espírito",
+                "pra sempre. Amém!"
+            ]
+        }
+    ]
+}

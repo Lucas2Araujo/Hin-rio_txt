@@ -1,0 +1,87 @@
+{
+    "hymn": {
+        "number": "357",
+        "title": "Bendita Hora De Oração",
+        "originalTitle": "Sweet Hour of Prayer",
+        "subCategory": 22,
+        "lyricsComposer": [
+            534
+        ],
+        "musicComposer": [
+            513
+        ],
+        "versionComposer": [
+            477
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 6:6",
+        "youtubeURL": "https://www.youtube.com/watch?v=Z6as5nyLYa8",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 55:17",
+            "Daniel 6:10",
+            "Atos 3:1"
+        ],
+        "texto_base": "Mateus 6:6",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Bendita hora de oração,",
+                "Pois traz-nos paz ao coração",
+                "E vence o mal e toda a dor,",
+                "Trazendo auxílio do Senhor.",
+                "Em tempos maus, na provação,",
+                "Na dor maior, na tentação,",
+                "Irei buscar ao meu Senhor,",
+                "Com zelo, fé e mais fervor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Bendita hora de oração,",
+                "De doce calma e devoção!",
+                "Elevo ao Céu o meu clamor,",
+                "Um cheiro suave a meu Senhor.",
+                "E finda a hora de aflição,",
+                "Os dias maus, a tentação,",
+                "Então darei melhor louvor",
+                "A meu Jesus, o meu Senhor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Bendita hora de oração,",
+                "Pois liga-nos em comunhão",
+                "E traz-nos paz e mais fervor",
+                "Enchendo o mundo com amor.",
+                "Desejo a vida aqui findar",
+                "Com fé, amor, constante orar.",
+                "E lá no Céu, junto ao Senhor,",
+                "Será eterno meu louvor."
+            ]
+        }
+    ]
+}

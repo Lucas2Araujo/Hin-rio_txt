@@ -1,0 +1,70 @@
+{
+    "hymn": {
+        "number": "537",
+        "title": "Sábado, O Dia Mais Feliz",
+        "originalTitle": "",
+        "subCategory": 29,
+        "lyricsComposer": [
+            294
+        ],
+        "musicComposer": [
+            294
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Marcos 2:27",
+        "youtubeURL": "https://www.youtube.com/watch?v=QSFP2EvOtk8",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 58:13",
+            "Marcos 2:27",
+            "Êxodo 20:8"
+        ],
+        "texto_base": "Marcos 2:27",
+        "temas_relacionados": [
+            "Igreja e Comunhão",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "De todos os dias da semana,",
+                "O sábado é o dia mais feliz;",
+                "De todos os dias da semana,",
+                "O sábado é o dia mais feliz."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu gosto de cedo ir à igreja",
+                "No sábado, o dia mais feliz;",
+                "Eu gosto de cedo ir à igreja",
+                "No sábado, o dia mais feliz."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu vou visitar a natureza",
+                "No sábado, o dia mais feliz;",
+                "Eu vou visitar a natureza",
+                "No sábado, o dia mais feliz."
+            ]
+        }
+    ]
+}

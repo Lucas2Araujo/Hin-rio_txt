@@ -1,0 +1,86 @@
+{
+    "hymn": {
+        "number": "95",
+        "title": "Amor Que Por Amor Desceste",
+        "originalTitle": "O Love That Wilt Not Let Me Go",
+        "subCategory": 9,
+        "lyricsComposer": [
+            174
+        ],
+        "musicComposer": [
+            10
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Jeremias 31:3",
+        "youtubeURL": "https://www.youtube.com/watch?v=Pwa7fRMbURU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Efésios 2:4",
+            "Romanos 5:8",
+            "1 João 4:10"
+        ],
+        "texto_base": "Jeremias 31:3",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Amor que por amor desceste!",
+                "Amor que por amor morreste!",
+                "Ah, quanta dor não padeceste!",
+                "Minh’alma vieste resgatar",
+                "E meu amor ganhar!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Amor que com amor seguias",
+                "A mim, que sem amor Tu vias!",
+                "Oh, quanto amor por mim sentias,",
+                "Eterno Deus, Senhor Jesus,",
+                "Sofrendo sobre a cruz!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Amor que tudo me perdoas!",
+                "Amor que até mesmo abençoas!",
+                "Um réu de quem Tu Te afeiçoas!",
+                "Vencido, ó Salvador, por Ti,",
+                "Teu grande amor senti!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Amor sublime que perduras,",
+                "Que em Tua graça me seguras,",
+                "Cercando a mim de mil venturas!",
+                "Aceita agora, ó Salvador,",
+                "O meu humilde amor!"
+            ]
+        }
+    ]
+}

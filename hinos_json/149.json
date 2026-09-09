@@ -1,0 +1,131 @@
+{
+    "hymn": {
+        "number": "149",
+        "title": "Pedras",
+        "originalTitle": "",
+        "subCategory": 10,
+        "lyricsComposer": [
+            535
+        ],
+        "musicComposer": [
+            535
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Pedro 2:4, 5",
+        "youtubeURL": "https://www.youtube.com/watch?v=yi08qQYUizE",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Pedro 2:5",
+            "Efésios 2:20-22",
+            "Salmos 118:22"
+        ],
+        "texto_base": "1 Pedro 2:4, 5",
+        "temas_relacionados": [
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nós éramos pedras de rua,",
+                "Chutadas, pisadas por pés.",
+                "Batíamos contra outras pedras,",
+                "Rolávamos sempre em revés.",
+                "Até que caímos no abismo,",
+                "Disformes, quebradas, sem luz.",
+                "Nas trevas da noite ficamos",
+                "Perdidas à sombra da cruz!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A Pedra que os homens quebraram",
+                "Ficou como Pedra Angular.",
+                "A Pedra que foi rejeitada",
+                "É Pedra que pode salvar.",
+                "Se tu te perderes contigo,",
+                "Procura encontrar a Jesus.",
+                "A Joia das joias, amigo,",
+                "É Pedra que vida traduz."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A Pedra de esquina do templo",
+                "Tirou-nos da lama fatal,",
+                "Limpou-nos do lodo envolvente;",
+                "É grande esse amor divinal!",
+                "Nos fez pedras vivas e úteis,",
+                "No templo, na causa de Deus.",
+                "E ainda lapida as arestas",
+                "Que encontra nos filhos Seus."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A Pedra que os homens quebraram",
+                "Ficou como Pedra Angular.",
+                "A Pedra que foi rejeitada",
+                "É Pedra que pode salvar.",
+                "Se tu te perderes contigo,",
+                "Procura encontrar a Jesus.",
+                "A Joia das joias, amigo,",
+                "É Pedra que vida traduz."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Na guerra do bem contra o mal",
+                "Sejamos um muro de fé.",
+                "Lutemos em prol dos princípios",
+                "Que sempre nos firmam de pé.",
+                "Em breve estaremos com Cristo",
+                "Andando em caminhos de luz.",
+                "E, pedras outrora pisadas,",
+                "Seremos vitória da cruz."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A Pedra que os homens quebraram",
+                "Ficou como Pedra Angular.",
+                "A Pedra que foi rejeitada",
+                "É Pedra que pode salvar.",
+                "Se tu te perderes contigo,",
+                "Procura encontrar a Jesus.",
+                "A Joia das joias, amigo,",
+                "É Pedra que vida traduz."
+            ]
+        }
+    ]
+}

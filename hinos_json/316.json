@@ -1,0 +1,99 @@
+{
+    "hymn": {
+        "number": "316",
+        "title": "Achei Um Grande Amigo",
+        "originalTitle": "I’ve Found a Friend in Jesus",
+        "subCategory": 22,
+        "lyricsComposer": [
+            62
+        ],
+        "musicComposer": [
+            371
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 15:14, 15",
+        "youtubeURL": "https://www.youtube.com/watch?v=5RRcpOBlXeA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Provérbios 18:24",
+            "João 15:13-15",
+            "Tiago 2:23"
+        ],
+        "texto_base": "João 15:14, 15",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Achei um grande Amigo,",
+                "Jesus, o Salvador;",
+                "Contarei quão grandes coisas fez por mim.",
+                "Estando eu perdido, indigno pecador,",
+                "Resgatou-me, e agora",
+                "eu sirvo a Ele enfim.",
+                "Em Seu amor imenso,",
+                "por mim morreu na cruz",
+                "E o perdão dos meus pecados outorgou.",
+                "Assim me regozijo,",
+                "vivendo em Sua luz.",
+                "Aleluia! Jesus Cristo me salvou!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Por este grande Amigo,",
+                "desejo aqui viver,",
+                "E com Ele sempre estar em comunhão.",
+                "Servi-Lo fielmente, seguindo Seu querer;",
+                "Vou a Cristo",
+                "consagrar meu coração.",
+                "Se o mundo me persegue,",
+                "se tenho tentação,",
+                "Com Jesus em minha vida, vencerei.",
+                "E a cada dia Cristo",
+                "conduz-me pela mão,",
+                "E na Sua graça sempre confiarei."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Já vem chegando o dia,",
+                "a Bíblia assim o diz,",
+                "Em que Cristo a este mundo voltará.",
+                "Momento tão alegre! Que dia mais feliz!",
+                "Sim, que dia",
+                "esplendoroso então será!",
+                "E assim com Ele sempre",
+                "no Céu habitarei,",
+                "Já liberto do pecado e da dor.",
+                "E lá, constantemente,",
+                "Seu rosto então verei",
+                "E estarei pra sempre junto ao Salvador."
+            ]
+        }
+    ]
+}

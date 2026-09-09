@@ -1,0 +1,125 @@
+{
+    "hymn": {
+        "number": "234",
+        "title": "Hoje Ajuda Alguém",
+        "originalTitle": "Help Somebody Today",
+        "subCategory": 13,
+        "lyricsComposer": [
+            53
+        ],
+        "musicComposer": [
+            60
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Tiago 2:14-17",
+        "youtubeURL": "https://www.youtube.com/watch?v=6T8ajgIR4Mk",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Tiago 2:15-16",
+            "Gálatas 6:2",
+            "Hebreus 13:16"
+        ],
+        "texto_base": "Tiago 2:14-17",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Palavra de Deus e Lei"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Lança os olhares em torno de ti;",
+                "Sim, ajuda hoje a alguém!",
+                "Sê um auxílio ao teu próximo ali;",
+                "Sim, ajuda hoje a alguém!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, ajuda hoje a alguém,",
+                "Demonstra-lhe amor também.",
+                "Remove o temor e promove o amor.",
+                "Oh, sim, ajuda hoje a alguém!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Muitos aguardam palavras de amor;",
+                "Sim, ajuda hoje a alguém!",
+                "Inda que seja pequeno o favor;",
+                "Sim, ajuda hoje a alguém!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, ajuda hoje a alguém,",
+                "Demonstra-lhe amor também.",
+                "Remove o temor e promove o amor.",
+                "Oh, sim, ajuda hoje a alguém!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Muitos têm cargas pesadas demais;",
+                "Sim, ajuda hoje a alguém!",
+                "Quantos sucumbem em seus tristes ais;",
+                "Sim, ajuda hoje a alguém!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, ajuda hoje a alguém,",
+                "Demonstra-lhe amor também.",
+                "Remove o temor e promove o amor.",
+                "Oh, sim, ajuda hoje a alguém!"
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Muitos da vida cansados estão;",
+                "Sim, ajuda hoje a alguém!",
+                "Muitos procuram obter salvação;",
+                "Sim, ajuda hoje a alguém!"
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, ajuda hoje a alguém,",
+                "Demonstra-lhe amor também.",
+                "Remove o temor e promove o amor.",
+                "Oh, sim, ajuda hoje a alguém!"
+            ]
+        }
+    ]
+}

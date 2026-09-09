@@ -1,0 +1,83 @@
+{
+    "hymn": {
+        "number": "579",
+        "title": "Ao Orarmos, Senhor",
+        "originalTitle": "As We Come to You in Prayer",
+        "subCategory": 33,
+        "lyricsComposer": [
+            413
+        ],
+        "musicComposer": [
+            413
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 55:1",
+        "youtubeURL": "https://www.youtube.com/watch?v=ruwejYHFrso",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 141:2",
+            "Mateus 18:20",
+            "Mateus 21:22"
+        ],
+        "texto_base": "Salmo 55:1",
+        "temas_relacionados": [
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Faze que, ao orar,",
+                "Eu esqueça tudo ao redor",
+                "Pra que nada me venha impedir",
+                "Do Teu trono a graça fruir."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vem meu ser transformar pelo amor",
+                "Que do alto provém, ó Senhor.",
+                "Possam todos os que aqui estão",
+                "Bem unidos estar em oração."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vem, Senhor, elevar",
+                "Os que diante de Ti hoje estão",
+                "Em espírito de oração,",
+                "Procurando o mundo deixar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vem meu ser transformar pelo amor",
+                "Que do alto provém, ó Senhor.",
+                "Possam todos os que aqui estão",
+                "Bem unidos estar em oração."
+            ]
+        }
+    ]
+}

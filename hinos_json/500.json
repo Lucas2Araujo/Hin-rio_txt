@@ -1,0 +1,120 @@
+{
+    "hymn": {
+        "number": "500",
+        "title": "Oh, Nunca Separar!",
+        "originalTitle": "Never Part Again",
+        "subCategory": 28,
+        "lyricsComposer": [
+            226
+        ],
+        "musicComposer": [
+            485
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 21:3, 4",
+        "youtubeURL": "https://www.youtube.com/watch?v=Ua3zsO9-2X8",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Tessalonicenses 4:17",
+            "Apocalipse 21:4",
+            "Apocalipse 21:25"
+        ],
+        "texto_base": "Apocalipse 21:3, 4",
+        "temas_relacionados": [
+            "Lar e Família"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Há um país de eterna luz;",
+                "É sempre dia lá.",
+                "E nessa pátria que reluz",
+                "A noite findará."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Marchamos para a terra além",
+                "E vamos a Jerusalém;",
+                "Iremos com Jesus reinar",
+                "E nunca mais nos separar.",
+                "Oh, nunca separar!",
+                "Não, nunca separar!",
+                "Oh, nunca separar!",
+                "Não, nunca separar!",
+                "Iremos com Jesus reinar",
+                "E nunca mais nos separar!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Há sempre primavera lá,",
+                "Flores não murcharão;",
+                "Tão perto já de nós está",
+                "A eternal mansão."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Marchamos para a terra além",
+                "E vamos a Jerusalém;",
+                "Iremos com Jesus reinar",
+                "E nunca mais nos separar.",
+                "Oh, nunca separar!",
+                "Não, nunca separar!",
+                "Oh, nunca separar!",
+                "Não, nunca separar!",
+                "Iremos com Jesus reinar",
+                "E nunca mais nos separar!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Já nós estamos qual Moisés,",
+                "Vendo o futuro lar;",
+                "E divisamos, pela fé,",
+                "A morada sem-par."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Marchamos para a terra além",
+                "E vamos a Jerusalém;",
+                "Iremos com Jesus reinar",
+                "E nunca mais nos separar.",
+                "Oh, nunca separar!",
+                "Não, nunca separar!",
+                "Oh, nunca separar!",
+                "Não, nunca separar!",
+                "Iremos com Jesus reinar",
+                "E nunca mais nos separar!"
+            ]
+        }
+    ]
+}

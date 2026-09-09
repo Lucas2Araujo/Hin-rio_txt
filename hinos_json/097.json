@@ -1,0 +1,103 @@
+{
+    "hymn": {
+        "number": "97",
+        "title": "Por Que Me Amou Assim?",
+        "originalTitle": "Why Should He Love Me So?",
+        "subCategory": 9,
+        "lyricsComposer": [
+            429
+        ],
+        "musicComposer": [
+            429
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Hebreus 12:2, 3",
+        "youtubeURL": "https://www.youtube.com/watch?v=KXB43Rs8SyU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Pedro 2:24",
+            "Isaías 53:5",
+            "1 João 4:19"
+        ],
+        "texto_base": "Hebreus 12:2, 3",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Morte cruel padeceu meu Jesus.",
+                "Por que me amou assim?",
+                "Eu merecera sofrer nessa cruz.",
+                "Por que me amou assim?"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Por que me amou assim?",
+                "Por que me amou assim?",
+                "Por que sofreu meu Jesus por mim?",
+                "Por que me amou assim?"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Foi meu pecado que O crucificou.",
+                "Por que me amou assim?",
+                "Para salvar-me, que dor suportou!",
+                "Por que me amou assim?"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Por que me amou assim?",
+                "Por que me amou assim?",
+                "Por que sofreu meu Jesus por mim?",
+                "Por que me amou assim?"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, que agonia, que grande aflição!",
+                "Por que me amou assim?",
+                "Hei de aceitar tão imenso perdão!",
+                "Por que me amou assim?"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Por que me amou assim?",
+                "Por que me amou assim?",
+                "Por que sofreu meu Jesus por mim?",
+                "Por que me amou assim?"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "hymn": {
+        "number": "264",
+        "title": "Envio A Ti",
+        "originalTitle": "So Send I You",
+        "subCategory": 17,
+        "lyricsComposer": [
+            100
+        ],
+        "musicComposer": [
+            288
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 20:21, 22",
+        "youtubeURL": "https://www.youtube.com/watch?v=MGgZCcpZIYE",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 20:21",
+            "João 17:18",
+            "Atos 1:8"
+        ],
+        "texto_base": "João 20:21, 22",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Missão e Serviço",
+            "Oração e Comunhão",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Envio a ti aos campos da seara,",
+                "Semear, ceifar, sem honras receber;",
+                "Sofrer por Mim ingratidão e escárnio.",
+                "Contigo estou, terás o Meu poder."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Envio a ti aos corações que odeiam,",
+                "Aos olhos cegos que não querem ver;",
+                "Gastar-te até o sangue, sem poupar-te.",
+                "Ó vai e lembra todo o Meu sofrer."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Envio a ti às almas quebrantadas,",
+                "E por alguém orar, chorar, velar;",
+                "O fardo erguer de corações cansados.",
+                "Vai com fervor do Meu amor falar.",
+                "Como o Pai enviou-Me, assim",
+                "Eu envio a ti."
+            ]
+        }
+    ]
+}

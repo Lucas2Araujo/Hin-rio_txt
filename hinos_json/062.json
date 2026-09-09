@@ -1,0 +1,128 @@
+{
+    "hymn": {
+        "number": "62",
+        "title": "Quão Grande És Tu",
+        "originalTitle": "How Great Thou Art",
+        "subCategory": 6,
+        "lyricsComposer": [
+            48,
+            470
+        ],
+        "musicComposer": [
+            377
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 8",
+        "youtubeURL": "https://www.youtube.com/watch?v=gwi_gzBwl98",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 19:1",
+            "Salmos 104:1",
+            "Jeremias 10:6"
+        ],
+        "texto_base": "Salmo 8",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Lar e Família",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Senhor meu Deus, quando eu, maravilhado,",
+                "Fico a pensar nas obras de Tuas mãos,",
+                "Estrelas mil a cintilar no espaço,",
+                "O Teu poder em manifestação,"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Então minh’alma canta a Ti, Senhor:",
+                "Quão grande és Tu! Quão grande és Tu!",
+                "Então minh’alma canta a Ti, Senhor:",
+                "Quão grande és Tu! Quão grande és Tu!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se ao caminhar por campos e florestas,",
+                "Escuto as aves belas a cantar;",
+                "Se estendo o olhar do alto da montanha",
+                "E a fonte além eu ouço a murmurar,"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Então minh’alma canta a Ti, Senhor:",
+                "Quão grande és Tu! Quão grande és Tu!",
+                "Então minh’alma canta a Ti, Senhor:",
+                "Quão grande és Tu! Quão grande és Tu!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se penso então que, sem poupar Teu Filho,",
+                "O enviaste pra morrer por mim,",
+                "Levando à cruz os meus pecados todos,",
+                "Para eu viver a vida que é sem fim,"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Então minh’alma canta a Ti, Senhor:",
+                "Quão grande és Tu! Quão grande és Tu!",
+                "Então minh’alma canta a Ti, Senhor:",
+                "Quão grande és Tu! Quão grande és Tu!"
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "E ao vir Jesus em resplendor e glória,",
+                "Para levar-me ao lar dos filhos Seus,",
+                "Prostrar-me-ei em gratidão infinda",
+                "E exclamarei: Quão grande és Tu, meu Deus!"
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Então minh’alma canta a Ti, Senhor:",
+                "Quão grande és Tu! Quão grande és Tu!",
+                "Então minh’alma canta a Ti, Senhor:",
+                "Quão grande és Tu! Quão grande és Tu!"
+            ]
+        }
+    ]
+}

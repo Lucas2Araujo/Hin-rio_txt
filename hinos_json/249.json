@@ -1,0 +1,107 @@
+{
+    "hymn": {
+        "number": "249",
+        "title": "Oh, Que Belos Hinos!",
+        "originalTitle": "Ring the Bells of Heaven",
+        "subCategory": 15,
+        "lyricsComposer": [
+            529
+        ],
+        "musicComposer": [
+            170
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Lucas 15:7",
+        "youtubeURL": "https://www.youtube.com/watch?v=RGvKiqTibOc",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Lucas 15:7",
+            "Lucas 15:10",
+            "Atos 11:18"
+        ],
+        "texto_base": "Lucas 15:7",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Missão e Serviço",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, que belos hinos cantam lá nos Céus!",
+                "É que o filho para o lar voltou.",
+                "Vede lá ao longe o Pai já abraçar",
+                "Esse filho que Ele tanto amou."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Glória, anjos mil entoam lá!",
+                "Glória, ouvem-se as harpas já!",
+                "É o santo coro dando o seu louvor,",
+                "Pois se converteu um pecador."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, que belos hinos cantam lá nos Céus,",
+                "Pois se converteu um pecador!",
+                "Filho tão querido, convertido a Deus,",
+                "Deixa o mundo e volta ao Pai de amor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Glória, anjos mil entoam lá!",
+                "Glória, ouvem-se as harpas já!",
+                "É o santo coro dando o seu louvor,",
+                "Pois se converteu um pecador."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, arrependidos, hoje festejai,",
+                "Como os anjos fazem com fervor!",
+                "Ide alegremente vós e anunciai",
+                "Que se resgatou um pecador."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Glória, anjos mil entoam lá!",
+                "Glória, ouvem-se as harpas já!",
+                "É o santo coro dando o seu louvor,",
+                "Pois se converteu um pecador."
+            ]
+        }
+    ]
+}

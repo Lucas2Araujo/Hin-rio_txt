@@ -1,0 +1,74 @@
+{
+    "hymn": {
+        "number": "238",
+        "title": "Oração Pela Missão",
+        "originalTitle": "",
+        "subCategory": 13,
+        "lyricsComposer": [
+            236
+        ],
+        "musicComposer": [
+            236
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 6:8",
+        "youtubeURL": "https://www.youtube.com/watch?v=SEEy-WPicdc",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 6:8",
+            "Romanos 10:15",
+            "Atos 13:47"
+        ],
+        "texto_base": "Isaías 6:8",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Missão e Serviço",
+            "Oração e Comunhão",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Venho aqui agora",
+                "Nesta oração",
+                "Pedir a Tua graça",
+                "Pra cumprir minha missão.",
+                "Quero ser a bênção,",
+                "Luz por onde for,",
+                "Levando a esperança,",
+                "Em plena confiança,",
+                "Que a mão que nos alcança",
+                "É a mão do Salvador."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Muitos que precisam",
+                "Quero ajudar,",
+                "Levando o evangelho,",
+                "E a Cristo revelar.",
+                "Faz-me justo e digno",
+                "Pra eu mostrar amor:",
+                "A mão sempre estendida,",
+                "A voz que aquece a vida,",
+                "A face tão querida",
+                "De Cristo, o Salvador."
+            ]
+        }
+    ]
+}

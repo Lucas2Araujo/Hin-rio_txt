@@ -1,0 +1,84 @@
+{
+    "hymn": {
+        "number": "293",
+        "title": "O Sábado Chegou",
+        "originalTitle": "Saviour, Like a Shepherd",
+        "subCategory": 20,
+        "lyricsComposer": [
+            83
+        ],
+        "musicComposer": [
+            513
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Êxodo 20:8-11",
+        "youtubeURL": "https://www.youtube.com/watch?v=V7Qx617dQQU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Levítico 23:32",
+            "Neemias 13:19",
+            "Gênesis 1:5"
+        ],
+        "texto_base": "Êxodo 20:8-11",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Lento e calmo foge o dia;",
+                "já a tarde se apagou.",
+                "Oh, que paz e que alegria,",
+                "pois o sábado chegou!",
+                "És bem-vindo, és bem-vindo,",
+                "santo dia do Senhor!",
+                "És bem-vindo, és bem-vindo,",
+                "santo dia do Senhor!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Esta hora de bonança",
+                "lembra o Deus que nos criou,",
+                "Pois o dia de lembrança",
+                "nosso Pai santificou.",
+                "És bem-vindo, és bem-vindo",
+                "memorial da criação!",
+                "És bem-vindo, és bem-vindo,",
+                "memorial da criação!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Esta hora de harmonia",
+                "lembra o Deus que nos salvou.",
+                "Cristo lá na tumba fria",
+                "neste dia descansou.",
+                "És bem-vindo, és bem-vindo,",
+                "memorial da redenção!",
+                "És bem-vindo, és bem-vindo,",
+                "memorial da redenção!"
+            ]
+        }
+    ]
+}

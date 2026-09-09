@@ -1,0 +1,106 @@
+{
+    "hymn": {
+        "number": "431",
+        "title": "Vem O Grande Dia",
+        "originalTitle": "There’s a Great Day Coming",
+        "subCategory": 24,
+        "lyricsComposer": [
+            511
+        ],
+        "musicComposer": [
+            511
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Sofonias 1:14",
+        "youtubeURL": "https://www.youtube.com/watch?v=DmKmlupo91M",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Sofonias 1:14",
+            "Amós 5:18",
+            "Apocalipse 6:17"
+        ],
+        "texto_base": "Sofonias 1:14",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vem o grande dia, o grande dia;",
+                "Vem o grande dia, sem tardar,",
+                "Quando ímpios e santos",
+                "separados hão de ser.",
+                "‘Stais vós prontos para o dia final?"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "‘Stais vós prontos? ‘Stais vós prontos?",
+                "‘Stais vós prontos para o dia final?",
+                "‘Stais vós prontos? ‘Stais vós prontos",
+                "Para o dia final?"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vem o alegre dia, o alegre dia,",
+                "Este alegre dia perto está,",
+                "Mas alegre será somente",
+                "ao que ama o Salvador.",
+                "‘Stais vós prontos para o dia final?"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "‘Stais vós prontos? ‘Stais vós prontos?",
+                "‘Stais vós prontos para o dia final?",
+                "‘Stais vós prontos? ‘Stais vós prontos",
+                "Para o dia final?"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Um glorioso dia, glorioso dia,",
+                "Um glorioso dia há de ser,",
+                "Mas a glória virá somente",
+                "ao que ama o Salvador.",
+                "‘Stais vós prontos para o dia final?"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "‘Stais vós prontos? ‘Stais vós prontos?",
+                "‘Stais vós prontos para o dia final?",
+                "‘Stais vós prontos? ‘Stais vós prontos",
+                "Para o dia final?"
+            ]
+        }
+    ]
+}

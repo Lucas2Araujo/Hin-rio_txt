@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "61",
+        "title": "Vós, Criaturas Do Senhor",
+        "originalTitle": "All Creatures of Our God and King",
+        "subCategory": 6,
+        "lyricsComposer": [
+            144
+        ],
+        "musicComposer": [
+            161
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 148",
+        "youtubeURL": "https://www.youtube.com/watch?v=EUHb7-depCY",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 150:6",
+            "Apocalipse 5:13",
+            "Salmos 145:10"
+        ],
+        "texto_base": "Salmo 148",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vós, criaturas do Senhor,",
+                "Oh, elevai a Deus louvor!",
+                "Oh, louvai-O! Aleluia!",
+                "Tu, Sol dourado a refulgir;",
+                "Tu, Lua em prata a reluzir!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, louvai-O! Oh, louvai-O!",
+                "Aleluia! Aleluia! Aleluia!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ó Terra e Céu, a Deus honrai;",
+                "Culto de amor e graças dai!",
+                "Oh, louvai-O! Aleluia!",
+                "Flores, erguei-vos em canção",
+                "Ao grande Deus da criação!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, louvai-O! Oh, louvai-O!",
+                "Aleluia! Aleluia! Aleluia!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vós, homens sábios e de bem,",
+                "Dai ao Senhor louvor também!",
+                "Oh, louvai-O! Aleluia!",
+                "Dai glória ao Filho, glória ao Pai,",
+                "E ao Santo Espírito louvai!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, louvai-O! Oh, louvai-O!",
+                "Aleluia! Aleluia! Aleluia!"
+            ]
+        }
+    ]
+}

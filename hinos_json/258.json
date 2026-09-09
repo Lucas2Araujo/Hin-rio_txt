@@ -1,0 +1,111 @@
+{
+    "hymn": {
+        "number": "258",
+        "title": "A Última Ceia",
+        "originalTitle": "",
+        "subCategory": 16,
+        "lyricsComposer": [
+            236
+        ],
+        "musicComposer": [
+            236
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 13:1",
+        "youtubeURL": "https://www.youtube.com/watch?v=VbPvb63MO7E",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 13:1-5",
+            "Lucas 22:27",
+            "Filipenses 2:7"
+        ],
+        "texto_base": "João 13:1",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Luz que se acende no início da noite,",
+                "Iluminando os amigos reunidos.",
+                "Sentam-se à mesa,",
+                "buscando um lugar melhor,",
+                "Pois perto do Mestre favor querem ter."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Esperam que servos lhes sirvam solenes,",
+                "Que lavem os seus pés que cansados estão.",
+                "Mas não há servos pra aquela tarefa",
+                "E os olhos se cruzam procurando alguém."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pra espanto de todos, Jesus Se levanta",
+                "E põe-Se a servi-los tão humilde e sereno.",
+                "O Rei dos reis prostrado, servindo,",
+                "Dos homens limpando a impureza com amor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu vi o Deus do Céu servindo.",
+                "Eu vi Jesus os pés do traidor lavar.",
+                "E vi Seu olhar de amor dizendo:",
+                "“Eu vim aqui, Eu vim aqui pra te salvar.”"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Mesa já posta, servida a Ceia;",
+                "Todos em volta em silêncio estão.",
+                "O vinho ofertado, o pão repartido",
+                "Preparam o Mestre pra o momento de dor."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu vi Seu rosto em agonia.",
+                "Senti a angústia em que Seu coração ficou",
+                "Pra dar uma chance a todo homem,",
+                "Pra dar uma chance,",
+                "uma chance ao pecador;",
+                "Pra dar uma chance,",
+                "uma chance ao pecador."
+            ]
+        }
+    ]
+}

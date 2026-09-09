@@ -1,0 +1,96 @@
+{
+    "hymn": {
+        "number": "86",
+        "title": "Nasce Jesus",
+        "originalTitle": "",
+        "subCategory": 9,
+        "lyricsComposer": [
+            430
+        ],
+        "musicComposer": [
+            431
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Lucas 2:14",
+        "youtubeURL": "https://www.youtube.com/watch?v=G4KswVUWNM8",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 1:14",
+            "Gálatas 4:4",
+            "Romanos 8:3"
+        ],
+        "texto_base": "Lucas 2:14",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nasce Jesus, fonte de luz!",
+                "Descem os anjos cantando.",
+                "Nasce Jesus, é nossa luz,",
+                "Trevas vem, pois, dissipando.",
+                "Nasce Jesus, fonte de luz!",
+                "Oh, glória a Deus nas alturas!",
+                "Vede a redenção raiar,",
+                "Cristo ao mundo vem!",
+                "Sê, pois, bem-vindo!",
+                "Firma Teu justo império!",
+                "Honras e glórias anjos e homens deem!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Nasce Jesus, fonte de luz!",
+                "Oh, glória a Deus nas alturas!",
+                "Paz na Terra aos homens,",
+                "A quem quer Ele bem."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus nos amou, Deus nos mandou",
+                "Cristo, Seu Filho querido.",
+                "Deus nos amou, Deus encarnou.",
+                "Vede o Menino nascido!",
+                "“Deus nos amou! Deus nos salvou!”,",
+                "Digam-no todos os povos.",
+                "Podem salvação fruir",
+                "todos os que creem!",
+                "Reino bendito! Reino do amor divino!",
+                "Eis que resgate todos por Cristo têm!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Nasce Jesus, fonte de luz!",
+                "Oh, glória a Deus nas alturas!",
+                "Paz na Terra aos homens,",
+                "A quem quer Ele bem."
+            ]
+        }
+    ]
+}

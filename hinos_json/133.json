@@ -1,0 +1,102 @@
+{
+    "hymn": {
+        "number": "133",
+        "title": "Ó Vem, Aflito Coração",
+        "originalTitle": "Wait, and Murmur Not!",
+        "subCategory": 10,
+        "lyricsComposer": [
+            498
+        ],
+        "musicComposer": [
+            526
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 11:28",
+        "youtubeURL": "https://www.youtube.com/watch?v=1kM5QluWwqc",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 11:29",
+            "Salmos 55:22",
+            "1 Pedro 5:7"
+        ],
+        "texto_base": "Mateus 11:28",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ó vem, aflito coração,",
+                "Em Cristo alívio encontrarás.",
+                "Consolo, paz e Seu perdão,",
+                "Sim, Dele tu receberás."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó vem sem demora ao Salvador!",
+                "Por que duvidar e ter temor?",
+                "Ó vem! Vem já! Descanso te dará!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se estás ferido pela dor",
+                "Que vem da tua transgressão,",
+                "Vem sem demora ao Salvador;",
+                "Terás alívio e salvação."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó vem sem demora ao Salvador!",
+                "Por que duvidar e ter temor?",
+                "Ó vem! Vem já! Descanso te dará!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se estás distante do Senhor",
+                "E tens fraquezas a vencer,",
+                "Ó vem, pois Ele, em Seu amor,",
+                "Dará a graça do poder."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó vem sem demora ao Salvador!",
+                "Por que duvidar e ter temor?",
+                "Ó vem! Vem já! Descanso te dará!"
+            ]
+        }
+    ]
+}

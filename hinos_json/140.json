@@ -1,0 +1,85 @@
+{
+    "hymn": {
+        "number": "140",
+        "title": "Ao Pé Da Cruz De Cristo",
+        "originalTitle": "Beneath the Cross of Jesus",
+        "subCategory": 10,
+        "lyricsComposer": [
+            118
+        ],
+        "musicComposer": [
+            153
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Gálatas 6:14",
+        "youtubeURL": "https://www.youtube.com/watch?v=80eW16boEDg",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Gálatas 6:14",
+            "1 Coríntios 1:18",
+            "Colossenses 2:14"
+        ],
+        "texto_base": "Gálatas 6:14",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ao pé da cruz de Cristo,",
+                "feliz desejo estar;",
+                "Repouso ter à sombra ali,",
+                "e então a paz achar.",
+                "Um lar feliz no ermo achar,",
+                "e aqui, na vida, o amor.",
+                "Alívio à dor e graça há",
+                "aos pés do meu Senhor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ao pé da cruz de Cristo,",
+                "aqui e no jardim,",
+                "Eu vejo a dor cruel em que",
+                "Jesus morreu por mim.",
+                "Compreendo, então, quão débil sou,",
+                "quão mau e sem valor.",
+                "Compreendo, sim, quão grande é",
+                "o Seu sagrado amor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Estar eu quero à sombra",
+                "da cruz, bendita cruz!",
+                "Eu posso ali obter perdão",
+                "e estar junto a Jesus.",
+                "Eu posso então certeza ter",
+                "do amor de Deus por mim,",
+                "E em breve irei fruir no Céu",
+                "a paz do amor sem fim."
+            ]
+        }
+    ]
+}

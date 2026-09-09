@@ -1,0 +1,83 @@
+{
+    "hymn": {
+        "number": "450",
+        "title": "Guarda, Vê Se Muito Falta",
+        "originalTitle": "Watchman, Tell Me",
+        "subCategory": 25,
+        "lyricsComposer": [
+            462
+        ],
+        "musicComposer": [
+            513
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 21:11, 12",
+        "youtubeURL": "https://www.youtube.com/watch?v=mMZfaASuBbI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 21:11-12",
+            "Romanos 13:12",
+            "1 João 2:8"
+        ],
+        "texto_base": "Isaías 21:11, 12",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Lar e Família",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Guarda, vê se muito falta",
+                "para o dia alvorecer.",
+                "Vai a noite ainda alta,",
+                "ou já vem o amanhecer?",
+                "Peregrino, sim, desperta",
+                "ao romper do arrebol!",
+                "Fica em pé e põe-te alerta,",
+                "porque surge agora o sol!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Guarda, vê a luz nascente",
+                "anunciando o jubileu.",
+                "Ergue a voz, alegremente,",
+                "faz vibrar o próprio Céu.",
+                "Logo os justos falecidos,",
+                "imortais, ressurgirão,",
+                "Ao soar aos seus ouvidos",
+                "o clarim da redenção."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Guarda, vê a terra linda,",
+                "frutos, flores sem igual!",
+                "Vê o Rei em glória infinda,",
+                "vê o mar como um cristal!",
+                "Ouve as harpas, que harmonia!",
+                "Ouve as hostes a cantar!",
+                "Peregrino, que alegria!",
+                "Vais em breve para o lar!"
+            ]
+        }
+    ]
+}

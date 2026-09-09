@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "125",
+        "title": "A Terna Voz Do Salvador",
+        "originalTitle": "The Great Physician Now Is Near",
+        "subCategory": 10,
+        "lyricsComposer": [
+            524
+        ],
+        "musicComposer": [
+            275
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Filipenses 2:9, 11",
+        "youtubeURL": "https://www.youtube.com/watch?v=t0ehkXbVZvw",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Atos 4:12",
+            "João 10:27",
+            "Apocalipse 3:20"
+        ],
+        "texto_base": "Filipenses 2:9, 11",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A terna voz do Salvador",
+                "Com graça nos convida,",
+                "Chamando-nos em Seu amor,",
+                "Querendo dar-nos vida."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Nunca dos homens se ouvirá,",
+                "Mesmo no Céu de amor e luz,",
+                "Com tanto ardor mais doce som,",
+                "Que o nome de Jesus!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Do cálice da amarga dor",
+                "Não foi Jesus poupado",
+                "A fim de dar ao pecador",
+                "Perdão do seu pecado."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Nunca dos homens se ouvirá,",
+                "Mesmo no Céu de amor e luz,",
+                "Com tanto ardor mais doce som,",
+                "Que o nome de Jesus!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Por essa grande salvação,",
+                "Rendei louvor ardente!",
+                "É digna de celebração,",
+                "Agora e eternamente!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Nunca dos homens se ouvirá,",
+                "Mesmo no Céu de amor e luz,",
+                "Com tanto ardor mais doce som,",
+                "Que o nome de Jesus!"
+            ]
+        }
+    ]
+}

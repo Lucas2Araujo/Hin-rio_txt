@@ -1,0 +1,126 @@
+{
+    "hymn": {
+        "number": "252",
+        "title": "Volto Ao Lar",
+        "originalTitle": "Lord, I’m Coming Home",
+        "subCategory": 15,
+        "lyricsComposer": [
+            526
+        ],
+        "musicComposer": [
+            526
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Lucas 15:11-24",
+        "youtubeURL": "https://www.youtube.com/watch?v=BvKZVC9cK9Q",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Lucas 15:18-20",
+            "Salmos 51:17",
+            "1 João 1:9"
+        ],
+        "texto_base": "Lucas 15:11-24",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Palavra de Deus e Lei"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Bem longe do Senhor vaguei;",
+                "Volto agora ao lar.",
+                "Veredas más eu já trilhei;",
+                "Ó Deus, volto ao lar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Volto ao lar, volto ao lar;",
+                "Não há mais vagar.",
+                "Abre, ó Pai, os braços Teus;",
+                "Volto ao lar, meu Deus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Meu tempo em vão desperdicei;",
+                "Volto agora ao lar.",
+                "Lamento haver ferido a lei;",
+                "Ó Deus, volto ao lar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Volto ao lar, volto ao lar;",
+                "Não há mais vagar.",
+                "Abre, ó Pai, os braços Teus;",
+                "Volto ao lar, meu Deus."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Já farto estou do mal, da dor;",
+                "Volto agora ao lar.",
+                "Confio em Ti, em Teu amor;",
+                "Ó Deus, volto ao lar. "
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Volto ao lar, volto ao lar;",
+                "Não há mais vagar.",
+                "Abre, ó Pai, os braços Teus;",
+                "Volto ao lar, meu Deus."
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O Teu perdão preciso ter;",
+                "Volto agora ao lar.",
+                "Bem puro e limpo faz-me ser;",
+                "Ó Deus, volto ao lar."
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Volto ao lar, volto ao lar;",
+                "Não há mais vagar.",
+                "Abre, ó Pai, os braços Teus;",
+                "Volto ao lar, meu Deus."
+            ]
+        }
+    ]
+}

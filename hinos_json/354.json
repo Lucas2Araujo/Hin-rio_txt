@@ -1,0 +1,107 @@
+{
+    "hymn": {
+        "number": "354",
+        "title": "Paz",
+        "originalTitle": "Wonderful Peace",
+        "subCategory": 22,
+        "lyricsComposer": [
+            506
+        ],
+        "musicComposer": [
+            519
+        ],
+        "versionComposer": [
+            83
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 16:33",
+        "youtubeURL": "https://www.youtube.com/watch?v=pb4tGtxy9yE",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 14:27",
+            "João 16:33",
+            "Filipenses 4:7"
+        ],
+        "texto_base": "João 16:33",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que suave calma descansa em meu ser,",
+                "Melodias vibram no ar.",
+                "É bonança, plácida, rica em poder,",
+                "Que só Cristo pode outorgar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Paz, paz, quão doce paz,",
+                "Que descende lá do Senhor!",
+                "De Cristo sempre o conforto me traz,",
+                "A doce calma do amor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Segurança sinto nas bênçãos da paz,",
+                "E esta graça sempre hei de ter.",
+                "Os perigos, males, temores desfaz",
+                "E ilumina todo o viver."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Paz, paz, quão doce paz,",
+                "Que descende lá do Senhor!",
+                "De Cristo sempre o conforto me traz,",
+                "A doce calma do amor."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Lá na glória quando eu puder habitar",
+                "Sob as asas doces de um lar",
+                "Para sempre ver o Autor desta paz,",
+                "Só em pensá-lo bênçãos me traz."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Paz, paz, quão doce paz,",
+                "Que descende lá do Senhor!",
+                "De Cristo sempre o conforto me traz,",
+                "A doce calma do amor."
+            ]
+        }
+    ]
+}

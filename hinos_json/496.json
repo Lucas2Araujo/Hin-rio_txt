@@ -1,0 +1,107 @@
+{
+    "hymn": {
+        "number": "496",
+        "title": "Além Do Rio",
+        "originalTitle": "",
+        "subCategory": 28,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 46:4, 5",
+        "youtubeURL": "https://www.youtube.com/watch?v=iAAbWePVmEo",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 22:1-2",
+            "Salmos 46:4",
+            "Isaías 33:21"
+        ],
+        "texto_base": "Salmo 46:4, 5",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Igreja e Comunhão",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tenho ouvido de uma",
+                "terra linda, encantada,",
+                "De um lugar onde",
+                "a felicidade é total.",
+                "Os meus olhos já divisam",
+                "não tão distante;",
+                "Meus ouvidos já",
+                "escutam sons divinais.",
+                "Tão cansado estou",
+                "da vida aqui deste lado",
+                "Que meus braços",
+                "quase já não podem remar.",
+                "Calejados e feridos",
+                "por tantos dias,",
+                "Querem bálsamo",
+                "naquele porto encontrar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Além do rio, existe um lugar pra mim.",
+                "Além do rio, existe paz.",
+                "Além do rio, a vida não terá mais fim,",
+                "E com Jesus irei morar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tenho já sonhado com",
+                "aquelas moradas",
+                "Que olho algum aqui não viu",
+                "e nunca verá.",
+                "Têm beleza incapaz",
+                "de ser comparada,",
+                "Pois a glória do Senhor",
+                "presente está.",
+                "Muito mais bonito",
+                "que o Sol no poente,",
+                "Ou a gota d’água",
+                "em prisma como cristal,",
+                "É o encontro de",
+                "irmãos de fé, redimidos.",
+                "Compensou viver,",
+                "lutar, vencer afinal."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Além do rio, existe um lugar pra mim.",
+                "Além do rio, existe paz.",
+                "Além do rio, a vida não terá mais fim,",
+                "E com Jesus irei morar."
+            ]
+        }
+    ]
+}

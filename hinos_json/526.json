@@ -1,0 +1,60 @@
+{
+    "hymn": {
+        "number": "526",
+        "title": "Quem Orou Três Vezes?",
+        "originalTitle": "",
+        "subCategory": 29,
+        "lyricsComposer": [
+            88
+        ],
+        "musicComposer": [
+            385
+        ],
+        "versionComposer": [
+            440
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Daniel 6:10",
+        "youtubeURL": "https://www.youtube.com/watch?v=yFMFvbRS0Mw",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Daniel 6:10",
+            "1 Tessalonicenses 5:17",
+            "Salmos 55:17"
+        ],
+        "texto_base": "Daniel 6:10",
+        "temas_relacionados": [
+            "Vida Cristã e Devoção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quem orou três vezes? Daniel.",
+                "Quem orou três vezes? Daniel.",
+                "Quem orou três vezes? Daniel.",
+                "Pois ele amava muito ao Senhor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quem mandou um anjo? O Senhor.",
+                "Quem mandou um anjo? O Senhor.",
+                "Quem mandou um anjo? O Senhor.",
+                "Pois Ele amava muito Daniel."
+            ]
+        }
+    ]
+}

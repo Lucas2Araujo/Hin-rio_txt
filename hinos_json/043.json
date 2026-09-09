@@ -1,0 +1,84 @@
+{
+    "hymn": {
+        "number": "43",
+        "title": "Vem, Santo Espírito, Agora",
+        "originalTitle": "Come Holy Spirit",
+        "subCategory": 4,
+        "lyricsComposer": [
+            178,
+            525
+        ],
+        "musicComposer": [
+            525
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 44:3",
+        "youtubeURL": "https://www.youtube.com/watch?v=q7ckGf7nsU4",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Atos 2:4",
+            "Efésios 5:18",
+            "Tito 3:5-6"
+        ],
+        "texto_base": "Isaías 44:3",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vem, Santo Espírito, agora;",
+                "Vem, Te pedimos a orar.",
+                "Vem com poder inspirar-nos;",
+                "Sim, vem nos reavivar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vem como água ao sedento,",
+                "Traz ao faminto o pão.",
+                "Vem e sacia minh’alma;",
+                "Faz puro meu coração."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vem como a brisa suave;",
+                "Vem com o Teu resplendor.",
+                "Dá-nos vigor e alegria;",
+                "Enche-nos com Teu amor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ó vem, Espírito Santo,",
+                "Bom, meigo Consolador.",
+                "Vem inundar nossa vida",
+                "Com Teu sagrado fervor."
+            ]
+        }
+    ]
+}

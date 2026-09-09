@@ -1,0 +1,284 @@
+{
+    "subcategories": [
+        {
+            "id": 1,
+            "name": "A Trindade",
+            "category": 1,
+            "firstHymn": 1,
+            "lastHymn": 14,
+            "description": "Há um só Deus: Pai, Filho e Espírito Santo. Uma unidade de três Pessoas coeternas. Deus é imortal, onipotente, onisciente, acima de tudo, e sempre presente."
+        },
+        {
+            "id": 2,
+            "name": "O Pai",
+            "category": 1,
+            "firstHymn": 15,
+            "lastHymn": 22,
+            "description": "Deus o Eterno Pai, é o criador, o originador, o mantenedor e o soberano de toda a criação. Ele é justo e santo, compassivo e clemente, tardio em irar-Se, e grande em constante amor e fidelidade."
+        },
+        {
+            "id": 3,
+            "name": "O Filho",
+            "category": 1,
+            "firstHymn": 23,
+            "lastHymn": 39,
+            "description": "Deus o Filho Eterno, encarnou-Se em Jesus Cristo. Por meio dEle foram criadas todas as coisas, e é revelado o caráter de Deus, efetuada a salvação da humanidade, julgado o mundo. Jesus sofreu e morreu na cruz por nossos pecados. Em nosso lugar foi ressuscitado dentre os mortos e ascendeu para ministrar no santuário celestial em nosso favor. Ele virá outra vez para o livramento final do Seu povo e a restauração de todas as coisas."
+        },
+        {
+            "id": 4,
+            "name": "O Espírito Santo",
+            "category": 1,
+            "firstHymn": 40,
+            "lastHymn": 48,
+            "description": "Deus o Espírito Santo, desempenhou uma parte ativa com o Pai e o Filho na Criação, Encarnação e Redenção. Inspirou os escritores das Escrituras, encheu de poder a vida de Cristo, ainda hoje atrai, convence os que se mostram sensíveis e transforma os seres humanos à imagem de Deus. Concede dons espirituais à Igreja."
+        },
+        {
+            "id": 5,
+            "name": "As Escrituras Sagradas",
+            "category": 1,
+            "firstHymn": 49,
+            "lastHymn": 58,
+            "description": "As Escrituras Sagradas, o Antigo e o Novo Testamento, são a Palavra de Deus escrita, dada por inspiração divina por intermédio de santos homens de Deus que falaram e escreveram ao serem movidos pelo Espírito Santo."
+        },
+        {
+            "id": 6,
+            "name": "A Criação",
+            "category": 2,
+            "firstHymn": 59,
+            "lastHymn": 63,
+            "description": "Deus é o Criador de todas as coisas e revelou nas Escrituras o relato autêntico da Sua atividade criadora. “Em seis dias fez o Senhor os Céus e a Terra” e tudo que tem vida sobre a Terra, e descansou no sétimo dia dessa primeira semana."
+        },
+        {
+            "id": 7,
+            "name": "A Natureza da Humanidade",
+            "category": 2,
+            "firstHymn": 64,
+            "lastHymn": 69,
+            "description": "O homem e a mulher foram formados à imagem de Deus com individualidade e com poder e  liberdade de pensar e agir. Conquanto tenham sido criados como seres livres, cada um é uma unidade indivisível de corpo, mente e alma; e dependente de Deus quanto à vida, respiração e em tudo. Quando nossos primeiros pais desobedeceram a Deus, negaram sua dependência dEle e caíram de sua elevada posição “abaixo de Deus”. A imagem de Deus neles, foi desfigurada, e tornaram-se sujeitos à morte. Seus descendentes partilham dessa natureza caída e de suas consequências."
+        },
+        {
+            "id": 8,
+            "name": "O Grande Conflito",
+            "category": 3,
+            "firstHymn": 70,
+            "lastHymn": 78,
+            "description": "Toda a humanidade está agora envolvida em um grande conflito entre Cristo e Satanás, quanto ao caráter de Deus, Sua Lei e Sua soberania sobre o Universo. Esse conflito originou-se no Céu quando um ser criado, dotado de liberdade de escolha, por exaltação própria, tornou-se Satanás, o adversário de Deus e conduziu à rebelião uma parte dos anjos. Ele introduziu o espírito de rebelião neste mundo. Observado por toda a Criação, este mundo tornou-se o palco do conflito universal, dentro do qual será finalmente vindicado o Deus de amor."
+        },
+        {
+            "id": 9,
+            "name": "Vida, Morte e Ressurreição de Cristo",
+            "category": 3,
+            "firstHymn": 79,
+            "lastHymn": 114,
+            "description": "Na vida de Cristo, de perfeita obediência à vontade de Deus, e em Seu sofrimento, morte e ressurreição, Deus proveu o único meio de expiação do pecado humano, de modo que os que aceitam essa expiação, pela fé, possam ter vida eterna, e toda a Criação compreenda melhor o infinito e santo amor do Criador."
+        },
+        {
+            "id": 10,
+            "name": "A Experiência da Salvação",
+            "category": 3,
+            "firstHymn": 115,
+            "lastHymn": 172,
+            "description": "Em infinito amor e misericórdia, Deus fez com que Cristo Se tornasse pecado por nós, para que nEle fôssemos feitos justiça de Deus. Guiados pelo Espírito Santo reconhecemos nossa pecaminosidade, arrependemo-nos de nossas transgressões e temos fé em Jesus como Senhor e Cristo, como Substituto e Exemplo. Essa fé que aceita a salvação, advém do poder da Palavra e é o dom da graça de Deus. Por meio de Cristo somos justificados e libertados do domínio do pecado. Por meio do Espírito, nascemos de novo e somos justificados. Permanecendo nEle, tornamo-nos participantes da natureza divina e temos a certeza da salvação agora e no Juízo."
+        },
+        {
+            "id": 11,
+            "name": "Crescimento em Cristo",
+            "category": 3,
+            "firstHymn": 173,
+            "lastHymn": 216,
+            "description": "Por sua morte na cruz, Jesus triunfou sobre as forças do mal. Ele que subjugou os espíritos demoníacos durante Seu ministério terrestre, quebrantou o poder deles e garantiu Sua condenação final. A vitória de Jesus nos dá a vitória sobre as forças do mal que ainda buscam controlar-nos, enquanto caminhamos com Cristo em paz, gozo e na segurança do Seu amor. Agora o Espírito Santo mora em nosso interior e nos dá poder. Continuamente consagrados a Jesus como nosso Salvador e Senhor, somos libertos do fardo de nossas ações passadas. Não mais vivemos nas trevas, sob o temor dos poderes do mal, da ignorância e a insensatez de nossa antiga maneira de viver. Nesta nova liberdade em Jesus, somos chamados a crescer à semelhança de Seu caráter, mantendo uma comunhão diária com Ele por meio da oração, alimentando-nos de Sua Palavra, meditando nela e na providência divina, cantando em Seu louvor, reunindo-nos para adorá-Lo e participando na missão da Igreja. Ao entregar-nos ao Seu amorável serviço por aqueles que nos rodeiam e ao testemunharmos de sua salvação, a presença constante do Senhor em nós, por meio do Espírito, transforma cada momento e cada tarefa em uma experiência espiritual."
+        },
+        {
+            "id": 12,
+            "name": "A Igreja",
+            "category": 4,
+            "firstHymn": 217,
+            "lastHymn": 222,
+            "description": "A Igreja é a comunidade de crentes que confessam a Jesus Cristo como Senhor e Salvador. Unimo-nos para prestar culto, para juntos nos instruirmos na Palavra, para celebrarmos a Ceia do Senhor, para realizarmos a proclamação mundial do Evangelho. A Igreja é a Família de Deus. A Igreja é o corpo de Cristo."
+        },
+        {
+            "id": 13,
+            "name": "O Remanescente e Sua Missão",
+            "category": 4,
+            "firstHymn": 223,
+            "lastHymn": 241,
+            "description": "A Igreja universal compõe-se de todos os que verdadeiramente creem em Cristo; mas, nos últimos dias, um remanescente tem sido chamado para fora, a fim de guardar os mandamentos de Deus e a fé de Jesus. Esse remanescente anuncia a chegada da hora do Juízo, proclama a salvação por meio de Cristo e prediz a aproximação de Seu segundo advento."
+        },
+        {
+            "id": 14,
+            "name": "Unidade no Corpo de Cristo",
+            "category": 4,
+            "firstHymn": 242,
+            "lastHymn": 248,
+            "description": "A Igreja é um corpo com muitos membros, chamados de toda nação, tribo, língua e povo. Todos somos iguais em Cristo. Mediante a revelação de Jesus Cristo nas Escrituras, partilhamos a mesma fé e esperança e estendemos um só testemunho para todos. Essa unidade encontra sua fonte na unidade do Deus triúno, que nos adotou como Seus filhos."
+        },
+        {
+            "id": 15,
+            "name": "O Batismo",
+            "category": 4,
+            "firstHymn": 249,
+            "lastHymn": 255,
+            "description": "Pelo batismo confessamos nossa fé na morte e na ressurreição de Jesus Cristo e atestamos nossa morte para o pecado e nosso propósito de andar em novidade de vida, sendo aceitos como membros por Sua Igreja. O batismo deve acontecer por imersão na água e seguir as instrução nas Escrituras Sagradas."
+        },
+        {
+            "id": 16,
+            "name": "A Ceia do Senhor",
+            "category": 4,
+            "firstHymn": 256,
+            "lastHymn": 260,
+            "description": "A Ceia do Senhor é uma participação nos emblemas do corpo e do sangue de Jesus, como expressão de fé nEle, nosso Senhor e Salvador. A preparação envolve o exame de consciência, o arrependimento e a confissão. O Mestre instituiu a Cerimônia do lava-pés para representar renovada purificação, para expressar a disposição de servir um ao outro em humildade semelhante a de Cristo, e para unir nossos corações em amor."
+        },
+        {
+            "id": 17,
+            "name": "Dons e Ministérios Espirituais",
+            "category": 4,
+            "firstHymn": 261,
+            "lastHymn": 276,
+            "description": "Deus concede a todos os membros de Sua Igreja, em todas as épocas, dons espirituais. Estes são outorgados pela atuação do Espírito Santo, o Qual distribui a cada membro como Lhe apraz, os dons provêm de todas as aptidões e ministérios de que a Igreja necessita para cumprir suas funções divinamente ordenadas. Alguns membros são chamados por Deus e dotados pelo Espírito para funções reconhecidas pela Igreja em ministérios pastorais, evangelísticos, apostólicos e de ensino."
+        },
+        {
+            "id": 18,
+            "name": "O Dom de Profecia",
+            "category": 4,
+            "firstHymn": 277,
+            "lastHymn": 281,
+            "description": "Um dos dons do Espírito Santo é a profecia. Esse dom é uma característica da Igreja remanescente e foi manifestado no ministério de Ellen G. White. Como a mensageira do Senhor, seus escritos são uma contínua e autorizada fonte de verdade e proporcionam conforto, orientação, instrução e correção à Igreja."
+        },
+        {
+            "id": 19,
+            "name": "A Lei de Deus",
+            "category": 5,
+            "firstHymn": 282,
+            "lastHymn": 289,
+            "description": "Os grandes princípios da Lei de Deus são incorporados nos Dez Mandamentos e exemplificados na vida de Cristo; expressam o amor, a vontade e os propósitos de Deus acerca da conduta e das relações humanas, e são obrigatórios a todas as pessoas, em todas as épocas. Esses preceitos constituem a base do concerto de Deus com Seu povo e a norma do julgamento de Deus."
+        },
+        {
+            "id": 20,
+            "name": "O Sábado",
+            "category": 5,
+            "firstHymn": 290,
+            "lastHymn": 299,
+            "description": "O bondoso Criador, após os seis dias da Criação descansou no sétimo e instituiu o Sábado para todas as pessoas, como memorial da Criação. O quarto mandamento da imutável Lei de Deus requer a observância desse Sábado do sétimo dia como dia de descanso, adoração e ministério, em harmonia com o ensino e prática de Jesus, o Senhor do Sábado."
+        },
+        {
+            "id": 21,
+            "name": "Mordomia Cristã",
+            "category": 5,
+            "firstHymn": 300,
+            "lastHymn": 314,
+            "description": "Somos despenseiros de Deus, responsáveis pelo uso apropriado do tempo e das oportunidades, capacidades e posses, e das bênçãos da Terra e seus recursos, que Ele colocou sob o nosso cuidado. Reconhecemos o direito de propriedade da parte de Deus, por meio de fiel serviço a Ele e a nossos semelhantes, e devolvendo os dízimos e dando ofertas para a proclamação de Seu Evangelho e para a manutenção e o crescimento de Sua igreja."
+        },
+        {
+            "id": 22,
+            "name": "Conduta Cristã",
+            "category": 5,
+            "firstHymn": 315,
+            "lastHymn": 407,
+            "description": "Somos chamados para ser um povo piedoso, que pensa, sente e age de acordo com os princípios do Céu. Para que o Espírito recrie em nós o caráter de nosso Senhor, só nos envolvemos naquelas coisas que produzirão em nossa vida, pureza, saúde e alegria semelhantes às de Cristo."
+        },
+        {
+            "id": 23,
+            "name": "O Casamento e a Família",
+            "category": 5,
+            "firstHymn": 408,
+            "lastHymn": 428,
+            "description": "O Casamento foi divinamente estabelecido no Éden e confirmado por Jesus como união vitalícia entre um homem e uma mulher, em amoroso companheirismo. Para o cristão, o compromisso matrimonial é com Deus, bem como com o cônjuge, e só deve ser assumido entre parceiros que partilham da mesma fé. No tocante ao divórcio, Jesus ensinou que a pessoa que se divorcia do cônjuge, a não ser por causa de fornicação, e se casa com outro, comete adultério. Deus abençoa a família e tenciona que seus membros ajudem uns aos outros a alcançarem completa maturidade. Os pais devem educar os seus filhos a amarem e obedecerem ao Senhor."
+        },
+        {
+            "id": 24,
+            "name": "O Ministério de Cristo no Santuário Celestial",
+            "category": 6,
+            "firstHymn": 429,
+            "lastHymn": 439,
+            "description": "Há um santuário no Céu. Nele Cristo ministra em nosso favor, tornando acessíveis aos crentes os benefícios do Seu sacrifício expiatório oferecido uma vez por todas, na cruz. Ele foi empossado como nosso grande Sumo Sacerdote e começou Seu ministério intercessório por ocasião da Sua ascensão. Em 1844, no fim do período profético dos 2.300 dias, Ele iniciou a segunda e última etapa de Seu ministério expiatório. O juízo investigativo revela aos seres celestiais quem dentre os mortos será digno de ter parte na primeira ressurreição. Também torna manifesto quem, dentre os vivos, está preparado para a trasladação ao Seu reino eterno. A terminação do ministério de Cristo assinalará o fim do tempo da graça para os seres humanos, antes do Segundo advento."
+        },
+        {
+            "id": 25,
+            "name": "A Segunda Vinda de Cristo",
+            "category": 6,
+            "firstHymn": 440,
+            "lastHymn": 469,
+            "description": "A segunda vinda de Cristo é a bendita esperança da Igreja. A vinda do Salvador será literal, pessoal, visível e universal."
+        },
+        {
+            "id": 26,
+            "name": "Morte e Ressurreição",
+            "category": 6,
+            "firstHymn": 470,
+            "lastHymn": 476,
+            "description": "O salário do pecado é a morte. Mas Deus, o único que é imortal, concederá vida eterna a Seus remidos. Até aquele dia, a morte é um estado inconsciente para todas as pessoas."
+        },
+        {
+            "id": 27,
+            "name": "O Milênio e o Fim do Pecado",
+            "category": 6,
+            "firstHymn": 477,
+            "lastHymn": 490,
+            "description": "O milênio é o reinado de mil anos de Cristo com Seus santos, no Céu, entre a primeira e a segunda ressurreição. Durante esse tempo serão julgados os ímpios mortos. No fim desse período, Cristo com Seus Santos e a Cidade Santa descerão do Céu à Terra. Os ímpios mortos serão então ressuscitados e, com Satanás e seus anjos, cercarão a cidade; mas o fogo de Deus os consumirá e purificará a Terra. O Universo ficará assim eternamente livre do pecado e dos pecadores."
+        },
+        {
+            "id": 28,
+            "name": "A Nova Terra",
+            "category": 6,
+            "firstHymn": 491,
+            "lastHymn": 507,
+            "description": "Na Nova Terra, em  que habita justiça, Deus proverá  um lar eterno  para  os  remidos  e um ambiente perfeito para vida, amor, alegria e aprendizado eternos em Sua presença."
+        },
+        {
+            "id": 29,
+            "name": "Infantis",
+            "category": 7,
+            "firstHymn": 508,
+            "lastHymn": 557,
+            "description": ""
+        },
+        {
+            "id": 30,
+            "name": "Introito",
+            "category": 8,
+            "firstHymn": 558,
+            "lastHymn": 571,
+            "description": ""
+        },
+        {
+            "id": 31,
+            "name": "Ofertório",
+            "category": 8,
+            "firstHymn": 572,
+            "lastHymn": 577,
+            "description": ""
+        },
+        {
+            "id": 32,
+            "name": "Oração Pastoral",
+            "category": 8,
+            "firstHymn": 578,
+            "lastHymn": 585,
+            "description": ""
+        },
+        {
+            "id": 33,
+            "name": "Adoração Infantil",
+            "category": 8,
+            "firstHymn": 586,
+            "lastHymn": 588,
+            "description": ""
+        },
+        {
+            "id": 34,
+            "name": "Introdução ao Sermão",
+            "category": 8,
+            "firstHymn": 589,
+            "lastHymn": 591,
+            "description": ""
+        },
+        {
+            "id": 35,
+            "name": "Despedida",
+            "category": 8,
+            "firstHymn": 592,
+            "lastHymn": 600,
+            "description": ""
+        }
+    ]
+}

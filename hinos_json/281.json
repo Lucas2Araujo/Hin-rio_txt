@@ -1,0 +1,96 @@
+{
+    "hymn": {
+        "number": "281",
+        "title": "Filhos Da Promessa",
+        "originalTitle": "",
+        "subCategory": 18,
+        "lyricsComposer": [
+            98
+        ],
+        "musicComposer": [
+            98
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 12:17",
+        "youtubeURL": "https://www.youtube.com/watch?v=4B2i8A9v4qc",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 12:17",
+            "Gálatas 4:28",
+            "Romanos 9:8"
+        ],
+        "texto_base": "Apocalipse 12:17",
+        "temas_relacionados": [
+            "Crianças e Jovens",
+            "Palavra de Deus e Lei",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quando a doce esperança",
+                "Tão amarga se tornou,",
+                "E a pequenina chama",
+                "Pouco a pouco se apagou,",
+                "Levantou-se em meio às trevas",
+                "Pela mão do Salvador,",
+                "Eis a voz da profecia,",
+                "A mensageira do Senhor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Somos filhos da promessa",
+                "Pela fé em Sua palavra,",
+                "Nós seguimos Sua luz.",
+                "Através de Seus profetas,",
+                "Pela santa inspiração,",
+                "Conhecemos a verdade",
+                "Que nos traz libertação."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Hoje são os seus escritos",
+                "Um farol a iluminar.",
+                "Jesus Cristo, nossa Rocha,",
+                "Onde iremos aportar.",
+                "Pela pena inspirada",
+                "Deus está a nos mostrar",
+                "Que o caminho é estreito,",
+                "Mas Jesus à frente está!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Somos filhos da promessa",
+                "Pela fé em Sua palavra,",
+                "Nós seguimos Sua luz.",
+                "Através de Seus profetas,",
+                "Pela santa inspiração,",
+                "Conhecemos a verdade",
+                "Que nos traz libertação."
+            ]
+        }
+    ]
+}

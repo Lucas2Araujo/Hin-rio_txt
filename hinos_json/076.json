@@ -1,0 +1,128 @@
+{
+    "hymn": {
+        "number": "76",
+        "title": "Vencedor Cada Dia",
+        "originalTitle": "",
+        "subCategory": 8,
+        "lyricsComposer": [
+            129
+        ],
+        "musicComposer": [
+            129
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Romanos 8:37-39",
+        "youtubeURL": "https://www.youtube.com/watch?v=-0M7gBeQI78",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Coríntios 15:57",
+            "Filipenses 4:13",
+            "Apocalipse 2:7"
+        ],
+        "texto_base": "Romanos 8:37-39",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Missão e Serviço",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Há caminhos que parecem ideais pra se seguir,",
+                "Há projetos que parecem ser de Deus.",
+                "Desde quando me levanto até quando vou dormir,",
+                "Sou provado, tenho escolhas a fazer.",
+                "Cada dia que eu vivo é um milagre singular,",
+                "Mas também tenho lutas pra enfrentar.",
+                "Eu Te peço, Senhor, que eu aprenda mais de Ti",
+                "Para ser cada dia vencedor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu me entrego a Ti, Senhor.",
+                "Em oração aqui estou",
+                "Pra pedir que não me deixes pecar contra Ti.",
+                "Com Teu amor em minha mente,",
+                "Que eu Te obedeça humildemente!",
+                "Vencedor cada dia eu sou."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Para todos que me ouvirem testemunha eu serei.",
+                "Vou mostrar-lhes o caminho até Jesus.",
+                "É um passo de fé entregar-se a esse Deus",
+                "Pra ganhar liberdade pra vencer."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu me entrego a Ti, Senhor.",
+                "Em oração aqui estou",
+                "Pra pedir que não me deixes pecar contra Ti.",
+                "Com Teu amor em minha mente,",
+                "Que eu Te obedeça humildemente!",
+                "Vencedor cada dia eu sou."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu nada tenho em mim mesmo,",
+                "Preciso crer e confiar,",
+                "Alimentar-me da Palavra,",
+                "Jamais deixar de orar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu me entrego a Ti, Senhor.",
+                "Em oração aqui estou",
+                "Pra pedir que não me deixes pecar contra Ti.",
+                "Com Teu amor em minha mente,",
+                "Que eu Te obedeça humildemente!",
+                "Vencedor cada dia eu sou."
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cada dia,",
+                "Por Tua graça,",
+                "Até Tua volta,",
+                "Vencedor eu serei!"
+            ]
+        }
+    ]
+}

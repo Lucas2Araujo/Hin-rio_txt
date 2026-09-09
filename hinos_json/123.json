@@ -1,0 +1,127 @@
+{
+    "hymn": {
+        "number": "123",
+        "title": "Seu Sangue Tem Poder",
+        "originalTitle": "Power in the Blood",
+        "subCategory": 10,
+        "lyricsComposer": [
+            323
+        ],
+        "musicComposer": [
+            323
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Efésios 1:6, 7",
+        "youtubeURL": "https://www.youtube.com/watch?v=IMJRhe3K1EA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 João 1:7",
+            "Apocalipse 1:5",
+            "Hebreus 9:14"
+        ],
+        "texto_base": "Efésios 1:6, 7",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Missão e Serviço",
+            "Oração e Comunhão",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "De teu pecado te queres livrar?",
+                "O sangue de Jesus dá o poder.",
+                "É teu querer do maligno escapar?",
+                "Terás no Seu sangue o poder."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Há poder, sim, força sem igual",
+                "Só no sangue de Jesus.",
+                "Há poder, sim, vem, ó pecador,",
+                "E aceita o dom de Jesus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não queres tu a vaidade afastar?",
+                "O sangue de Jesus dá o poder.",
+                "Queres as tuas paixões dominar?",
+                "Terás no Seu sangue o poder."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Há poder, sim, força sem igual",
+                "Só no sangue de Jesus.",
+                "Há poder, sim, vem, ó pecador,",
+                "E aceita o dom de Jesus."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Teu coração queres purificar?",
+                "O sangue de Jesus dá o poder.",
+                "Todas as manchas te pode tirar;",
+                "Seu sangue tem este poder."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Há poder, sim, força sem igual",
+                "Só no sangue de Jesus.",
+                "Há poder, sim, vem, ó pecador,",
+                "E aceita o dom de Jesus."
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Queres entrar no serviço real?",
+                "O sangue de Jesus dá o poder.",
+                "Queres também ser um servo leal?",
+                "Seu sangue tem este poder."
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Há poder, sim, força sem igual",
+                "Só no sangue de Jesus.",
+                "Há poder, sim, vem, ó pecador,",
+                "E aceita o dom de Jesus."
+            ]
+        }
+    ]
+}

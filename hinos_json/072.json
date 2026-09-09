@@ -1,0 +1,105 @@
+{
+    "hymn": {
+        "number": "72",
+        "title": "Firme Nas Promessas",
+        "originalTitle": "Standing on the Promises",
+        "subCategory": 8,
+        "lyricsComposer": [
+            439
+        ],
+        "musicComposer": [
+            439
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "2 Pedro 1:3, 4",
+        "youtubeURL": "https://www.youtube.com/watch?v=0QqmaJAVCss",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "2 Coríntios 1:20",
+            "Hebreus 10:23",
+            "Josué 21:45"
+        ],
+        "texto_base": "2 Pedro 1:3, 4",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Firme nas promessas de Jesus, Senhor,",
+                "Vou cantar louvores ao meu bom Pastor.",
+                "Sempre exaltarei o Seu eterno amor,",
+                "Firme nas promessas de Jesus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Firme, firme,",
+                "Firme nas promessas de Jesus, meu Mestre.",
+                "Firme, firme,",
+                "Sim, firme nas promessas de Jesus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Firme nas promessas, não irei falhar,",
+                "Vindo as tempestades neste meu lidar.",
+                "Pelo Verbo eterno sempre irei lutar,",
+                "Firme nas promessas de Jesus."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Firme, firme,",
+                "Firme nas promessas de Jesus, meu Mestre.",
+                "Firme, firme,",
+                "Sim, firme nas promessas de Jesus."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Firme nas promessas do Senhor Jesus,",
+                "Em amor ligado com a Sua cruz,",
+                "Cada dia mais me alegro nesta luz,",
+                "Firme nas promessas de Jesus."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Firme, firme,",
+                "Firme nas promessas de Jesus, meu Mestre.",
+                "Firme, firme,",
+                "Sim, firme nas promessas de Jesus."
+            ]
+        }
+    ]
+}

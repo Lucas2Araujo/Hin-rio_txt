@@ -1,0 +1,74 @@
+{
+    "hymn": {
+        "number": "4",
+        "title": "Louvor Ao Trino Deus",
+        "originalTitle": "Praise Ye the Father",
+        "subCategory": 1,
+        "lyricsComposer": [
+            119
+        ],
+        "musicComposer": [
+            157
+        ],
+        "versionComposer": [
+            83
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 148",
+        "youtubeURL": "https://www.youtube.com/watch?v=hfH_dQpEMhk",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 150:6",
+            "Filipenses 2:8",
+            "João 14:16"
+        ],
+        "texto_base": "Salmo 148",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ó anjos e homens, dai a Deus louvores,",
+                "Pois Sua graça dá aos pecadores!",
+                "Ó firmamento, Céus e mar e Terra,",
+                "Sim, dai louvor a Deus!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vós, ó remidos, dai louvor a Cristo!",
+                "Tal sacrifício, oh, jamais foi visto!",
+                "A Sua morte Seu amor revela.",
+                "Sim, adorai Jesus!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quão insondável é o amor divino!",
+                "O Santo Espírito ilumina o mundo;",
+                "É tão sublime, luz ao peregrino,",
+                "Luz que ao Céu conduz."
+            ]
+        }
+    ]
+}

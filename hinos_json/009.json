@@ -1,0 +1,77 @@
+{
+    "hymn": {
+        "number": "9",
+        "title": "Santo, Santo, Pai Bondoso",
+        "originalTitle": "Holy, Holy",
+        "subCategory": 1,
+        "lyricsComposer": [
+            259
+        ],
+        "musicComposer": [
+            259
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 95:6",
+        "youtubeURL": "https://www.youtube.com/watch?v=d-Jm5BqIHms",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Pedro 1:15-16",
+            "Efésios 1:3-14",
+            "Romanos 8:11"
+        ],
+        "texto_base": "Salmo 95:6",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Santo, santo, Pai bondoso,",
+                "Santo, santo, Deus poderoso,",
+                "Entregamos nosso coração",
+                "a Ti, em devoção.",
+                "Pai bondoso, Te adoramos."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Santo, santo, Cristo amado,",
+                "Pela cruz nós somos redimidos;",
+                "Elevamos nossa mente,",
+                "em constante adoração.",
+                "Cristo amado, Te adoramos."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Santo, santo, Santo Espírito,",
+                "Enche de poder a nossa vida.",
+                "Suplicamos Tua graça,",
+                "Teu auxílio e direção.",
+                "Santo Espírito, Te adoramos."
+            ]
+        }
+    ]
+}

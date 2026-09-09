@@ -1,0 +1,65 @@
+{
+    "hymn": {
+        "number": "577",
+        "title": "Quero Me Entregar",
+        "originalTitle": "",
+        "subCategory": 31,
+        "lyricsComposer": [
+            304
+        ],
+        "musicComposer": [
+            304
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "2 Coríntios 8:5",
+        "youtubeURL": "https://www.youtube.com/watch?v=qNSke7mqfpU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Romanos 12:1",
+            "2 Coríntios 8:5",
+            "Provérbios 23:26"
+        ],
+        "texto_base": "2 Coríntios 8:5",
+        "temas_relacionados": [
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quero me entregar a Ti, Senhor.",
+                "Quero devolver o que é Teu.",
+                "Aceita essa oferta que dou de coração",
+                "E expressa a minha gratidão.",
+                "Te entrego por completo",
+                "Meus bens, meus dons, meu ser.",
+                "Tuas bênçãos quero receber."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quero me entregar a Ti, Senhor.",
+                "Quero devolver o que é Teu.",
+                "Aceita essa oferta que dou de coração",
+                "E expressa a minha gratidão.",
+                "Te entrego por completo",
+                "Meus bens, meus dons, meu ser.",
+                "Tuas bênçãos quero receber.",
+                "Tuas bênçãos quero receber."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "hymn": {
+        "number": "96",
+        "title": "Foi Amor",
+        "originalTitle": "Love Was When",
+        "subCategory": 9,
+        "lyricsComposer": [
+            269
+        ],
+        "musicComposer": [
+            92
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 15:13",
+        "youtubeURL": "https://www.youtube.com/watch?v=qJXgvVGefyc",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 João 3:16",
+            "Efésios 5:2",
+            "Gálatas 2:20"
+        ],
+        "texto_base": "João 15:13",
+        "temas_relacionados": [
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Foi amor, quando Deus aqui,",
+                "Neste mundo vil, homem Se tornou.",
+                "Foi amor, quando meu bom Deus",
+                "Carpinteiro foi, quando aqui andou.",
+                "Foi amor, quando veio meu Jesus",
+                "Pra me conceder nova vida e luz.",
+                "Foi amor, ao sofrer na cruz",
+                "Por mim, um pobre pecador."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Foi amor, quando Deus desceu",
+                "Pra cuidar de mim, qual um filho Seu.",
+                "Foi amor, ao morrer em dor",
+                "Por um pobre ser sem qualquer valor.",
+                "Foi amor, ao ressuscitar, enfim,",
+                "Pra me conceder vida e paz sem fim.",
+                "Foi amor, ao sofrer na cruz",
+                "Por mim, um pobre pecador."
+            ]
+        }
+    ]
+}

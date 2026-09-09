@@ -1,0 +1,91 @@
+/* CSS Reset */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+html {
+    -webkit-transition: all 0.6s ease;
+    background-color: #FFFFFF !important;
+}
+
+html.nightMode {
+    background-color: #131313 !important;
+}
+
+body {
+	color: #555;
+    margin: 20px;
+    overflow: hidden !important;
+    font-family: Helvetica Neue;
+    font-weight: 300;
+}
+
+.chorus,
+.chorusFirst {
+	font-style: italic;
+	padding: 0px 25px;
+}
+
+.chorusHide {
+    display: none;
+}
+
+p {
+    margin: 20px 0px 30px;
+    line-height: 1.7em;
+}
+
+html.textSizeOne {
+    font-size: 18px !important;
+}
+
+html.textSizeTwo {
+    font-size: 21px !important;
+}
+
+html.textSizeThree {
+    font-size: 24px !important;
+}
+
+html.textSizeFour {
+    font-size: 27px !important;
+}
+
+html.textSizeFive {
+    font-size: 30px !important;
+}
+
+/*
+body {
+	margin: auto;
+    width: 100%;
+    padding: 10px 0px;
+}
+
+@media (min-width: 768px) {
+  body {
+	    width: 50%;
+	    padding: 10px 0px;
+
+  }
+}
+*/

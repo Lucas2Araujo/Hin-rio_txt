@@ -1,0 +1,73 @@
+{
+    "hymn": {
+        "number": "292",
+        "title": "Sábado",
+        "originalTitle": "Wie ist’s unserm Herzen",
+        "subCategory": 20,
+        "lyricsComposer": [
+            105
+        ],
+        "musicComposer": [
+            489
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Gênesis 2:2, 3",
+        "youtubeURL": "https://www.youtube.com/watch?v=_EJR05GlhLQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Gênesis 2:2-3",
+            "Êxodo 20:11",
+            "Hebreus 4:9"
+        ],
+        "texto_base": "Gênesis 2:2, 3",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Como está feliz o nosso coração,",
+                "Livre de cuidados, lutas e aflição!",
+                "Damos-Te louvores, nosso Criador,",
+                "Neste santo dia, dia do Senhor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Somos atraídos pelo Teu amor",
+                "Nestas horas santas, cheias de dulçor.",
+                "Este amor nos fala bem ao coração",
+                "Sobre a eterna graça, nossa redenção."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Seja-nos suave para o coração",
+                "Teu sagrado dia, Tua criação.",
+                "Nossos vis pecados lança para trás.",
+                "Dá-nos neste dia Tua excelsa paz!"
+            ]
+        }
+    ]
+}

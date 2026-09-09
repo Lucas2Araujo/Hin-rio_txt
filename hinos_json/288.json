@@ -1,0 +1,112 @@
+{
+    "hymn": {
+        "number": "288",
+        "title": "Fiel A Toda Prova",
+        "originalTitle": "",
+        "subCategory": 19,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "",
+        "youtubeURL": "https://www.youtube.com/watch?v=ndQK0QjLHlU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 2:10",
+            "Mateus 25:21",
+            "Lucas 16:10"
+        ],
+        "texto_base": "",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Paro pra pensar",
+                "nos desafios deste meu viver,",
+                "Paro pra ouvir",
+                "o que a voz de Deus quer me dizer.",
+                "São tantas as pressões",
+                "que tenho que enfrentar,",
+                "Mas bem acima delas",
+                "sei que está meu Pai."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Quero ser fiel a toda prova,",
+                "Fiel em qualquer tempo, qualquer hora.",
+                "Quero ser fiel no que é pouco",
+                "Para ser fiel no que é muito.",
+                "Quero ser fiel a toda prova",
+                "Não por uma mera obrigação,",
+                "Mas em resposta ao amor tão grande",
+                "Que um dia inundou o meu coração."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Posso triunfar,",
+                "conheço alguém que já venceu por mim.",
+                "Posso me apegar",
+                "à forte mão de um Deus tão grande assim.",
+                "Em meio à provação começo a louvar,",
+                "E Seu poder, do alto, vem me alcançar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Quero ser fiel a toda prova,",
+                "Fiel em qualquer tempo, qualquer hora.",
+                "Quero ser fiel no que é pouco",
+                "Para ser fiel no que é muito.",
+                "Quero ser fiel a toda prova",
+                "Não por uma mera obrigação,",
+                "Mas em resposta ao amor tão grande",
+                "Que um dia inundou o meu coração."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deus majestoso, Pai tão grandioso,",
+                "Envie em meu auxílio",
+                "Seu anjo mais poderoso!",
+                "Quero ser fiel a toda prova,",
+                "Não por uma mera obrigação,",
+                "Mas em resposta ao amor tão grande,",
+                "Ao amor tão grande,",
+                "Ao amor tão grande",
+                "Que um dia inundou o meu coração!"
+            ]
+        }
+    ]
+}

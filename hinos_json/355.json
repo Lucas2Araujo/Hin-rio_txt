@@ -1,0 +1,107 @@
+{
+    "hymn": {
+        "number": "355",
+        "title": "Sempre Alegre",
+        "originalTitle": "Always Cheerful",
+        "subCategory": 22,
+        "lyricsComposer": [
+            132
+        ],
+        "musicComposer": [
+            431
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Filipenses 4:4",
+        "youtubeURL": "https://www.youtube.com/watch?v=rL9g1Vr1jWs",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Filipenses 4:4",
+            "1 Tessalonicenses 5:16",
+            "Neemias 8:10"
+        ],
+        "texto_base": "Filipenses 4:4",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Missão e Serviço",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Seja o coração alegre,",
+                "Sempre a transbordar louvor,",
+                "Pois o nosso Pai celeste",
+                "Mostra-nos o Seu amor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sempre alegre, sempre alegre",
+                "É o viver do bom cristão.",
+                "Oh, que regozijo pleno",
+                "Brota-lhe da salvação!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Temos proteção nas lutas,",
+                "Deus nos toma pela mão.",
+                "Sua tão preciosa graça",
+                "Dá-nos forças na aflição."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sempre alegre, sempre alegre",
+                "É o viver do bom cristão.",
+                "Oh, que regozijo pleno",
+                "Brota-lhe da salvação!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sempre guiará os justos",
+                "Com amor, em Sua luz.",
+                "Juntos serviremos todos",
+                "Ao amado e bom Jesus."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sempre alegre, sempre alegre",
+                "É o viver do bom cristão.",
+                "Oh, que regozijo pleno",
+                "Brota-lhe da salvação!"
+            ]
+        }
+    ]
+}

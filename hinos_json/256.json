@@ -1,0 +1,85 @@
+{
+    "hymn": {
+        "number": "256",
+        "title": "A Ceia Do Senhor",
+        "originalTitle": "Let the Lower Lights Be Burning",
+        "subCategory": 16,
+        "lyricsComposer": [
+            399
+        ],
+        "musicComposer": [
+            399
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Coríntios 11:23-26",
+        "youtubeURL": "https://www.youtube.com/watch?v=DEIsgr6rAXU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Coríntios 11:23-26",
+            "Lucas 22:19",
+            "Marcos 14:22"
+        ],
+        "texto_base": "1 Coríntios 11:23-26",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Como irmãos, nos acheguemos",
+                "junto à mesa do Senhor.",
+                "Esta é a Santa Ceia,",
+                "memorial do eterno amor.",
+                "Os emblemas que hoje temos",
+                "simbolizam redenção,",
+                "Pois de Deus o sacrifício",
+                "limpa o mal e traz perdão."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nosso mau e vil pecado",
+                "trouxe dor e perdição,",
+                "Mas de Deus o amor profundo",
+                "nos livrou da escravidão.",
+                "Ao pensarmos que esta Ceia",
+                "lembra a morte de Jesus,",
+                "Vemos, sim, a nossa culpa;",
+                "morto foi por nós na cruz."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tudo, enfim, de rude e triste",
+                "nessa cruz desfeito está.",
+                "Para nós somente existe",
+                "paz em Deus que durará.",
+                "Damos graças e louvores,",
+                "homenagens ao Senhor.",
+                "Temos fé em Sua vinda,",
+                "Seu real e eterno amor."
+            ]
+        }
+    ]
+}

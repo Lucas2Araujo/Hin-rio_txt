@@ -1,0 +1,111 @@
+{
+    "hymn": {
+        "number": "473",
+        "title": "Morte E Ressurreição",
+        "originalTitle": "",
+        "subCategory": 26,
+        "lyricsComposer": [
+            347
+        ],
+        "musicComposer": [
+            72
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 11:25",
+        "youtubeURL": "https://www.youtube.com/watch?v=3eJVVZc_Dss",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 11:25-26",
+            "1 Coríntios 15:20-22",
+            "1 Tessalonicenses 4:14"
+        ],
+        "texto_base": "João 11:25",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus pôs a eternidade",
+                "no coração do homem;",
+                "Por isso, jamais a morte",
+                "veremos com destemor.",
+                "“Eu vim pra que tenham vida",
+                "e a tenham em abundância”,",
+                "Palavras maravilhosas do Salvador.",
+                "E, quando o pecado veio,",
+                "seu preço foi muito alto:",
+                "A alma que aqui pecasse",
+                "teria que, então, morrer.",
+                "Mas Cristo pagou o preço",
+                "na cruz pelos nossos erros;",
+                "Sua morte nos deu a chance",
+                "de assim viver."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "“Eu sou a ressurreição.",
+                "Em Mim tenho a própria vida.",
+                "Aquele que crer em Mim,",
+                "Ainda que morra, viverá.",
+                "É certo que estive morto,",
+                "Mas vivo pra todo o sempre.",
+                "A chave da sepultura Comigo está.”"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A vida é como um sopro,",
+                "e a morte é como um sono;",
+                "Acabam os pensamentos,",
+                "não há mais recordação.",
+                "Das obras nós descansamos,",
+                "das dores e sofrimentos;",
+                "Não há mais louvor nem sonhos no coração.",
+                "A morte nos entristece",
+                "e traz lágrimas e saudades;",
+                "É o último inimigo",
+                "que Cristo irá vencer.",
+                "Se Cristo voltou da morte,",
+                "aqueles que Nele dormem,",
+                "Com Ele, ressurgirão",
+                "pra não mais morrer."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "“Eu sou a ressurreição.",
+                "Em Mim tenho a própria vida.",
+                "Aquele que crer em Mim,",
+                "Ainda que morra, viverá.",
+                "É certo que estive morto,",
+                "Mas vivo pra todo o sempre.",
+                "A chave da sepultura Comigo está.”"
+            ]
+        }
+    ]
+}

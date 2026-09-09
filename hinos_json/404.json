@@ -1,0 +1,80 @@
+{
+    "hymn": {
+        "number": "404",
+        "title": "Sempre De Jesus",
+        "originalTitle": "",
+        "subCategory": 22,
+        "lyricsComposer": [
+            505
+        ],
+        "musicComposer": [
+            505
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 18:20",
+        "youtubeURL": "https://www.youtube.com/watch?v=Av4LvfAjdXg",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Romanos 14:8",
+            "1 Coríntios 6:19-20",
+            "Gálatas 3:27"
+        ],
+        "texto_base": "Mateus 18:20",
+        "temas_relacionados": [
+            "Vida Cristã e Devoção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu quero ser sempre de Jesus.",
+                "Eu levarei ao mundo Sua luz.",
+                "Em todo o tempo e em qualquer lugar,",
+                "Com meu Jesus, eu quero sempre estar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu quero ser fiel ao meu Jesus.",
+                "Eu mostrarei ao mundo minha luz.",
+                "Em todo o tempo e em qualquer lugar,",
+                "Com meu Jesus, eu quero sempre estar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sempre de Jesus,",
+                "Sempre com meu Jesus,",
+                "Em todo o tempo e em qualquer lugar,",
+                "Com meu Jesus, eu quero sempre estar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sempre de Jesus,",
+                "Sempre com meu Jesus,",
+                "Em todo o tempo e em qualquer lugar,",
+                "Com meu Jesus, eu quero sempre estar."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "hymn": {
+        "number": "180",
+        "title": "Nunca Te Deixarei",
+        "originalTitle": "I Will Guide Thee",
+        "subCategory": 11,
+        "lyricsComposer": [
+            384
+        ],
+        "musicComposer": [
+            399
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 41:10",
+        "youtubeURL": "https://www.youtube.com/watch?v=WBXKUyPkNqo",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 41:10",
+            "Josué 1:5",
+            "Hebreus 13:5"
+        ],
+        "texto_base": "Isaías 41:10",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, como é grande e doce a promessa",
+                "Do Salvador, Jesus, nosso Rei!",
+                "Ao que confia na Sua graça,",
+                "Ele diz: “Sempre te guardarei.”"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "“Ó não temas, ó não temas,",
+                "Pois Eu contigo sempre serei!",
+                "Ó não temas, ó não temas,",
+                "Pois Eu nunca te deixarei.”"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "“Eu sou teu Deus e para livrar-te",
+                "De ti bem perto sempre estarei.",
+                "Não tenhas medo, pois bem seguro,",
+                "Eu pela mão te conduzirei.”"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "“Ó não temas, ó não temas,",
+                "Pois Eu contigo sempre serei!",
+                "Ó não temas, ó não temas,",
+                "Pois Eu nunca te deixarei.”"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "“Para remir-te dei o Meu sangue,",
+                "Pelo teu nome já te chamei.",
+                "Meu para sempre tu és agora.",
+                "Crê, pois, que nunca te deixarei.”"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "“Ó não temas, ó não temas,",
+                "Pois Eu contigo sempre serei!",
+                "Ó não temas, ó não temas,",
+                "Pois Eu nunca te deixarei.”"
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "“Eras indigno, mas escolhi-te;",
+                "Não temas, pois Eu muito te amei.",
+                "Quem dos Meus braços pode arrancar-te?",
+                "Sempre seguro te guardarei.”"
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "“Ó não temas, ó não temas,",
+                "Pois Eu contigo sempre serei!",
+                "Ó não temas, ó não temas,",
+                "Pois Eu nunca te deixarei.”"
+            ]
+        }
+    ]
+}

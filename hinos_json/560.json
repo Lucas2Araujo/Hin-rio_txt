@@ -1,0 +1,56 @@
+{
+    "hymn": {
+        "number": "560",
+        "title": "A Glória Da Tua Presença",
+        "originalTitle": "Oh the Glory of Your Presence",
+        "subCategory": 30,
+        "lyricsComposer": [
+            468
+        ],
+        "musicComposer": [
+            468
+        ],
+        "versionComposer": [
+            349
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 63:2",
+        "youtubeURL": "https://www.youtube.com/watch?v=tDUVFIYYClg",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 63:2",
+            "Êxodo 40:34",
+            "2 Crônicas 7:1"
+        ],
+        "texto_base": "Salmo 63:2",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Lar e Família"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pai, a glória da Tua presença",
+                "Neste templo em reverência",
+                "Já repousa entre nós",
+                "E inspira louvor.",
+                "De Tua glória vem nos encher.",
+                "De Tua glória vem nos encher.",
+                "Já repousa entre nós",
+                "E inspira louvor.",
+                "De Tua glória vem nos encher.",
+                "De Tua glória vem nos encher."
+            ]
+        }
+    ]
+}

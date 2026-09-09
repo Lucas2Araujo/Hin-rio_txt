@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "266",
+        "title": "No Serviço Do Meu Rei",
+        "originalTitle": "In the Service of the King",
+        "subCategory": 17,
+        "lyricsComposer": [
+            14
+        ],
+        "musicComposer": [
+            40
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 4:34-36",
+        "youtubeURL": "https://www.youtube.com/watch?v=Wdz8uN0DPFY",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 4:34",
+            "Mateus 20:28",
+            "Filipenses 2:17"
+        ],
+        "texto_base": "João 4:34-36",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Missão e Serviço",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Trabalhando por Jesus eu sou feliz,",
+                "Sou feliz e venturoso.",
+                "A Seus pés eu minha alma satisfiz;",
+                "Em Jesus eu sou feliz!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ao serviço do meu Rei",
+                "Meus talentos eu darei.",
+                "Tenho paz e alegria",
+                "No serviço do meu Rei."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Em Jesus sublime paz eu encontrei;",
+                "Sou feliz e venturoso.",
+                "E agora em gratidão sempre estarei",
+                "No serviço do meu Rei."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ao serviço do meu Rei",
+                "Meus talentos eu darei.",
+                "Tenho paz e alegria",
+                "No serviço do meu Rei."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Esse grande amor eu hei de proclamar;",
+                "Sou feliz e venturoso.",
+                "Minha vida a Cristo eu quero consagrar",
+                "E com Ele sempre andar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ao serviço do meu Rei",
+                "Meus talentos eu darei.",
+                "Tenho paz e alegria",
+                "No serviço do meu Rei."
+            ]
+        }
+    ]
+}

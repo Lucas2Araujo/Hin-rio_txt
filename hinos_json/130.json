@@ -1,0 +1,81 @@
+{
+    "hymn": {
+        "number": "130",
+        "title": "Jesus Está Esperando",
+        "originalTitle": "The Saviour Is Waiting",
+        "subCategory": 10,
+        "lyricsComposer": [
+            413
+        ],
+        "musicComposer": [
+            413
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 3:20",
+        "youtubeURL": "https://www.youtube.com/watch?v=KeUClZbg8Uk",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Cantares 5:2",
+            "Isaías 1:18",
+            "Mateus 11:28"
+        ],
+        "texto_base": "Apocalipse 3:20",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus quer entrar hoje em teu coração,",
+                "Por que não abres, então?",
+                "Não deixes que nada Lhe ocupe o lugar;",
+                "Oh, que resposta vais dar?"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vezes sem conta esperado Ele tem",
+                "E agora eis que espera também",
+                "A ver se Lhe queres a porta franquear.",
+                "Oh, quanto almeja Ele entrar!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se um passo tu deres pra teu Salvador,",
+                "Ele te espera co’amor.",
+                "Unido a Jesus toda treva se esvai,",
+                "E Ele morar em ti vai."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vezes sem conta esperado Ele tem",
+                "E agora eis que espera também",
+                "A ver se Lhe queres a porta franquear.",
+                "Oh, quanto almeja Ele entrar!"
+            ]
+        }
+    ]
+}

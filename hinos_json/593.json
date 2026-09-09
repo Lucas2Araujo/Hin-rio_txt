@@ -1,0 +1,54 @@
+{
+    "hymn": {
+        "number": "593",
+        "title": "Amigo, Não Saia Sem Cristo",
+        "originalTitle": "Don't Go Away Without Jesus",
+        "subCategory": 35,
+        "lyricsComposer": [
+            318
+        ],
+        "musicComposer": [
+            318
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 1:16",
+        "youtubeURL": "https://www.youtube.com/watch?v=qz4_paWtw8g",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 1:12",
+            "Apocalipse 3:20",
+            "2 Coríntios 6:2"
+        ],
+        "texto_base": "João 1:16",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Amigo, não saia sem Cristo;",
+                "Não saia daqui sem Jesus,",
+                "Pois quer hoje mesmo salvá-lo;",
+                "Por isso, morreu numa cruz.",
+                "Receba essa oferta de graça",
+                "E aceite de Cristo o perdão.",
+                "Amigo, não saia sem Cristo",
+                "No seu coração."
+            ]
+        }
+    ]
+}

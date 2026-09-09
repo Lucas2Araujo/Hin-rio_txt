@@ -1,0 +1,115 @@
+{
+    "hymn": {
+        "number": "453",
+        "title": "Anunciai Pelas Montanhas",
+        "originalTitle": "Go, Tell It on the Mountain",
+        "subCategory": 25,
+        "lyricsComposer": [
+            88
+        ],
+        "musicComposer": [
+            385
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 40:9, 10",
+        "youtubeURL": "https://www.youtube.com/watch?v=EOn959r8A4k",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 40:9",
+            "Isaías 52:7",
+            "Naum 1:15"
+        ],
+        "texto_base": "Isaías 40:9, 10",
+        "temas_relacionados": [
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Anunciai pelas montanhas",
+                "E proclamai por terra e mar;",
+                "Anunciai pelas montanhas",
+                "Que Cristo vai voltar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Minh’alma, com Cristo,",
+                "Jamais desanimou,",
+                "Porque Ele ajuda e guia,",
+                "E o trilho me mostrou."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Anunciai pelas montanhas",
+                "E proclamai por terra e mar;",
+                "Anunciai pelas montanhas",
+                "Que Cristo vai voltar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Meu Mestre divino",
+                "Conduz-me pela mão;",
+                "De pão sacia a alma",
+                "E escuta a oração."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Anunciai pelas montanhas",
+                "E proclamai por terra e mar;",
+                "Anunciai pelas montanhas",
+                "Que Cristo vai voltar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "E nós que O amamos",
+                "Devemos proclamar",
+                "Que Cristo veio ao mundo",
+                "E a todos quer salvar."
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Anunciai pelas montanhas",
+                "E proclamai por terra e mar;",
+                "Anunciai pelas montanhas",
+                "Que Cristo vai voltar."
+            ]
+        }
+    ]
+}

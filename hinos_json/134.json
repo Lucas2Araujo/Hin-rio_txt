@@ -1,0 +1,105 @@
+{
+    "hymn": {
+        "number": "134",
+        "title": "Junto À Cruz",
+        "originalTitle": "Room at the Cross",
+        "subCategory": 10,
+        "lyricsComposer": [
+            225
+        ],
+        "musicComposer": [
+            225
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Lucas 23:33, 34",
+        "youtubeURL": "https://www.youtube.com/watch?v=hXrjWCkDmpY",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Colossenses 1:20",
+            "Efésios 2:16",
+            "Gálatas 6:14"
+        ],
+        "texto_base": "Lucas 23:33, 34",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Na cruz onde Cristo morreu,",
+                "Há poder de abrigar e salvar.",
+                "Ali meu Jesus por amor padeceu:",
+                "Amor tão imenso, mais vasto que o mar!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Junto à cruz há lugar pra ti,",
+                "Junto à cruz há lugar pra ti.",
+                "Salvou a milhões e ainda há lugar.",
+                "Junto à cruz há lugar pra ti."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Milhões encontraram perdão,",
+                "Descobriram a paz divinal.",
+                "E Cristo inda espera pra dar salvação;",
+                "Quer dar-te esperança e vida eternal."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Junto à cruz há lugar pra ti,",
+                "Junto à cruz há lugar pra ti.",
+                "Salvou a milhões e ainda há lugar.",
+                "Junto à cruz há lugar pra ti."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sem Cristo não podes viver,",
+                "Sem Jesus tu não podes andar.",
+                "Vigor fruirás, vida plena hás de ter",
+                "Se em teu Salvador tu quiseres confiar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Junto à cruz há lugar pra ti,",
+                "Junto à cruz há lugar pra ti.",
+                "Salvou a milhões e ainda há lugar.",
+                "Junto à cruz há lugar pra ti."
+            ]
+        }
+    ]
+}

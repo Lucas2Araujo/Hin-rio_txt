@@ -1,0 +1,102 @@
+{
+    "hymn": {
+        "number": "74",
+        "title": "Grande Comandante",
+        "originalTitle": "Forward",
+        "subCategory": 8,
+        "lyricsComposer": [
+            55
+        ],
+        "musicComposer": [
+            180
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Josué 1:9",
+        "youtubeURL": "https://www.youtube.com/watch?v=pDF_yaObO8M",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Hebreus 2:10",
+            "2 Crônicas 32:8",
+            "Isaías 55:4"
+        ],
+        "texto_base": "Josué 1:9",
+        "temas_relacionados": [
+            "Lar e Família"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Grande Comandante Cristo nos será.",
+                "Nesta nobre luta sempre à frente está.",
+                "Nunca Suas hostes abandonará.",
+                "Vai até o fim lutar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "“Sempre avante!”, manda o General.",
+                "“Sempre avante!”, guerra contra o mal!",
+                "Firmes, fortes, nunca vacilar!",
+                "Com Jesus iremos triunfar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A real bandeira vamos defender,",
+                "Contra o inimigo sempre combater.",
+                "Nosso General por certo irá vencer.",
+                "Seguiremos a Jesus."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "“Sempre avante!”, manda o General.",
+                "“Sempre avante!”, guerra contra o mal!",
+                "Firmes, fortes, nunca vacilar!",
+                "Com Jesus iremos triunfar."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Na feroz batalha temos proteção.",
+                "E afinal, em coro, junto à multidão,",
+                "Entoaremos todos a real canção,",
+                "Quando nós chegarmos lá."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "“Sempre avante!”, manda o General.",
+                "“Sempre avante!”, guerra contra o mal!",
+                "Firmes, fortes, nunca vacilar!",
+                "Com Jesus iremos triunfar."
+            ]
+        }
+    ]
+}

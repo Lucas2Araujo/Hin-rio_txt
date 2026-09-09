@@ -1,0 +1,82 @@
+{
+    "hymn": {
+        "number": "347",
+        "title": "Obrigado",
+        "originalTitle": "",
+        "subCategory": 22,
+        "lyricsComposer": [
+            451
+        ],
+        "musicComposer": [
+            451
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 103:2",
+        "youtubeURL": "https://www.youtube.com/watch?v=yRp9mr9TgcA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 103:2",
+            "Salmos 136:1",
+            "1 Crônicas 16:34"
+        ],
+        "texto_base": "Salmo 103:2",
+        "temas_relacionados": [
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu Te agradeço, Senhor,",
+                "Pelo carinho, pelo amor,",
+                "Pelo cuidado que tens por mim.",
+                "Toma minha vida em Tuas mãos;",
+                "Meu coração vem transformar.",
+                "Em Cristo, um novo ser, cada vez mais."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu Te agradeço, Senhor,",
+                "Pelo carinho, pelo amor,",
+                "Pelo cuidado que tens por mim.",
+                "Toma minha vida em Tuas mãos;",
+                "Meu coração vem transformar.",
+                "Em Cristo, um novo ser, cada vez mais."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quanta esperança, Santa harmonia.",
+                "Ouço uma voz me chamar,",
+                "Voz de perdão.",
+                "Brilho celeste, então,",
+                "Toca minha face com ternura e diz:",
+                "“Meu filho, descanso e paz em Mim vais achar.”",
+                "Cristo, Te amo, Tu és minha luz.",
+                "Eu Te agradeço, Querido Jesus."
+            ]
+        }
+    ]
+}

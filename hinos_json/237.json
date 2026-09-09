@@ -1,0 +1,94 @@
+{
+    "hymn": {
+        "number": "237",
+        "title": "A Colheita",
+        "originalTitle": "",
+        "subCategory": 13,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "",
+        "youtubeURL": "https://www.youtube.com/watch?v=fI_xWfXjWcg",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 4:35",
+            "Mateus 9:37-38",
+            "Lucas 10:2"
+        ],
+        "texto_base": "",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Missão e Serviço",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Os campos estão brancos; já podemos ver.",
+                "Desponta um novo dia,",
+                "um novo amanhecer.",
+                "Há trabalho a ser feito;",
+                "inda há muito que colher.",
+                "É Jesus que nos convida;",
+                "o que vamos responder?"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu quero ir, Senhor, à seara trabalhar.",
+                "Quero ser ajudador,",
+                "falar de Cristo e Seu amor.",
+                "Eu quero ser, Senhor, uma luz a iluminar.",
+                "Quero dar o meu melhor;",
+                "quero ver Jesus voltar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "É nossa alegria ir e proclamar:",
+                "“Jesus está voltando;",
+                "virá pra nos buscar!”",
+                "Muita gente não percebe",
+                "o que vai acontecer.",
+                "Se não forem avisados,",
+                "eles podem perecer!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu quero ir, Senhor, à seara trabalhar.",
+                "Quero ser ajudador,",
+                "falar de Cristo e Seu amor.",
+                "Eu quero ser, Senhor, uma luz a iluminar.",
+                "Quero dar o meu melhor;",
+                "quero ver Jesus voltar.",
+                "Quero ver Jesus voltar."
+            ]
+        }
+    ]
+}

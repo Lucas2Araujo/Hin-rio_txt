@@ -1,0 +1,63 @@
+{
+    "hymn": {
+        "number": "484",
+        "title": "Além Do Céu Azul",
+        "originalTitle": "Somewhere Beyond the Blue",
+        "subCategory": 27,
+        "lyricsComposer": [
+            13
+        ],
+        "musicComposer": [
+            13
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 14:1-3",
+        "youtubeURL": "https://www.youtube.com/watch?v=e6n44rxIuME",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 14:2",
+            "Hebreus 11:16",
+            "2 Coríntios 5:1"
+        ],
+        "texto_base": "João 14:1-3",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Além do céu azul,",
+                "foi Jesus preparar",
+                "Um lar pra dar a quem",
+                "a vitória alcançar.",
+                "Desejo conseguir a vida no porvir,",
+                "Com fé no meu Senhor Jesus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Bem sei que eu, de mim,",
+                "nada tenho pra dar,",
+                "Mas sei que meu Jesus",
+                "já me veio salvar.",
+                "Agora quero eu ter fé no coração,",
+                "Até Seu rosto ver além."
+            ]
+        }
+    ]
+}

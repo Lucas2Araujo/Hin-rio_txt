@@ -1,0 +1,107 @@
+{
+    "hymn": {
+        "number": "342",
+        "title": "Eu Não Te Deixarei",
+        "originalTitle": "",
+        "subCategory": 22,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Gênesis 32:26",
+        "youtubeURL": "https://www.youtube.com/watch?v=6nJvSdQk0es",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Gênesis 32:26",
+            "Oséias 12:4",
+            "Hebreus 13:5"
+        ],
+        "texto_base": "Gênesis 32:26",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quando só, em pensamento,",
+                "Eu contemplo o Teu poder,",
+                "Vejo as Tuas maravilhas,",
+                "Vejo o lindo entardecer,",
+                "Me pergunto assim calado:",
+                "O que fiz pra merecer",
+                "Esse amor tão declarado,",
+                "Esse dom que vem de Deus?"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Meu desejo é ser leal.",
+                "Meu desejo é ser fiel;",
+                "É viver o dia a dia",
+                "Já sonhando com o Céu.",
+                "Se amigos meus me deixarem",
+                "E do Teu nome até zombarem,",
+                "Ainda assim eu não Te deixarei.",
+                "E, como fez Jacó, eu não Te deixarei",
+                "Se não me abençoares, Senhor.",
+                "Eu só vou poder dormir em paz",
+                "E só vou descansar",
+                "Se comigo Tu ficares, meu Deus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Só o brilho dos Teus olhos",
+                "É capaz de devolver",
+                "A esperança já perdida,",
+                "A vontade de viver.",
+                "Só Teu braço tão amigo",
+                "É capaz de me envolver",
+                "No calor do Teu abrigo",
+                "Onde posso me esconder."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Meu desejo é ser leal.",
+                "Meu desejo é ser fiel;",
+                "É viver o dia a dia",
+                "Já sonhando com o Céu.",
+                "Se amigos meus me deixarem",
+                "E do Teu nome até zombarem,",
+                "Ainda assim eu não Te deixarei.",
+                "E, como fez Jacó, eu não Te deixarei",
+                "Se não me abençoares, Senhor.",
+                "Eu só vou poder dormir em paz",
+                "E só vou descansar",
+                "Se comigo Tu ficares, meu Deus."
+            ]
+        }
+    ]
+}

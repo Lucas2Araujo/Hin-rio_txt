@@ -1,0 +1,86 @@
+{
+    "hymn": {
+        "number": "213",
+        "title": "Não Me Esqueci De Ti",
+        "originalTitle": "",
+        "subCategory": 11,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 49:15",
+        "youtubeURL": "https://www.youtube.com/watch?v=ILnsDgw5E30",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 49:15",
+            "Salmos 27:10",
+            "Isaías 44:21"
+        ],
+        "texto_base": "Isaías 49:15",
+        "temas_relacionados": [
+            "Crianças e Jovens",
+            "Lar e Família",
+            "Missão e Serviço",
+            "Palavra de Deus e Lei",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se as ondas desta vida",
+                "destruírem tua fé,",
+                "E fizerem que duvides",
+                "de que em breve voltarei,",
+                "Volve os olhos ao passado,",
+                "vê na cruz o Meu sofrer.",
+                "Queres provas mais do que esta?",
+                "Tanto amei que a vida dei!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pensas mesmo ser tão fácil",
+                "esquecer o que falei,",
+                "Se na história deste mundo",
+                "já Meus pés empoeirei?",
+                "Mesmo que uma mãe viesse",
+                "de seu filho se esquecer,",
+                "Inda assim não haveria",
+                "de Me esquecer de ti."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Mas ainda que demore",
+                "ou mesmo que pareça,",
+                "Um dia prometi voltar",
+                "e pronto estou a cumprir.",
+                "Mas ainda que demore",
+                "ou mesmo que pareça,",
+                "Eu não Me esqueci de ti;",
+                "virei outra vez."
+            ]
+        }
+    ]
+}

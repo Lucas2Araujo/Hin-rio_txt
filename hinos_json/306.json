@@ -1,0 +1,113 @@
+{
+    "hymn": {
+        "number": "306",
+        "title": "Eis-nos Prontos",
+        "originalTitle": "“Are Ye Able?”, Said the Master",
+        "subCategory": 21,
+        "lyricsComposer": [
+            97
+        ],
+        "musicComposer": [
+            195
+        ],
+        "versionComposer": [
+            83
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Lucas 22:39-46",
+        "youtubeURL": "https://www.youtube.com/watch?v=hwSVlpmYTWM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 6:8",
+            "Lucas 22:33",
+            "Atos 21:13"
+        ],
+        "texto_base": "Lucas 22:39-46",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "“Todos prontos”, disse o Mestre,",
+                "“A comigo padecer?”",
+                "E, acordando, responderam:",
+                "“Eis-nos prontos a morrer!”"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, eis-nos prontos!",
+                "Senhor, somos Teus!",
+                "Nós vamos ser leais, ó Jesus!",
+                "Vem ajudar-nos a olhar para os Céus",
+                "E a ser templos Teus",
+                "de paz, amor e luz."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quando virmos fortes ondas",
+                "De tristeza sobre nós,",
+                "“Eis-nos prontos a seguir-Te”,",
+                "Ergueremos nossa voz?"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, eis-nos prontos!",
+                "Senhor, somos Teus!",
+                "Nós vamos ser leais, ó Jesus!",
+                "Vem ajudar-nos a olhar para os Céus",
+                "E a ser templos Teus",
+                "de paz, amor e luz."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Muito em breve, quando ao mundo",
+                "Nosso Mestre regressar,",
+                "Nós diremos: “Eis-nos prontos",
+                "Para irmos para o lar”?"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, eis-nos prontos!",
+                "Senhor, somos Teus!",
+                "Nós vamos ser leais, ó Jesus!",
+                "Vem ajudar-nos a olhar para os Céus",
+                "E a ser templos Teus",
+                "de paz, amor e luz."
+            ]
+        }
+    ]
+}

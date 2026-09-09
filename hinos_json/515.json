@@ -1,0 +1,81 @@
+{
+    "hymn": {
+        "number": "515",
+        "title": "Sabe Quantas Estrelinhas?",
+        "originalTitle": "Weisst du, wie viel Sterne stehen?",
+        "subCategory": 29,
+        "lyricsComposer": [
+            510
+        ],
+        "musicComposer": [
+            362
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 40:26",
+        "youtubeURL": "https://www.youtube.com/watch?v=wXIENxBI5mA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 147:4",
+            "Isaías 40:26",
+            "Mateus 10:30"
+        ],
+        "texto_base": "Isaías 40:26",
+        "temas_relacionados": [
+            "Graça e Salvação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sabe quantas estrelinhas",
+                "lá no céu brilhando estão?",
+                "Sabe quantas nuvenzinhas",
+                "pelo vasto mundo vão?",
+                "Deus a todas tem contado,",
+                "e nenhuma tem faltado,",
+                "Pois a todas Ele vê;",
+                "sim, a todas Ele vê."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sabe quantos passarinhos",
+                "voam livres pelo ar?",
+                "Quantos peixes que não cansam,",
+                "divertindo-se no mar?",
+                "Ele cuida dos peixinhos",
+                "e também dos passarinhos",
+                "Com carinho e com amor,",
+                "com carinho e com amor"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Muitas são as criancinhas",
+                "que no mundo inteiro há.",
+                "Brincam sempre, correm todas",
+                "para lá e para cá,",
+                "Pois Deus vê a cada uma,",
+                "não Se esquece de nenhuma.",
+                "Ele ama a todos nós,",
+                "Ele ama a todos nós."
+            ]
+        }
+    ]
+}

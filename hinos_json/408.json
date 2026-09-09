@@ -1,0 +1,85 @@
+{
+    "hymn": {
+        "number": "408",
+        "title": "Abençoa Este Lar",
+        "originalTitle": "Bless This House",
+        "subCategory": 23,
+        "lyricsComposer": [
+            199
+        ],
+        "musicComposer": [
+            359
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 127",
+        "youtubeURL": "https://www.youtube.com/watch?v=UiDXm0Y1CfI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 127:1",
+            "Provérbios 24:3",
+            "Josué 24:15"
+        ],
+        "texto_base": "Salmo 127",
+        "temas_relacionados": [
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Abençoa, bom Senhor,",
+                "de Teus filhos este lar.",
+                "Vem eterna proteção",
+                "e Tua santa paz nos dar.",
+                "Mesmo quando em prova e dor,",
+                "reine aqui somente amor.",
+                "Haja sempre neste lar",
+                "harmonia e bem-estar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "E na senda do viver",
+                "guia-nos com Tua mão.",
+                "Une nosso coração",
+                "pelos laços da afeição.",
+                "Livra-nos de todo o mal",
+                "deste mundo tão banal",
+                "E prepara-nos, ó Deus,",
+                "para o eterno lar dos Céus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nossos filhos, ó Senhor,",
+                "tenham Tua proteção.",
+                "Dá-lhes forças e poder",
+                "pra vencer a tentação.",
+                "E que juntos, em amor,",
+                "recebamos Teu favor;",
+                "E que neste nosso lar",
+                "possas Tu também morar."
+            ]
+        }
+    ]
+}

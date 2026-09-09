@@ -1,0 +1,118 @@
+{
+    "hymn": {
+        "number": "137",
+        "title": "Pai, Eu Me Achego A Ti",
+        "originalTitle": "Father, We Come to Thee",
+        "subCategory": 10,
+        "lyricsComposer": [
+            147
+        ],
+        "musicComposer": [
+            500
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 55:6, 7",
+        "youtubeURL": "https://www.youtube.com/watch?v=m2XiTAFMXJ0",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 55:7",
+            "Salmos 145:18",
+            "Oséias 6:1"
+        ],
+        "texto_base": "Isaías 55:6, 7",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pai, eu me achego a Ti,",
+                "pois Tua voz ouvi.",
+                "Teu grande amor senti,",
+                "ó meu Senhor!",
+                "Não poderei viver",
+                "só, sem o Teu poder.",
+                "Vem inundar meu ser",
+                "com Teu amor!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Pai, eu me achego a Ti;",
+                "Sou pecador.",
+                "Que me conforte aqui",
+                "Teu santo amor!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pai, quão distante andei,",
+                "só, quebrantando a lei,",
+                "Sem Tua luz, bem sei,",
+                "sem salvação.",
+                "Sou pecador e vil,",
+                "sim, com defeitos mil.",
+                "Ó dá-me em Teu redil",
+                "paz e perdão!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Pai, eu me achego a Ti;",
+                "Sou pecador.",
+                "Que me conforte aqui",
+                "Teu santo amor!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Teu quero ser, Senhor,",
+                "ser luz por onde for.",
+                "Que eu tenha mais fervor,",
+                "mais mansidão!",
+                "Em minha vida, ó Deus,",
+                "põe os caminhos Teus.",
+                "Vem, vem guiar-me aos Céus",
+                "com Tua mão!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Pai, eu me achego a Ti;",
+                "Sou pecador.",
+                "Que me conforte aqui",
+                "Teu santo amor!"
+            ]
+        }
+    ]
+}

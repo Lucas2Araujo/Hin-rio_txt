@@ -1,0 +1,115 @@
+{
+    "hymn": {
+        "number": "30",
+        "title": "Sempre Vencendo",
+        "originalTitle": "Victory Through Grace",
+        "subCategory": 3,
+        "lyricsComposer": [
+            132
+        ],
+        "musicComposer": [
+            282
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 6:2",
+        "youtubeURL": "https://www.youtube.com/watch?v=SvLmewB4-tc",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Coríntios 15:57",
+            "Romanos 8:37",
+            "2 Coríntios 2:14"
+        ],
+        "texto_base": "Apocalipse 6:2",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sempre vencendo, mui vitorioso,",
+                "Cristo Jesus, o Senhor!",
+                "Chefe bendito, Chefe glorioso,",
+                "Em tudo é vencedor.",
+                "Ei-Lo supremo, guiando",
+                "Com Seu poder e valor.",
+                "Todos avante, ó crentes,",
+                "Todos seguindo o Senhor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Não é dos fortes a vitória",
+                "Nem dos que correm melhor,",
+                "Mas dos fiéis e sinceros,",
+                "Como nos diz o Senhor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sempre vencendo, mui vitorioso,",
+                "Cristo Jesus, o Senhor!",
+                "Eis Suas hostes inumeráveis,",
+                "Seu refulgente esplendor!",
+                "Cristo, que é nosso Monarca,",
+                "É Salvador, Deus e Pai.",
+                "Sempre nos ama, nos guarda,",
+                "Sempre conosco Ele vai."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Não é dos fortes a vitória",
+                "Nem dos que correm melhor,",
+                "Mas dos fiéis e sinceros,",
+                "Como nos diz o Senhor."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sempre vencendo, mui vitorioso,",
+                "Cristo Jesus, o Senhor!",
+                "Reis e monarcas, príncipes fortes",
+                "Buscam também Seu favor.",
+                "Humildemente Te peço",
+                "Que me permitas lutar.",
+                "Só ao Teu lado, seguro,",
+                "Té minha vida findar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Não é dos fortes a vitória",
+                "Nem dos que correm melhor,",
+                "Mas dos fiéis e sinceros,",
+                "Como nos diz o Senhor."
+            ]
+        }
+    ]
+}

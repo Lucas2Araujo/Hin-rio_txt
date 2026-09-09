@@ -1,0 +1,134 @@
+{
+    "hymn": {
+        "number": "186",
+        "title": "Ó Mestre, O Mar Se Revolta",
+        "originalTitle": "Master, the Tempest Is Raging!",
+        "subCategory": 11,
+        "lyricsComposer": [
+            353
+        ],
+        "musicComposer": [
+            217
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 8:23-27",
+        "youtubeURL": "https://www.youtube.com/watch?v=Qqp1ZZi1wSw",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 8:26",
+            "Marcos 4:39",
+            "Salmos 107:29"
+        ],
+        "texto_base": "Mateus 8:23-27",
+        "temas_relacionados": [
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ó Mestre, o mar se revolta,",
+                "as ondas nos dão pavor!",
+                "O céu se reveste de trevas,",
+                "não temos um salvador!",
+                "Mestre, estamos morrendo!",
+                "Podes assim dormir,",
+                "Se a cada momento nos vemos",
+                "já prestes a submergir?"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "“As ondas atendem ao Meu mandar:",
+                "Sossegai!",
+                "Quer seja este revolto mar,",
+                "A ira dos homens, o gênio do mal,",
+                "Tais águas não podem a nau tragar",
+                "Que leva o Senhor, Rei do céu e mar,",
+                "Pois todos ouvem o Meu mandar:",
+                "Sossegai! Sossegai!",
+                "Convosco estou para vos salvar;",
+                "Sim, sossegai!”"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Mestre, na minha tristeza",
+                "estou quase a sucumbir.",
+                "A dor que perturba minh’alma,",
+                "eu peço-Te, vem banir!",
+                "De ondas do mar que me encobrem,",
+                "quem me fará sair?",
+                "Pereço sem Ti, ó meu Mestre!",
+                "Vem logo, vem me acudir!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "“As ondas atendem ao Meu mandar:",
+                "Sossegai!",
+                "Quer seja este revolto mar,",
+                "A ira dos homens, o gênio do mal,",
+                "Tais águas não podem a nau tragar",
+                "Que leva o Senhor, Rei do céu e mar,",
+                "Pois todos ouvem o Meu mandar:",
+                "Sossegai! Sossegai!",
+                "Convosco estou para vos salvar;",
+                "Sim, sossegai!”"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Mestre, chegou a bonança,",
+                "em paz eis o céu e o mar!",
+                "O meu coração sente a calma",
+                "que não poderá findar.",
+                "Fica comigo, ó meu Mestre,",
+                "dono da Terra e Céu,",
+                "E assim chegarei bem seguro",
+                "ao porto, destino meu."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "“As ondas atendem ao Meu mandar:",
+                "Sossegai!",
+                "Quer seja este revolto mar,",
+                "A ira dos homens, o gênio do mal,",
+                "Tais águas não podem a nau tragar",
+                "Que leva o Senhor, Rei do céu e mar,",
+                "Pois todos ouvem o Meu mandar:",
+                "Sossegai! Sossegai!",
+                "Convosco estou para vos salvar;",
+                "Sim, sossegai!”"
+            ]
+        }
+    ]
+}

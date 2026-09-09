@@ -1,0 +1,86 @@
+{
+    "hymn": {
+        "number": "39",
+        "title": "Glórias Ao Rei De Amor",
+        "originalTitle": "Crown Him With Many Crowns",
+        "subCategory": 3,
+        "lyricsComposer": [
+            357
+        ],
+        "musicComposer": [
+            172
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Judas 24, 25",
+        "youtubeURL": "https://www.youtube.com/watch?v=aARgwr11kt4",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 1:5-6",
+            "1 Timóteo 1:17",
+            "Hebreus 13:21"
+        ],
+        "texto_base": "Judas 24, 25",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Glórias ao Rei de amor,",
+                "ao Rei, Senhor Jesus!",
+                "O Seu divino e santo amor",
+                "provou ali na cruz.",
+                "A Cristo, o Redentor,",
+                "darei louvor sem fim,",
+                "Louvor ao santo Rei de amor,",
+                "que a vida deu por mim."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Glórias ao Rei da luz,",
+                "do bem o manancial!",
+                "Louvor ao nobre Rei da luz,",
+                "ao dom celestial.",
+                "Senhor da Terra e mar,",
+                "da luz que ao Céu conduz,",
+                "Louvor ao nobre Rei da luz,",
+                "ao Rei que a Deus traduz."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Glórias ao Rei da paz,",
+                "ao Rei, Senhor e Deus!",
+                "Louvor ao grande Rei da paz,",
+                "ao Rei dos altos Céus.",
+                "Ó Rei, por Teu favor,",
+                "ali irei morar,",
+                "Viver a eterna e doce paz,",
+                "a paz do eterno lar."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "hymn": {
+        "number": "48",
+        "title": "O Poder Do Espírito",
+        "originalTitle": "",
+        "subCategory": 4,
+        "lyricsComposer": [
+            492
+        ],
+        "musicComposer": [
+            505
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Atos 1:8",
+        "youtubeURL": "https://www.youtube.com/watch?v=dq4XfQZJrbg",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Coríntios 2:4",
+            "Miqueias 3:8",
+            "Romanos 15:19"
+        ],
+        "texto_base": "Atos 1:8",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ao descer sobre nós",
+                "O poder do Santo Espírito de Deus,",
+                "Nosso ser, nossa voz,",
+                "Com poder proclamarão os atos Seus.",
+                "O mundo há de ouvir",
+                "que Jesus irá voltar;",
+                "Com poder e grande glória",
+                "irá reinar.",
+                "O Espírito de Deus",
+                "através do nosso amor",
+                "Levará a todo mundo Cristo Salvador."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ao descer sobre nós",
+                "O poder do Santo Espírito de Deus,",
+                "Nosso ser, nossa voz,",
+                "Com poder proclamarão os atos Seus.",
+                "O mundo há de ouvir",
+                "que Jesus irá voltar;",
+                "Com poder e grande glória",
+                "irá reinar.",
+                "O Espírito de Deus",
+                "através do nosso amor",
+                "Levará a todo mundo Cristo Salvador."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "hymn": {
+        "number": "493",
+        "title": "Almejo O Lar",
+        "originalTitle": "Ich möchte Heim",
+        "subCategory": 28,
+        "lyricsComposer": [
+            158
+        ],
+        "musicComposer": [
+            299
+        ],
+        "versionComposer": [
+            337
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 21:1-4",
+        "youtubeURL": "https://www.youtube.com/watch?v=ddjCguUcCU4",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Hebreus 11:16",
+            "Filipenses 1:23",
+            "2 Coríntios 5:2"
+        ],
+        "texto_base": "Apocalipse 21:1-4",
+        "temas_relacionados": [
+            "Crianças e Jovens",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Almejo o lar, paterno lar amado;",
+                "De meu Jesus ao peito estar;",
+                "Bem longe andar do mundo e do pecado,",
+                "No perenal e doce lar.",
+                "Com sonhos mil, eu comecei na lida,",
+                "Um só, de todos, resta em minha vida;",
+                "Meu peito arde em forte desejar:",
+                "Almejo o lar, almejo o lar!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Almejo ao lar, almejo o lar,",
+                "Almejo o lar, o lindo e eterno lar.",
+                "Saudoso estou e canto em triste exílio:",
+                "Almejo o lar, o doce lar!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Almejo o lar; eu vi, em doce sonho,",
+                "País melhor, a pátria além,",
+                "Mansões, jardins , e tudo tão risonho",
+                "Refulge à luz, à paz e ao bem!",
+                "No mundo aqui, as flores se murcharam,",
+                "As aves já seu ninho abandonaram,",
+                "E a alma geme em triste suspirar:",
+                "Almejo o lar, almejo o lar!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Almejo ao lar, almejo o lar,",
+                "Almejo o lar, o lindo e eterno lar.",
+                "Saudoso estou e canto em triste exílio:",
+                "Almejo o lar, o doce lar!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Almejo o lar; o barco busca o porto;",
+                "As águas do regato, o mar.",
+                "O filho volta à mãe pra achar conforto;",
+                "Eu quero ir também ao lar.",
+                "Em meu viver, em riso ou desventura,",
+                "Também cantei, e o eco só perdura,",
+                "Qual triste voz, em dor, a soluçar:",
+                "Almejo o lar, almejo o lar!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Almejo ao lar, almejo o lar,",
+                "Almejo o lar, o lindo e eterno lar.",
+                "Saudoso estou e canto em triste exílio:",
+                "Almejo o lar, o doce lar!"
+            ]
+        }
+    ]
+}

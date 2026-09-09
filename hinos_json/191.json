@@ -1,0 +1,103 @@
+{
+    "hymn": {
+        "number": "191",
+        "title": "Olha Com Fé Para Cima",
+        "originalTitle": "Beautiful Isle of Somewhere",
+        "subCategory": 11,
+        "lyricsComposer": [
+            256
+        ],
+        "musicComposer": [
+            286
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 121",
+        "youtubeURL": "https://www.youtube.com/watch?v=TZnLhvVG68Y",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 121:1-2",
+            "Colossenses 3:1",
+            "Salmos 123:1"
+        ],
+        "texto_base": "Salmo 121",
+        "temas_relacionados": [
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quando te vêm tristezas,",
+                "Dores ao coração,",
+                "Olha com fé pra cima,",
+                "Deus dá consolação!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sempre! Sempre!",
+                "Olha com fé para cima,",
+                "Onde Jesus resplandece a luz!",
+                "Olha com fé para cima!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quando os amigos fogem",
+                "E abandonado estás,",
+                "Olha com fé pra cima,",
+                "Cristo te traz a paz."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sempre! Sempre!",
+                "Olha com fé para cima,",
+                "Onde Jesus resplandece a luz!",
+                "Olha com fé para cima!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não andes cabisbaixo,",
+                "Pra mais te entristecer.",
+                "Olha com fé pra cima,",
+                "Procura a Cristo ver."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sempre! Sempre!",
+                "Olha com fé para cima,",
+                "Onde Jesus resplandece a luz!",
+                "Olha com fé para cima!"
+            ]
+        }
+    ]
+}

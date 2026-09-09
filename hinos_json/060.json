@@ -1,0 +1,84 @@
+{
+    "hymn": {
+        "number": "60",
+        "title": "Ao Deus De Abraão Louvai",
+        "originalTitle": "The God of Abraham Praise",
+        "subCategory": 6,
+        "lyricsComposer": [
+            484
+        ],
+        "musicComposer": [
+            374
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Êxodo 3:14, 15",
+        "youtubeURL": "https://www.youtube.com/watch?v=2khAUPUJ5VM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Gênesis 17:1",
+            "Salmos 105:9-10",
+            "Hebreus 11:8"
+        ],
+        "texto_base": "Êxodo 3:14, 15",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Lar e Família"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ao Deus de Abraão louvai,",
+                "supremo Criador,",
+                "Eterno Deus, bondoso Pai",
+                "e Rei, Senhor.",
+                "O grande Deus Eu Sou",
+                "céu, terra e mar formou.",
+                "Meu ser também dará louvor",
+                "ao Deus de amor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ao Deus de Abraão louvai,",
+                "eterno Benfeitor.",
+                "O povo Seu um dia vai",
+                "ao lar de amor.",
+                "O mundo mau deixei,",
+                "seu brilho e seu prazer,",
+                "E filho, então, de Deus serei",
+                "até morrer."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ao Deus de Abraão louvai;",
+                "os anjos dão louvor.",
+                "E vós também louvores dai",
+                "ao Deus de amor.",
+                "Ao Deus de Abraão e meu",
+                "no além irei louvar.",
+                "Eternamente eu louvarei",
+                "ao Deus sem-par."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "hymn": {
+        "number": "302",
+        "title": "Tudo Entregarei",
+        "originalTitle": "I Surrender All",
+        "subCategory": 21,
+        "lyricsComposer": [
+            301
+        ],
+        "musicComposer": [
+            536
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 116:12-14",
+        "youtubeURL": "https://www.youtube.com/watch?v=bzXmFmM4CTM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Romanos 12:1",
+            "Lucas 14:33",
+            "Filipenses 3:8"
+        ],
+        "texto_base": "Salmo 116:12-14",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tudo, ó Cristo, a Ti entrego,",
+                "Tudo, sim, por Ti darei!",
+                "Resoluto, mas submisso,",
+                "Sempre a Ti eu seguirei."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Tudo entregarei!",
+                "Tudo entregarei!",
+                "Sim, por Ti, Jesus bendito,",
+                "Tudo deixarei!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tudo, ó Cristo, a Ti entrego,",
+                "Corpo e alma eis aqui!",
+                "Este mundo mau renego;",
+                "Quero dedicar-me a Ti."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Tudo entregarei!",
+                "Tudo entregarei!",
+                "Sim, por Ti, Jesus bendito,",
+                "Tudo deixarei!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tudo, ó Cristo, a Ti entrego,",
+                "Que prazer, ó meu Senhor!",
+                "Paz perfeita, paz completa,",
+                "Glória, glória ao Salvador!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Tudo entregarei!",
+                "Tudo entregarei!",
+                "Sim, por Ti, Jesus bendito,",
+                "Tudo deixarei!"
+            ]
+        }
+    ]
+}

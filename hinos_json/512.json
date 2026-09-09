@@ -1,0 +1,112 @@
+{
+    "hymn": {
+        "number": "512",
+        "title": "Cada Dia",
+        "originalTitle": "",
+        "subCategory": 29,
+        "lyricsComposer": [
+            492
+        ],
+        "musicComposer": [
+            136
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 19:1-4",
+        "youtubeURL": "https://www.youtube.com/watch?v=geb2ugQWBis",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 118:24",
+            "Lamentações 3:22-23",
+            "Salmos 19:1"
+        ],
+        "texto_base": "Salmo 19:1-4",
+        "temas_relacionados": [
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cada dia que houver pra mim,",
+                "Cada ave a voar",
+                "É motivo pra eu sorrir;",
+                "É razão pra cantar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cada dia que houver pra mim,",
+                "Cada ave a voar",
+                "É motivo pra eu sorrir;",
+                "É razão pra cantar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu não canso de olhar",
+                "O horizonte sem fim,",
+                "A grandeza do mar",
+                "Ou a paz de um jardim.",
+                "Sinto a chuva cair;",
+                "Sinto a brisa do ar.",
+                "Vejo a terra sorrir;",
+                "Vejo a vida chegar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cada dia que houver pra mim,",
+                "Cada ave a voar",
+                "É motivo pra eu sorrir;",
+                "É razão pra cantar."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cada dia ao nascer",
+                "Traz no sol o seu calor;",
+                "Cada raio a brilhar",
+                "É um poema de amor.",
+                "Eu não canso de ouvir",
+                "Tantos sons pelo ar,",
+                "As canções dos pardais,",
+                "Ou a fonte a jorrar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cada dia que houver pra mim,",
+                "Cada ave a voar",
+                "É motivo pra eu sorrir;",
+                "É razão pra cantar."
+            ]
+        }
+    ]
+}

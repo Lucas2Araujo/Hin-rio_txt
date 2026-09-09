@@ -1,0 +1,71 @@
+{
+    "hymn": {
+        "number": "568",
+        "title": "Invocação",
+        "originalTitle": "",
+        "subCategory": 30,
+        "lyricsComposer": [
+            75
+        ],
+        "musicComposer": [
+            75
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 43:15",
+        "youtubeURL": "https://www.youtube.com/watch?v=c5rmDJAwbmo",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 99:9",
+            "Salmos 95:2",
+            "Salmos 100:4"
+        ],
+        "texto_base": "Isaías 43:15",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Espírito Santo",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Sacrifício e Redenção",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Santo é o Deus da criação,",
+                "o Deus que tudo fez;",
+                "Honra e glória ao grande Eu Sou,",
+                "o Deus de Israel.",
+                "Tu somente és digno",
+                "de louvor e adoração;",
+                "Nosso imperfeito ser",
+                "se inclina em gratidão."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Santo é o Cordeiro",
+                "que da morte nos livrou;",
+                "Glória ao Consolador",
+                "que o Pai nos enviou.",
+                "Tu que habitas",
+                "entre os louvores, ó Senhor,",
+                "Vem estar presente entre nós.",
+                "Amém!"
+            ]
+        }
+    ]
+}

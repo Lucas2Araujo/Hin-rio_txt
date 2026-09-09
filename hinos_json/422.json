@@ -1,0 +1,81 @@
+{
+    "hymn": {
+        "number": "422",
+        "title": "Presente De Valor",
+        "originalTitle": "",
+        "subCategory": 23,
+        "lyricsComposer": [
+            492
+        ],
+        "musicComposer": [
+            492,
+            326
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 127:3",
+        "youtubeURL": "https://www.youtube.com/watch?v=W54JbWI39UQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 127:3",
+            "Gênesis 33:5",
+            "Salmos 128:3"
+        ],
+        "texto_base": "Salmo 127:3",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Lar e Família"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Dá pra ver a mão de Deus",
+                "na beleza de uma flor,",
+                "Na poesia do nascer,",
+                "nos mistérios do amor.",
+                "Deus é grande e poderoso,",
+                "trouxe ao mundo um ser precioso,",
+                "Tão pequeno e tão gracioso,",
+                "um presente de valor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Senhor, dá força aos pais deste menino",
+                "Pra conduzi-lo em Teus caminhos,",
+                "Pra que ele viva em Teu louvor.",
+                "Senhor, segura a mão desta criança,",
+                "pois ela é Tua herança,",
+                "É a obra-prima do amor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Senhor, dá força aos pais deste menino",
+                "Pra conduzi-lo em Teus caminhos,",
+                "Pra que ele viva em Teu louvor.",
+                "Senhor, segura a mão desta criança,",
+                "pois ela é Tua herança,",
+                "É a obra-prima do amor."
+            ]
+        }
+    ]
+}

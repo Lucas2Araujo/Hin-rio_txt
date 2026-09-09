@@ -1,0 +1,85 @@
+{
+    "hymn": {
+        "number": "383",
+        "title": "Em Mim Vem Habitar",
+        "originalTitle": "More Love to Thee, O Christ",
+        "subCategory": 22,
+        "lyricsComposer": [
+            261
+        ],
+        "musicComposer": [
+            522
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 14:23",
+        "youtubeURL": "https://www.youtube.com/watch?v=_Y7x4rwunTM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 14:23",
+            "Apocalipse 3:20",
+            "Gálatas 2:20"
+        ],
+        "texto_base": "João 14:23",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Missão e Serviço",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Em mim vem habitar, ó vem, Jesus,",
+                "E em mim fazer brilhar a Tua luz.",
+                "Eis minha petição: ter e sentir, Senhor,",
+                "Mais gratidão e mais amor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Os passos Teus seguir eu quero sim",
+                "Pra Te servir e amar até o fim.",
+                "Sempre vou desejar, com todo meu fervor,",
+                "Contigo andar, ó Salvador."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Em meu interior vem Tu brilhar.",
+                "Faz-me, com mais ardor, da cruz falar.",
+                "Reveste o coração de Teu excelso amor,",
+                "De retidão e de fervor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, que consolação a Cristo amar,",
+                "Pois que com tanto amor me quis salvar!",
+                "Nada me alegra mais, não há prazer maior",
+                "Que Tua paz, ó Salvador."
+            ]
+        }
+    ]
+}

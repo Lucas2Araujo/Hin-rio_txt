@@ -1,0 +1,86 @@
+{
+    "hymn": {
+        "number": "479",
+        "title": "Herdeiro Do Reino",
+        "originalTitle": "Heir of the Kingdom",
+        "subCategory": 27,
+        "lyricsComposer": [
+            88
+        ],
+        "musicComposer": [
+            332
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Romanos 13:11",
+        "youtubeURL": "https://www.youtube.com/watch?v=1p34cF7xJo0",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Tiago 2:5",
+            "Romanos 8:17",
+            "Gálatas 4:7"
+        ],
+        "texto_base": "Romanos 13:11",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Lar e Família"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ó tu, herdeiro do reino celeste,",
+                "Por que tu dormes tão perto do lar?",
+                "Logo desperta",
+                "e veste a armadura;",
+                "Vais a vitória por Cristo ganhar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Grandes potências ordenam suas forças",
+                "Para o combate final decidir.",
+                "Ouve à distância",
+                "o ruído dos carros.",
+                "Filho do reino, não queiras dormir!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não te detenham prazeres terrenos,",
+                "Pois bem depressa terão de passar!",
+                "Rompe as cadeias",
+                "que ao mundo te prendem.",
+                "Vem logo a Cristo, que te há de salvar!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nele confia, esperando Sua glória.",
+                "Ergue tua fronte; está vindo o Senhor.",
+                "Lá no horizonte",
+                "já rompe a alvorada;",
+                "Filho do reino, transborda em louvor"
+            ]
+        }
+    ]
+}

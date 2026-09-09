@@ -1,0 +1,129 @@
+{
+    "hymn": {
+        "number": "379",
+        "title": "Fala À Minh’alma",
+        "originalTitle": "Speak to My Soul",
+        "subCategory": 22,
+        "lyricsComposer": [
+            319
+        ],
+        "musicComposer": [
+            319
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Samuel 3:9, 10",
+        "youtubeURL": "https://www.youtube.com/watch?v=_g7rOev2ybA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Samuel 3:9",
+            "Salmos 85:8",
+            "João 10:27"
+        ],
+        "texto_base": "1 Samuel 3:9, 10",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Fala à minh’alma, ó Cristo,",
+                "fala-lhe com amor!",
+                "Dize-lhe com ternura:",
+                "“Eu sou teu Salvador!”",
+                "Faze-me bem-disposto",
+                "para Te obedecer;",
+                "Sempre louvar Teu nome",
+                "e Te entregar meu ser."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Faze-me ouvir bem manso,",
+                "em suave murmurar:",
+                "“Eu já verti Meu sangue,",
+                "para te libertar.”",
+                "Fala-me cada dia,",
+                "fala com todo amor,",
+                "Dize-me com ternura:",
+                "“Tu tens um Salvador!”"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Fala aos Teus filhos sempre,",
+                "dá-lhes a direção.",
+                "Enche-os de alegria,",
+                "mesmo na provação.",
+                "Faze-os bem consagrados,",
+                "prontos a trabalhar,",
+                "Para do reino eterno",
+                "a vinda abreviar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Faze-me ouvir bem manso,",
+                "em suave murmurar:",
+                "“Eu já verti Meu sangue,",
+                "para te libertar.”",
+                "Fala-me cada dia,",
+                "fala com todo amor,",
+                "Dize-me com ternura:",
+                "“Tu tens um Salvador!”"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Como na antiguidade",
+                "mostravas Teu querer,",
+                "Dize-me hoje e sempre",
+                "qual seja meu dever.",
+                "A Ti somente eu quero",
+                "louvores entoar;",
+                "Teu nome eternamente",
+                "engrandecer e honrar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Faze-me ouvir bem manso,",
+                "em suave murmurar:",
+                "“Eu já verti Meu sangue,",
+                "para te libertar.”",
+                "Fala-me cada dia,",
+                "fala com todo amor,",
+                "Dize-me com ternura:",
+                "“Tu tens um Salvador!”"
+            ]
+        }
+    ]
+}

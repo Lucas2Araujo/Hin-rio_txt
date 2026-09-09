@@ -1,0 +1,90 @@
+{
+    "hymn": {
+        "number": "351",
+        "title": "Jesus, Muito Obrigado",
+        "originalTitle": "",
+        "subCategory": 22,
+        "lyricsComposer": [
+            505
+        ],
+        "musicComposer": [
+            505
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Hebreus 13:15",
+        "youtubeURL": "https://www.youtube.com/watch?v=Qo1T9ZuepmY",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Efésios 5:20",
+            "1 Timóteo 1:12",
+            "Salmos 107:1"
+        ],
+        "texto_base": "Hebreus 13:15",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus, muito obrigado",
+                "Por ser o meu amigo!",
+                "Jesus, muito obrigado",
+                "Por ter o Seu cuidado!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus, muito obrigado",
+                "Por ser meu Rei amado!",
+                "Jesus, muito obrigado",
+                "Por dar a Sua vida,",
+                "Por ter me perdoado,",
+                "Por dar a esperança!",
+                "Jesus, muito obrigado",
+                "Por Seu amor por mim!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus, muito obrigado",
+                "Por ser o meu amigo!",
+                "Jesus, muito obrigado",
+                "Por ter o Seu cuidado!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus, muito obrigado",
+                "Por ser meu Rei amado!",
+                "Jesus, muito obrigado",
+                "Por dar a Sua vida,",
+                "Por ter me perdoado,",
+                "Por dar a esperança!",
+                "Jesus, muito obrigado",
+                "Por Seu amor por mim!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "hymn": {
+        "number": "12",
+        "title": "Vinde, Povo Do Senhor",
+        "originalTitle": "Come, Ye Thankful People, Come",
+        "subCategory": 1,
+        "lyricsComposer": [
+            202
+        ],
+        "musicComposer": [
+            172
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 95:1-6",
+        "youtubeURL": "https://www.youtube.com/watch?v=2WLfNPD0uhw",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 100:2-4",
+            "Hebreus 10:25",
+            "Apocalipse 21:4"
+        ],
+        "texto_base": "Salmo 95:1-6",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vinde, povo do Senhor,",
+                "adorai-O com louvor!",
+                "Ao Deus trino exaltai:",
+                "a Jesus, a Deus, o Pai,",
+                "E ao Espírito de luz",
+                "que em bondade nos conduz!",
+                "Vinde, povo do Senhor,",
+                "adorai o Deus de amor!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Observemos com fervor",
+                "este dia do Senhor,",
+                "Pois as bênçãos lá do Céu,",
+                "aos fiéis as prometeu!",
+                "Atentai à Sua voz,",
+                "com amor falar a nós!",
+                "Vinde, povo do Senhor,",
+                "exaltai o Criador!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quando a igreja se tornar",
+                "triunfante lá no lar,",
+                "Nossas lutas findarão,",
+                "e virá a redenção.",
+                "Mal e dor ficando atrás,",
+                "reinarão amor e paz.",
+                "Vinde, povo do Senhor,",
+                "aclamai o Redentor!"
+            ]
+        }
+    ]
+}

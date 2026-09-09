@@ -1,0 +1,107 @@
+{
+    "hymn": {
+        "number": "435",
+        "title": "Acima Do Céu",
+        "originalTitle": "",
+        "subCategory": 24,
+        "lyricsComposer": [
+            463
+        ],
+        "musicComposer": [
+            463
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Hebreus 8:1, 2",
+        "youtubeURL": "https://www.youtube.com/watch?v=wJQ3LvUaMds",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Hebreus 9:24",
+            "Hebreus 7:25",
+            "Romanos 8:34"
+        ],
+        "texto_base": "Hebreus 8:1, 2",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção",
+            "Santuário e Juízo",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Acima do céu, habitas em glória.",
+                "Acima do céu, emanas poder.",
+                "Acima do céu, no Teu santuário",
+                "Revelas Tua misericórdia.",
+                "Acima do céu, existe favor",
+                "Em Ti, ó Jesus, meu Intercessor.",
+                "Acima do céu, justiça e graça",
+                "Exaltam a Tua bondade."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Acima do céu, a graça e o louvor",
+                "Espelham nas nuvens o Teu esplendor.",
+                "Além do infinito, no templo divino,",
+                "Teus braços recebem o pecador."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Acima do céu, a minha oração",
+                "Encontra em Ti alívio e perdão.",
+                "Acima do céu, pedidos e graças",
+                "Perfumam a Tua morada."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Acima do céu, a graça e o louvor",
+                "Espelham nas nuvens o Teu esplendor.",
+                "Além do infinito, no templo divino,",
+                "Teus braços recebem o pecador.",
+                "Acima do céu, justiça e amor",
+                "Proclamam Tua glória, fiel Salvador.",
+                "Além do infinito, Teus braços erguidos,",
+                "Revelam as marcas do Teu amor."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Acima do céu, habitas em glória.",
+                "Acima do céu, emanas poder.",
+                "Cordeiro de Deus, oferta na cruz,",
+                "Teu sangue me trouxe a paz.",
+                "Amado no Céu, sublime Jesus,",
+                "No meu coração estás."
+            ]
+        }
+    ]
+}

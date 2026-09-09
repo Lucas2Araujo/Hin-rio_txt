@@ -1,0 +1,47 @@
+{
+    "hymn": {
+        "number": "599",
+        "title": "Que O Senhor Nos Abençoe!",
+        "originalTitle": "",
+        "subCategory": 35,
+        "lyricsComposer": [
+            508
+        ],
+        "musicComposer": [
+            508
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Judas 1:2",
+        "youtubeURL": "https://www.youtube.com/watch?v=hbDJN08OQ6I",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Judas 1:2",
+            "Romanos 15:33",
+            "2 Tessalonicenses 3:16"
+        ],
+        "texto_base": "Judas 1:2",
+        "temas_relacionados": [
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que o Senhor nos abençoe",
+                "E que também nos dê a paz!",
+                "Que o Senhor nos acompanhe",
+                "Agora e sempre! Amém!"
+            ]
+        }
+    ]
+}

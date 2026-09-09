@@ -1,0 +1,82 @@
+{
+    "hymn": {
+        "number": "482",
+        "title": "Junto Ao Rio Jordão",
+        "originalTitle": "On Jordan’s Stormy Banks",
+        "subCategory": 27,
+        "lyricsComposer": [
+            452
+        ],
+        "musicComposer": [
+            487
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 65:17-19",
+        "youtubeURL": "https://www.youtube.com/watch?v=kn0zFi5orMU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 22:1",
+            "Salmos 46:4",
+            "Isaías 65:17"
+        ],
+        "texto_base": "Isaías 65:17-19",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Bem junto estou ao rio Jordão",
+                "E lanço além o olhar.",
+                "Saudoso estou e anseio herdar",
+                "Meu doce, doce lar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu irei descansar no eterno lar,",
+                "Quando enfim transpuser o rio Jordão.",
+                "Com os salvos sempre poderei me alegrar,",
+                "Cantando a minha redenção."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Já farto estou de tanta dor,",
+                "Dos males e dos ais.",
+                "A morte ali no lar de amor",
+                "Não entra nunca mais."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Apressa, ó Deus, o reino Teu,",
+                "Não tardes mais, Senhor!",
+                "Eu quero já subir ao Céu,",
+                "Meu doce lar de amor."
+            ]
+        }
+    ]
+}

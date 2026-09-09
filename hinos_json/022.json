@@ -1,0 +1,85 @@
+{
+    "hymn": {
+        "number": "22",
+        "title": "A Ti Toda Glória",
+        "originalTitle": "We Gather Together",
+        "subCategory": 2,
+        "lyricsComposer": [
+            88
+        ],
+        "musicComposer": [
+            369
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "I Pedro 1:3-5",
+        "youtubeURL": "https://www.youtube.com/watch?v=BwISjJU028U",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 5:13",
+            "Romanos 11:36",
+            "Efésios 1:6"
+        ],
+        "texto_base": "I Pedro 1:3-5",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A Ti toda glória e",
+                "louvores rendemos,",
+                "Senhor do Universo",
+                "e Deus, Criador!",
+                "Reunidos, rogamos",
+                "as Tuas santas bênçãos",
+                "E graças ofertamos",
+                "por Teu grande amor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ó Fonte perene",
+                "de bênçãos constantes",
+                "Fruindo Tua graça",
+                "queremos viver.",
+                "Sustém-nos os passos,",
+                "pois são mui vacilantes;",
+                "Somente pela fé",
+                "nós podemos vencer."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Louvores rendemos",
+                "por Tua bondade.",
+                "Teu Filho querido",
+                "nos deste na cruz;",
+                "Sua morte nos trouxe",
+                "perdão e eternidade",
+                "E abriu-nos os portais",
+                "para o reino de luz."
+            ]
+        }
+    ]
+}

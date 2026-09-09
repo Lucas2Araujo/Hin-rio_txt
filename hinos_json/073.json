@@ -1,0 +1,85 @@
+{
+    "hymn": {
+        "number": "73",
+        "title": "Castelo Forte",
+        "originalTitle": "Ein’ feste Burg ist unser Gott",
+        "subCategory": 8,
+        "lyricsComposer": [
+            350
+        ],
+        "musicComposer": [
+            350
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 46:1",
+        "youtubeURL": "https://www.youtube.com/watch?v=r130BsOP1Cs",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Provérbios 18:10",
+            "2 Samuel 22:3",
+            "Salmos 91:2"
+        ],
+        "texto_base": "Salmo 46:1",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Castelo forte é nosso Deus,",
+                "refúgio e fortaleza.",
+                "Com Seu poder defende os Seus",
+                "e os livra com presteza.",
+                "Destrói o perspicaz ardil de Satanás,",
+                "A fim de o derrotar",
+                "com Seu poder sem-par,",
+                "E a nós provê descanso e paz."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se nos quisessem devorar",
+                "demônios não contados,",
+                "Não nos iriam assustar",
+                "nem somos derrotados.",
+                "O grande acusador dos servos do Senhor",
+                "Já condenado está;",
+                "vencido cairá",
+                "Por uma só palavra."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sim, que a Palavra vencerá,",
+                "sabemos com certeza;",
+                "E nada nos assustará,",
+                "com Cristo por defesa.",
+                "Se temos de deixar parentes, bens e lar,",
+                "Embora a vida vá,",
+                "por nós Jesus está",
+                "E nos dará Seu reino."
+            ]
+        }
+    ]
+}

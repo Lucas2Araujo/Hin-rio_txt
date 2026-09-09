@@ -1,0 +1,44 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "A Doutrina de Deus",
+            "description": "Deus é amor. Ele é o início de tudo. Suas digitais estão estampadas na criação; Seu Ser, materializado na encarnação; Sua mensagem, impressa nas Escrituras. É o único Deus, unidade de três Pessoas coeternas: Pai, Filho e Espírito Santo. Onipotente, onipresente e onisciente, Ele merece todo nosso louvor. Hinos do presente e do passado se tornaram marcantes por exaltarem com poder e beleza Aquele que é digno de receber honra, glória e domínio. Nesta seção, você é convidado a adorar a Deus pelo que Ele é e pelo que fez, faz e fará. Louve o Senhor!"
+        },
+        {
+            "id": 2,
+            "name": "A Doutrina do Ser Humano",
+            "description": "O ser humano é a obra-prima da criação. Formados à imagem de Deus, o homem e a mulher foram feitos com liberdade de escolha e autoridade sobre a natureza. O pecado causou a morte, maculou a imagem divina e corrompeu a relação da humanidade com o meio ambiente. Porém, o plano da redenção foi estabelecido para devolver a vida eterna, restaurar os traços de Deus e reequilibrar nosso relacionamento com a criação. Os hinos desta seção exaltam o Artista que pintou a natureza e modelou o ser humano para respirar o ar puro de Sua perfeita criação. Ao cantar estas belas canções, exalte Aquele que tudo fez. “Todo ser que respira louve o Senhor!” (Sl 150:6)."
+        },
+        {
+            "id": 3,
+            "name": "A Doutrina da Salvação",
+            "description": "A salvação é um presente. É de graça para nós, mas custou tudo para Deus. Seu Filho Se tornou humano, viveu em santidade, morreu em nosso lugar, ressuscitou e ascendeu ao Céu para interceder por nós. Essa é a resposta divina ao problema do pecado. A humanidade acreditou na mentira satânica, e o mundo foi raptado pelo mal. Porém, em Cristo, uma ponte foi erguida sobre o abismo. Houve expiação, reconciliação e redenção. Libertos do poder mal, podemos louvar o Senhor por Sua obra perdoadora e transformadora. Cante a salvação, celebre o amor, a justiça e a misericórdia de Deus. Cada hino desta seção vai inspirar você a louvar o Deus da nossa salvação."
+        },
+        {
+            "id": 4,
+            "name": "A Doutrina da Igreja",
+            "description": "A igreja é o corpo de Cristo, a noiva do Cordeiro, edifício, vinha e lavoura do Senhor. Nela a multiforme sabedoria de Deus é evidenciada no Céu e se torna conhecida na Terra. Sendo a comunidade dos santos, a igreja congrega os salvos e os prepara para a vida eterna. Comunhão, edificação, ordenanças bíblicas e cumprimento da missão nutrem e movem os crentes para que, em unidade, revelem a face de Jesus ao mundo. Os membros do corpo de Cristo recebem dons espirituais para edificar uns aos outros e testemunhar. Como igreja remanescente, que guarda os mandamentos de Deus e tem o testemunho de Jesus, somos comissionados a preparar um povo para a breve volta do Senhor. Nesta seção, vamos cantar a maravilha de pertencer à igreja de Deus."
+        },
+        {
+            "id": 5,
+            "name": "A Doutrina da Vida Cristã",
+            "description": "O objetivo da vida cristã é imitar a Cristo. Como expressão exata do caráter Dele, a eterna e imutável lei divina é o padrão para todo verdadeiro discípulo. No centro do Decálogo, o sábado nos lembra quem é o Criador e nos convida a adorá-Lo e a entrar em Seu descanso. O sétimo dia celebra também a família, tal qual instituída no Éden, como base dos relacionamentos humanos. Ao vivermos o verdadeiro discipulado, somos chamados a administrar saúde, tempo, talentos e recursos para a glória do Senhor. Nesta seção, cantemos com alegria o privilégio de andar como Cristo andou."
+        },
+        {
+            "id": 6,
+            "name": "A Doutrina dos Últimos Eventos",
+            "description": "A esperança é o fio de ouro que perpassa as Escrituras. O Deus da esperança conduz a história a partir do santuário celestial. Após Sua ascensão, Jesus adentrou o Lugar Santo. Cumprindo a profecia, Ele seguiu para o Santíssimo a fim de continuar Sua obra sumo-sacerdotal. Em breve, voltará de modo visível e literal. Os mortos em Cristo ressuscitarão, e os vivos salvos serão transformados. Os remidos subirão para reinar com Ele durante mil anos. Após o milênio, pecado e pecadores serão aniquilados. Começará na Terra uma era sem fim de louvor ao Rei das nações. Diante disso, a pergunta inspirada é: “Quem não temerá e não glorificará” o nome do Senhor? Nesta seção, somos convidados a louvar e a exaltar o grande, justo e verdadeiro Deus. Sua promessa é fiel e em breve se cumprirá. Amém!"
+        },
+        {
+            "id": 7,
+            "name": "Hinos Infantis",
+            "description": "Deus ama as crianças. Em Seu ministério terrestre, Jesus as acolheu com amor e as apresentou como ideal de vida para quem deseja a eternidade. Na entrada triunfal de Cristo, as crianças não puderam se conter nem ser contidas. Expressaram sua adoração ao Senhor de um modo que jamais será esquecido. Transbordaram em louvor, glorificaram o Mestre e O exaltaram como seu Salvador. Jesus é o mesmo, e Ele continua apreciando a devoção infantil. Nesta seção, os pequenos são convidados a cantar com alegria seu amor por Jesus. Estes 50 hinos foram selecionados para que as crianças continuem revelando o que significa um “perfeito louvor” (Mateus 21:16)."
+        },
+        {
+            "id": 8,
+            "name": "Hinos Litúrgicos",
+            "description": "O culto de adoração é o encontro do ser humano com o Criador. Nesse momento sublime, o finito é envolvido pela glória infinita, o efêmero contempla o Eterno, o pecador tem um vislumbre da graça salvadora. Na adoração, somos aceitos diante da presença divina, e Deus passa a habitar entre os louvores de Seu povo (Salmo 22:3). Esta seção é composta de hinos litúrgicos especialmente pensados para a solenidade do culto. Exaltemos e louvemos com entendimento o Rei de toda a Terra (Salmo 47:7)."
+        }
+    ]
+}

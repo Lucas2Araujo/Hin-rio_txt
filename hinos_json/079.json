@@ -1,0 +1,74 @@
+{
+    "hymn": {
+        "number": "79",
+        "title": "Noite De Paz",
+        "originalTitle": "Stile Nacht",
+        "subCategory": 9,
+        "lyricsComposer": [
+            297
+        ],
+        "musicComposer": [
+            150
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Lucas 2:8-11",
+        "youtubeURL": "https://www.youtube.com/watch?v=EbHIw7hpduI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 9:6",
+            "Miqueias 5:2",
+            "Mateus 1:23"
+        ],
+        "texto_base": "Lucas 2:8-11",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tudo é paz! Tudo amor!",
+                "Dormem todos em redor.",
+                "Em Belém Jesus nasceu,",
+                "Rei da paz, da Terra e Céu.",
+                "Nosso Salvador é Jesus, Senhor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "“Glória a Deus! Glória a Deus!”,",
+                "Cantam anjos lá nos Céus",
+                "Boas-novas de perdão,",
+                "Graça eterna, salvação.",
+                "Prova desse amor dá o Redentor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Rei da paz, Rei do amor",
+                "É Jesus o Salvador.",
+                "Vinde todos Lhe pedir",
+                "Que nos venha conduzir.",
+                "Deste mundo a luz é o Senhor Jesus."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "hymn": {
+        "number": "176",
+        "title": "Nunca Desanimes",
+        "originalTitle": "Courage, Brother",
+        "subCategory": 11,
+        "lyricsComposer": [
+            389
+        ],
+        "musicComposer": [
+            29
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 37:1-5",
+        "youtubeURL": "https://www.youtube.com/watch?v=UM42XBG0EoY",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 37:5",
+            "Gálatas 6:9",
+            "Hebreus 12:3"
+        ],
+        "texto_base": "Salmo 37:1-5",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nunca, nunca desanimes",
+                "Se ao redor as trevas vêm.",
+                "Segue a luz de Jesus Cristo;",
+                "Crê em Deus e faze o bem.",
+                "Se o caminho é penoso,",
+                "E seu fim é dor também,",
+                "Cristo é forte e poderoso.",
+                "Crê em Deus, crê em Deus,",
+                "Crê em Deus e faze o bem."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vês os ímpios desfrutando",
+                "De um viver que não convém?",
+                "Quer perdendo, quer ganhando,",
+                "Crê em Deus e faze o bem.",
+                "Os prazeres do pecado",
+                "Morte são e dor contêm.",
+                "Deixa o mundo e o passado,",
+                "Crê em Deus, crê em Deus,",
+                "Crê em Deus e faze o bem."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nos momentos de tristeza,",
+                "Junto a ti está Alguém.",
+                "Quer amar-te e dar consolo;",
+                "Crê em Deus e faze o bem.",
+                "E se queres ter entrada",
+                "Lá no Céu, no lar de além,",
+                "Vai com Cristo pela estrada.",
+                "Crê em Deus, crê em Deus,",
+                "Crê em Deus e faze o bem."
+            ]
+        }
+    ]
+}

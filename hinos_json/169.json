@@ -1,0 +1,120 @@
+{
+    "hymn": {
+        "number": "169",
+        "title": "Salvo Em Jesus",
+        "originalTitle": "Safe in the Arms of Jesus",
+        "subCategory": 10,
+        "lyricsComposer": [
+            132
+        ],
+        "musicComposer": [
+            522
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 João 5:11-13",
+        "youtubeURL": "https://www.youtube.com/watch?v=Dyd6mAe1LoI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 João 5:11-13",
+            "Romanos 8:1",
+            "João 10:28"
+        ],
+        "texto_base": "1 João 5:11-13",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Salvo em Jesus, meu Mestre,",
+                "tenho perfeita paz.",
+                "Tal comunhão com Ele",
+                "toda aflição desfaz.",
+                "Ele me deu certeza",
+                "da minha salvação,",
+                "Oh, que prazer glorioso",
+                "enche meu coração!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Salvo em Jesus, meu Mestre,",
+                "tenho perfeita paz.",
+                "Tal comunhão com Ele",
+                "toda a aflição desfaz."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo é minha vida,",
+                "fonte Ele é de amor.",
+                "Tira de mim as mágoas,",
+                "todo o pesar e a dor.",
+                "E , se eu sofrer a prova,",
+                "fácil será ganhar;",
+                "E , se verter o pranto,",
+                "logo Ele enxugará."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Salvo em Jesus, meu Mestre,",
+                "tenho perfeita paz.",
+                "Tal comunhão com Ele",
+                "toda a aflição desfaz."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Hei de passar a noite",
+                "sem mais sentir temor;",
+                "Breve virá o dia",
+                "de perenal fulgor.",
+                "Oh, que prazer supremo",
+                "ver a Jesus no lar,",
+                "E na mansão de glória",
+                "com Ele então reinar!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Salvo em Jesus, meu Mestre,",
+                "tenho perfeita paz.",
+                "Tal comunhão com Ele",
+                "toda a aflição desfaz."
+            ]
+        }
+    ]
+}

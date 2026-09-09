@@ -1,0 +1,72 @@
+{
+    "hymn": {
+        "number": "419",
+        "title": "Prece Vespertina",
+        "originalTitle": "An Evening Prayer",
+        "subCategory": 23,
+        "lyricsComposer": [
+            45
+        ],
+        "musicComposer": [
+            45
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 139:23, 24",
+        "youtubeURL": "https://www.youtube.com/watch?v=dHXwemIP94U",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 139:23-24",
+            "Salmos 19:12",
+            "1 João 1:9"
+        ],
+        "texto_base": "Salmo 139:23, 24",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se acaso eu hoje fui espinho a alguém,",
+                "Ou se deixei de praticar o bem,",
+                "Se ao mau caminho eu atentei também,",
+                "Perdão, Senhor!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se o meu falar foi pretensioso e vão,",
+                "Ou se ao faminto recusei o pão,",
+                "Temendo que ele me faltasse, então,",
+                "Perdão, Senhor!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Perdoa as faltas contra a Tua lei;",
+                "As que conheço e as de que não sei.",
+                "Por Tua graça, eu fiel serei,",
+                "Senhor. Amém!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "hymn": {
+        "number": "582",
+        "title": "Pai, Venho A Ti",
+        "originalTitle": "",
+        "subCategory": 33,
+        "lyricsComposer": [
+            458
+        ],
+        "musicComposer": [
+            458
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 33:22",
+        "youtubeURL": "https://www.youtube.com/watch?v=DdIqNGYts1M",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Hebreus 4:16",
+            "Salmos 145:18",
+            "Tiago 4:8"
+        ],
+        "texto_base": "Salmo 33:22",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pai, venho a Ti, confiando em Teu amor.",
+                "Pai, venho a Ti, confiando em Teu poder.",
+                "Anseios e temores eu deixo em Tuas mãos.",
+                "O meu coração descansa em Ti.",
+                "O meu coração descansa em Ti."
+            ]
+        }
+    ]
+}

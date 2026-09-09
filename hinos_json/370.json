@@ -1,0 +1,76 @@
+{
+    "hymn": {
+        "number": "370",
+        "title": "Bem Junto A Cristo",
+        "originalTitle": "Nearer, Still Nearer",
+        "subCategory": 22,
+        "lyricsComposer": [
+            320
+        ],
+        "musicComposer": [
+            320
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 15:9",
+        "youtubeURL": "https://www.youtube.com/watch?v=WW-CwdrG7Zo",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 73:28",
+            "Tiago 4:8",
+            "Hebreus 10:22"
+        ],
+        "texto_base": "João 15:9",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Bem junto a Cristo eu quero estar,",
+                "Bem junto à cruz doce paz desfrutar.",
+                "Sim, ao Teu peito eu busco a paz,",
+                "Pois Teu amor divinal satisfaz,",
+                "Pois Teu amor divinal satisfaz."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não trago nada mais ao Senhor,",
+                "Só este meu coração pecador,",
+                "Mas Te suplico em contrição:",
+                "Ó Salvador, dá-me paz e perdão!",
+                "Ó Salvador, dá-me paz e perdão!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sim, quero a Cristo bem junto estar,",
+                "Té lá no além conseguir aportar.",
+                "Oh, lar eterno, lar de esplendor!",
+                "Lá estarei junto ao meu Salvador.",
+                "Lá cantarei todo o Seu grande amor."
+            ]
+        }
+    ]
+}

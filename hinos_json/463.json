@@ -1,0 +1,126 @@
+{
+    "hymn": {
+        "number": "463",
+        "title": "Espero A Manhã Gloriosa",
+        "originalTitle": "Only Waiting",
+        "subCategory": 25,
+        "lyricsComposer": [
+            497
+        ],
+        "musicComposer": [
+            243
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Tessalonicenses 4:16-18",
+        "youtubeURL": "https://www.youtube.com/watch?v=2Ms2z4tj1EU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 130:6",
+            "Tito 2:13",
+            "Apocalipse 22:20"
+        ],
+        "texto_base": "1 Tessalonicenses 4:16-18",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Espero a manhã gloriosa,",
+                "O bendito alvorecer,",
+                "Quando as mágoas e tristezas",
+                "Desta vida eu esquecer."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu aguardo esperançoso",
+                "Meu Jesus aqui voltar.",
+                "Eu espero as boas-vindas",
+                "De Jesus, na praia de outro mar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu estou já bem cansado",
+                "Dos embates do viver,",
+                "Mas, quando isso for passado,",
+                "Galardão hei de receber."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu aguardo esperançoso",
+                "Meu Jesus aqui voltar.",
+                "Eu espero as boas-vindas",
+                "De Jesus, na praia de outro mar."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu aguardo fervoroso",
+                "O retorno do Senhor.",
+                "E prossigo esperançoso",
+                "Para o lar de eterno amor."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu aguardo esperançoso",
+                "Meu Jesus aqui voltar.",
+                "Eu espero as boas-vindas",
+                "De Jesus, na praia de outro mar."
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Espero encontrar queridos",
+                "Na mansão celestial;",
+                "Receber do Mestre amado",
+                "Um abraço fraternal."
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu aguardo esperançoso",
+                "Meu Jesus aqui voltar.",
+                "Eu espero as boas-vindas",
+                "De Jesus, na praia de outro mar."
+            ]
+        }
+    ]
+}

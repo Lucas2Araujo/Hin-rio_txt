@@ -1,0 +1,105 @@
+{
+    "hymn": {
+        "number": "42",
+        "title": "Vive Em Mim",
+        "originalTitle": "Breathe on Me",
+        "subCategory": 4,
+        "lyricsComposer": [
+            109
+        ],
+        "musicComposer": [
+            38
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 3:5-8",
+        "youtubeURL": "https://www.youtube.com/watch?v=GHr5fUzMD-8",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Gálatas 2:20",
+            "Romanos 8:9",
+            "1 Coríntios 3:16"
+        ],
+        "texto_base": "João 3:5-8",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vive, Santo Espírito,",
+                "Neste meu pobre ser.",
+                "Faz no meu coração a luz",
+                "Do Céu resplandecer."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vive em mim, vive em mim,",
+                "Santo e bom Consolador.",
+                "Limpa do mal meu coração,",
+                "Reine nele só o amor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Fala, Santo Espírito,",
+                "Fala-me com poder;",
+                "Pois para a redenção real",
+                "Eu quero renascer."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vive em mim, vive em mim,",
+                "Santo e bom Consolador.",
+                "Limpa do mal meu coração,",
+                "Reine nele só o amor."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Santo, Santo Espírito,",
+                "Enche-me de fervor",
+                "Para que eu ponha o meu viver",
+                "Nas mãos do Salvador."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vive em mim, vive em mim,",
+                "Santo e bom Consolador.",
+                "Limpa do mal meu coração,",
+                "Reine nele só o amor."
+            ]
+        }
+    ]
+}

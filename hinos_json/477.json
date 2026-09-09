@@ -1,0 +1,127 @@
+{
+    "hymn": {
+        "number": "477",
+        "title": "Face A Face",
+        "originalTitle": "Face to Face",
+        "subCategory": 27,
+        "lyricsComposer": [
+            53
+        ],
+        "musicComposer": [
+            180
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Coríntios 13:12",
+        "youtubeURL": "https://www.youtube.com/watch?v=4zeJehRh790",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Coríntios 13:12",
+            "Apocalipse 22:4",
+            "1 João 3:2"
+        ],
+        "texto_base": "1 Coríntios 13:12",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quanto almejo ver a Cristo!",
+                "Ver-Lhe o rosto, que prazer!",
+                "Quando, enfim, no lar eterno,",
+                "Poderei pra sempre O ver!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Face a face eu hei de vê-Lo",
+                "Quando vier em glória e luz!",
+                "Face a face lá na glória",
+                "Hei de ver meu bom Jesus!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quase posso contemplá-Lo,",
+                "Vejo como por um véu,",
+                "Mas desejo em breve vê-Lo",
+                "Face a face lá no Céu!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Face a face eu hei de vê-Lo",
+                "Quando vier em glória e luz!",
+                "Face a face lá na glória",
+                "Hei de ver meu bom Jesus!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, que encanto estar com Cristo",
+                "Onde já não há mais dor;",
+                "Livre de qualquer perigo,",
+                "Desfrutando Seu amor!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Face a face eu hei de vê-Lo",
+                "Quando vier em glória e luz!",
+                "Face a face lá na glória",
+                "Hei de ver meu bom Jesus!"
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Face a face, que alegria",
+                "Há de ser viver assim,",
+                "Vendo o rosto tão querido",
+                "De quem morto foi por mim!"
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Face a face eu hei de vê-Lo",
+                "Quando vier em glória e luz!",
+                "Face a face lá na glória",
+                "Hei de ver meu bom Jesus!"
+            ]
+        }
+    ]
+}

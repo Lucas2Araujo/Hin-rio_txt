@@ -1,0 +1,54 @@
+{
+    "hymn": {
+        "number": "359",
+        "title": "Lugar De Paz",
+        "originalTitle": "A Quiet Place",
+        "subCategory": 22,
+        "lyricsComposer": [
+            413
+        ],
+        "musicComposer": [
+            413
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Marcos 6:31",
+        "youtubeURL": "https://www.youtube.com/watch?v=-p9a4BxDUdE",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Marcos 6:31",
+            "Salmos 91:1",
+            "Mateus 11:28"
+        ],
+        "texto_base": "Marcos 6:31",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sei de um lugar de paz,",
+                "longe de toda dor,",
+                "Aonde vou a luz buscar.",
+                "Entre a vegetação, prostrado em oração,",
+                "A Deus entrego meu pesar.",
+                "Bem cedo, de manhã, ou ao cair do sol,",
+                "Eu deixo lá o meu temor.",
+                "E deste bom lugar eu saio pra enfrentar",
+                "A vida com muito mais amor. "
+            ]
+        }
+    ]
+}

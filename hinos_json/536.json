@@ -1,0 +1,79 @@
+{
+    "hymn": {
+        "number": "536",
+        "title": "São Dez Os Mandamentos",
+        "originalTitle": "",
+        "subCategory": 29,
+        "lyricsComposer": [
+            440
+        ],
+        "musicComposer": [
+            440
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Êxodo 20:1-17",
+        "youtubeURL": "https://www.youtube.com/watch?v=YHfVrIMkgYg",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Deuteronômio 5:6-21",
+            "Mateus 19:17-19",
+            "Romanos 7:7"
+        ],
+        "texto_base": "Êxodo 20:1-17",
+        "temas_relacionados": [
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "São dez os mandamentos",
+                "Que a lei de Deus nos dá.",
+                "Se a eles obedeço,",
+                "Aprendo a amar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Com os quatro primeiros, eu amo a Deus;",
+                "Com os últimos seis, a meu irmão.",
+                "E assim eu vivo bem feliz em paz e união."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quando eu busco fazer",
+                "O que a lei me diz,",
+                "Deus fica tão contente,",
+                "E eu fico mais feliz."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Com os quatro primeiros, eu amo a Deus;",
+                "Com os últimos seis, a meu irmão.",
+                "E assim eu vivo bem feliz em paz e união."
+            ]
+        }
+    ]
+}

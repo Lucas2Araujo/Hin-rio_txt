@@ -1,0 +1,120 @@
+{
+    "hymn": {
+        "number": "476",
+        "title": "Hei De Ver",
+        "originalTitle": "",
+        "subCategory": 26,
+        "lyricsComposer": [
+            98
+        ],
+        "musicComposer": [
+            98
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Tessalonicenses 4:16-18",
+        "youtubeURL": "https://www.youtube.com/watch?v=varJ50douf4",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Tessalonicenses 4:16-17",
+            "1 Coríntios 15:52",
+            "Jó 19:26"
+        ],
+        "texto_base": "1 Tessalonicenses 4:16-18",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "É difícil tentar explicar",
+                "A saudade de alguém que se foi.",
+                "As lembranças felizes que ora vêm e vão",
+                "Não conseguem preencher o vazio e a dor.",
+                "Mas conforto me vem ao pensar",
+                "Na certeza da ressurreição.",
+                "Os que dormem em Cristo",
+                "logo irão despertar.",
+                "Que esperança há em meu coração!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Hei de ver meus queridos",
+                "quando Cristo voltar.",
+                "Que sublime alegria será",
+                "Quando Cristo Jesus a trombeta tocar!",
+                "Nunca mais morte ou dor haverá."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O pecado um preço deixou",
+                "Que na cruz meu Jesus já pagou.",
+                "Tenho paz na jornada, pois seguro estou;",
+                "Redimido já fui por Seu grande amor.",
+                "Os que um dia dormiram na fé",
+                "Hão de ouvir o chamado afinal.",
+                "Vão subir, entre as nuvens,",
+                "com o Rei dos reis",
+                "Para o encontro tão feliz e eternal."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Hei de ver meus queridos",
+                "quando Cristo voltar.",
+                "Que sublime alegria será",
+                "Quando Cristo Jesus a trombeta tocar!",
+                "Nunca mais morte ou dor haverá."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ao subir com os anjos",
+                "para o lar celestial,",
+                "Com remidos na Glória estarei."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Hei de ver meus queridos",
+                "quando Cristo voltar.",
+                "Que sublime alegria será",
+                "Quando Cristo Jesus a trombeta tocar!",
+                "Nunca mais morte ou dor haverá."
+            ]
+        }
+    ]
+}

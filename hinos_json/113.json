@@ -1,0 +1,72 @@
+{
+    "hymn": {
+        "number": "113",
+        "title": "‘Stavas Lá?",
+        "originalTitle": "Were You There?",
+        "subCategory": 9,
+        "lyricsComposer": [
+            88
+        ],
+        "musicComposer": [
+            385
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Marcos 15:21-25",
+        "youtubeURL": "https://www.youtube.com/watch?v=5EB_afTMfPc",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 27:35",
+            "Lucas 23:44",
+            "João 19:18"
+        ],
+        "texto_base": "Marcos 15:21-25",
+        "temas_relacionados": [
+            "Missão e Serviço"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "‘Stavas lá ao pregarem meu Jesus?",
+                "‘Stavas lá ao pregarem meu Jesus?",
+                "Oh, nisto",
+                "pensando, quanto tremo, tremo, tremo!",
+                "‘Stavas lá ao pregarem meu Jesus?"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "‘Stavas lá quando o Sol não quis brilhar?",
+                "‘Stavas lá quando o Sol não quis brilhar?",
+                "Oh, nisto",
+                "pensando, quanto tremo, tremo, tremo!",
+                "‘Stavas lá quando o Sol não quis brilhar?"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "‘Stavas lá quando Ele ressurgiu?",
+                "‘Stavas lá quando Ele ressurgiu?",
+                "Oh, nisto",
+                "pensando, quanto tremo, tremo, tremo!",
+                "‘Stavas lá quando Ele ressurgiu?"
+            ]
+        }
+    ]
+}

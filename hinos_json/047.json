@@ -1,0 +1,106 @@
+{
+    "hymn": {
+        "number": "47",
+        "title": "Cheios Do Espírito",
+        "originalTitle": "",
+        "subCategory": 4,
+        "lyricsComposer": [
+            492
+        ],
+        "musicComposer": [
+            326
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Efésios 5:18",
+        "youtubeURL": "https://www.youtube.com/watch?v=5pCbe4IUoSQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Atos 4:31",
+            "Gálatas 5:22-23",
+            "Romanos 15:13"
+        ],
+        "texto_base": "Efésios 5:18",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O Espírito de Deus",
+                "nos guiará pela verdade,",
+                "Dizendo com clareza",
+                "as coisas certas que virão.",
+                "Jesus em nossa vida",
+                "vencerá a falsidade",
+                "No mundo que se perde",
+                "em meio à escuridão."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cheios do Espírito,",
+                "cheios de poder,",
+                "Iremos proclamar",
+                "a paz que vem da cruz.",
+                "Cheios do Espírito,",
+                "cheios de poder,",
+                "Iremos anunciar",
+                "a volta de Jesus.",
+                "Cheios do Espírito,",
+                "cheios de poder."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Confiantes na riqueza",
+                "da glória de Jesus,",
+                "Vivemos o poder",
+                "de Seu Espírito em nós.",
+                "Assim nós proclamamos",
+                "Sua graça, eterna luz,",
+                "Ao mundo que tem fome",
+                "de ouvir a Sua voz."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cheios do Espírito,",
+                "cheios de poder,",
+                "Iremos proclamar",
+                "a paz que vem da cruz.",
+                "Cheios do Espírito,",
+                "cheios de poder,",
+                "Iremos anunciar",
+                "a volta de Jesus.",
+                "Cheios do Espírito,",
+                "cheios de poder."
+            ]
+        }
+    ]
+}

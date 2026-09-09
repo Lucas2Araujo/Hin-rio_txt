@@ -1,0 +1,102 @@
+{
+    "hymn": {
+        "number": "160",
+        "title": "Crescendo Em Graça",
+        "originalTitle": "",
+        "subCategory": 10,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "2 Pedro 3:18",
+        "youtubeURL": "https://www.youtube.com/watch?v=UFgPVxywUzk",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "2 Pedro 3:18",
+            "Colossenses 1:10",
+            "Efésios 4:15"
+        ],
+        "texto_base": "2 Pedro 3:18",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu entrego a Jesus",
+                "Meus caprichos pessoais,",
+                "As vontades tão carnais",
+                "E sigo em frente.",
+                "Eu entrego a Jesus",
+                "A impureza do meu ser.",
+                "Quero mais do Seu amor,",
+                "Quero viver em paz."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vou crescendo em graça,",
+                "Crescendo em poder.",
+                "Vou crescendo em graça,",
+                "Movido pela fé,",
+                "Explodindo de vontade",
+                "De estar com meu Jesus,",
+                "Pois já é tarde, o sol se esconde,",
+                "Logo vem a escura noite,",
+                "E a manhã trará o brilho",
+                "Da face do meu Senhor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu entrego a Jesus",
+                "Toda mágoa que houver",
+                "Pra que eu possa perdoar",
+                "Meu semelhante.",
+                "Eu entrego a Jesus",
+                "Preconceitos que formei.",
+                "Quero um novo coração,",
+                "Quero viver feliz."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vou crescendo em graça,",
+                "Crescendo em poder.",
+                "Vou crescendo em graça,",
+                "Movido pela fé,",
+                "Explodindo de vontade",
+                "De estar com meu Jesus,",
+                "Pois já é tarde, o sol se esconde,",
+                "Logo vem a escura noite,",
+                "E a manhã trará o brilho",
+                "Da face do meu Senhor."
+            ]
+        }
+    ]
+}

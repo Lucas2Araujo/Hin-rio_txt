@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "427",
+        "title": "Venham, Crianças",
+        "originalTitle": "Come to the Saviour",
+        "subCategory": 23,
+        "lyricsComposer": [
+            170
+        ],
+        "musicComposer": [
+            170
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 19:13-15",
+        "youtubeURL": "https://www.youtube.com/watch?v=LCkv535v4Ok",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 19:14",
+            "Efésios 6:1",
+            "Colossenses 3:20"
+        ],
+        "texto_base": "Mateus 19:13-15",
+        "temas_relacionados": [
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Venham, crianças, ao bom Jesus,",
+                "Que por amor morreu lá na cruz.",
+                "Os cordeirinhos Ele conduz;",
+                "Venham ao Salvador!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Que alegria, sem pecado ou mal,",
+                "Reunir-nos todos, afinal,",
+                "Na linda pátria celestial,",
+                "Junto do Salvador!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Já, sem demora, vamos também",
+                "Para a querida Jerusalém.",
+                "Cristo nos chama, quer nosso bem;",
+                "Venham ao Salvador!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Que alegria, sem pecado ou mal,",
+                "Reunir-nos todos, afinal,",
+                "Na linda pátria celestial,",
+                "Junto do Salvador!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "“Amo as crianças”, Cristo nos diz.",
+                "“Quero encontrá-las em Meu país",
+                "E quero dar-lhes vida feliz.”",
+                "Venham ao Salvador!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Que alegria, sem pecado ou mal,",
+                "Reunir-nos todos, afinal,",
+                "Na linda pátria celestial,",
+                "Junto do Salvador!"
+            ]
+        }
+    ]
+}

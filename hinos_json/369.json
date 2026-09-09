@@ -1,0 +1,81 @@
+{
+    "hymn": {
+        "number": "369",
+        "title": "Seguindo A Jesus",
+        "originalTitle": "I Have Decided to Follow Jesus",
+        "subCategory": 22,
+        "lyricsComposer": [
+            88
+        ],
+        "musicComposer": [
+            370
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 9:9",
+        "youtubeURL": "https://www.youtube.com/watch?v=9eU0EyNyVNk",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 16:24",
+            "João 8:12",
+            "1 Pedro 2:21"
+        ],
+        "texto_base": "Mateus 9:9",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Estou seguindo a Jesus Cristo.",
+                "Deste caminho eu não desisto.",
+                "Estou seguindo a Jesus Cristo.",
+                "Atrás não volto nunca mais."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se me deixarem os pais e amigos,",
+                "Se me cercarem muitos perigos,",
+                "Se me deixarem os pais e amigos,",
+                "Atrás não volto nunca mais."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Atrás o mundo, Jesus à frente,",
+                "Jesus, o Guia onipotente.",
+                "Atrás o mundo, Jesus à frente.",
+                "Atrás não volto nunca mais"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Depois da luta vem a coroa.",
+                "A recompensa é certa e boa.",
+                "Depois da luta vem a coroa.",
+                "Atrás não volto nunca mais."
+            ]
+        }
+    ]
+}

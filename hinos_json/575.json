@@ -1,0 +1,62 @@
+{
+    "hymn": {
+        "number": "575",
+        "title": "Entrego A Ti",
+        "originalTitle": "",
+        "subCategory": 31,
+        "lyricsComposer": [
+            314,
+            333
+        ],
+        "musicComposer": [
+            314,
+            333
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Crônicas 29:14",
+        "youtubeURL": "https://www.youtube.com/watch?v=Pl5UNPjWuQc",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Crônicas 29:14",
+            "Romanos 12:1",
+            "Salmos 116:12"
+        ],
+        "texto_base": "1 Crônicas 29:14",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Lar e Família",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quero entregar o meu coração;",
+                "Toma, Senhor, em adoração.",
+                "Quero entregar tudo que é Teu;",
+                "Todas as bênçãos provêm de Deus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Entrego a Ti",
+                "meus dons e meus bens, Pai.",
+                "Deus, seja o Senhor",
+                "de tudo que tenho e sou."
+            ]
+        }
+    ]
+}

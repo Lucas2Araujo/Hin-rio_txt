@@ -1,0 +1,84 @@
+{
+    "hymn": {
+        "number": "31",
+        "title": "Jesus, Tu És A Minha Vida",
+        "originalTitle": "",
+        "subCategory": 3,
+        "lyricsComposer": [
+            535
+        ],
+        "musicComposer": [
+            535
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 14:6",
+        "youtubeURL": "https://www.youtube.com/watch?v=LL5Pak4zcuA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Gálatas 2:20",
+            "Colossenses 3:4",
+            "1 João 5:11-12"
+        ],
+        "texto_base": "João 14:6",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus, Tu és a minha vida.",
+                "Jesus, Tu és o meu cantar.",
+                "Tu és a estrada mais bonita,",
+                "Por onde eu devo caminhar.",
+                "Jesus, Tu és a primavera",
+                "Que faz a vida florescer.",
+                "Tu és a chama da alegria",
+                "Que faz brilhar todo o meu ser."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus, Tu és a melodia,",
+                "A voz, o canto, a emoção.",
+                "Tu és a força que me inspira",
+                "A dar louvor na provação.",
+                "Jesus, Tu és a esperança",
+                "Que faz vibrar meu coração.",
+                "Jesus, Tu és a energia",
+                "Que move a vida do cristão."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus, Tu és o meu caminho,",
+                "Verdade, vida e salvação.",
+                "Jesus, Tu és a minha glória,",
+                "Motivo de minha adoração.",
+                "Jesus, Tu és meu Deus querido",
+                "A quem dedico o meu viver.",
+                "Tu és pra sempre a minha vida.",
+                "Jesus, és vida do meu ser."
+            ]
+        }
+    ]
+}

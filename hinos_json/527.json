@@ -1,0 +1,96 @@
+{
+    "hymn": {
+        "number": "527",
+        "title": "Aonde Quer Que Eu Vá",
+        "originalTitle": "",
+        "subCategory": 29,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 34:7",
+        "youtubeURL": "https://www.youtube.com/watch?v=h2_xAmV7XqA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 91:11",
+            "Salmos 34:7",
+            "Hebreus 1:14"
+        ],
+        "texto_base": "Salmo 34:7",
+        "temas_relacionados": [
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Há perigos que me cercam",
+                "em todo o lugar,",
+                "Mesmo quando estou brincando",
+                "ou bem longe a viajar.",
+                "Posso até estar dormindo,",
+                "ou sair a passear,",
+                "Sei que nunca estou sozinho,",
+                "e preciso lhe contar:"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Aonde quer que eu vá,",
+                "Comigo um anjo sempre está.",
+                "Aonde quer que eu vá,",
+                "Comigo ele está.",
+                "Seu nome eu não sei,",
+                "mas não importa, não.",
+                "É meu amigo bem aqui do coração."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "É incrível ser amigo",
+                "de alguém que eu nunca vi;",
+                "Nem sequer posso tocá-lo,",
+                "mas eu acredito, sim.",
+                "Vai comigo ao meu lado,",
+                "nunca falta em seu labor;",
+                "É meu anjo que me guarda,",
+                "e preciso lhe contar:"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Aonde quer que eu vá,",
+                "Comigo um anjo sempre está.",
+                "Aonde quer que eu vá,",
+                "Comigo ele está.",
+                "Seu nome eu não sei,",
+                "mas não importa, não.",
+                "É meu amigo bem aqui do coração.",
+                "É meu amigo bem aqui do coração."
+            ]
+        }
+    ]
+}

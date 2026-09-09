@@ -1,0 +1,48 @@
+{
+    "hymn": {
+        "number": "573",
+        "title": "Venho Te Adorar",
+        "originalTitle": "",
+        "subCategory": 31,
+        "lyricsComposer": [
+            410
+        ],
+        "musicComposer": [
+            410
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Malaquias 3:11",
+        "youtubeURL": "https://www.youtube.com/watch?v=IBj_6ya7xas",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 96:8",
+            "1 Crônicas 16:29",
+            "2 Coríntios 9:7"
+        ],
+        "texto_base": "Malaquias 3:11",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Venho Te adorar por Tua santidade,",
+                "Devolvendo aquilo que pertence a Ti.",
+                "Venho ofertar-Te com sinceridade,",
+                "Grato pelo Teu amor."
+            ]
+        }
+    ]
+}

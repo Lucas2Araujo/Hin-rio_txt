@@ -1,0 +1,106 @@
+{
+    "hymn": {
+        "number": "452",
+        "title": "Cristo Não Tarda A Voltar",
+        "originalTitle": "Jesus Is Coming",
+        "subCategory": 25,
+        "lyricsComposer": [
+            82
+        ],
+        "musicComposer": [
+            248
+        ],
+        "versionComposer": [
+            445
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 24:32, 33",
+        "youtubeURL": "https://www.youtube.com/watch?v=e4FoHTZzNrQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Hebreus 10:37",
+            "2 Pedro 3:9",
+            "Apocalipse 22:20"
+        ],
+        "texto_base": "Mateus 24:32, 33",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sem mais demora Cristo virá;",
+                "Ele afirmou-nos e não tardará.",
+                "Oh, que alegria, que glória será,",
+                "Quando Jesus regressar!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo não tarda, não tarda a voltar;",
+                "Cristo não tarda a voltar!",
+                "Oh, que alegria, que glória será,",
+                "Quando Jesus regressar!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Breve da terra ressurgirão",
+                "Nossos queridos que mortos estão,",
+                "Para subir à celeste mansão,",
+                "Quando Jesus regressar"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo não tarda, não tarda a voltar;",
+                "Cristo não tarda a voltar!",
+                "Oh, que alegria, que glória será,",
+                "Quando Jesus regressar!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Logo virá um tempo de paz",
+                "E derrotado será Satanás;",
+                "Tudo que é mau deixaremos pra trás,",
+                "Quando Jesus regressar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo não tarda, não tarda a voltar;",
+                "Cristo não tarda a voltar!",
+                "Oh, que alegria, que glória será,",
+                "Quando Jesus regressar!"
+            ]
+        }
+    ]
+}

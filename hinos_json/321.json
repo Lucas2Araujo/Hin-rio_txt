@@ -1,0 +1,103 @@
+{
+    "hymn": {
+        "number": "321",
+        "title": "Jesus É Melhor",
+        "originalTitle": "I’d Rather Have Jesus",
+        "subCategory": 22,
+        "lyricsComposer": [
+            417
+        ],
+        "musicComposer": [
+            165
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Filipenses 3:7, 8",
+        "youtubeURL": "https://www.youtube.com/watch?v=4OR2dSNYuXk",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Filipenses 3:8",
+            "Salmos 119:72",
+            "Hebreus 11:26"
+        ],
+        "texto_base": "Filipenses 3:7, 8",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus é melhor, sim, que ouro e bens.",
+                "Jesus é melhor do que tudo que tens;",
+                "Melhor que riquezas e posições;",
+                "Melhor muito mais do que milhões."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Pode ser um rei com poder nas mãos,",
+                "Mas do mal escravo, sim.",
+                "Mil vezes prefiro o meu Jesus",
+                "E servi-Lo até o fim."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus é melhor que qualquer valor;",
+                "Amigo leal no prazer e na dor;",
+                "Melhor do que tudo Ele é pra mim,",
+                "Melhor que qualquer amigo, enfim."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Pode ser um rei com poder nas mãos,",
+                "Mas do mal escravo, sim.",
+                "Mil vezes prefiro o meu Jesus",
+                "E servi-Lo até o fim."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus é mais puro que a linda flor.",
+                "Jesus é o Sol da Justiça e do amor.",
+                "Jesus é a fonte que satisfaz,",
+                "Caminho do bem, verdade e paz."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Pode ser um rei com poder nas mãos,",
+                "Mas do mal escravo, sim.",
+                "Mil vezes prefiro o meu Jesus",
+                "E servi-Lo até o fim."
+            ]
+        }
+    ]
+}

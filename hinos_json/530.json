@@ -1,0 +1,67 @@
+{
+    "hymn": {
+        "number": "530",
+        "title": "Lâmpada Para Os Meus Pés",
+        "originalTitle": "",
+        "subCategory": 29,
+        "lyricsComposer": [
+            440
+        ],
+        "musicComposer": [
+            440
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 119:105",
+        "youtubeURL": "https://www.youtube.com/watch?v=z_ULuJComU8",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 119:105",
+            "Provérbios 6:23",
+            "2 Pedro 1:19"
+        ],
+        "texto_base": "Salmo 119:105",
+        "temas_relacionados": [
+            "Palavra de Deus e Lei"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Lâmpada para os meus pés,",
+                "Lâmpada para os meus pés,",
+                "É a Tua Palavra,",
+                "E luz para o meu caminho.",
+                "Lâmpada para os meus pés,",
+                "Lâmpada para os meus pés,",
+                "É a Tua Palavra,",
+                "E luz para o meu caminho."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Lâmpada para os meus pés,",
+                "Lâmpada para os meus pés,",
+                "É a Tua Palavra,",
+                "E luz para o meu caminho.",
+                "Lâmpada para os meus pés,",
+                "Lâmpada para os meus pés,",
+                "É a Tua Palavra,",
+                "E luz para o meu caminho.",
+                "Salmo cento e dezenove, cento e cinco."
+            ]
+        }
+    ]
+}

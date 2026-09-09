@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "445",
+        "title": "O Rei Já Perto Está",
+        "originalTitle": "The Coming King Is at the Door",
+        "subCategory": 25,
+        "lyricsComposer": [
+            147
+        ],
+        "musicComposer": [
+            147
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 14:14, 15",
+        "youtubeURL": "https://www.youtube.com/watch?v=OMtRXZcDzbo",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 24:33",
+            "Tiago 5:8",
+            "Filipenses 4:5"
+        ],
+        "texto_base": "Apocalipse 14:14, 15",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O grande Rei já perto está,",
+                "O mesmo que na cruz morreu.",
+                "Aos justos Ele levará",
+                "Consigo para o Céu."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Perto está, perto está,",
+                "Sim, às portas Ele já está.",
+                "Vem depressa, vem depressa!",
+                "Sim, o Rei já perto está."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Da Sua vinda vemos já",
+                "Sinais por toda parte aqui.",
+                "E logo o dia eternal",
+                "Virá pra mim e ti."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Perto está, perto está,",
+                "Sim, às portas Ele já está.",
+                "Vem depressa, vem depressa!",
+                "Sim, o Rei já perto está."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O nosso lar então será",
+                "A Terra nova, sem igual.",
+                "A morte lá não entrará,",
+                "Pois tudo é imortal."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Perto está, perto está,",
+                "Sim, às portas Ele já está.",
+                "Vem depressa, vem depressa!",
+                "Sim, o Rei já perto está."
+            ]
+        }
+    ]
+}

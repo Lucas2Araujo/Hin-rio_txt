@@ -1,0 +1,62 @@
+{
+    "hymn": {
+        "number": "544",
+        "title": "Entrega Teu Caminho Ao Senhor",
+        "originalTitle": "",
+        "subCategory": 29,
+        "lyricsComposer": [
+            535
+        ],
+        "musicComposer": [
+            535
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 37:5",
+        "youtubeURL": "https://www.youtube.com/watch?v=NLwqMcTD8lU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 37:5",
+            "Provérbios 16:3",
+            "1 Pedro 5:7"
+        ],
+        "texto_base": "Salmo 37:5",
+        "temas_relacionados": [
+            "Vida Cristã e Devoção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Entrega teu caminho ao Senhor,",
+                "Entrega teu caminho ao Senhor,",
+                "Confia Nele, e o mais Ele fará.",
+                "Entrega teu caminho ao Senhor,",
+                "Entrega teu caminho ao Senhor,",
+                "Confia Nele, e o mais Ele fará."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Entrega teu caminho ao Senhor,",
+                "Entrega teu caminho ao Senhor,",
+                "Confia Nele, e o mais Ele fará.",
+                "Entrega teu caminho ao Senhor,",
+                "Entrega teu caminho ao Senhor,",
+                "Confia Nele, e o mais Ele fará."
+            ]
+        }
+    ]
+}

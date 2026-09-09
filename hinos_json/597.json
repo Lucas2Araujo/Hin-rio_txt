@@ -1,0 +1,58 @@
+{
+    "hymn": {
+        "number": "597",
+        "title": "Santo Lugar",
+        "originalTitle": "",
+        "subCategory": 35,
+        "lyricsComposer": [
+            183
+        ],
+        "musicComposer": [
+            183
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 26:8",
+        "youtubeURL": "https://www.youtube.com/watch?v=HNp73M6vd5o",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 26:8",
+            "Salmos 84:1",
+            "Salmos 122:1"
+        ],
+        "texto_base": "Salmo 26:8",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Neste bom lugar,",
+                "eu encontrei a paz que tanto procurei.",
+                "Neste bom lugar,",
+                "os meus anseios e temores eu deixei;",
+                "Santo e bom lugar,",
+                "onde a esperança e a fé são renovadas;",
+                "O melhor lugar, a casa do Eterno Deus.",
+                "Que ao sair deste santo lugar",
+                "Venha Tua mão abençoar",
+                "Meus passos, minha vida,",
+                "Pra que eu seja para o mundo uma luz",
+                "Pra revelar Jesus!"
+            ]
+        }
+    ]
+}

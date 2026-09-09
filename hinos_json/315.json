@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "315",
+        "title": "A Cristo Eu Amo",
+        "originalTitle": "That’s Why I Love Him",
+        "subCategory": 22,
+        "lyricsComposer": [
+            457
+        ],
+        "musicComposer": [
+            457
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 João 4:14-16",
+        "youtubeURL": "https://www.youtube.com/watch?v=jBfNNgtMVUA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 João 4:19",
+            "João 14:15",
+            "1 Pedro 1:8"
+        ],
+        "texto_base": "1 João 4:14-16",
+        "temas_relacionados": [
+            "Missão e Serviço",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo Jesus é meu bom Salvador.",
+                "Desejo amá-Lo mais.",
+                "Todos os dias Ele é meu Pastor.",
+                "Desejo amá-Lo mais."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A Cristo eu amo; oh, quanto O amo!",
+                "Na cruz a vida Ele deu!",
+                "Com Seu sangue Jesus me salvou assim.",
+                "E em gratidão sou Seu."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, que alegria é servir a Jesus!",
+                "Desejo amá-Lo mais.",
+                "Sempre com Ele, eu vivo na luz.",
+                "Desejo amá-Lo mais."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A Cristo eu amo; oh, quanto O amo!",
+                "Na cruz a vida Ele deu!",
+                "Com Seu sangue Jesus me salvou assim.",
+                "E em gratidão sou Seu."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Bem cedo ao Céu Ele me levará.",
+                "Desejo amá-Lo mais.",
+                "Eternamente Ele me guiará.",
+                "Desejo amá-Lo mais."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A Cristo eu amo; oh, quanto O amo!",
+                "Na cruz a vida Ele deu!",
+                "Com Seu sangue Jesus me salvou assim.",
+                "E em gratidão sou Seu."
+            ]
+        }
+    ]
+}

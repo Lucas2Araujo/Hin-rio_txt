@@ -1,0 +1,122 @@
+{
+    "hymn": {
+        "number": "413",
+        "title": "Vigiar E Orar",
+        "originalTitle": "Veille Toujours",
+        "subCategory": 23,
+        "lyricsComposer": [
+            409
+        ],
+        "musicComposer": [
+            465
+        ],
+        "versionComposer": [
+            15
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 55:16, 17",
+        "youtubeURL": "https://www.youtube.com/watch?v=7ApmhZKVsXM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 26:41",
+            "Marcos 14:38",
+            "Colossenses 4:2"
+        ],
+        "texto_base": "Salmo 55:16, 17",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Bem de manhã, embora o céu sereno",
+                "Pareça um dia calmo anunciar,",
+                "Vigia e ora; o coração pequeno",
+                "Um temporal pode abrigar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Bem de manhã, e sem cessar,",
+                "Vigiar, sim, e orar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ao meio-dia, quando os sons da Terra",
+                "Abafam mais de Deus a voz de amor,",
+                "Recorre à oração, evita a guerra",
+                "E busca paz com o Senhor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Bem de manhã, e sem cessar,",
+                "Vigiar, sim, e orar."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ao fim do dia, após os teus lidares,",
+                "Relembra as bênçãos do teu Pai de amor",
+                "E cada instante deixa teus pesares",
+                "Nas ternas mãos do Salvador."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Bem de manhã, e sem cessar,",
+                "Vigiar, sim, e orar."
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "E, sem cessar, vigia a cada instante,",
+                "Que o inimigo quer te derrotar.",
+                "Só com Jesus, em comunhão constante,",
+                "Vitória, enfim, vais alcançar."
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Bem de manhã, e sem cessar,",
+                "Vigiar, sim, e orar."
+            ]
+        }
+    ]
+}

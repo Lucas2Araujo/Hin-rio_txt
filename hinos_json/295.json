@@ -1,0 +1,105 @@
+{
+    "hymn": {
+        "number": "295",
+        "title": "Sábado Bendito",
+        "originalTitle": "",
+        "subCategory": 20,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Gênesis 2:2, 3",
+        "youtubeURL": "https://www.youtube.com/watch?v=5BB1MAN3g1I",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 66:23",
+            "Lucas 4:16",
+            "Levítico 23:3"
+        ],
+        "texto_base": "Gênesis 2:2, 3",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O sol vai se escondendo",
+                "lá no horizonte;",
+                "O dia vai fugindo, vem chegando a noite.",
+                "Sinto n’alma uma paz,",
+                "um incrível bem-estar.",
+                "É o sábado chegando;",
+                "por isso, estou cantando.",
+                "O fardo da semana",
+                "vai se dissipando,",
+                "O coração se alegra e vai rejubilando.",
+                "Canto um hino de louvor",
+                "ao meu Deus e Criador",
+                "Por este santo dia,",
+                "por Sua companhia."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sábado bendito, dia do Senhor.",
+                "Quero tua bênção, quero teu calor.",
+                "Sábado bendito, faz brotar em mim",
+                "Gratidão eterna e amor sem fim."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O dia mais bonito,",
+                "mais grandioso e pleno",
+                "É o dia escolhido pelo Pai eterno",
+                "Para estar em comunhão,",
+                "receber restauração",
+                "E bênção estendida",
+                "por graça sem medida",
+                "Louvores vou erguendo nesse dia santo.",
+                "Estou reconhecendo que, como ser humano,",
+                "Eu sou falho, pecador,",
+                "mas tão grande é o Deus de amor",
+                "Que vem em meu auxílio; me diz que sou Seu filho."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sábado bendito, dia do Senhor.",
+                "Quero tua bênção, quero teu calor.",
+                "Sábado bendito, faz brotar em mim",
+                "Gratidão eterna e amor sem fim."
+            ]
+        }
+    ]
+}

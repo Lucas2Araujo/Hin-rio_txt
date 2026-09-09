@@ -1,0 +1,87 @@
+{
+    "hymn": {
+        "number": "49",
+        "title": "Que Firme Alicerce",
+        "originalTitle": "How Firm a Foundation!",
+        "subCategory": 5,
+        "lyricsComposer": [
+            460
+        ],
+        "musicComposer": [
+            46
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "2 Pedro 1:19",
+        "youtubeURL": "https://www.youtube.com/watch?v=YiYxrq_0LuI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 28:16",
+            "1 Coríntios 3:11",
+            "Mateus 7:24-25"
+        ],
+        "texto_base": "2 Pedro 1:19",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Palavra de Deus e Lei",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que firme alicerce na Santa Escritura",
+                "Encontram os crentes em lutas e dor!",
+                "Grandes promessas e com tal ternura,",
+                "Quem há que as daria, senão o Senhor?",
+                "Quem há que as daria, senão o Senhor?"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se fores chamado a passar pelas águas",
+                "Profundas e bravas de angústia e aflição,",
+                "Crê, pois contigo estarei nessas mágoas.",
+                "E em glória perene depois findarão,",
+                "Em glória perene depois findarão."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se tua vereda passar pela chama",
+                "De fogos ardentes, não fujas à dor!",
+                "Palha, somente, no fogo se inflama.",
+                "O ouro, na chama, duplica o valor,",
+                "O ouro, na chama, duplica o valor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A todo que em Mim vem buscar o repouso,",
+                "Confiado no sangue do Filho de Deus,",
+                "Eu o farei um cristão vitorioso.",
+                "Por certo estará nas moradas dos Céus!",
+                "Por certo estará nas moradas dos Céus!"
+            ]
+        }
+    ]
+}

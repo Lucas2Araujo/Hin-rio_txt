@@ -1,0 +1,106 @@
+{
+    "hymn": {
+        "number": "314",
+        "title": "Se Ele Não For O Primeiro",
+        "originalTitle": "",
+        "subCategory": 21,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 6:33",
+        "youtubeURL": "https://www.youtube.com/watch?v=TlArU2RQ2YY",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 6:33",
+            "Êxodo 20:3",
+            "Lucas 12:31"
+        ],
+        "texto_base": "Mateus 6:33",
+        "temas_relacionados": [
+            "Crianças e Jovens",
+            "Missão e Serviço",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "No trono do viver,",
+                "só existe lugar pra um,",
+                "Lugar de quem governa todo o ser.",
+                "No trono do viver,",
+                "só pode haver um Senhor.",
+                "Se forem dois, um será amado;",
+                "e outro, rejeitado.",
+                "Vem, decide agora",
+                "quem vai ocupar seu coração,",
+                "Mas lembre:"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Se Ele não for o primeiro",
+                "em seu coração,",
+                "Então já não é mais nada,",
+                "não passa de uma ilusão.",
+                "Mas se Ele for o primeiro,",
+                "o seu companheiro,",
+                "Motivo do seu existir,",
+                "Você vai viver, você vai sorrir,",
+                "você vai vencer."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Um novo dia vai",
+                "nascer pra você e pra mim;",
+                "Depende de aceitar Jesus no viver.",
+                "É hora de beber",
+                "da fonte da vida.",
+                "Você verá que em Jesus existe",
+                "plena alegria.",
+                "Vem, decide agora",
+                "quem vai ocupar seu coração,",
+                "Mas lembre:"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Se Ele não for o primeiro",
+                "em seu coração,",
+                "Então já não é mais nada,",
+                "não passa de uma ilusão.",
+                "Mas se Ele for o primeiro,",
+                "o seu companheiro,",
+                "Motivo do seu existir,",
+                "Você vai viver, você vai sorrir,",
+                "você vai vencer.",
+                "Você vai viver, você vai sorrir,",
+                "vai vencer."
+            ]
+        }
+    ]
+}

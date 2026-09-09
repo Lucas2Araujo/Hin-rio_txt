@@ -1,0 +1,81 @@
+{
+    "hymn": {
+        "number": "261",
+        "title": "Quem Se Dispõe A Ir?",
+        "originalTitle": "Crown Him With Many Crowns",
+        "subCategory": 17,
+        "lyricsComposer": [
+            83
+        ],
+        "musicComposer": [
+            172
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 6:8",
+        "youtubeURL": "https://www.youtube.com/watch?v=OOCiWJTMvkI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 6:8",
+            "Mateus 9:37",
+            "Romanos 10:15"
+        ],
+        "texto_base": "Isaías 6:8",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quem se dispõe a ir",
+                "aos campos do Senhor",
+                "E com disposição sair,",
+                "ceifar com todo ardor?",
+                "Chegado já está",
+                "o tempo de ceifar.",
+                "O nosso Redentor virá",
+                "os molhos Seus buscar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Crescem as ervas más",
+                "que junto ao trigo estão.",
+                "Deixai o joio para trás,",
+                "trazei do trigo o grão.",
+                "A noite logo vem,",
+                "depressa ao campo entrai.",
+                "As sombras descem já do além,",
+                "depressa trabalhai!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quantos atenderão",
+                "à voz do Salvador?",
+                "Ó vinde para a frente então,",
+                "à frente do labor!",
+                "O grande Rei dos reis será o Capitão.",
+                "E lá no Céu, enfim,",
+                "tereis eterno galardão."
+            ]
+        }
+    ]
+}

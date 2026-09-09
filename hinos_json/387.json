@@ -1,0 +1,71 @@
+{
+    "hymn": {
+        "number": "387",
+        "title": "Jesus, Não Eu",
+        "originalTitle": "Not I, But Christ",
+        "subCategory": 22,
+        "lyricsComposer": [
+            88
+        ],
+        "musicComposer": [
+            130
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Gálatas 2:19, 20",
+        "youtubeURL": "https://www.youtube.com/watch?v=MSXFfVqU2Rk",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Gálatas 2:20",
+            "João 3:30",
+            "Filipenses 1:21"
+        ],
+        "texto_base": "Gálatas 2:19, 20",
+        "temas_relacionados": [
+            "Espírito Santo",
+            "Lar e Família",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus, não eu, em tudo seja honrado!",
+                "Jesus, não eu, desejo revelar.",
+                "Jesus, não eu, em tudo quanto faça.",
+                "Jesus, não eu, em todo o meu pensar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tão só Jesus me dá alívio às cargas.",
+                "Tão só Jesus o pranto a me enxugar.",
+                "Tão só Jesus meu coração acalma.",
+                "Tão só Jesus o medo a dissipar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus, não eu, livrando-me das faltas.",
+                "Jesus, não eu, a dar vigor sem fim.",
+                "Tão só Jesus, ao corpo, espírito e alma;",
+                "Tão só Jesus, por todo o sempre, enfim."
+            ]
+        }
+    ]
+}

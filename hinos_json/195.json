@@ -1,0 +1,128 @@
+{
+    "hymn": {
+        "number": "195",
+        "title": "Minha Fé Bem Segura Está",
+        "originalTitle": "Will Your Anchor Hold?",
+        "subCategory": 11,
+        "lyricsComposer": [
+            408
+        ],
+        "musicComposer": [
+            526
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 João 5:4",
+        "youtubeURL": "https://www.youtube.com/watch?v=A4izEhw2FLE",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 João 5:4",
+            "Hebreus 10:39",
+            "1 Timóteo 6:12"
+        ],
+        "texto_base": "1 João 5:4",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Bem segura está sua fé, irmão,",
+                "Mesmo quando em tempos de aflição?",
+                "O seu barco vai firme a navegar,",
+                "Ou perdido está no grande mar?"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, minha fé bem segura está;",
+                "Firme em Jesus continuará.",
+                "Confiante em Cristo, em Seu amor,",
+                "Hei de triunfar sobre o tentador."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Mesmo ao sobrevir grande temporal,",
+                "Minha embarcação não sofre mal.",
+                "Ela bem segura navegará,",
+                "Porque Cristo, o Mestre, ao leme está."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, minha fé bem segura está;",
+                "Firme em Jesus continuará.",
+                "Confiante em Cristo, em Seu amor,",
+                "Hei de triunfar sobre o tentador."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quando a morte, enfim, me vier chamar,",
+                "Noite irá descer por sobre o mar.",
+                "Mesmo assim, com fé, não terei temor:",
+                "Estará comigo o Salvador."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, minha fé bem segura está;",
+                "Firme em Jesus continuará.",
+                "Confiante em Cristo, em Seu amor,",
+                "Hei de triunfar sobre o tentador."
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Já vislumbro a paz desse porto além,",
+                "A celestial Jerusalém.",
+                "Lá irei morar com o meu Jesus,",
+                "Para sempre estar à Sua luz."
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, minha fé bem segura está;",
+                "Firme em Jesus continuará.",
+                "Confiante em Cristo, em Seu amor,",
+                "Hei de triunfar sobre o tentador."
+            ]
+        }
+    ]
+}

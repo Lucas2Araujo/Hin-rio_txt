@@ -1,0 +1,103 @@
+{
+    "hymn": {
+        "number": "167",
+        "title": "Tão Triste Eu Andava",
+        "originalTitle": "I Walk With the King",
+        "subCategory": 10,
+        "lyricsComposer": [
+            250
+        ],
+        "musicComposer": [
+            40
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Colossenses 2:6, 7",
+        "youtubeURL": "https://www.youtube.com/watch?v=ajWDH9CUcXU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Colossenses 2:6-7",
+            "Filipenses 4:4",
+            "Salmos 30:11"
+        ],
+        "texto_base": "Colossenses 2:6, 7",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tão triste eu andava no mundo banal,",
+                "Mas hoje eu tenho alegria real.",
+                "E constantemente bendigo a meu Deus.",
+                "E é claro o motivo: Eu sou de Jesus!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu sou de Jesus, aleluia!",
+                "De Cristo Jesus, meu Senhor!",
+                "Eu quero falar, eu quero cantar",
+                "Do amor do meu Salvador!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cativo eu vivia nas garras do mal.",
+                "O mundo atirou-me no abismo fatal.",
+                "Agora qual ave voando no céu,",
+                "Sou livre e feliz, pois já sou de Jesus!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu sou de Jesus, aleluia!",
+                "De Cristo Jesus, meu Senhor!",
+                "Eu quero falar, eu quero cantar",
+                "Do amor do meu Salvador!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "ÓPor que andas triste, por que lamentar?",
+                "Em Cristo tu achas tesouros sem-par,",
+                "Infinda alegria, poder, salvação.",
+                "Ó vem, vem a Cristo sem mais hesitar!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu sou de Jesus, aleluia!",
+                "De Cristo Jesus, meu Senhor!",
+                "Eu quero falar, eu quero cantar",
+                "Do amor do meu Salvador!"
+            ]
+        }
+    ]
+}

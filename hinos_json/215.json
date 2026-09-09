@@ -1,0 +1,99 @@
+{
+    "hymn": {
+        "number": "215",
+        "title": "A Única Saída",
+        "originalTitle": "",
+        "subCategory": 11,
+        "lyricsComposer": [
+            463
+        ],
+        "musicComposer": [
+            463
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 6:68",
+        "youtubeURL": "https://www.youtube.com/watch?v=dhYaXaT7SBQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 6:68",
+            "João 14:6",
+            "Atos 4:12"
+        ],
+        "texto_base": "João 6:68",
+        "temas_relacionados": [
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se na escuridão da vida,",
+                "tu não sabes pra onde ir,",
+                "Se andas cheio de motivos",
+                "pra parar e desistir,",
+                "Uma coisa eu te digo,",
+                "presta muita atenção:",
+                "Jesus Cristo é a saída;",
+                "Jesus Cristo é solução!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ele é mais que uma resposta;",
+                "é a mão que te conduz.",
+                "Quando tudo está escuro,",
+                "Ele é a própria luz.",
+                "É a fonte da esperança,",
+                "da alegria e do prazer.",
+                "Ele é a única saída",
+                "pra tua vida renascer."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Os problemas e as tristezas",
+                "não vão mais te dominar.",
+                "Muita paz e segurança",
+                "em Jesus tu vais achar.",
+                "Pela estrada deste mundo,",
+                "Ele vai te esperar.",
+                "E ao mostrar-te a saída,",
+                "vai sorrir e te abraçar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ele é mais que uma resposta;",
+                "é a mão que te conduz.",
+                "Quando tudo está escuro,",
+                "Ele é a própria luz.",
+                "É a fonte da esperança,",
+                "da alegria e do prazer.",
+                "Ele é a única saída",
+                "pra tua vida renascer.",
+                "Jesus Cristo é a saída",
+                "pra tua vida renascer."
+            ]
+        }
+    ]
+}

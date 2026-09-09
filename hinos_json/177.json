@@ -1,0 +1,75 @@
+{
+    "hymn": {
+        "number": "177",
+        "title": "Conduze-me, Meu Mestre",
+        "originalTitle": "So nimm denn meine Hände",
+        "subCategory": 11,
+        "lyricsComposer": [
+            305
+        ],
+        "musicComposer": [
+            160
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 58:11",
+        "youtubeURL": "https://www.youtube.com/watch?v=fwvoO_TPhwY",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 58:11",
+            "Salmos 23:3",
+            "Salmos 73:24"
+        ],
+        "texto_base": "Isaías 58:11",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Conduze-me, meu Mestre, com Tua mão,",
+                "E assim jamais me falte a proteção.",
+                "Não quero nem um passo",
+                "sem Ti andar.",
+                "Oh, faze-me hoje e sempre na luz trilhar!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Em Teu amor envolve meu coração,",
+                "E dá-lhe paz e calma em aflição.",
+                "Que eu tenha em Ti repouso",
+                "bem junto à cruz,",
+                "E que jamais me afaste de Ti, Jesus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "E mesmo quando a luta tremenda for,",
+                "Seguro hás de guiar-me, meu Redentor.",
+                "Conduze-me, meu Mestre,",
+                "com Tua mão,",
+                "E assim jamais me falte a proteção."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "hymn": {
+        "number": "63",
+        "title": "O Mundo É De Meu Deus",
+        "originalTitle": "This Is My Father’s World",
+        "subCategory": 6,
+        "lyricsComposer": [
+            341
+        ],
+        "musicComposer": [
+            148
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 24:1",
+        "youtubeURL": "https://www.youtube.com/watch?v=xopoI-il52Y",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Coríntios 10:26",
+            "Salmos 89:11",
+            "Jó 41:11"
+        ],
+        "texto_base": "Salmo 24:1",
+        "temas_relacionados": [
+            "Sacrifício e Redenção",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O mundo é de meu Deus,",
+                "Senhor da criação.",
+                "E todo ser que vida tem",
+                "O louva em gratidão.",
+                "O mundo é de meu Deus;",
+                "conforta assim pensar.",
+                "Deus fez o Sol e o lindo céu,",
+                "Deus fez a terra e o mar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O mundo é de meu Deus;",
+                "as aves na amplidão,",
+                "O lírio branco, a luz do sol",
+                "provêm de Sua mão.",
+                "O mundo é de meu Deus;",
+                "em tudo posso ver.",
+                "Até na brisa a sussurrar",
+                "percebo Seu poder."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O mundo é de meu Deus;",
+                "jamais me esquecerei.",
+                "Em toda a vasta criação,",
+                "somente Deus é Rei.",
+                "O mundo é de meu Deus,",
+                "e o Salvador Jesus,",
+                "Para esta Terra resgatar,",
+                "a vida deu na cruz."
+            ]
+        }
+    ]
+}

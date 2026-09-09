@@ -1,0 +1,54 @@
+{
+    "hymn": {
+        "number": "580",
+        "title": "Oração De Súplica",
+        "originalTitle": "",
+        "subCategory": 33,
+        "lyricsComposer": [
+            177
+        ],
+        "musicComposer": [
+            177
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 38:9",
+        "youtubeURL": "https://www.youtube.com/watch?v=DM6XV-Xa-Q8",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 38:9",
+            "Filipenses 4:6",
+            "1 Pedro 5:7"
+        ],
+        "texto_base": "Salmo 38:9",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eis aqui, ó Senhor,",
+                "os meus desejos todos.",
+                "Só Tu vês o que há",
+                "em meu interior.",
+                "Fraco estou e sem vigor,",
+                "mas creio em Teu amor.",
+                "Com Tua paz vem, ó Pai,",
+                "encher meu coração."
+            ]
+        }
+    ]
+}

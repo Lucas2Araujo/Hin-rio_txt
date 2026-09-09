@@ -1,0 +1,81 @@
+{
+    "hymn": {
+        "number": "470",
+        "title": "Rocha Eterna",
+        "originalTitle": "Rock of Ages",
+        "subCategory": 26,
+        "lyricsComposer": [
+            34
+        ],
+        "musicComposer": [
+            480
+        ],
+        "versionComposer": [
+            517
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 26:4",
+        "youtubeURL": "https://www.youtube.com/watch?v=GAEJzMMk2WQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 26:4",
+            "Salmos 18:2",
+            "1 Coríntios 10:4"
+        ],
+        "texto_base": "Isaías 26:4",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Rocha eterna, meu Jesus,",
+                "Tu morreste lá na cruz!",
+                "Vem de Ti poder real",
+                "para me livrar do mal!",
+                "Traz as bênçãos do perdão:",
+                "paz, conforto e salvação."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nem as obras nem penar",
+                "poderão alguém salvar,",
+                "Mas só Tu, meu bom Jesus,",
+                "podes dar-me vida e luz.",
+                "Peço a Ti perdão, Senhor,",
+                "pois confio em Teu amor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eis que vem a morte atrás",
+                "desta vida tão fugaz.",
+                "Quando ao lar do Céu subir,",
+                "e Teu rosto em glória vir,",
+                "Rocha eterna, que prazer",
+                "eu terei de em Ti viver!"
+            ]
+        }
+    ]
+}

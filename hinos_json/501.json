@@ -1,0 +1,152 @@
+{
+    "hymn": {
+        "number": "501",
+        "title": "Para Além Das Montanhas",
+        "originalTitle": "Just Over the Mountains",
+        "subCategory": 28,
+        "lyricsComposer": [
+            61
+        ],
+        "musicComposer": [
+            282
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 65:17-19",
+        "youtubeURL": "https://www.youtube.com/watch?v=FlHMYuWZK0g",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 21:10",
+            "Apocalipse 21:23",
+            "Isaías 60:19"
+        ],
+        "texto_base": "Isaías 65:17-19",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Para além das montanhas,",
+                "no celeste lar,",
+                "A cidade santa nos espera já;",
+                "‘Stamos tão cansados de subir, galgar,",
+                "Mas, avante, sempre,",
+                "não desanimar!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Perto, sim, do lar!",
+                "Perto, sim, do lar!",
+                "Eis as luzes deste deslumbrante lar!",
+                "E esplendores junto aos",
+                "seus portais sem-par!",
+                "Perto está o dia de rever Jesus",
+                "E subir com Ele para a Sua luz!",
+                "Perto, sim, do lar!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Os profetas antigos",
+                "nos falaram já",
+                "Da cidade bela de ouro e de cristal.",
+                "Já nos vêm vislumbres, divisamos lá",
+                "As mansões brilhantes",
+                "como há nada igual."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Perto, sim, do lar!",
+                "Perto, sim, do lar!",
+                "Eis as luzes deste deslumbrante lar!",
+                "E esplendores junto aos",
+                "seus portais sem-par!",
+                "Perto está o dia de rever Jesus",
+                "E subir com Ele para a Sua luz!",
+                "Perto, sim, do lar!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Neste lar tão somente",
+                "poderão entrar",
+                "Os remidos pela graça de Jesus.",
+                "Nossas vozes juntas hão de ali vibrar",
+                "Em louvor Àquele",
+                "que morreu na cruz."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Perto, sim, do lar!",
+                "Perto, sim, do lar!",
+                "Eis as luzes deste deslumbrante lar!",
+                "E esplendores junto aos",
+                "seus portais sem-par!",
+                "Perto está o dia de rever Jesus",
+                "E subir com Ele para a Sua luz!",
+                "Perto, sim, do lar!"
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Para entrar neste lar",
+                "de paz, amor e luz,",
+                "Uma terra linda, sem tristeza ou dor,",
+                "Aceitemos, pois, a graça de Jesus",
+                "E em Seu reino",
+                "nos receberá co’amor."
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Perto, sim, do lar!",
+                "Perto, sim, do lar!",
+                "Eis as luzes deste deslumbrante lar!",
+                "E esplendores junto aos",
+                "seus portais sem-par!",
+                "Perto está o dia de rever Jesus",
+                "E subir com Ele para a Sua luz!",
+                "Perto, sim, do lar!"
+            ]
+        }
+    ]
+}

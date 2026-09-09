@@ -1,0 +1,116 @@
+{
+    "hymn": {
+        "number": "497",
+        "title": "Inda É Longe Canaã?",
+        "originalTitle": "O The Way Is Long and Weary",
+        "subCategory": 28,
+        "lyricsComposer": [
+            170
+        ],
+        "musicComposer": [
+            170
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Deuteronômio 31:6-8",
+        "youtubeURL": "https://www.youtube.com/watch?v=0d0q6B-BuUA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Hebreus 11:16",
+            "Êxodo 3:8",
+            "Hebreus 4:9"
+        ],
+        "texto_base": "Deuteronômio 31:6-8",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O caminho é longo e mau,",
+                "e nossos pés feridos são;",
+                "Inda é longe Canaã?",
+                "Inda é longe Canaã?",
+                "No deserto anelamos",
+                "mais de Deus a proteção.",
+                "Estará inda longe Canaã?"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "‘Stamos fracos, tão cansados!",
+                "Já viajamos por desertos,",
+                "sob um Sol abrasador!",
+                "‘Stamos fracos, tão cansados!",
+                "Estará inda longe Canaã?"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nós seguimos por desertos",
+                "o caminho do cristão;",
+                "Inda é longe Canaã?",
+                "Inda é longe Canaã?",
+                "Quantas vezes é escassa",
+                "nossa água e nosso pão!",
+                "Estará inda longe Canaã?"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "‘Stamos fracos, tão cansados!",
+                "Já viajamos por desertos,",
+                "sob um Sol abrasador!",
+                "‘Stamos fracos, tão cansados!",
+                "Estará inda longe Canaã?"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quantas vezes ansiamos",
+                "por um lar de paz e amor!",
+                "Inda é longe Canaã?",
+                "Inda é longe Canaã?",
+                "Onde não há mais tristezas,",
+                "não mais lutas, não mais dor.",
+                "Estará inda longe Canaã?"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "‘Stamos fracos, tão cansados!",
+                "Já viajamos por desertos,",
+                "sob um Sol abrasador!",
+                "‘Stamos fracos, tão cansados!",
+                "Estará inda longe Canaã?"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "hymn": {
+        "number": "44",
+        "title": "O Santo Espírito",
+        "originalTitle": "Come, Holy Spirit",
+        "subCategory": 4,
+        "lyricsComposer": [
+            288
+        ],
+        "musicComposer": [
+            288
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Atos 1:8",
+        "youtubeURL": "https://www.youtube.com/watch?v=niiUqUc9j1s",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Atos 2:1-4",
+            "Lucas 24:49",
+            "João 14:26"
+        ],
+        "texto_base": "Atos 1:8",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Missão e Serviço",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O Santo Espírito desceu do Céu",
+                "Em plenitude de poder.",
+                "E o Pentecostes fez brilhar a luz,",
+                "E multidões puderam crer.",
+                "Fiéis em Cristo, sem qualquer temor,",
+                "Saíram todos a pregar",
+                "E conseguiram, mesmo em luta e dor,",
+                "Final vitória conquistar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó Deus bendito, hoje também,",
+                "Vem conceder-nos",
+                "Tua graça e Teu poder.",
+                "Eis nossa prece: Vem perto estar.",
+                "Vem Tua Igreja aqui reavivar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "“Só pela fé o justo vai viver”,",
+                "Na Bíblia vamos encontrar.",
+                "Jesus, portanto, nos dará poder;",
+                "Devemos crer e confiar.",
+                "Os que esperam sempre no Senhor",
+                "Paz e alegria hão de achar.",
+                "Receberão de Deus constante amor",
+                "E graça pra testemunhar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó Deus bendito, hoje também,",
+                "Vem conceder-nos",
+                "Tua graça e Teu poder.",
+                "Eis nossa prece: Vem perto estar.",
+                "Vem Tua Igreja aqui reavivar."
+            ]
+        }
+    ]
+}

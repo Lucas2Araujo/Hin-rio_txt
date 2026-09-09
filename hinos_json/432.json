@@ -1,0 +1,101 @@
+{
+    "hymn": {
+        "number": "432",
+        "title": "Sangue Precioso De Cristo",
+        "originalTitle": "",
+        "subCategory": 24,
+        "lyricsComposer": [
+            177
+        ],
+        "musicComposer": [
+            177
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 27:51",
+        "youtubeURL": "https://www.youtube.com/watch?v=SFDn0TVl730",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Pedro 1:19",
+            "Efésios 1:7",
+            "Hebreus 9:14"
+        ],
+        "texto_base": "Mateus 27:51",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Será que existe esperança",
+                "Pra um vil pecador como eu?",
+                "Pode alguém condenado",
+                "Libertação receber?",
+                "Em mim não há nada digno",
+                "De salvação merecer,",
+                "Mas pelo sangue de Cristo",
+                "Posso enfim renascer."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sangue precioso de Cristo,",
+                "Sangue vertido por mim,",
+                "Não mais me sinto perdido,",
+                "Vida eu tenho enfim.",
+                "Foi lá na cruz que o preço",
+                "Do meu pecado pagou.",
+                "Tal honra eu não mereço,",
+                "Mas mesmo assim me salvou."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O véu do templo rasgou-se,",
+                "Separação não há mais;",
+                "O Pai nos deu o Cordeiro,",
+                "Agora temos a paz.",
+                "Só pelo sangue vertido,",
+                "Somos aceitos por Deus.",
+                "Libertação do pecado",
+                "Cristo então concedeu."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sangue precioso de Cristo,",
+                "Sangue vertido por mim.",
+                "Ponte que cruza o abismo,",
+                "Leva-me à glória enfim.",
+                "Foi lá na cruz que o preço",
+                "Do meu pecado pagou.",
+                "Tal honra eu não mereço,",
+                "Mas mesmo assim me salvou."
+            ]
+        }
+    ]
+}

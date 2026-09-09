@@ -1,0 +1,69 @@
+{
+    "hymn": {
+        "number": "570",
+        "title": "Maravilhoso Deus",
+        "originalTitle": "",
+        "subCategory": 30,
+        "lyricsComposer": [
+            314,
+            333
+        ],
+        "musicComposer": [
+            314,
+            333
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 6:1-3",
+        "youtubeURL": "https://www.youtube.com/watch?v=DU-gqqyFXhQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 9:6",
+            "Apocalipse 15:3",
+            "Salmos 139:14"
+        ],
+        "texto_base": "Isaías 6:1-3",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Santo, justo, maravilhoso Deus,",
+                "Digno, puro, fonte de todo amor,",
+                "Governas o Universo;",
+                "És o grande Eu Sou.",
+                "Me rendo em reverência para Te adorar.",
+                "Revela a Tua glória, enche este lugar.",
+                "Exaltado Rei da Terra e Céu,",
+                "Adorado, Tu és justo e fiel,",
+                "Honra e glória! Teu é todo louvor,",
+                "Santo, santo!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Exaltado Rei da Terra e Céu,",
+                "Adorado Tu és justo e fiel,",
+                "Honra e glória! Teu é todo louvor,",
+                "Santo, santo!",
+                "Santo, justo, maravilhoso Deus!"
+            ]
+        }
+    ]
+}

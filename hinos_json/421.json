@@ -1,0 +1,70 @@
+{
+    "hymn": {
+        "number": "421",
+        "title": "Oração Para Uma Criança",
+        "originalTitle": "",
+        "subCategory": 23,
+        "lyricsComposer": [
+            492
+        ],
+        "musicComposer": [
+            136
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Lucas 2:22",
+        "youtubeURL": "https://www.youtube.com/watch?v=5EQpR-6uEcU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 19:13",
+            "Lucas 2:40",
+            "Provérbios 22:6"
+        ],
+        "texto_base": "Lucas 2:22",
+        "temas_relacionados": [
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vê, Senhor, este menino",
+                "meigo e frágil como a flor;",
+                "Necessita de carinho,",
+                "necessita de amor.",
+                "Seus olhinhos são tão puros,",
+                "seu sorriso é como a luz;",
+                "Eles mostram a beleza",
+                "que emana de Jesus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vem guiar os seus passinhos",
+                "e ensiná-lo a caminhar",
+                "No seguro e bom caminho",
+                "e em Tua força confiar.",
+                "Vem livrá-lo das maldades",
+                "que este mundo pode impor.",
+                "Pai querido, cuida dele,",
+                "dá a ele o Teu amor."
+            ]
+        }
+    ]
+}

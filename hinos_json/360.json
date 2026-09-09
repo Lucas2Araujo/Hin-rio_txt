@@ -1,0 +1,80 @@
+{
+    "hymn": {
+        "number": "360",
+        "title": "Deus Ouve, Deus Responde",
+        "originalTitle": "",
+        "subCategory": 22,
+        "lyricsComposer": [
+            492
+        ],
+        "musicComposer": [
+            463
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 46:7",
+        "youtubeURL": "https://www.youtube.com/watch?v=lUaHAM1HZdQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 34:17",
+            "1 João 5:14-15",
+            "Jeremias 33:3"
+        ],
+        "texto_base": "Salmo 46:7",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deus ouve, Deus responde,",
+                "é tão doce Sua voz.",
+                "Deus cuida, Deus atende,",
+                "Suas mãos tocam em nós.",
+                "Ele guia nossos passos,",
+                "nos envolve em Seus braços.",
+                "Deus ouve, Deus responde,",
+                "Deus cuida de nós."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus para pra ouvir a nossa oração.",
+                "As preces com fé enternecem Seu coração.",
+                "Ele ouve os clamores",
+                "e não nega Seus favores.",
+                "Deus nos ama e nos dá o que é melhor."
+            ]
+        },
+        {
+            "order": 1,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deus ouve, Deus responde,",
+                "é tão doce Sua voz.",
+                "Deus cuida, Deus atende,",
+                "Suas mãos tocam em nós.",
+                "Ele guia nossos passos,",
+                "nos envolve em Seus braços.",
+                "Deus ouve, Deus responde,",
+                "Deus cuida de nós."
+            ]
+        }
+    ]
+}

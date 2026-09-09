@@ -1,0 +1,80 @@
+{
+    "hymn": {
+        "number": "6",
+        "title": "Nós Te Adoramos",
+        "originalTitle": "Nous T’adorons, Dieu Vivant",
+        "subCategory": 1,
+        "lyricsComposer": [
+            101
+        ],
+        "musicComposer": [
+            149
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 95:6",
+        "youtubeURL": "https://www.youtube.com/watch?v=gUX4rONKdeI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 5:13",
+            "Colossenses 1:13-14",
+            "João 16:8"
+        ],
+        "texto_base": "Salmo 95:6",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nós Te adoramos, Deus infinito,",
+                "E a Teu Filho, Rei, Salvador.",
+                "Teu nome eterno é sempre bendito;",
+                "Teu Espírito traz-nos amor.",
+                "Glória rendemos, honra, louvor",
+                "E adoração a Ti, ó Senhor!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Éramos presos pelo pecado,",
+                "Tu nos livraste dessa prisão",
+                "E, por Teu Filho imaculado,",
+                "Ofertaste-nos a salvação.",
+                "Glória rendemos, honra, louvor",
+                "E adoração a Ti, Redentor!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tu nos convences dos vis pecados",
+                "E da justiça, luzes nos dás.",
+                "E à verdade somos guiados,",
+                "Ó Espírito Santo de paz.",
+                "Glória rendemos, honra, louvor",
+                "E adoração, ó Consolador!"
+            ]
+        }
+    ]
+}

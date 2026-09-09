@@ -1,0 +1,71 @@
+{
+    "hymn": {
+        "number": "7",
+        "title": "Sejas Louvado",
+        "originalTitle": "Praise to the Lord",
+        "subCategory": 1,
+        "lyricsComposer": [
+            260
+        ],
+        "musicComposer": [
+            469
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 9:1, 2",
+        "youtubeURL": "https://www.youtube.com/watch?v=jRo9W3iHhLc",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 103:1-2",
+            "Salmos 36:7",
+            "Salmos 91:4"
+        ],
+        "texto_base": "Salmo 9:1, 2",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sejas louvado, Rei, Criador da natura!",
+                "Louva, minh’alma, louva com zelo e ternura.",
+                "Louva o Senhor pelo insondável amor,",
+                "Cálido amor que perdura!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sejas louvado, Tu que o Universo conduzes!",
+                "Sob Tuas asas, paz e conforto produzes.",
+                "Haja louvor pelo Teu dom redentor,",
+                "Príncipe eterno das luzes!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sejas louvado pelo cuidado paterno!",
+                "Sobre a verdade ergues Teu reino eterno.",
+                "Teu o louvor seja somente, Senhor,",
+                "Por Teu amor sempiterno!"
+            ]
+        }
+    ]
+}

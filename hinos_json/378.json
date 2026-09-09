@@ -1,0 +1,105 @@
+{
+    "hymn": {
+        "number": "378",
+        "title": "Mais Perto Quero Estar",
+        "originalTitle": "Nearer, My God, to Thee",
+        "subCategory": 22,
+        "lyricsComposer": [
+            455
+        ],
+        "musicComposer": [
+            332
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 145:18",
+        "youtubeURL": "https://www.youtube.com/watch?v=8S4HBQ8vSKY",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 145:18",
+            "Hebreus 4:16",
+            "Tiago 4:8"
+        ],
+        "texto_base": "Salmo 145:18",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Mais perto quero estar,",
+                "Meu Deus, de Ti.",
+                "Inda que seja a dor",
+                "Que me una a Ti."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eis meu constante orar:",
+                "Mais perto quero estar.",
+                "Mais perto quero estar,",
+                "Meu Deus, de Ti."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Andando triste aqui,",
+                "Na solidão,",
+                "Paz e descanso a mim",
+                "Teus braços dão."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eis meu constante orar:",
+                "Mais perto quero estar.",
+                "Mais perto quero estar,",
+                "Meu Deus, de Ti."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Minh’alma cantará",
+                "A Ti, Senhor,",
+                "Cheia de gratidão,",
+                "Por Teu amor."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eis meu constante orar:",
+                "Mais perto quero estar.",
+                "Mais perto quero estar,",
+                "Meu Deus, de Ti."
+            ]
+        }
+    ]
+}

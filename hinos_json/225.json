@@ -1,0 +1,110 @@
+{
+    "hymn": {
+        "number": "225",
+        "title": "Dai-nos Luz",
+        "originalTitle": "Send the Light",
+        "subCategory": 13,
+        "lyricsComposer": [
+            60
+        ],
+        "musicComposer": [
+            60
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 60:1-3",
+        "youtubeURL": "https://www.youtube.com/watch?v=6VG21tjg0bM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 60:1-3",
+            "Mateus 5:14",
+            "João 8:12"
+        ],
+        "texto_base": "Isaías 60:1-3",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Uma voz ressoa",
+                "num geral clamor:",
+                "Dai-nos luz, dai-nos luz!",
+                "Os milhões em trevas,",
+                "cheios de pavor,",
+                "Pedem luz, pedem luz!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Dai-nos luz, a mui gloriosa luz",
+                "De perdão, de paz e amor!",
+                "Dai-nos luz, a tão preciosa luz",
+                "De Jesus, o Salvador!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sim, por toda parte",
+                "deve reluzir",
+                "Essa luz de Jesus,",
+                "Que aponta o bom",
+                "caminho a seguir.",
+                "Dai-nos luz, dai-nos luz!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Dai-nos luz, a mui gloriosa luz",
+                "De perdão, de paz e amor!",
+                "Dai-nos luz, a tão preciosa luz",
+                "De Jesus, o Salvador!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vamos, pois, cristãos,",
+                "o mundo todo encher",
+                "Dessa luz de Jesus!",
+                "Aos milhões sem",
+                "Cristo sem tardar erguer",
+                "Essa luz de Jesus!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Dai-nos luz, a mui gloriosa luz",
+                "De perdão, de paz e amor!",
+                "Dai-nos luz, a tão preciosa luz",
+                "De Jesus, o Salvador!"
+            ]
+        }
+    ]
+}

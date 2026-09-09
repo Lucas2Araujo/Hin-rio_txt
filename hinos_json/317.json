@@ -1,0 +1,81 @@
+{
+    "hymn": {
+        "number": "317",
+        "title": "Amigo Mui Precioso",
+        "originalTitle": "My Lord and I",
+        "subCategory": 22,
+        "lyricsComposer": [
+            352
+        ],
+        "musicComposer": [
+            219
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 15:14, 15",
+        "youtubeURL": "https://www.youtube.com/watch?v=_8yIJOzF0rw",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 25:14",
+            "João 15:14",
+            "Provérbios 17:17"
+        ],
+        "texto_base": "João 15:14, 15",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Amigo mui precioso",
+                "eu tenho em meu Jesus.",
+                "Envolve-me Seu doce amor,",
+                "meus pés no bem conduz.",
+                "Sem Ele aqui não posso andar,",
+                "até chegar ao Céu.",
+                "Assim andamos juntos: Jesus e eu."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Por vezes sou tentado",
+                "nas lutas e na dor.",
+                "Então Jesus me mostra a mão",
+                "ferida por amor.",
+                "De Seu amor a prova deu;",
+                "por mim na cruz morreu.",
+                "E juntos nós andamos: Jesus e eu."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu conto-Lhe tristezas",
+                "e todo o meu prazer.",
+                "Em Seu amor encontro paz",
+                "e forças pra viver.",
+                "E, enquanto sigo rumo ao lar,",
+                "irei ao lado Seu,",
+                "Pois juntos nós andamos: Jesus e eu."
+            ]
+        }
+    ]
+}

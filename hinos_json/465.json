@@ -1,0 +1,109 @@
+{
+    "hymn": {
+        "number": "465",
+        "title": "O Dia Não Sei",
+        "originalTitle": "We Know Not the Hour",
+        "subCategory": 25,
+        "lyricsComposer": [
+            147
+        ],
+        "musicComposer": [
+            147
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 24:36",
+        "youtubeURL": "https://www.youtube.com/watch?v=uZ2pD2W0DXM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 24:36",
+            "Marcos 13:32",
+            "Atos 1:7"
+        ],
+        "texto_base": "Mateus 24:36",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Segunda Vinda e Esperança",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O dia não sei do regresso do Esposo,",
+                "Mas, pelos sinais, sigo esperançoso,",
+                "Pois logo virá esse evento glorioso,",
+                "Mas o dia não sei."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo vem! Vigiemos, oremos!",
+                "Ele vem! Aleluia! Aleluia!",
+                "Sobre nuvens virá,",
+                "Com os anjos da glória,",
+                "Mas o dia não sei."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Os crentes verão, pela Santa Escritura,",
+                "Que não tardará nossa eterna ventura.",
+                "Olhemos, então, para a glória futura,",
+                "Mas o dia não sei."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo vem! Vigiemos, oremos!",
+                "Ele vem! Aleluia! Aleluia!",
+                "Sobre nuvens virá,",
+                "Com os anjos da glória,",
+                "Mas o dia não sei."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Orar, vigiar, eis a necessidade;",
+                "Bem firmes os pés na bendita verdade.",
+                "Descanso haverá na celeste cidade,",
+                "Mas o dia não sei."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo vem! Vigiemos, oremos!",
+                "Ele vem! Aleluia! Aleluia!",
+                "Sobre nuvens virá,",
+                "Com os anjos da glória,",
+                "Mas o dia não sei."
+            ]
+        }
+    ]
+}

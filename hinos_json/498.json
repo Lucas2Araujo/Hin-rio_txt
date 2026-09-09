@@ -1,0 +1,68 @@
+{
+    "hymn": {
+        "number": "498",
+        "title": "Lindo País",
+        "originalTitle": "Londonderry Air",
+        "subCategory": 28,
+        "lyricsComposer": [
+            263
+        ],
+        "musicComposer": [
+            373
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 65:17-19",
+        "youtubeURL": "https://www.youtube.com/watch?v=OV4K75Rb-OI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 21:1",
+            "2 Pedro 3:13",
+            "Isaías 65:17"
+        ],
+        "texto_base": "Isaías 65:17-19",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Há um país nas terras de além-rio,",
+                "Cheio de flores, de prazer e luz.",
+                "É destinado ao povo resgatado.",
+                "Lá não teremos lutas nem mais cruz,",
+                "Pois é ali que a morte não mais entra,",
+                "Nem mais pecado o brilho tirará.",
+                "Jesus, o Rei dessas mansões tão lindas,",
+                "Os salvos todos com prazer abraçará."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Lindo país! Eu vejo a brisa mansa",
+                "Acariciar campinas e jardins",
+                "E embalar as palmas prateadas",
+                "Dos perfumados vales com jasmins.",
+                "E, quando o sol se põe no horizonte,",
+                "Eu julgo ver em sonhos este lar;",
+                "Vejo os amigos já ressuscitados,",
+                "E todos nós o nosso bom Jesus louvar."
+            ]
+        }
+    ]
+}

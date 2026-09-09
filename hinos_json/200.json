@@ -1,0 +1,117 @@
+{
+    "hymn": {
+        "number": "200",
+        "title": "Nunca Me Deixar",
+        "originalTitle": "Never Alone",
+        "subCategory": 11,
+        "lyricsComposer": [
+            335
+        ],
+        "musicComposer": [
+            88
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 41:13, 14",
+        "youtubeURL": "https://www.youtube.com/watch?v=V37Xhq3pVj8",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Deuteronômio 31:6",
+            "Hebreus 13:5",
+            "Josué 1:5"
+        ],
+        "texto_base": "Isaías 41:13, 14",
+        "temas_relacionados": [
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Neste mundo, sozinho,",
+                "eu nunca posso avançar,",
+                "Pois, neste meu caminho,",
+                "perdido fico a vagar.",
+                "Mas Jesus, nosso Amigo,",
+                "vem sempre pra me guiar.",
+                "E Ele mesmo promete",
+                "que nunca vai me deixar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Nunca me deixar! Nunca me deixar!",
+                "Pois Ele mesmo promete comigo caminhar.",
+                "Nunca me deixar! Nunca me deixar!",
+                "Pois Ele mesmo promete",
+                "que nunca vai me deixar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "No caminho do mundo,",
+                "sem Cristo vou me perder.",
+                "Sozinho, me confundo",
+                "e fico sempre a temer.",
+                "Se Jesus vai comigo,",
+                "alegre posso avançar.",
+                "E Ele mesmo promete",
+                "que nunca vai me deixar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Nunca me deixar! Nunca me deixar!",
+                "Pois Ele mesmo promete comigo caminhar.",
+                "Nunca me deixar! Nunca me deixar!",
+                "Pois Ele mesmo promete",
+                "que nunca vai me deixar."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nestas lutas que enfrento,",
+                "nas dores, nas aflições,",
+                "Em todo sofrimento,",
+                "ao virem as tentações,",
+                "Cristo anda ao meu lado,",
+                "comigo, para ajudar.",
+                "Sim, Ele mesmo promete",
+                "que nunca vai me deixar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Nunca me deixar! Nunca me deixar!",
+                "Pois Ele mesmo promete comigo caminhar.",
+                "Nunca me deixar! Nunca me deixar!",
+                "Pois Ele mesmo promete",
+                "que nunca vai me deixar."
+            ]
+        }
+    ]
+}

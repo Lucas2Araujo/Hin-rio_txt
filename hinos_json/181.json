@@ -1,0 +1,122 @@
+{
+    "hymn": {
+        "number": "181",
+        "title": "Cuidará De Mim Também",
+        "originalTitle": "His Eye Is on the Sparrow",
+        "subCategory": 11,
+        "lyricsComposer": [
+            69
+        ],
+        "musicComposer": [
+            60
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 6:26",
+        "youtubeURL": "https://www.youtube.com/watch?v=Ti-3MEfiTHQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 6:26",
+            "Lucas 12:24",
+            "Salmos 147:9"
+        ],
+        "texto_base": "Mateus 6:26",
+        "temas_relacionados": [
+            "Espírito Santo",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Por que estarei eu triste,",
+                "por que na treva andar,",
+                "Sentir-me tão sozinho,",
+                "sempre a desanimar,",
+                "Se Cristo é meu conforto,",
+                "amigo na aflição,",
+                "Se até as aves esperam",
+                "na Sua proteção?",
+                "Se até as aves esperam",
+                "na Sua proteção?"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Feliz e mui alegre,",
+                "Cantando viverei.",
+                "Se Deus protege as aves,",
+                "Cuidará de mim também."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quando estou abatido,",
+                "se envolto em sombra vou,",
+                "O coração ferido,",
+                "ou perseguido sou,",
+                "Jesus é meu amparo,",
+                "é meu consolador.",
+                "Envolve-me em Seus braços",
+                "e alívio dá-me à dor.",
+                "Envolve-me em Seus braços",
+                "e alívio dá-me à dor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Feliz e mui alegre,",
+                "Cantando viverei.",
+                "Se Deus protege as aves,",
+                "Cuidará de mim também."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ao me sentir cansado,",
+                "em meio de aflição,",
+                "Ouço Jesus dizer-me,",
+                "ao segurar-me a mão:",
+                "“Confia em Mim somente,",
+                "somente em Meu poder,",
+                "E nas mansões eternas,",
+                "comigo irás viver;",
+                "E nas mansões eternas,",
+                "comigo irás viver.”"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Feliz e mui alegre,",
+                "Cantando viverei.",
+                "Se Deus protege as aves,",
+                "Cuidará de mim também."
+            ]
+        }
+    ]
+}

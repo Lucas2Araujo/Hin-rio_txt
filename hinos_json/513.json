@@ -1,0 +1,99 @@
+{
+    "hymn": {
+        "number": "513",
+        "title": "Ver Jesus Em Você",
+        "originalTitle": "",
+        "subCategory": 29,
+        "lyricsComposer": [
+            434,
+            98
+        ],
+        "musicComposer": [
+            98
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Coríntios 11:1",
+        "youtubeURL": "https://www.youtube.com/watch?v=elh4QZ-Fij4",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "2 Coríntios 3:18",
+            "Mateus 5:16",
+            "1 João 4:12"
+        ],
+        "texto_base": "1 Coríntios 11:1",
+        "temas_relacionados": [
+            "Crianças e Jovens",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Posso ver Jesus no meu jardim,",
+                "Posso vê-Lo em uma flor,",
+                "Posso ver Jesus no amanhecer",
+                "E ainda quando o sol se põe.",
+                "Posso ver Jesus em um olhar,",
+                "No sorriso de um bebê;",
+                "Posso ver Jesus em tudo aqui,",
+                "Mas quero vê-Lo em você."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Somos espelho do mundo",
+                "Pra refletir a Jesus",
+                "E, através do nosso exemplo,",
+                "Mostrar o caminho da cruz.",
+                "Posso ver Jesus ao meu redor;",
+                "Basta apenas perceber,",
+                "Mas para mim o melhor há de ser",
+                "Vê-Lo sempre em você"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Posso ver Jesus no céu azul,",
+                "Na imensidão do mar;",
+                "Posso ver Jesus nos passarinhos",
+                "Tão felizes a cantar.",
+                "Posso ver Jesus ao observar",
+                "As estrelas lá do céu.",
+                "Posso ver Jesus em tudo aqui,",
+                "Mas quero vê-Lo em você."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Somos espelho do mundo",
+                "Pra refletir a Jesus",
+                "E, através do nosso exemplo,",
+                "Mostrar o caminho da cruz.",
+                "Posso ver Jesus ao meu redor;",
+                "Basta apenas perceber,",
+                "Mas para mim o melhor há de ser",
+                "Vê-Lo sempre em você",
+                "Vê-Lo sempre em você."
+            ]
+        }
+    ]
+}

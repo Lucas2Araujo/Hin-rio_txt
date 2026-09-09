@@ -1,0 +1,89 @@
+{
+    "hymn": {
+        "number": "391",
+        "title": "Queremos Dar Louvor",
+        "originalTitle": "",
+        "subCategory": 22,
+        "lyricsComposer": [
+            27
+        ],
+        "musicComposer": [
+            27
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 115:17, 18",
+        "youtubeURL": "https://www.youtube.com/watch?v=4CfXjMoe2fA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 115:18",
+            "Salmos 145:2",
+            "Salmos 150:6"
+        ],
+        "texto_base": "Salmo 115:17, 18",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Espírito Santo",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vem nos inspirar,",
+                "Vem nos ensinar, Senhor,",
+                "Na luz do Teu Espírito.",
+                "Vem nos animar,",
+                "Vem nos transformar, Senhor,",
+                "Com Teu poder e glória."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Senhor, queremos dar louvor",
+                "Em gratidão a Ti.",
+                "Aceita nosso coração.",
+                "Vem transformar nosso ser."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vem nos ajudar,",
+                "Vem nos consolar, Senhor;",
+                "Que a Tua paz esteja em nós.",
+                "Dá-nos Teu poder",
+                "Pra Te obedecer e crer",
+                "Em Teu sacrifício."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Senhor, queremos dar louvor",
+                "Em gratidão a Ti.",
+                "Aceita nosso coração.",
+                "Vem transformar nosso ser."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "hymn": {
+        "number": "159",
+        "title": "Um Novo Nome Lá Na Glória",
+        "originalTitle": "A New Name in Glory",
+        "subCategory": 10,
+        "lyricsComposer": [
+            43
+        ],
+        "musicComposer": [
+            43
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 2:17",
+        "youtubeURL": "https://www.youtube.com/watch?v=OZHToenZk6k",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 2:17",
+            "Lucas 10:20",
+            "Apocalipse 3:12"
+        ],
+        "texto_base": "Apocalipse 2:17",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pecador eu era sim, porém",
+                "Graça eu encontrei em Jesus.",
+                "Deu-me prontamente Seu perdão,",
+                "Deu-me vida, paz e luz."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Há um novo nome lá na glória:",
+                "É o meu, sim é o meu!",
+                "Santos anjos cantam essa história:",
+                "O pródigo volveu!",
+                "Pois há um novo nome lá na glória:",
+                "É o meu, sim é o meu!",
+                "Eu fui resgatado, em Cristo perdoado.",
+                "Para o Céu eu vou."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Junto à cruz prostrei-me com temor,",
+                "Ao sentir-me um vil pecador.",
+                "Mas o Céu abriu-se e então eu vi",
+                "O meu nome escrito ali!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Há um novo nome lá na glória:",
+                "É o meu, sim é o meu!",
+                "Santos anjos cantam essa história:",
+                "O pródigo volveu!",
+                "Pois há um novo nome lá na glória:",
+                "É o meu, sim é o meu!",
+                "Pois que fui perdoado, sou ao Céu levado;",
+                "Lá morar eu vou."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Glória, aleluia, salvo estou!",
+                "Foi Seu sangue que me livrou!",
+                "Pela eterna graça, louvo a Deus!",
+                "Para o lar celeste vou!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Há um novo nome lá na glória:",
+                "É o meu, sim é o meu!",
+                "Santos anjos cantam essa história:",
+                "O pródigo volveu!",
+                "Pois há um novo nome lá na glória:",
+                "É o meu, sim é o meu!",
+                "Pois que fui perdoado, sou ao Céu levado;",
+                "Lá morar eu vou."
+            ]
+        }
+    ]
+}

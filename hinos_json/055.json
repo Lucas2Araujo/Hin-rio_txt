@@ -1,0 +1,93 @@
+{
+    "hymn": {
+        "number": "55",
+        "title": "Tua Palavra",
+        "originalTitle": "",
+        "subCategory": 5,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 119:11",
+        "youtubeURL": "https://www.youtube.com/watch?v=L81Mjny13d4",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Josué 1:8",
+            "Salmos 119:105",
+            "Provérbios 30:5"
+        ],
+        "texto_base": "Salmo 119:11",
+        "temas_relacionados": [
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Escondi Tua palavra no meu coração",
+                "Pra não pecar contra Ti.",
+                "Escondi as Tuas preciosas verdades",
+                "dentro de mim.",
+                "Eu não quero falhar,",
+                "Eu não quero jamais",
+                "entristecer meu Jesus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Tua palavra é luz, Tua palavra é paz,",
+                "Tua palavra é vida ao meu coração.",
+                "Por isso, em meu viver",
+                "eu quero compreender,",
+                "Eu quero aceitar em mim o Teu querer.",
+                "Vem ajudar-me, ó Deus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Decidi obedecer, Senhor,",
+                "em qualquer situação.",
+                "Sei que Tu vais ser comigo.",
+                "Decidi que quero de hoje em diante",
+                "ser sempre Teu.",
+                "Eu não quero falhar,",
+                "Eu não quero jamais",
+                "entristecer meu Jesus."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Tua palavra é luz, Tua palavra é paz,",
+                "Tua palavra é vida ao meu coração.",
+                "Por isso, em meu viver",
+                "eu quero compreender,",
+                "Eu quero aceitar em mim o Teu querer.",
+                "Vem ajudar-me, ó Deus."
+            ]
+        }
+    ]
+}

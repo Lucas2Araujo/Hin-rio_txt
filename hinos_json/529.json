@@ -1,0 +1,80 @@
+{
+    "hymn": {
+        "number": "529",
+        "title": "Se Deus É Por Nós",
+        "originalTitle": "",
+        "subCategory": 29,
+        "lyricsComposer": [
+            454
+        ],
+        "musicComposer": [
+            454
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Romanos 8:31",
+        "youtubeURL": "https://www.youtube.com/watch?v=Kzc35-5a-W0",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Romanos 8:31",
+            "Salmos 118:6",
+            "Salmos 27:1"
+        ],
+        "texto_base": "Romanos 8:31",
+        "temas_relacionados": [
+            "Vida Cristã e Devoção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se Deus é por nós,",
+                "Quem será contra nós?",
+                "Quem será contra nós,",
+                "Se Deus é por nós?"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se Deus é por nós,",
+                "Quem será contra nós?",
+                "Quem será contra nós,",
+                "Se Deus é por nós?"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se Deus é por nós,",
+                "Quem será contra nós?",
+                "Quem será contra nós,",
+                "Se Deus é por nós?"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se Deus é por nós,",
+                "Quem será contra nós?",
+                "Quem será contra nós,",
+                "Se Deus é por nós?"
+            ]
+        }
+    ]
+}

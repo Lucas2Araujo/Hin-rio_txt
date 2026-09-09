@@ -1,0 +1,112 @@
+{
+    "hymn": {
+        "number": "330",
+        "title": "O Melhor Amigo",
+        "originalTitle": "Oh, the Best Friend to Have Is Jesus",
+        "subCategory": 22,
+        "lyricsComposer": [
+            398
+        ],
+        "musicComposer": [
+            398
+        ],
+        "versionComposer": [
+            262
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 15:13",
+        "youtubeURL": "https://www.youtube.com/watch?v=mQblvleLL40",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Provérbios 18:24",
+            "João 15:14",
+            "Salmos 25:14"
+        ],
+        "texto_base": "João 15:13",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sei que o amigo melhor é Cristo.",
+                "Se a tormenta vem provar-me a fé,",
+                "Pronto estende a Sua mão,",
+                "Tranquiliza o coração.",
+                "Sim, o amigo melhor é Cristo."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Jesus é o melhor amigo,",
+                "Jesus é o melhor amigo.",
+                "Sim, repreende com amor",
+                "E me anima com vigor.",
+                "Sim, o amigo melhor é Cristo."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, que amigo precioso é Cristo!",
+                "Nele encontro amor, consolo e paz.",
+                "Em Seu braço esperarei;",
+                "Nenhum golpe temerei.",
+                "Sim, o amigo melhor é Cristo."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Jesus é o melhor amigo,",
+                "Jesus é o melhor amigo.",
+                "Sim, repreende com amor",
+                "E me anima com vigor.",
+                "Sim, o amigo melhor é Cristo."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se eu passar pelo vale escuro",
+                "E chegar às águas do Jordão,",
+                "Não receio, pois Jesus,",
+                "Salvo, à pátria me conduz.",
+                "Sim, o amigo melhor é Cristo."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Jesus é o melhor amigo,",
+                "Jesus é o melhor amigo.",
+                "Sim, repreende com amor",
+                "E me anima com vigor.",
+                "Sim, o amigo melhor é Cristo."
+            ]
+        }
+    ]
+}

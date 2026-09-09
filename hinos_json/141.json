@@ -1,0 +1,83 @@
+{
+    "hymn": {
+        "number": "141",
+        "title": "Cristo Tocou-me",
+        "originalTitle": "He Touched Me",
+        "subCategory": 10,
+        "lyricsComposer": [
+            525
+        ],
+        "musicComposer": [
+            525
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Marcos 1:40-42",
+        "youtubeURL": "https://www.youtube.com/watch?v=0xi3zUDft6g",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Lucas 5:13",
+            "Marcos 5:41",
+            "Mateus 8:3"
+        ],
+        "texto_base": "Marcos 1:40-42",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Preso por imenso fardo",
+                "De pecado e de temor,",
+                "Foi que Cristo, então, tocou-me;",
+                "E assim não sou mais tal pecador."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Tocou-me, sim, tocou-me.",
+                "Oh, quanta paz no coração!",
+                "Fui transformado e novo sou.",
+                "E hoje eu tenho a salvação."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Desde que encontrei meu Mestre,",
+                "Sinto paz, prazer sem-par.",
+                "Meus louvores ergo a Cristo;",
+                "Seu nome a todos vou proclamar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Tocou-me, sim, tocou-me.",
+                "Oh, quanta paz no coração!",
+                "Fui transformado e novo sou.",
+                "E hoje eu tenho a salvação."
+            ]
+        }
+    ]
+}

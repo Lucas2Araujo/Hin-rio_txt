@@ -1,0 +1,106 @@
+{
+    "hymn": {
+        "number": "395",
+        "title": "Vem Brilhar",
+        "originalTitle": "Shine on Us",
+        "subCategory": 22,
+        "lyricsComposer": [
+            380,
+            85
+        ],
+        "musicComposer": [
+            380,
+            85
+        ],
+        "versionComposer": [
+            235
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 8:12",
+        "youtubeURL": "https://www.youtube.com/watch?v=8N1zAktFoA0",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 5:16",
+            "2 Coríntios 4:6",
+            "Salmos 119:105"
+        ],
+        "texto_base": "João 8:12",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pai, vem fazer com que a Tua luz",
+                "Venha em mim brilhar.",
+                "Pai, vem fazer com que a Tua luz",
+                "Venha em mim brilhar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Só assim eu terei salvação em Ti.",
+                "E a Tua luz brilhando em mim",
+                "Vai dizer que sou feliz."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pai, vem trazer Tua graça e paz",
+                "Para o meu viver.",
+                "Pai, vem trazer Tua graça e paz",
+                "Para o meu viver."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Só assim eu terei salvação em Ti.",
+                "E a Tua luz brilhando em mim",
+                "Vai dizer que sou feliz."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pai, vem encher do Teu grande amor",
+                "Este pobre ser.",
+                "Pai, vem encher do Teu grande amor",
+                "Este pobre ser."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Só assim eu terei salvação em Ti.",
+                "E a Tua luz brilhando em mim",
+                "Vai dizer que sou feliz.",
+                "Vai dizer que sou feliz."
+            ]
+        }
+    ]
+}

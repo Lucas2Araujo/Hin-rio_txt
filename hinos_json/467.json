@@ -1,0 +1,74 @@
+{
+    "hymn": {
+        "number": "467",
+        "title": "Até Quando?",
+        "originalTitle": "",
+        "subCategory": 25,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 6:10",
+        "youtubeURL": "https://www.youtube.com/watch?v=PHRLFJoaIXQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 6:10",
+            "Salmos 13:1-2",
+            "Habacuque 1:2"
+        ],
+        "texto_base": "Apocalipse 6:10",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Igreja e Comunhão",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Outro dia desses me perguntei",
+                "Da volta do meu Senhor",
+                "E, do fundo da alma, eu supliquei:",
+                "“Que seja hoje mesmo, por favor!”",
+                "Até quando, Senhor?",
+                "Até quando",
+                "Nós teremos que esperar?",
+                "Até quando, Senhor?",
+                "Até quando",
+                "Nós teremos que chorar?",
+                "Apressa esse dia, apressa",
+                "o mais que puderes, ó Pai,",
+                "Pois nós já estamos cansados,",
+                "cansados da luta e da dor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Segura-nos sempre em Teus braços",
+                "E afaga-nos com Tua mão;",
+                "E, enquanto esse dia não chega,",
+                "Nos dá o amor dos irmãos.",
+                "Vem logo, Senhor, vem logo!",
+                "Vem logo, Senhor! Amém!"
+            ]
+        }
+    ]
+}

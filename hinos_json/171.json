@@ -1,0 +1,125 @@
+{
+    "hymn": {
+        "number": "171",
+        "title": "Com Cristo No Meu Coração",
+        "originalTitle": "Since Jesus Came Into My Heart",
+        "subCategory": 10,
+        "lyricsComposer": [
+            438
+        ],
+        "musicComposer": [
+            60
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Efésios 2:12, 13",
+        "youtubeURL": "https://www.youtube.com/watch?v=OvOiXTDTiIk",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Efésios 2:13",
+            "2 Coríntios 5:17",
+            "Romanos 5:1"
+        ],
+        "texto_base": "Efésios 2:12, 13",
+        "temas_relacionados": [
+            "Oração e Comunhão",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que mudança gloriosa em mim se operou,",
+                "Com Cristo no meu coração!",
+                "Minha alma alcançou luz que muito buscou,",
+                "Com Cristo no meu coração."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Com Cristo no meu coração,",
+                "Com Cristo no meu coração,",
+                "Alegria sem-par vem meu ser inundar,",
+                "Com Cristo no meu coração."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pelas sendas do mal já deixei de vaguear,",
+                "Com Cristo no meu coração.",
+                "E meus muitos pecados fui logo entregar,",
+                "Com Cristo no meu coração."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Com Cristo no meu coração,",
+                "Com Cristo no meu coração,",
+                "Alegria sem-par vem meu ser inundar,",
+                "Com Cristo no meu coração."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Té no vale da morte eu avisto uma luz,",
+                "Com Cristo no meu coração,",
+                "Pois a santa cidade já perto reluz,",
+                "Com Cristo no meu coração."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Com Cristo no meu coração,",
+                "Com Cristo no meu coração,",
+                "Alegria sem-par vem meu ser inundar,",
+                "Com Cristo no meu coração."
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nessa santa cidade pra sempre estarei,",
+                "Com Cristo no meu coração.",
+                "Lá com grande alegria afinal entrarei,",
+                "Com Cristo no meu coração."
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Com Cristo no meu coração,",
+                "Com Cristo no meu coração,",
+                "Alegria sem-par vem meu ser inundar,",
+                "Com Cristo no meu coração."
+            ]
+        }
+    ]
+}

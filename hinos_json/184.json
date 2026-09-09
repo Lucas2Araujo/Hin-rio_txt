@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "184",
+        "title": "Quero Ter Jesus Comigo",
+        "originalTitle": "I Must Have the Saviour With Me",
+        "subCategory": 11,
+        "lyricsComposer": [
+            132
+        ],
+        "musicComposer": [
+            282
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Romanos 8:35-39",
+        "youtubeURL": "https://www.youtube.com/watch?v=z3FtUwqdEU4",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Romanos 8:38-39",
+            "João 15:4",
+            "Gálatas 2:20"
+        ],
+        "texto_base": "Romanos 8:35-39",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Missão e Serviço",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quero ter Jesus comigo,",
+                "Quero a sós com Ele andar.",
+                "Quero ver Seu lindo rosto,",
+                "Em Seus braços descansar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Tendo fé no Salvador,",
+                "Descansando em Seu amor,",
+                "Seguirei no meu caminho,",
+                "Sem tristeza, sem temor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quero ter Jesus comigo;",
+                "Frágil sou em minha fé.",
+                "Sua voz me dá conforto",
+                "Quando me vacila o pé."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Tendo fé no Salvador,",
+                "Descansando em Seu amor,",
+                "Seguirei no meu caminho,",
+                "Sem tristeza, sem temor."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quero ter Jesus comigo,",
+                "Sempre aqui em meu viver,",
+                "No lazer e no trabalho,",
+                "No pesar e no prazer."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Tendo fé no Salvador,",
+                "Descansando em Seu amor,",
+                "Seguirei no meu caminho,",
+                "Sem tristeza, sem temor."
+            ]
+        }
+    ]
+}

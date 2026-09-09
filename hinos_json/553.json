@@ -1,0 +1,103 @@
+{
+    "hymn": {
+        "number": "553",
+        "title": "Minha Vida É Uma Viagem",
+        "originalTitle": "",
+        "subCategory": 29,
+        "lyricsComposer": [
+            80
+        ],
+        "musicComposer": [
+            80
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Tessalonicenses 4:16, 17",
+        "youtubeURL": "https://www.youtube.com/watch?v=SjB4E02wpRM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Hebreus 11:13-14",
+            "Filipenses 3:20",
+            "1 Pedro 2:11"
+        ],
+        "texto_base": "1 Tessalonicenses 4:16, 17",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Palavra de Deus e Lei"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vou fazer as minhas malas;",
+                "Estou indo viajar.",
+                "Ponho nelas o meu mapa,",
+                "Aventura e diversão.",
+                "Eu coloco a minha Bíblia",
+                "E também muita alegria.",
+                "Tenho pressa de chegar,",
+                "Tenho pressa de chegar;",
+                "Estou indo para o lar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Minha vida é uma viagem,",
+                "Minha vida é uma viagem.",
+                "Estou indo para lá,",
+                "Estou indo para o lar,",
+                "Estou indo ver Jesus.",
+                "Minha vida é uma viagem,",
+                "Minha vida é uma viagem.",
+                "Estou indo para lá,",
+                "Estou indo para o lar,",
+                "Estou indo ver Jesus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vou fazer as minhas malas;",
+                "Estou indo viajar.",
+                "Ponho nelas o meu mapa,",
+                "Aventura e diversão.",
+                "Eu coloco a minha Bíblia",
+                "E também muita alegria.",
+                "Tenho pressa de chegar,",
+                "Tenho pressa de chegar;",
+                "Estou indo para o lar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Minha vida é uma viagem,",
+                "Minha vida é uma viagem.",
+                "Estou indo para lá,",
+                "Estou indo para o lar,",
+                "Estou indo ver Jesus.",
+                "Minha vida é uma viagem,",
+                "Minha vida é uma viagem.",
+                "Estou indo para lá,",
+                "Estou indo para o lar,",
+                "Estou indo ver Jesus."
+            ]
+        }
+    ]
+}

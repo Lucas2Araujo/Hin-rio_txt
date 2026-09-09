@@ -1,0 +1,116 @@
+{
+    "hymn": {
+        "number": "304",
+        "title": "Que Te Darei, Meu Mestre?",
+        "originalTitle": "What Shall I Give Thee, Master?",
+        "subCategory": 21,
+        "lyricsComposer": [
+            214
+        ],
+        "musicComposer": [
+            214
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 116:12, 13",
+        "youtubeURL": "https://www.youtube.com/watch?v=wAW5aQOksIg",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 116:12",
+            "Romanos 11:35-36",
+            "Miquéias 6:8"
+        ],
+        "texto_base": "Salmo 116:12, 13",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que Te darei, meu Mestre,",
+                "Meu Rei e meu Senhor?",
+                "Tenho tão pouco pra Te ofertar,",
+                "Mas é com mui grande amor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo, Senhor bendito,",
+                "Tudo fizeste a mim.",
+                "Tu desceste lá do Céu,",
+                "Dando ao pecado fim.",
+                "Que Te darei, meu Mestre,",
+                "Por Teu imenso amor?",
+                "Meu coração e todo o meu ser",
+                "Te entregarei, Senhor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que Te darei, meu Mestre,",
+                "Por Teu sublime amor?",
+                "Todos meus bens e tudo o que sou",
+                "Deponho a Teus pés, Senhor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo, Senhor bendito,",
+                "Tudo fizeste a mim.",
+                "Tu desceste lá do Céu,",
+                "Dando ao pecado fim.",
+                "Que Te darei, meu Mestre,",
+                "Por Teu imenso amor?",
+                "Meu coração e todo o meu ser",
+                "Te entregarei, Senhor."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que Te darei, meu Mestre,",
+                "Meu grande Salvador?",
+                "Com gratidão e com devoção,",
+                "A Ti renderei louvor."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo, Senhor bendito,",
+                "Tudo fizeste a mim.",
+                "Tu desceste lá do Céu,",
+                "Dando ao pecado fim.",
+                "Que Te darei, meu Mestre,",
+                "Por Teu imenso amor?",
+                "Meu coração e todo o meu ser",
+                "Te entregarei, Senhor."
+            ]
+        }
+    ]
+}

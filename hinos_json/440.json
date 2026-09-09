@@ -1,0 +1,117 @@
+{
+    "hymn": {
+        "number": "440",
+        "title": "Breve Jesus Voltará",
+        "originalTitle": "Jesus Is Coming Again",
+        "subCategory": 25,
+        "lyricsComposer": [
+            257
+        ],
+        "musicComposer": [
+            169
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 22:20",
+        "youtubeURL": "https://www.youtube.com/watch?v=VuxpSoj5eGA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 22:12",
+            "Apocalipse 22:20",
+            "Hebreus 10:37"
+        ],
+        "texto_base": "Apocalipse 22:20",
+        "temas_relacionados": [
+            "Missão e Serviço",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Servos de Deus, a trombeta tocai:",
+                "Breve Jesus voltará!",
+                "A todo o mundo a mensagem levai:",
+                "Breve Jesus voltará!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Breve virá! Breve virá!",
+                "Breve Jesus voltará!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ide às nações e depressa anunciai:",
+                "Breve Jesus voltará!",
+                "Gratos, alegres, as novas cantai:",
+                "Breve Jesus voltará!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Breve virá! Breve virá!",
+                "Breve Jesus voltará!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Montes e vales, o som ecoai:",
+                "Breve Jesus voltará!",
+                "Ondas do mar a canção entoai:",
+                "Breve Jesus voltará!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Breve virá! Breve virá!",
+                "Breve Jesus voltará!"
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Guerras e fomes nos dão a entender:",
+                "Breve Jesus voltará!",
+                "Graves sinais já nos fazem saber:",
+                "Breve Jesus voltará!"
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Breve virá! Breve virá!",
+                "Breve Jesus voltará!"
+            ]
+        }
+    ]
+}

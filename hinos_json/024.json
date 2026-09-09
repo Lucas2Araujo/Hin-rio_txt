@@ -1,0 +1,72 @@
+{
+    "hymn": {
+        "number": "24",
+        "title": "Rei Dos Reis",
+        "originalTitle": "Majesty",
+        "subCategory": 3,
+        "lyricsComposer": [
+            234
+        ],
+        "musicComposer": [
+            234
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 17:14",
+        "youtubeURL": "https://www.youtube.com/watch?v=AlTWVhSsndI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 19:16",
+            "1 Timóteo 6:15",
+            "Salmos 136:1"
+        ],
+        "texto_base": "Apocalipse 17:14",
+        "temas_relacionados": [
+            "Vida Cristã e Devoção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Rei dos reis! Deus criador do Céu!",
+                "Honra e glória ao Deus infinito em poder!",
+                "Terra e Céu, cantai ao grande Rei!",
+                "Deus criador, Deus redentor,",
+                "Deus Rei dos reis!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Adorai, glorificai o nome de Cristo!",
+                "Exaltai, magnificai Jesus, o Senhor!",
+                "Terra e Céu, cantai louvor a Deus!",
+                "Ele morreu! Ele venceu!",
+                "É Rei dos reis!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Adorai, glorificai o nome de Cristo!",
+                "Exaltai, magnificai Jesus, o Senhor!",
+                "Terra e Céu, cantai louvor a Deus!",
+                "Ele morreu! Ele venceu!",
+                "É Rei dos reis!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "hymn": {
+        "number": "398",
+        "title": "Pai, Vive Em Mim",
+        "originalTitle": "",
+        "subCategory": 22,
+        "lyricsComposer": [
+            463
+        ],
+        "musicComposer": [
+            463
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Gálatas 2:20",
+        "youtubeURL": "https://www.youtube.com/watch?v=VHhO_p0Gzyo",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Gálatas 2:20",
+            "Efésios 3:17",
+            "João 14:20"
+        ],
+        "texto_base": "Gálatas 2:20",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pai, quero agora Te pedir",
+                "Pra limpar Meu coração com Tua graça.",
+                "Pai, faze dele um bom lugar",
+                "Pra que possas habitar com Tua glória."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vem usar-me cada dia para o Teu louvor.",
+                "Que Tua paz viva em mim!",
+                "Tens o trono do meu ser,",
+                "Minha vida, meu prazer.",
+                "Pai, vive em mim."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pai, vem encher meu coração",
+                "Com a luz do Teu amor infinito.",
+                "Sei que meus olhos vão mostrar",
+                "A alegria de nós sermos amigos."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vem usar-me cada dia para o Teu louvor.",
+                "Que Tua paz viva em mim!",
+                "Tens o trono do meu ser,",
+                "Minha vida, meu prazer.",
+                "Pai, vive em mim."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Teu nome quero sempre adorar.",
+                "És meu Rei e eterno Senhor.",
+                "Feliz vou Te exaltar, e ao mundo revelar",
+                "Que Tu vives em mim."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vem usar-me cada dia para o Teu louvor.",
+                "Que Tua paz viva em mim!",
+                "Tens o trono do meu ser,",
+                "Minha vida, meu prazer.",
+                "Pai, vive em mim.",
+                "Pai, vive em mim."
+            ]
+        }
+    ]
+}

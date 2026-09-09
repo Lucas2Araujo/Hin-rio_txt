@@ -1,0 +1,125 @@
+{
+    "hymn": {
+        "number": "116",
+        "title": "Maravilhosa Graça",
+        "originalTitle": "Wonderful Grace of Jesus",
+        "subCategory": 10,
+        "lyricsComposer": [
+            187
+        ],
+        "musicComposer": [
+            187
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Efésios 2:7",
+        "youtubeURL": "https://www.youtube.com/watch?v=Kfplvg2IX6w",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Romanos 5:20",
+            "2 Coríntios 12:9",
+            "Hebreus 4:16"
+        ],
+        "texto_base": "Efésios 2:7",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Maravilhosa graça!",
+                "Maior que o meu pecar!",
+                "Como poder cantá-la?",
+                "Como hei de começar?",
+                "Trouxe-me alívio à alma,",
+                "e vivo em toda a calma,",
+                "Pela maravilhosa graça de Jesus!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Graça! Quão maravilhosa graça!",
+                "Como o firmamento, é sem fim!",
+                "É maravilhosa, é tão grandiosa,",
+                "Tão sublime e doce para mim!",
+                "É maior que todos meus pecados,",
+                "Mais profunda que o imenso mar.",
+                "A Cristo vamos, pois, louvores dar!",
+                "A Deus honrar!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Maravilhosa graça!",
+                "Traz vida perenal!",
+                "Por Cristo perdoado,",
+                "vou à mansão real.",
+                "Sei que hoje sou liberto,",
+                "vivo de Deus bem perto,",
+                "Pela maravilhosa graça de Jesus!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Graça! Quão maravilhosa graça!",
+                "Como o firmamento, é sem fim!",
+                "É maravilhosa, é tão grandiosa,",
+                "Tão sublime e doce para mim!",
+                "É maior que todos meus pecados,",
+                "Mais profunda que o imenso mar.",
+                "A Cristo vamos, pois, louvores dar!",
+                "A Deus honrar!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Maravilhosa graça!",
+                "Quão ricas bênçãos traz!",
+                "Por ela Deus salvou-me,",
+                "deu-me perdão e paz!",
+                "Salvo, sim, em verdade,",
+                "por toda a eternidade,",
+                "Pela maravilhosa graça de Jesus!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Graça! Quão maravilhosa graça!",
+                "Como o firmamento, é sem fim!",
+                "É maravilhosa, é tão grandiosa,",
+                "Tão sublime e doce para mim!",
+                "É maior que todos meus pecados,",
+                "Mais profunda que o imenso mar.",
+                "A Cristo vamos, pois, louvores dar!",
+                "A Deus honrar!"
+            ]
+        }
+    ]
+}

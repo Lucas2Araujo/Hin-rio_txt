@@ -1,0 +1,105 @@
+{
+    "hymn": {
+        "number": "483",
+        "title": "Vamos Ver Jesus Ali",
+        "originalTitle": "We Shall See the King Someday",
+        "subCategory": 27,
+        "lyricsComposer": [
+            323
+        ],
+        "musicComposer": [
+            323
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 25:31, 34",
+        "youtubeURL": "https://www.youtube.com/watch?v=US64k5we5s0",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 João 3:2",
+            "Apocalipse 22:4",
+            "Jó 19:26"
+        ],
+        "texto_base": "Mateus 25:31, 34",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se infeliz é a vida neste mundo mau,",
+                "Vamos, sim, deixá-la um dia",
+                "Para ir morar no lar celestial,",
+                "Onde tudo é mui feliz."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vamos ver Jesus ali,",
+                "Sua santa paz fruir;",
+                "E com Ele estar, Seu rosto contemplar,",
+                "E alegria desfrutar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A vitória eterna, que Jesus nos dá,",
+                "Vamos recebê-la um dia.",
+                "Ao findar a luta, calma nos virá",
+                "Onde tudo é mui feliz."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vamos ver Jesus ali,",
+                "Sua santa paz fruir;",
+                "E com Ele estar, Seu rosto contemplar,",
+                "E alegria desfrutar."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Todos os remidos se conhecerão,",
+                "Sim, ali no Céu, um dia.",
+                "Na harmonia santa sempre viverão,",
+                "Onde tudo é mui feliz."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vamos ver Jesus ali,",
+                "Sua santa paz fruir;",
+                "E com Ele estar, Seu rosto contemplar,",
+                "E alegria desfrutar."
+            ]
+        }
+    ]
+}

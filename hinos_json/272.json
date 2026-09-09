@@ -1,0 +1,94 @@
+{
+    "hymn": {
+        "number": "272",
+        "title": "Através De Nós",
+        "originalTitle": "",
+        "subCategory": 17,
+        "lyricsComposer": [
+            492
+        ],
+        "musicComposer": [
+            326
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 15:16",
+        "youtubeURL": "https://www.youtube.com/watch?v=c9f7n3Ro6_Y",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 15:16",
+            "Efésios 2:10",
+            "Filipenses 2:13"
+        ],
+        "texto_base": "João 15:16",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Espírito Santo",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus quer que a nossa vida se consagre",
+                "Para que Ele use os dons que há em nós.",
+                "O mundo então verá grandes milagres",
+                "Se o Espírito falar por nossa voz.",
+                "Deus quer usar os dons que nos tem dado,",
+                "Tornando a nossa vida uma luz",
+                "E assim curar os pobres quebrantados",
+                "Com nossas mãos guiadas por Jesus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Através de nós, através de nós,",
+                "Deus quer manifestar a Sua glória.",
+                "Através de nós, através de nós,",
+                "Deus mostra o caminho da vitória.",
+                "Através de nós."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se Deus em nossa vida achar morada,",
+                "Se Dele for a nossa mente e o nosso coração,",
+                "Veremos muita gente abençoada",
+                "Que Deus abençoou por nossas mãos.",
+                "Nós somos o canal das grandes bênçãos",
+                "Que Deus deseja hoje derramar.",
+                "Deus pode operar muitos milagres",
+                "Somente se o Seu povo se humilhar e orar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Através de nós, através de nós,",
+                "Deus quer manifestar a Sua glória.",
+                "Através de nós, através de nós,",
+                "Deus mostra o caminho da vitória.",
+                "Através de nós."
+            ]
+        }
+    ]
+}

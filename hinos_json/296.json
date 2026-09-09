@@ -1,0 +1,82 @@
+{
+    "hymn": {
+        "number": "296",
+        "title": "Bem-vindo O Sábado",
+        "originalTitle": "Welcome, Delightful Morn",
+        "subCategory": 20,
+        "lyricsComposer": [
+            459
+        ],
+        "musicComposer": [
+            159
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 58:13, 14",
+        "youtubeURL": "https://www.youtube.com/watch?v=JGnzZ3eY5Xg",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 92:1",
+            "Marcos 1:21",
+            "Isaías 56:2"
+        ],
+        "texto_base": "Isaías 58:13, 14",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Missão e Serviço",
+            "Paz, Cuidado e Confiança",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Bem-vindo é a nós",
+                "o sábado feliz!",
+                "Do grande amor de Deus,",
+                "de Seu poder nos diz.",
+                "Bem longe põe o mundo vil,",
+                "A luta, a dor, trabalhos mil.",
+                "O amor e a doce paz do Céu nos traz."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vem, Príncipe dos Céus,",
+                "renova-nos o ser",
+                "Até se achar em nós",
+                "justiça, amor, poder.",
+                "Por Teu amor que é sem igual,",
+                "Oh, livra-nos de todo o mal",
+                "E dá-nos proteção e salvação!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Com Teu poder, oh, vem,",
+                "bendize-nos, Senhor!",
+                "Conserva-nos no bem,",
+                "na luz do Teu amor.",
+                "A cada um concede, então,",
+                "O Teu favor e o Teu perdão,",
+                "E lá no bom país, um lar feliz."
+            ]
+        }
+    ]
+}

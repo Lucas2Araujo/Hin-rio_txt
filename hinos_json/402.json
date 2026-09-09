@@ -1,0 +1,93 @@
+{
+    "hymn": {
+        "number": "402",
+        "title": "Perto De Jesus",
+        "originalTitle": "Draw Me Close to You",
+        "subCategory": 22,
+        "lyricsComposer": [
+            311
+        ],
+        "musicComposer": [
+            311
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Efésios 2:13",
+        "youtubeURL": "https://www.youtube.com/watch?v=dwzZKr4SKHY",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Tiago 4:8",
+            "Salmos 73:28",
+            "Hebreus 10:22"
+        ],
+        "texto_base": "Efésios 2:13",
+        "temas_relacionados": [
+            "Graça e Salvação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Perto de Jesus",
+                "Sempre quero estar.",
+                "Tudo o que eu preciso aqui",
+                "Sempre encontro junto a Ti.",
+                "Quero aqui ficar;",
+                "Nunca me afastar.",
+                "E abrigado em Ti, Senhor,",
+                "Sinto o Teu amor por mim.",
+                "Tu és o meu Deus;",
+                "Quero só a Ti."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quero entregar",
+                "O meu viver, Senhor.",
+                "Sim, quero estar",
+                "Bem junto a Ti, Jesus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Perto de Jesus",
+                "Sempre quero estar.",
+                "Tudo o que eu preciso aqui",
+                "Sempre encontro junto a Ti.",
+                "Quero aqui ficar;",
+                "Nunca me afastar.",
+                "E abrigado em Ti, Senhor,",
+                "Sinto o Teu amor por mim.",
+                "Tu és o meu Deus;",
+                "Quero só a Ti."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quero entregar",
+                "O meu viver, Senhor.",
+                "Sim, quero estar",
+                "Bem junto a Ti, Jesus.",
+                "Bem junto a Ti, Jesus."
+            ]
+        }
+    ]
+}

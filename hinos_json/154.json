@@ -1,0 +1,116 @@
+{
+    "hymn": {
+        "number": "154",
+        "title": "Alvo Mais Que A Neve",
+        "originalTitle": "Blessed Be the Fountain",
+        "subCategory": 10,
+        "lyricsComposer": [
+            99
+        ],
+        "musicComposer": [
+            209
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 1:18",
+        "youtubeURL": "https://www.youtube.com/watch?v=E1wkziOywHE",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 1:18",
+            "Salmos 51:7",
+            "Apocalipse 7:14"
+        ],
+        "texto_base": "Isaías 1:18",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Seja bendito o Cordeiro",
+                "Que na cruz por nós padeceu!",
+                "Seja bendito Seu sangue",
+                "Que por nós, pecadores, verteu!",
+                "Eis-nos no sangue lavados,",
+                "Com vestes que tão alvas são,",
+                "Nós, pecadores remidos,",
+                "Que de Deus recebemos perdão."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Alvo mais que a neve!",
+                "Alvo mais que a neve!",
+                "Sim, nesse sangue lavado,",
+                "Mais alvo que a neve serei."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quão espinhosa a coroa",
+                "Que Jesus por nós suportou!",
+                "Oh, quão profundas as marcas",
+                "Que nos provam o quanto Ele amou!",
+                "Há nessas marcas tão puras",
+                "Paz para o impuro pecador!",
+                "Muito mais alvos que a neve",
+                "O Teu sangue nos torna, Senhor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Alvo mais que a neve!",
+                "Alvo mais que a neve!",
+                "Sim, nesse sangue lavado,",
+                "Mais alvo que a neve serei."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se nós a Ti confessarmos",
+                "E seguirmos na Tua luz,",
+                "Tu não somente perdoas,",
+                "Purificas também, ó Jesus!",
+                "Sim, e de todo o pecado!",
+                "Que maravilha esse amor!",
+                "Muito mais alvos que a neve",
+                "O Teu sangue nos torna, Senhor."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Alvo mais que a neve!",
+                "Alvo mais que a neve!",
+                "Sim, nesse sangue lavado,",
+                "Mais alvo que a neve serei."
+            ]
+        }
+    ]
+}

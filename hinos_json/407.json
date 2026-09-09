@@ -1,0 +1,98 @@
+{
+    "hymn": {
+        "number": "407",
+        "title": "O Poder Do Amor",
+        "originalTitle": "The Power of Your Love",
+        "subCategory": 22,
+        "lyricsComposer": [
+            163
+        ],
+        "musicComposer": [
+            163
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Romanos 8:38, 39",
+        "youtubeURL": "https://www.youtube.com/watch?v=mekkPPhTwUc",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Romanos 8:38-39",
+            "Cantares 8:6",
+            "1 Coríntios 13:8"
+        ],
+        "texto_base": "Romanos 8:38, 39",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Venho a Ti Jesus;",
+                "quero renovar meu ser.",
+                "Sei que a graça vem só de Ti, Senhor.",
+                "Eu descobri, ó Deus,",
+                "que tudo que é mau em mim",
+                "Vai se transformar, com o poder do amor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Meu Jesus,",
+                "Teu amor me envolve.",
+                "Quero estar",
+                "Firme em Tuas mãos.",
+                "Eu vou buscar",
+                "Com fé a Tua graça,",
+                "Vivendo em Ti, Jesus,",
+                "Aceito em Tua cruz,",
+                "Com o poder amor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Abre os olhos meus;",
+                "quero ver o Teu olhar.",
+                "Mostra o Teu amor; vem viver em mim.",
+                "Renova o meu pensar,",
+                "ensina-me o Teu querer",
+                "Cada dia mais, com o poder do amor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Meu Jesus,",
+                "Teu amor me envolve.",
+                "Quero estar",
+                "Firme em Tuas mãos.",
+                "Eu vou buscar",
+                "Com fé a Tua graça,",
+                "Vivendo em Ti, Jesus,",
+                "Aceito em Tua cruz,",
+                "Com o poder amor.",
+                "Vivendo em Ti, Jesus,",
+                "Aceito em Tua cruz,",
+                "Com o poder do amor."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "hymn": {
+        "number": "535",
+        "title": "Santa Lei De Deus",
+        "originalTitle": "Little Feet, Be Careful",
+        "subCategory": 29,
+        "lyricsComposer": [
+            334
+        ],
+        "musicComposer": [
+            245
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 119:73",
+        "youtubeURL": "https://www.youtube.com/watch?v=wSoey4BKe1Y",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Êxodo 20:3-17",
+            "Mateus 22:37-39",
+            "Romanos 13:9"
+        ],
+        "texto_base": "Salmo 119:73",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "São dez os mandamentos",
+                "da santa lei de Deus,",
+                "Que podem ser contados",
+                "nos dez dedinhos meus.",
+                "Os meus dois olhinhos",
+                "servem para os ler,",
+                "E estes meus dedinhos,",
+                "para os escrever."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Dos dez preceitos, quatro",
+                "nos dizem quanto amor",
+                "Devemos a Jesus,",
+                "que é nosso Criador.",
+                "Os meus dois ouvidos",
+                "servem para ouvir;",
+                "A boquinha minha,",
+                "para os proferir."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Amai aos semelhantes,",
+                "exortam os finais;",
+                "Amai como a vós mesmos,",
+                "e a Deus sereis leais.",
+                "Os meus dois pezinhos",
+                "servem para andar",
+                "Pelo bom caminho",
+                "sempre rumo ao lar."
+            ]
+        }
+    ]
+}

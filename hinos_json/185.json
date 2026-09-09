@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "185",
+        "title": "Cada Momento",
+        "originalTitle": "Moment By Moment",
+        "subCategory": 11,
+        "lyricsComposer": [
+            82
+        ],
+        "musicComposer": [
+            356
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 68:19",
+        "youtubeURL": "https://www.youtube.com/watch?v=RvM8AvWDnSQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 68:19",
+            "Lamentações 3:22-23",
+            "Salmos 139:17-18"
+        ],
+        "texto_base": "Salmo 68:19",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sendo remido por Cristo na cruz,",
+                "Sinto prazer caminhando na luz,",
+                "Cheio da graça que vem de Jesus.",
+                "Cada momento o Senhor me conduz."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cada momento me guia o Senhor;",
+                "Cada momento dispensa favor.",
+                "Vê minha fé e sustém meu vigor.",
+                "Cada momento sou Teu, ó Senhor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Junto com Cristo na luta moral,",
+                "Contra o pecado, o engano e o mal,",
+                "Ergo bem alto a bandeira real,",
+                "Cada momento mais firme e leal."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cada momento me guia o Senhor;",
+                "Cada momento dispensa favor.",
+                "Vê minha fé e sustém meu vigor.",
+                "Cada momento sou Teu, ó Senhor."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nas minhas lutas me pode amparar,",
+                "E do maligno também me livrar.",
+                "Cada momento por onde eu andar",
+                "Cristo, meu Mestre, me pode amparar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cada momento me guia o Senhor;",
+                "Cada momento dispensa favor.",
+                "Vê minha fé e sustém meu vigor.",
+                "Cada momento sou Teu, ó Senhor."
+            ]
+        }
+    ]
+}

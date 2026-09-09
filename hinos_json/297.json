@@ -1,0 +1,132 @@
+{
+    "hymn": {
+        "number": "297",
+        "title": "Dia De Esperança",
+        "originalTitle": "",
+        "subCategory": 20,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 63:23",
+        "youtubeURL": "https://www.youtube.com/watch?v=25cPKkUP8go",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Hebreus 4:9-10",
+            "Isaías 58:14",
+            "Lucas 23:56"
+        ],
+        "texto_base": "Isaías 63:23",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Missão e Serviço",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Segunda Vinda e Esperança",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus nos deu um dia da semana",
+                "Pra pensarmos no que Ele fez.",
+                "Separado, abençoado,",
+                "Santificado dia de louvor,",
+                "Dia lindo, escolhido",
+                "como verdadeiro memorial",
+                "Pra lembrarmos constantemente",
+                "que o grande Deus é o Criador."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "O sábado é um dia de esperança,",
+                "De lembrança,",
+                "De descanso pleno do labor.",
+                "É dia de esperança, de aliança",
+                "Entre o povo e o seu Senhor.",
+                "É dia de alegria, de harmonia,",
+                "É dia de canção e poesia;",
+                "Tempo abençoado, Santo dia do Senhor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Livres de cuidados desta vida,",
+                "Nos voltamos para o Salvador.",
+                "Estudamos a Palavra,",
+                "Aprendemos mais do Seu amor.",
+                "Nesse dia tão precioso,",
+                "dedicamos tempo pra servir",
+                "Aos que tanto necessitam",
+                "de atenção e um pouco de amor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "O sábado é um dia de esperança,",
+                "De lembrança,",
+                "De descanso pleno do labor.",
+                "É dia de esperança, de aliança",
+                "Entre o povo e o seu Senhor.",
+                "É dia de alegria, de harmonia,",
+                "É dia de canção e poesia;",
+                "Tempo abençoado, Santo dia do Senhor."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "De um sábado a outro sábado,",
+                "Adoraremos juntos ao Senhor.",
+                "Na terra renovada,",
+                "por toda a eternidade,",
+                "exaltaremos Seu amor."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "O sábado é um dia de esperança,",
+                "De lembrança,",
+                "De descanso pleno do labor.",
+                "É dia de esperança, de aliança",
+                "Entre o povo e o seu Senhor.",
+                "É dia de alegria, de harmonia,",
+                "É dia de canção e poesia;",
+                "Tempo abençoado,",
+                "Tempo consagrado,",
+                "Tempo incomparável,",
+                "Santo dia do Senhor."
+            ]
+        }
+    ]
+}

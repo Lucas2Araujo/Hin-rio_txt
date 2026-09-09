@@ -1,0 +1,121 @@
+{
+    "hymn": {
+        "number": "71",
+        "title": "Vitória Em Cristo",
+        "originalTitle": "Victory in Jesus",
+        "subCategory": 8,
+        "lyricsComposer": [
+            128
+        ],
+        "musicComposer": [
+            128
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Coríntios 15:57",
+        "youtubeURL": "https://www.youtube.com/watch?v=wQFi-aVjuo0",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 João 5:4",
+            "Romanos 8:37",
+            "2 Coríntios 2:14"
+        ],
+        "texto_base": "1 Coríntios 15:57",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ouvi da bela história",
+                "que Jesus desceu da glória",
+                "E no Gólgota enfim morreu",
+                "por quantos como eu.",
+                "Ouvi de Seus gemidos,",
+                "de Seu sangue e dos remidos.",
+                "E ao fim, contrito me prostrei,",
+                "vitória Nele achei."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vitória em Cristo, eterna vitória!",
+                "Buscou-me, salvou-me,",
+                "na cruz por mim morreu.",
+                "Que paz e alegria!",
+                "Raiou um novo dia!",
+                "Vitória Jesus me deu,",
+                "no sangue que verteu!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ouvi que Ele cura,",
+                "sim, a todo que O procura;",
+                "Que o coxo fez andar, então,",
+                "e ao cego deu visão.",
+                "Orei, clamei: “Meu Mestre,",
+                "vem, restaura minha vida.”",
+                "E logo Cristo me atendeu,",
+                "e a mim vitória deu."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vitória em Cristo, eterna vitória!",
+                "Buscou-me, salvou-me, na cruz por mim morreu.",
+                "Que paz e alegria! Raiou um novo dia!",
+                "Vitória Jesus me deu, no sangue que verteu!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ouvi falar da glória",
+                "que virá após vitória",
+                "Para os redimidos por Jesus,",
+                "na resplendente luz;",
+                "De anjos lá cantando,",
+                "e mansões já me aguardando.",
+                "Será glorioso ali chegar,",
+                "e então poder cantar:"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vitória em Cristo, eterna vitória!",
+                "Buscou-me, salvou-me, na cruz por mim morreu.",
+                "Que paz e alegria! Raiou um novo dia!",
+                "Vitória Jesus me deu, no sangue que verteu!"
+            ]
+        }
+    ]
+}

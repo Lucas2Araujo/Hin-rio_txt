@@ -1,0 +1,105 @@
+{
+    "hymn": {
+        "number": "128",
+        "title": "Se Tu Buscares A Jesus",
+        "originalTitle": "When You Know Jesus, Too",
+        "subCategory": 10,
+        "lyricsComposer": [
+            223
+        ],
+        "musicComposer": [
+            40
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Jeremias 29:13",
+        "youtubeURL": "https://www.youtube.com/watch?v=FHqRzJ1Pj0Q",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Deuteronômio 4:29",
+            "Provérbios 8:17",
+            "Mateus 7:7"
+        ],
+        "texto_base": "Jeremias 29:13",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se tu buscares a Jesus,",
+                "Encontrarás o Salvador.",
+                "A ti virá manhã de luz",
+                "E paz em Seu amor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Se buscares conhecê-Lo,",
+                "Oh, sim, O amarás também!",
+                "Manhã feliz despontará",
+                "Para ti no lar de além."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Assim como Ele prometeu,",
+                "Em teu viver desfrutarás",
+                "O amor e as bênçãos lá do Céu,",
+                "De Deus a doce paz."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Se buscares conhecê-Lo,",
+                "Oh, sim, O amarás também!",
+                "Manhã feliz despontará",
+                "Para ti no lar de além."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus compreende tua dor",
+                "E tudo faz pra te salvar.",
+                "Crê, pois, que junto ao Salvador",
+                "A paz irás achar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Se buscares conhecê-Lo,",
+                "Oh, sim, O amarás também!",
+                "Manhã feliz despontará",
+                "Para ti no lar de além."
+            ]
+        }
+    ]
+}

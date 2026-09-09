@@ -1,0 +1,127 @@
+{
+    "hymn": {
+        "number": "352",
+        "title": "Luz Bendita, Luz Gloriosa",
+        "originalTitle": "Sunshine in My Soul",
+        "subCategory": 22,
+        "lyricsComposer": [
+            116
+        ],
+        "musicComposer": [
+            282
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 8:12",
+        "youtubeURL": "https://www.youtube.com/watch?v=EeFroE51w8Y",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 8:12",
+            "1 João 1:7",
+            "Salmos 27:1"
+        ],
+        "texto_base": "João 8:12",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que bendita, que gloriosa luz",
+                "Brilha agora em meu ser!",
+                "Mais intensa e bela que a do Sol:",
+                "Veio em mim Jesus viver!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Luz bendita, luz gloriosa,",
+                "Concedida lá dos altos Céus!",
+                "Que alegria andarmos nessa luz,",
+                "Essa luz que vem de Deus!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sempre canta alegre seu louvor",
+                "Quem possui a luz dos Céus.",
+                "Tem o amor e a paz celestial,",
+                "Dom gracioso só de Deus."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Luz bendita, luz gloriosa,",
+                "Concedida lá dos altos Céus!",
+                "Que alegria andarmos nessa luz,",
+                "Essa luz que vem de Deus!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vida nova, vida em retidão,",
+                "Têm os crentes em Jesus.",
+                "Quem de perto segue o Salvador,",
+                "Dele tem poder e luz"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Luz bendita, luz gloriosa,",
+                "Concedida lá dos altos Céus!",
+                "Que alegria andarmos nessa luz,",
+                "Essa luz que vem de Deus!"
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Esperança, vida e salvação",
+                "Tu recebes do Senhor,",
+                "Aceitando Cristo, nossa luz,",
+                "Este dom do Deus de amor!"
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Luz bendita, luz gloriosa,",
+                "Concedida lá dos altos Céus!",
+                "Que alegria andarmos nessa luz,",
+                "Essa luz que vem de Deus!"
+            ]
+        }
+    ]
+}

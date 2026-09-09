@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "241",
+        "title": "A Todo Semelhante Meu",
+        "originalTitle": "Till the Whole World Knows",
+        "subCategory": 13,
+        "lyricsComposer": [
+            14
+        ],
+        "musicComposer": [
+            40
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 28:19",
+        "youtubeURL": "https://www.youtube.com/watch?v=tSDeT4aYMlY",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 28:19",
+            "Marcos 16:15",
+            "Atos 10:42"
+        ],
+        "texto_base": "Mateus 28:19",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A todo semelhante meu",
+                "Contarei que Deus é amor.",
+                "O mundo desconhece o bem",
+                "E Jesus, o Redentor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Falarei de Deus",
+                "E do Seu amor.",
+                "Para o mundo mostrarei Jesus",
+                "Com maior fervor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Da eterna graça sem igual",
+                "Aos perdidos falarei,",
+                "Guiando-os deste mundo mau",
+                "Para os pés do amado Rei."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Falarei de Deus",
+                "E do Seu amor.",
+                "Para o mundo mostrarei Jesus",
+                "Com maior fervor."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Mais vasto que o imenso mar",
+                "É de Deus o grande amor.",
+                "Eu quero então o proclamar",
+                "Para todo pecador."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Falarei de Deus",
+                "E do Seu amor.",
+                "Para o mundo mostrarei Jesus",
+                "Com maior fervor."
+            ]
+        }
+    ]
+}

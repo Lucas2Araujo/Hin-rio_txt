@@ -1,0 +1,100 @@
+{
+    "hymn": {
+        "number": "286",
+        "title": "Tua Lei",
+        "originalTitle": "",
+        "subCategory": 19,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 19:7",
+        "youtubeURL": "https://www.youtube.com/watch?v=179Ih-iPnk0",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 19:7",
+            "Salmos 119:105",
+            "Provérbios 6:23"
+        ],
+        "texto_base": "Salmo 19:7",
+        "temas_relacionados": [
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "As Tuas verdades, Senhor,",
+                "Desejo guardar onde eu for.",
+                "Por isso, eu as escondi",
+                "Dentro do meu coração.",
+                "Pretendo seguir Teu querer",
+                "E o Teu grande amor entender.",
+                "Eu sou Teu filho, Tu és meu Pai.",
+                "Da Tua mão eu não largo jamais."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A Tua verdade me faz",
+                "Ser livre e feliz outra vez.",
+                "E nela eu posso encontrar",
+                "A fórmula para vencer.",
+                "Luz que ilumina o caminho,",
+                "Fonte de todo saber.",
+                "A Tua lei é perfeita,",
+                "É o resumo do Teu querer."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nas Tuas veredas, Senhor,",
+                "Eu quero também caminhar.",
+                "Da fonte da vida, Senhor,",
+                "Quero somente beber.",
+                "Eu quero saciar minha sede,",
+                "A sede de Te conhecer.",
+                "Eu sou Teu filho, Tu és meu Pai.",
+                "Da Tua mão eu não largo jamais."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A Tua verdade me faz",
+                "Ser livre e feliz outra vez.",
+                "E nela eu posso encontrar",
+                "A fórmula para vencer.",
+                "Luz que ilumina o caminho,",
+                "Fonte de todo saber.",
+                "A Tua lei é perfeita,",
+                "É o resumo do Teu querer."
+            ]
+        }
+    ]
+}

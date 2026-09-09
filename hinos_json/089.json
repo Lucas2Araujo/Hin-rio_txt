@@ -1,0 +1,118 @@
+{
+    "hymn": {
+        "number": "89",
+        "title": "Natal, Feliz Natal!",
+        "originalTitle": "The First Noel",
+        "subCategory": 9,
+        "lyricsComposer": [
+            371
+        ],
+        "musicComposer": [
+            372
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 2:9-11",
+        "youtubeURL": "https://www.youtube.com/watch?v=02SEzuF8Yeg",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 72:10",
+            "Isaías 60:6",
+            "Mateus 2:1-2"
+        ],
+        "texto_base": "Mateus 2:9-11",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Missão e Serviço",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Natal, feliz Natal!",
+                "No céu de Belém,",
+                "Uma luz que surgiu",
+                "fez soar, lá no além,",
+                "O coro angelical",
+                "que em sons divinais",
+                "Proclamou, lá do Céu,",
+                "salvação aos mortais."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Natal, feliz Natal!",
+                "Natal, Natal!",
+                "Eis que nasceu",
+                "Nosso Rei divinal!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A paz então reinou",
+                "em céu, terra e mar",
+                "Ao descer sobre o Rei",
+                "uma luz estelar.",
+                "A luz do Salvador",
+                "brilhou mais e mais",
+                "E guiou a Seus pés",
+                "nobres reis orientais."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Natal, feliz Natal!",
+                "Natal, Natal!",
+                "Eis que nasceu",
+                "Nosso Rei divinal!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A luz que fez reinar",
+                "a paz divinal,",
+                "Que encheu todo o céu",
+                "de fulgor sideral,",
+                "A luz que ainda está",
+                "no céu a luzir",
+                "Vem também nossos pés",
+                "a Jesus conduzir."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Natal, feliz Natal!",
+                "Natal, Natal!",
+                "Eis que nasceu",
+                "Nosso Rei divinal!"
+            ]
+        }
+    ]
+}

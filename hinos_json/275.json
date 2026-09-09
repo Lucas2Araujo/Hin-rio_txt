@@ -1,0 +1,69 @@
+{
+    "hymn": {
+        "number": "275",
+        "title": "Hino Dos Aventureiros",
+        "originalTitle": "",
+        "subCategory": 17,
+        "lyricsComposer": [
+            505
+        ],
+        "musicComposer": [
+            505
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 19:14",
+        "youtubeURL": "https://www.youtube.com/watch?v=As-X-j6HRdE",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 19:14",
+            "Marcos 10:14",
+            "Lucas 18:16"
+        ],
+        "texto_base": "Mateus 19:14",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Somos Aventureiros alegres,",
+                "Que confiam no amigo Jesus.",
+                "Aprendemos que sempre devemos",
+                "Ser pra todos um brilho da luz.",
+                "Descobrimos em tudo a beleza",
+                "E o amor de um Deus criador.",
+                "E amando a Cristo faremos",
+                "Maravilhas ao nosso redor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Somos Aventureiros alegres,",
+                "Que confiam no amigo Jesus.",
+                "Aprendemos que sempre devemos",
+                "Ser pra todos um brilho da luz.",
+                "Descobrimos em tudo a beleza",
+                "E o amor de um Deus criador.",
+                "E amando a Cristo faremos",
+                "Maravilhas ao nosso redor."
+            ]
+        }
+    ]
+}

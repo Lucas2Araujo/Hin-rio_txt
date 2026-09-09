@@ -1,0 +1,117 @@
+{
+    "hymn": {
+        "number": "148",
+        "title": "Jesus Achou-me",
+        "originalTitle": "Sweeter As the Years Go By",
+        "subCategory": 10,
+        "lyricsComposer": [
+            320
+        ],
+        "musicComposer": [
+            320
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 40:1-3",
+        "youtubeURL": "https://www.youtube.com/watch?v=gmYPdCt9IlM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Lucas 15:4-5",
+            "Ezequiel 34:11",
+            "Salmos 119:176"
+        ],
+        "texto_base": "Salmo 40:1-3",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus um dia achou-me",
+                "Mui longe do meu lar,",
+                "Perdido já no mundo,",
+                "Sem mais poder voltar.",
+                "Nos braços Seus tomou-me,",
+                "Por Seu amor salvou-me,",
+                "O bom Pastor levou-me",
+                "De volta para o lar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A presença de Jesus",
+                "Dá-me paz, prazer e luz.",
+                "Cada dia cresce, mais se enriquece",
+                "Esta vida com Jesus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Andamos pelos montes",
+                "Pra minha fé provar.",
+                "Tão densas são as trevas!",
+                "Não posso caminhar!",
+                "Não há nenhum perigo,",
+                "Pois Cristo está comigo,",
+                "E este grande Amigo",
+                "Conduz-me para o lar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A presença de Jesus",
+                "Dá-me paz, prazer e luz.",
+                "Cada dia cresce, mais se enriquece",
+                "Esta vida com Jesus."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Passamos pelos vales;",
+                "Quão bom é relembrar!",
+                "Despertam as saudades",
+                "Do meu paterno lar.",
+                "Oh, quão maravilhoso,",
+                "Sublime e tão glorioso;",
+                "O Amigo tão precioso",
+                "Levar-me vai ao lar!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A presença de Jesus",
+                "Dá-me paz, prazer e luz.",
+                "Cada dia cresce, mais se enriquece",
+                "Esta vida com Jesus."
+            ]
+        }
+    ]
+}

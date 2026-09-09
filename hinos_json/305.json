@@ -1,0 +1,92 @@
+{
+    "hymn": {
+        "number": "305",
+        "title": "Sobre O Altar",
+        "originalTitle": "Is Your All on the Altar?",
+        "subCategory": 21,
+        "lyricsComposer": [
+            115
+        ],
+        "musicComposer": [
+            115
+        ],
+        "versionComposer": [
+            265
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 8:3",
+        "youtubeURL": "https://www.youtube.com/watch?v=nYohbTMsyfo",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Romanos 12:1-2",
+            "1 Crônicas 29:14",
+            "Hebreus 13:15"
+        ],
+        "texto_base": "Apocalipse 8:3",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Missão e Serviço",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se desejas a paz,",
+                "ter mais fé e poder",
+                "E louvor a Jesus queres dar,",
+                "Poderás descansar,",
+                "Sua bênção obter,",
+                "Se tua vida estiver sobre o altar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, entrega-te, pois,",
+                "ao serviço de Deus;",
+                "Consagra-Lhe teu coração!",
+                "Ele te bendirá, te fará descansar,",
+                "E tua vida será uma canção."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se caminhas com Deus,",
+                "pelo brilho da cruz,",
+                "Hás de ter o poder pra vencer.",
+                "Viverás, pois, feliz,",
+                "andarás sempre em luz,",
+                "Ofertando ao Senhor teu viver."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, entrega-te, pois,",
+                "ao serviço de Deus;",
+                "Consagra-Lhe teu coração!",
+                "Ele te bendirá, te fará descansar,",
+                "E tua vida será uma canção."
+            ]
+        }
+    ]
+}

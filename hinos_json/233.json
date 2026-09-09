@@ -1,0 +1,106 @@
+{
+    "hymn": {
+        "number": "233",
+        "title": "Brilha Por Cristo Em Teu Viver",
+        "originalTitle": "Brighten the Corner Where You Are",
+        "subCategory": 13,
+        "lyricsComposer": [
+            223
+        ],
+        "musicComposer": [
+            60
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 5:14-16",
+        "youtubeURL": "https://www.youtube.com/watch?v=s8nEm0RjysI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 5:16",
+            "Filipenses 2:15",
+            "Efésios 5:8"
+        ],
+        "texto_base": "Mateus 5:14-16",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Missão e Serviço",
+            "Palavra de Deus e Lei"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não somente pra fazer um gesto singular",
+                "É preciso agir com muito ardor,",
+                "Mas também as coisas simples",
+                "de se executar",
+                "Deves fazê-las com fervor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Brilha por Cristo em teu viver,",
+                "Brilha por Cristo em teu viver,",
+                "Pois talvez algum aflito possas socorrer.",
+                "Brilha por Cristo em teu viver."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pode ser que alguma vida possas alegrar",
+                "Com palavras ditas com amor,",
+                "Ou então pessoas tristes venhas alcançar",
+                "Com a mensagem do Senhor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Brilha por Cristo em teu viver,",
+                "Brilha por Cristo em teu viver,",
+                "Pois talvez algum aflito possas socorrer.",
+                "Brilha por Cristo em teu viver."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Muita gente neste mundo vive a sofrer",
+                "Em angústia, em densa escuridão,",
+                "À espera de alguém que venha oferecer",
+                "Alguma ajuda ou salvação."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Brilha por Cristo em teu viver,",
+                "Brilha por Cristo em teu viver,",
+                "Pois talvez algum aflito possas socorrer.",
+                "Brilha por Cristo em teu viver."
+            ]
+        }
+    ]
+}

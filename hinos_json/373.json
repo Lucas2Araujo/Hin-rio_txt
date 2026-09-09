@@ -1,0 +1,105 @@
+{
+    "hymn": {
+        "number": "373",
+        "title": "Deixa-me Contigo Andar",
+        "originalTitle": "",
+        "subCategory": 22,
+        "lyricsComposer": [
+            292
+        ],
+        "musicComposer": [
+            292
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Gênesis 5:24",
+        "youtubeURL": "https://www.youtube.com/watch?v=2Os83OCiqo4",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Gênesis 5:24",
+            "Miquéias 6:8",
+            "Salmos 119:105"
+        ],
+        "texto_base": "Gênesis 5:24",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deixa-me, Senhor, Contigo andar",
+                "No caminho ao lar de amor.",
+                "Só Contigo quero caminhar,",
+                "Pois confio em Ti, Senhor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Meu Deus, meu Deus,",
+                "Eis-me ao Teu lado!",
+                "Só Contigo quero caminhar,",
+                "Pois confio em Ti, Senhor!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tão sozinho andou meu coração,",
+                "Longe dos caminhos Teus!",
+                "Hoje eu canto em minha oração:",
+                "Quero andar Contigo, ó Deus."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Meu Deus, meu Deus,",
+                "Eis-me ao Teu lado!",
+                "Só Contigo quero caminhar,",
+                "Pois confio em Ti, Senhor!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ah, se o mundo inteiro meditar",
+                "No valor real da cruz!",
+                "Logo arrependido vai estar,",
+                "Caminhando com Jesus."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Meu Deus, meu Deus,",
+                "Eis-me ao Teu lado!",
+                "Só Contigo quero caminhar,",
+                "Pois confio em Ti, Senhor!"
+            ]
+        }
+    ]
+}

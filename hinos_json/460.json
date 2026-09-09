@@ -1,0 +1,108 @@
+{
+    "hymn": {
+        "number": "460",
+        "title": "Decidi Olhar Pra O Amanhã",
+        "originalTitle": "I Have Fixed My Mind on Another Time",
+        "subCategory": 25,
+        "lyricsComposer": [
+            84
+        ],
+        "musicComposer": [
+            84
+        ],
+        "versionComposer": [
+            294
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 22:20",
+        "youtubeURL": "https://www.youtube.com/watch?v=v4FahDb_EuM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Filipenses 3:13-14",
+            "Hebreus 12:2",
+            "Colossenses 3:2"
+        ],
+        "texto_base": "Apocalipse 22:20",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Lar e Família",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Decidi olhar pra o amanhã,",
+                "Olhar pra o amanhã.",
+                "E assim vou permanecer em pé,",
+                "Pondo em Deus a minha fé.",
+                "Jamais hei de desistir",
+                "Até que chegue o fim.",
+                "Decidi olhar pra o amanhã,",
+                "Olhar pra o amanhã."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Decidi no trilho estreito andar,",
+                "No trilho estreito andar,",
+                "Pois eu sei que o tempo bem perto está,",
+                "Sei que logo vai chegar.",
+                "E assim estarei em pé",
+                "Até que chegue o fim.",
+                "Decidi no trilho estreito andar,",
+                "No trilho estreito andar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ora, vem, Jesus Cristo;",
+                "me leva para o lar!",
+                "Eu já vislumbro a glória;",
+                "Quero muito lá chegar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quando o Filho do Homem aparecer,",
+                "Trombetas vão soar;",
+                "Jesus em glória descerá",
+                "Para os santos Seus buscar.",
+                "E, junto aos remidos, Nós",
+                "iremos para o Céu.",
+                "O Filho do Homem voltará,",
+                "Em breve voltará."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ora, vem, Jesus Cristo;",
+                "me leva para o lar!",
+                "Eu já vislumbro a glória;",
+                "Quero muito lá chegar."
+            ]
+        }
+    ]
+}

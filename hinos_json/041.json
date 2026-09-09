@@ -1,0 +1,126 @@
+{
+    "hymn": {
+        "number": "41",
+        "title": "Chuvas De Bênçãos",
+        "originalTitle": "Showers of Blessing",
+        "subCategory": 4,
+        "lyricsComposer": [
+            82
+        ],
+        "musicComposer": [
+            248
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Ezequiel 34:26",
+        "youtubeURL": "https://www.youtube.com/watch?v=BaJF1Tg3CJM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Levítico 26:4",
+            "Oseias 10:1",
+            "Malaquias 3:10"
+        ],
+        "texto_base": "Ezequiel 34:26",
+        "temas_relacionados": [
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Chuvas de bênçãos teremos;",
+                "É a promessa de Deus.",
+                "Tempos benditos veremos,",
+                "Chuvas de bênçãos dos Céus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, chuvas de bênçãos,",
+                "Chuvas de bênçãos dos Céus.",
+                "Gotas somente nós temos.",
+                "Chuvas rogamos a Deus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Chuvas de bênçãos teremos,",
+                "Vida de paz e perdão.",
+                "Os pecadores indignos",
+                "Graça dos Céus obterão."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, chuvas de bênçãos,",
+                "Chuvas de bênçãos dos Céus.",
+                "Gotas somente nós temos.",
+                "Chuvas rogamos a Deus."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Chuvas de bênçãos teremos;",
+                "Manda-nos já, ó Senhor!",
+                "Dá-nos agora o bom fruto",
+                "Desta promessa de amor."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, chuvas de bênçãos,",
+                "Chuvas de bênçãos dos Céus.",
+                "Gotas somente nós temos.",
+                "Chuvas rogamos a Deus."
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Chuvas de bênçãos teremos,",
+                "Chuvas mandadas dos Céus;",
+                "Bênçãos a todos os crentes,",
+                "Bênçãos do nosso bom Deus."
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, chuvas de bênçãos,",
+                "Chuvas de bênçãos dos Céus.",
+                "Gotas somente nós temos.",
+                "Chuvas rogamos a Deus."
+            ]
+        }
+    ]
+}

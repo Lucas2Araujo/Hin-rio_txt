@@ -1,0 +1,128 @@
+{
+    "hymn": {
+        "number": "331",
+        "title": "Nome Precioso",
+        "originalTitle": "Take the Name of Jesus With You",
+        "subCategory": 22,
+        "lyricsComposer": [
+            339
+        ],
+        "musicComposer": [
+            522
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 9:6",
+        "youtubeURL": "https://www.youtube.com/watch?v=ol-pFzHphIQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Provérbios 18:10",
+            "Romanos 10:13",
+            "Atos 4:12"
+        ],
+        "texto_base": "Isaías 9:6",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Leva tu contigo o nome",
+                "De Jesus, o Salvador.",
+                "Este nome dá consolo",
+                "Seja no lugar que for."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Nome bom, doce à fé,",
+                "A esperança do porvir.",
+                "Nome bom, doce à fé,",
+                "A esperança do porvir."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Leva sempre esse nome",
+                "Para bem te defender.",
+                "Ele é arma ao teu alcance",
+                "Quando o mal te aparecer."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Nome bom, doce à fé,",
+                "A esperança do porvir.",
+                "Nome bom, doce à fé,",
+                "A esperança do porvir."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, que nome tão precioso!",
+                "Traz conforto ao coração.",
+                "Sendo por Jesus aceito,",
+                "Hás de ter o Seu perdão."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Nome bom, doce à fé,",
+                "A esperança do porvir.",
+                "Nome bom, doce à fé,",
+                "A esperança do porvir."
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nome santo e venerável:",
+                "Cristo, Príncipe da paz!",
+                "Rei dos reis, Senhor eterno!",
+                "Lá no Céu O aclamarás!"
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Nome bom, doce à fé,",
+                "A esperança do porvir.",
+                "Nome bom, doce à fé,",
+                "A esperança do porvir."
+            ]
+        }
+    ]
+}

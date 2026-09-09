@@ -1,0 +1,66 @@
+{
+    "hymn": {
+        "number": "209",
+        "title": "Todas As Coisas Contribuem",
+        "originalTitle": "",
+        "subCategory": 11,
+        "lyricsComposer": [
+            326
+        ],
+        "musicComposer": [
+            326
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Romanos 8:28",
+        "youtubeURL": "https://www.youtube.com/watch?v=ZTX7-BadhSc",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Romanos 8:28",
+            "Gênesis 50:20",
+            "Jeremias 29:11"
+        ],
+        "texto_base": "Romanos 8:28",
+        "temas_relacionados": [
+            "Vida Cristã e Devoção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Todas as coisas contribuem pra o bem",
+                "Daqueles que amam a Deus.",
+                "Todas as coisas contribuem pra o bem",
+                "Daqueles que amam a Deus.",
+                "E, quando você viver momentos de dor,",
+                "Segure nas mãos de Deus e louve o Senhor,",
+                "Pois Todas as coisas contribuem pra o bem",
+                "Daqueles que amam a Deus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Todas as coisas contribuem pra o bem",
+                "Daqueles que amam a Deus.",
+                "Todas as coisas contribuem pra o bem",
+                "Daqueles que amam a Deus.",
+                "Se os sonhos demoram a se realizar,",
+                "Nos planos de Deus você precisa confiar,",
+                "Pois todas as coisas contribuem pra o bem",
+                "Daqueles que amam a Deus."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "hymn": {
+        "number": "64",
+        "title": "Vaso Novo",
+        "originalTitle": "",
+        "subCategory": 7,
+        "lyricsComposer": [
+            387
+        ],
+        "musicComposer": [
+            387
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Jeremias 18:3-6",
+        "youtubeURL": "https://www.youtube.com/watch?v=Dh24lTXOorc",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Isaías 64:8",
+            "Romanos 9:20-21",
+            "2 Timóteo 2:21"
+        ],
+        "texto_base": "Jeremias 18:3-6",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Palavra de Deus e Lei"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu quero ser, Senhor amado,",
+                "Como um vaso nas mãos do oleiro.",
+                "Quebra minha vida",
+                "E faze-a de novo.",
+                "Eu quero ser, eu quero ser",
+                "Um vaso novo."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Faz Teu querer, Senhor amado;",
+                "És o oleiro, e eu esse vaso.",
+                "Quebra minha vida",
+                "E faze-a de novo.",
+                "Eu quero ser, eu quero ser",
+                "Um vaso novo."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Modela-me, transforma o meu ser,",
+                "Faz de mim um vaso escolhido",
+                "Para levar o amor aos perdidos.",
+                "Eu quero ser, eu quero ser",
+                "Um vaso novo."
+            ]
+        }
+    ]
+}

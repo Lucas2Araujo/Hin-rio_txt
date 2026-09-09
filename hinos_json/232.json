@@ -1,0 +1,88 @@
+{
+    "hymn": {
+        "number": "232",
+        "title": "Jesus Precisa De Ti",
+        "originalTitle": "",
+        "subCategory": 13,
+        "lyricsComposer": [
+            88
+        ],
+        "musicComposer": [
+            88
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 João 2:14",
+        "youtubeURL": "https://www.youtube.com/watch?v=PNeCs4J9jfE",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 João 2:14",
+            "Eclesiastes 12:1",
+            "1 Timóteo 4:12"
+        ],
+        "texto_base": "1 João 2:14",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Palavra de Deus e Lei",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus precisa hoje, sim,",
+                "de jovens de valor,",
+                "Sua força solicita pra obra terminar.",
+                "Levanta-te, empunha hoje",
+                "a Bíblia com amor,",
+                "Proclama a todo o mundo",
+                "que Jesus irá voltar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Marcha firme com força e vigor,",
+                "Sempre conduzindo a Palavra do Senhor.",
+                "Juntos vamos a todos ensinar",
+                "Que Jesus virá em breve aqui reinar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "À nobre luta hoje Cristo",
+                "está a te chamar;",
+                "Levanta-te, proclama os dons da Sua luz.",
+                "Se as sombras desta vida",
+                "vêm o brilho ocultar,",
+                "Esconde os teus lamentos,",
+                "que ao teu lado está Jesus."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Marcha firme com força e vigor,",
+                "Sempre conduzindo a Palavra do Senhor.",
+                "Juntos vamos a todos ensinar",
+                "Que Jesus virá em breve aqui reinar."
+            ]
+        }
+    ]
+}

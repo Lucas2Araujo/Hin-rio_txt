@@ -1,0 +1,100 @@
+{
+    "hymn": {
+        "number": "336",
+        "title": "Salmo Dos Salmos",
+        "originalTitle": "",
+        "subCategory": 22,
+        "lyricsComposer": [
+            27
+        ],
+        "musicComposer": [
+            27
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 23",
+        "youtubeURL": "https://www.youtube.com/watch?v=2QuelXhYD8w",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 23:1-6",
+            "João 10:11",
+            "Hebreus 13:20"
+        ],
+        "texto_base": "Salmo 23",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O Senhor é meu Pastor, O meu Guia e Rei.",
+                "O Senhor é a força e a luz do viver.",
+                "Ao Seu lado eu sempre estarei.",
+                "Os Seus olhos vigiam,",
+                "Seu amor nos conduz.",
+                "Minha vida darei ao Senhor.",
+                "Confiarei em Seus braços de amor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A bondade do Senhor nos dá força e vigor.",
+                "Sua Palavra é qual luz,",
+                "que meus passos conduz.",
+                "Não temerei, pois comigo vai Jesus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O Senhor é meu Pastor, O meu Guia e Rei.",
+                "O Senhor é a força e a luz do viver.",
+                "Ao Seu lado eu sempre estarei.",
+                "Seu perdão é completo; Seu amor, sem igual.",
+                "Sob suas asas, seguro estarei.",
+                "Seu amor transformou o meu ser. "
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A bondade do Senhor nos dá força e vigor.",
+                "Sua Palavra é qual luz,",
+                "que meus passos conduz.",
+                "Não temerei, pois comigo vai Jesus."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que darei ao meu Senhor",
+                "Por Seu tão grande amor?",
+                "Pois me fez renascer",
+                "E eu não posso entender",
+                "Nem explicar tal milagre do Céu:",
+                "Dar a vida ao maior pecador que sou eu."
+            ]
+        }
+    ]
+}

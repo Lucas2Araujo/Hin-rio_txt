@@ -1,0 +1,80 @@
+{
+    "hymn": {
+        "number": "508",
+        "title": "Cristo Fez Tudo Muito Bom",
+        "originalTitle": "Jesus Makes Everything Good",
+        "subCategory": 29,
+        "lyricsComposer": [
+            67
+        ],
+        "musicComposer": [
+            67
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Gênesis 1",
+        "youtubeURL": "https://www.youtube.com/watch?v=19pEqRVMq-I",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Gênesis 1:31",
+            "Colossenses 1:16",
+            "João 1:3"
+        ],
+        "texto_base": "Gênesis 1",
+        "temas_relacionados": [
+            "Espírito Santo",
+            "Lar e Família",
+            "Palavra de Deus e Lei"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo fez a chuva, Cristo fez o Sol,",
+                "Cristo fez o dia cheio de prazer.",
+                "Na escura noite a Lua pôs",
+                "E mil estrelas a brilhar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo fez as aves com lindas canções;",
+                "Os lindos patinhos e os gatinhos fez.",
+                "Fez os coelhinhos a brincar;",
+                "E a vaquinha leite dar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo fez as flores, árvores também,",
+                "A suave brisa, o orvalho tão gentil.",
+                "Cristo fez a relva tão verdinha",
+                "E fez o ar tão puro e bom."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo fez mamãe, papai e eu",
+                "E o nosso lar que é tão feliz"
+            ]
+        }
+    ]
+}

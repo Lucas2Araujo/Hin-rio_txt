@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "192",
+        "title": "Brilho Celeste",
+        "originalTitle": "Heavenly Sunlight",
+        "subCategory": 11,
+        "lyricsComposer": [
+            206
+        ],
+        "musicComposer": [
+            171
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 34:4, 5",
+        "youtubeURL": "https://www.youtube.com/watch?v=HUY6sJkScBQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 34:5",
+            "Isaías 60:1",
+            "Miqueias 7:8"
+        ],
+        "texto_base": "Salmo 34:4, 5",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Peregrinando pelas montanhas,",
+                "E pelos vales, sempre na luz,",
+                "Cristo promete nunca deixar-me!",
+                "“Eis-Me convosco”, disse Jesus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Brilho celeste! Brilho celeste!",
+                "Enche minh’alma, glória de Deus!",
+                "Aleluia! Sigo cantando,",
+                "Dando louvores, indo pra os Céus!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se vejo sombras por toda parte,",
+                "Ao Salvador não vão ocultar!",
+                "Cristo é luz que nunca se apaga,",
+                "Bem ao Seu lado vou sempre andar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Brilho celeste! Brilho celeste!",
+                "Enche minh’alma, glória de Deus!",
+                "Aleluia! Sigo cantando,",
+                "Dando louvores, indo pra os Céus!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A luz bendita vai me guiando",
+                "Em meu caminho para Sião.",
+                "Mais e mais perto o Mestre seguindo,",
+                "Tenho alegria na salvação!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Brilho celeste! Brilho celeste!",
+                "Enche minh’alma, glória de Deus!",
+                "Aleluia! Sigo cantando,",
+                "Dando louvores, indo pra os Céus!"
+            ]
+        }
+    ]
+}

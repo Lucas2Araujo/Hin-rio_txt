@@ -1,0 +1,107 @@
+{
+    "hymn": {
+        "number": "523",
+        "title": "Sim, Cristo Me Ama",
+        "originalTitle": "Jesus Loves Me",
+        "subCategory": 29,
+        "lyricsComposer": [
+            21
+        ],
+        "musicComposer": [
+            513
+        ],
+        "versionComposer": [
+            83
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 15:9",
+        "youtubeURL": "https://www.youtube.com/watch?v=7lR9ngghlhs",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 João 4:19",
+            "Romanos 5:8",
+            "Gálatas 2:20"
+        ],
+        "texto_base": "João 15:9",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Palavra de Deus e Lei",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo me ama; isso eu sei,",
+                "Pois a Bíblia assim me diz;",
+                "Por amor de mim morreu,",
+                "Vivo está por mim no Céu."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, Cristo me ama,",
+                "Sim, Cristo me ama,",
+                "Sim, Cristo me ama,",
+                "A Bíblia assim me diz."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Meu Jesus me tem amor,",
+                "Ele é meu Salvador;",
+                "E desejo aqui mostrar",
+                "Seu amor tão singular."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, Cristo me ama,",
+                "Sim, Cristo me ama,",
+                "Sim, Cristo me ama,",
+                "A Bíblia assim me diz."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Meu Jesus comigo está",
+                "E afinal me levará",
+                "Para o lindo Céu de luz,",
+                "Pois me resgatou na cruz."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sim, Cristo me ama,",
+                "Sim, Cristo me ama,",
+                "Sim, Cristo me ama,",
+                "A Bíblia assim me diz."
+            ]
+        }
+    ]
+}

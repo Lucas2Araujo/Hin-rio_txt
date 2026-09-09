@@ -1,0 +1,71 @@
+{
+    "hymn": {
+        "number": "561",
+        "title": "Santo Somente É O Senhor",
+        "originalTitle": "",
+        "subCategory": 30,
+        "lyricsComposer": [
+            72
+        ],
+        "musicComposer": [
+            72
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 5:11, 12",
+        "youtubeURL": "https://www.youtube.com/watch?v=7PCyZUfniNI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 15:4",
+            "1 Samuel 2:2",
+            "Salmos 99:9"
+        ],
+        "texto_base": "Apocalipse 5:11, 12",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Santo somente é o Senhor,",
+                "Digno de todo louvor!",
+                "Deus de bondade, justiça e amor;",
+                "Santo somente é o Senhor!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Santo somente é o Senhor,",
+                "Digno de adoração!",
+                "Deus que é fiel, Deus de paz e perdão;",
+                "Santo somente é o Senhor!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Santo, santo, santo somente é o Senhor!",
+                "Santo, santo, santo somente é o Senhor!",
+                "Santo somente é o Senhor!"
+            ]
+        }
+    ]
+}

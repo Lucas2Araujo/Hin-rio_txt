@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "454",
+        "title": "A Manhã Gloriosa",
+        "originalTitle": "Gleams of the Golden Morning",
+        "subCategory": 25,
+        "lyricsComposer": [
+            442
+        ],
+        "musicComposer": [
+            442
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 24:32-34",
+        "youtubeURL": "https://www.youtube.com/watch?v=16KaC4dDaeE",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 30:5",
+            "2 Samuel 23:4",
+            "Apocalipse 21:25"
+        ],
+        "texto_base": "Mateus 24:32-34",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Lar e Família",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A manhã gloriosa está raiando;",
+                "Logo o Rei virá.",
+                "E Seu povo, então, para o lar eterno",
+                "Ele levará."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A manhã gloriosa está raiando;",
+                "Breve surgirá a luz!",
+                "A manhã gloriosa está raiando;",
+                "Eis que vem Jesus!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Inda se ouve o som do evangelho eterno;",
+                "Não vos demoreis,",
+                "Pois bem cedo vem, e com majestade,",
+                "Cristo, o Rei dos reis!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A manhã gloriosa está raiando;",
+                "Breve surgirá a luz!",
+                "A manhã gloriosa está raiando;",
+                "Eis que vem Jesus!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Voltarão à vida os queridos mortos,",
+                "Em exultação!",
+                "Que alegria infinda nos encontrarmos",
+                "Na eternal mansão!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A manhã gloriosa está raiando;",
+                "Breve surgirá a luz!",
+                "A manhã gloriosa está raiando;",
+                "Eis que vem Jesus!"
+            ]
+        }
+    ]
+}

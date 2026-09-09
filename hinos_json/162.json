@@ -1,0 +1,138 @@
+{
+    "hymn": {
+        "number": "162",
+        "title": "Sou De Jesus",
+        "originalTitle": "",
+        "subCategory": 10,
+        "lyricsComposer": [
+            309,
+            475
+        ],
+        "musicComposer": [
+            309,
+            475
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 14:4",
+        "youtubeURL": "https://www.youtube.com/watch?v=lNnC4Lj998s",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 14:4",
+            "João 10:27",
+            "Romanos 14:8"
+        ],
+        "texto_base": "Apocalipse 14:4",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Missão e Serviço",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Dois caminhos a seguir,",
+                "dois senhores a lutar.",
+                "Qual dos dois irei servir?",
+                "Há só uma decisão.",
+                "Quantas vezes procurei",
+                "os prazeres deste mundo;",
+                "Encontrei mil motivos pra chorar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O inimigo sempre vem",
+                "disfarçando as intenções.",
+                "Com ciladas ao redor,",
+                "ele quer me destruir.",
+                "Só Jesus pode me dar",
+                "a real felicidade",
+                "E poder para ser um vencedor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sou de Jesus, o Senhor da vitória,",
+                "O alimento, a vida,",
+                "Rocha eterna da salvação.",
+                "Seu amor me atraiu,",
+                "deu-me paz e alegria.",
+                "Eu já fiz minha escolha:",
+                "Sou de Jesus."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Decidi testemunhar",
+                "mesmo em forte provação,",
+                "Rejeitando pela fé",
+                "o pecado e seu sabor.",
+                "No caminho de Jesus",
+                "estarei sempre seguro,",
+                "E assim eu prossigo rumo ao Céu."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sou de Jesus, o Senhor da vitória,",
+                "O alimento, a vida,",
+                "Rocha eterna da salvação.",
+                "Seu amor me atraiu,",
+                "deu-me paz e alegria.",
+                "Eu já fiz minha escolha:",
+                "Sou de Jesus."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Mais do que em qualquer outro tempo,",
+                "O momento é de escolher.",
+                "Sem temer, sem hesitar,",
+                "eu escolho Jesus."
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sou de Jesus, o Senhor da vitória,",
+                "O alimento, a vida,",
+                "Rocha eterna da salvação.",
+                "Seu amor me atraiu,",
+                "deu-me paz e alegria.",
+                "Eu já fiz minha escolha:",
+                "Sou de Jesus.",
+                "Eu já fiz minha escolha:",
+                "Sou de Jesus."
+            ]
+        }
+    ]
+}

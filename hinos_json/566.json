@@ -1,0 +1,48 @@
+{
+    "hymn": {
+        "number": "566",
+        "title": "Oh, Adorai",
+        "originalTitle": "",
+        "subCategory": 30,
+        "lyricsComposer": [
+            136
+        ],
+        "musicComposer": [
+            136
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 29:1, 2",
+        "youtubeURL": "https://www.youtube.com/watch?v=gHgPE5cBZsk",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 29:2",
+            "1 Crônicas 16:29",
+            "Apocalipse 14:7"
+        ],
+        "texto_base": "Salmo 29:1, 2",
+        "temas_relacionados": [
+            "Vida Cristã e Devoção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, adorai ao Deus triúno,",
+                "Pois Ele é Deus onipotente!",
+                "Oh, adorai ao Rei divino,",
+                "Pois Ele reina eternamente!",
+                "Amém!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "hymn": {
+        "number": "488",
+        "title": "Eu Vou Para O Céu",
+        "originalTitle": "",
+        "subCategory": 27,
+        "lyricsComposer": [
+            129
+        ],
+        "musicComposer": [
+            129
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 24:7, 14",
+        "youtubeURL": "https://www.youtube.com/watch?v=_xNrYww0OBY",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Filipenses 3:20",
+            "João 14:2-3",
+            "Apocalipse 21:1"
+        ],
+        "texto_base": "Mateus 24:7, 14",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Lar e Família",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Podemos ver sinais do fim",
+                "Na terra e no mar.",
+                "Doenças, fome, guerra e dor,",
+                "Angústia entre as nações.",
+                "Mas, em meio a tanta aflição,",
+                "Começo a me alegrar,",
+                "Pois eu sei que se aproxima",
+                "Nossa redenção"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu vou para o Céu e já não demora;",
+                "Minha espera logo vai terminar.",
+                "Decidi que sou de Jesus pra sempre",
+                "E nada poderá me abalar. Nada!",
+                "Logo Cristo virá, E eu vou para o Céu."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "É reino contra reino,",
+                "Nação contra nação,",
+                "Aumento de maldade,",
+                "De ódio e traição.",
+                "Hoje, agora é o tempo de guardar",
+                "Bem firme a nossa fé",
+                "Na bendita esperança",
+                "Da promessa de Jesus."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu vou para o Céu e já não demora;",
+                "Minha espera logo vai terminar.",
+                "Decidi que sou de Jesus pra sempre",
+                "E nada poderá me abalar. Nada!",
+                "Logo Cristo virá, E eu vou para o Céu."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Logo veremos numa nuvem",
+                "Cristo retornar;",
+                "Cheio de glória, honra e poder,",
+                "virá buscar quem for fiel."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu vou para o Céu e já não demora;",
+                "Minha espera logo vai terminar.",
+                "Decidi que sou de Jesus pra sempre",
+                "E nada poderá me abalar. Nada!",
+                "Logo Cristo virá, E eu vou para o Céu,",
+                "pois Cristo virá.",
+                "Minha espera vai terminar.",
+                "Logo Cristo virá,",
+                "E eu vou para o Céu."
+            ]
+        }
+    ]
+}

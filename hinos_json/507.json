@@ -1,0 +1,105 @@
+{
+    "hymn": {
+        "number": "507",
+        "title": "Jamais Se Diz Adeus Ali",
+        "originalTitle": "We’ll Never Say Goodbye",
+        "subCategory": 28,
+        "lyricsComposer": [
+            36
+        ],
+        "musicComposer": [
+            273
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 65:17-19",
+        "youtubeURL": "https://www.youtube.com/watch?v=kaM0Z4YIuTo",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 21:4",
+            "1 Tessalonicenses 4:17",
+            "Isaías 35:10"
+        ],
+        "texto_base": "Isaías 65:17-19",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quão bom, amigos meus,",
+                "É termos encontro aqui feliz,",
+                "Mas sempre vem a hora triste",
+                "Em que adeus se diz."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Jamais se diz adeus ali,",
+                "Jamais se diz adeus;",
+                "No eterno lar de amor e paz,",
+                "Jamais se diz adeus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quão doce é lembrarmos",
+                "Que, quando Cristo aqui voltar,",
+                "Nós juntos viveremos",
+                "Pra nunca mais nos separar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Jamais se diz adeus ali,",
+                "Jamais se diz adeus;",
+                "No eterno lar de amor e paz,",
+                "Jamais se diz adeus."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não mais teremos dor",
+                "E nem despedida lá no lar,",
+                "Mas grata união",
+                "E paz nós iremos desfrutar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Jamais se diz adeus ali,",
+                "Jamais se diz adeus;",
+                "No eterno lar de amor e paz,",
+                "Jamais se diz adeus."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "hymn": {
+        "number": "449",
+        "title": "Quando O Rei Vier",
+        "originalTitle": "Called to the Feast",
+        "subCategory": 25,
+        "lyricsComposer": [
+            232
+        ],
+        "musicComposer": [
+            103
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 1:7",
+        "youtubeURL": "https://www.youtube.com/watch?v=9g089j2I4Fs",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 25:31",
+            "Apocalipse 19:16",
+            "Zacarias 14:9"
+        ],
+        "texto_base": "Apocalipse 1:7",
+        "temas_relacionados": [
+            "Crianças e Jovens",
+            "Lar e Família",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Logo este mundo terá seu fim.",
+                "Breve haverá o toque do clarim.",
+                "Oh, que será, pois, de ti e mim",
+                "Quando o Rei vier?"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Quando o Rei vier, irmão,",
+                "Quando o Rei vier!",
+                "Oh, que será de ti e mim",
+                "Quando o Rei vier?"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo morreu sobre a dura cruz",
+                "Para levar este mundo à luz.",
+                "Os Seus fiéis para o Céu conduz,",
+                "Quando, enfim, vier."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Quando o Rei vier, irmão,",
+                "Quando o Rei vier!",
+                "Oh, que será de ti e mim",
+                "Quando o Rei vier?"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Os filhos Seus Ele acolherá.",
+                "Com trajes brancos os vestirá.",
+                "Hora solene pra nós será",
+                "Quando o Rei vier."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Quando o Rei vier, irmão,",
+                "Quando o Rei vier!",
+                "Oh, que será de ti e mim",
+                "Quando o Rei vier?"
+            ]
+        }
+    ]
+}

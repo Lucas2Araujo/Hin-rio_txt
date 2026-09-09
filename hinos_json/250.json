@@ -1,0 +1,124 @@
+{
+    "hymn": {
+        "number": "250",
+        "title": "A Jesus Seguir Eu Quero",
+        "originalTitle": "I Will Follow Thee",
+        "subCategory": 15,
+        "lyricsComposer": [
+            246
+        ],
+        "musicComposer": [
+            246
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 16:24, 25",
+        "youtubeURL": "https://www.youtube.com/watch?v=AH39bafXKrE",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 16:24",
+            "Lucas 9:23",
+            "Marcos 8:34"
+        ],
+        "texto_base": "Mateus 16:24, 25",
+        "temas_relacionados": [
+            "Vida Cristã e Devoção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A Jesus seguir eu quero,",
+                "Seja a sorte, sim, qualquer.",
+                "Onde quer que vá meu Mestre,",
+                "Seguirei, sem mais temer."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó Jesus, seguir-Te quero;",
+                "Tu morreste foi por mim.",
+                "Mesmo que Te neguem todos,",
+                "Eu Te sigo até o fim."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se o caminho for difícil,",
+                "Nele houver escuridão,",
+                "Por ali Tu já passaste,",
+                "E me tomas pela mão."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó Jesus, seguir-Te quero;",
+                "Tu morreste foi por mim.",
+                "Mesmo que Te neguem todos,",
+                "Eu Te sigo até o fim."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se encontrar dificuldades,",
+                "E envolver-me a tentação,",
+                "Tu também tentado foste,",
+                "E sofreste provação."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó Jesus, seguir-Te quero;",
+                "Tu morreste foi por mim.",
+                "Mesmo que Te neguem todos,",
+                "Eu Te sigo até o fim."
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "E se for Tua vontade",
+                "Que eu transponha o rio Jordão,",
+                "Tu também o atravessaste;",
+                "Seguirei com prontidão."
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó Jesus, seguir-Te quero;",
+                "Tu morreste foi por mim.",
+                "Mesmo que Te neguem todos,",
+                "Eu Te sigo até o fim."
+            ]
+        }
+    ]
+}

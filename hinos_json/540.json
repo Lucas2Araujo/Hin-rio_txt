@@ -1,0 +1,101 @@
+{
+    "hymn": {
+        "number": "540",
+        "title": "Quero Bem Alegre Obedecer",
+        "originalTitle": "",
+        "subCategory": 29,
+        "lyricsComposer": [
+            294
+        ],
+        "musicComposer": [
+            294
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Efésios 6:1",
+        "youtubeURL": "https://www.youtube.com/watch?v=EfwQIFIdlWQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Efésios 6:1",
+            "Colossenses 3:20",
+            "Provérbios 1:8"
+        ],
+        "texto_base": "Efésios 6:1",
+        "temas_relacionados": [
+            "Lar e Família"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se a mãe chama a ovelhinha,",
+                "ela corre rapidinho,",
+                "Pois está sempre disposta a obedecer.",
+                "Quando minha mãe chamar,",
+                "vou correndo atender;",
+                "Também quero bem alegre obedecer."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se a mãe chama o passarinho,",
+                "ele voa rapidinho,",
+                "Pois está sempre disposto a obedecer.",
+                "Quando minha mãe chamar,",
+                "vou correndo atender;",
+                "Também quero bem alegre obedecer."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se o pai chama o gatinho,",
+                "ele corre rapidinho,",
+                "Pois está sempre disposto a obedecer.",
+                "Quando meu papai chamar,",
+                "vou correndo atender;",
+                "Também quero bem alegre obedecer."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se a mãe chama o cachorrinho,",
+                "ele corre rapidinho,",
+                "Pois está sempre disposto a obedecer.",
+                "Quando minha mãe chamar,",
+                "vou correndo atender;",
+                "Também quero bem alegre obedecer."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se o pai chama o peixinho,",
+                "ele nada rapidinho,",
+                "Pois está sempre disposto a obedecer.",
+                "Quando meu papai chamar,",
+                "vou correndo atender;",
+                "Também quero bem alegre obedecer."
+            ]
+        }
+    ]
+}

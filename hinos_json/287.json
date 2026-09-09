@@ -1,0 +1,92 @@
+{
+    "hymn": {
+        "number": "287",
+        "title": "A Lei De Deus",
+        "originalTitle": "",
+        "subCategory": 19,
+        "lyricsComposer": [
+            347
+        ],
+        "musicComposer": [
+            326
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 5:17",
+        "youtubeURL": "https://www.youtube.com/watch?v=qkiZ-pjlcqs",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 5:17",
+            "Romanos 3:31",
+            "Salmos 40:8"
+        ],
+        "texto_base": "Mateus 5:17",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Santuário e Juízo"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A expressa vontade do Pai,",
+                "A justiça e o caráter de Deus",
+                "Estão revelados nessa lei de amor,",
+                "Que é a base do Reino dos Céus.",
+                "Seus preceitos são universais",
+                "E são bênçãos pra quem os cumprir.",
+                "São princípios eternos, são fundamentais,",
+                "Por mostrar o caminho a seguir."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo guardou a lei com perfeição,",
+                "Sua obediência a mim transferiu.",
+                "Veio escrevê-la no meu coração,",
+                "Pois essa lei Deus jamais aboliu."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A lei não me pode salvar",
+                "Nem garante que no Céu vou viver,",
+                "Mas todo que é salvo vai a lei guardar.",
+                "Do juízo, ela a norma há de ser.",
+                "E não basta guardar essa lei.",
+                "É preciso ter nisso prazer.",
+                "Salvo, então, pela graça, sem condenação,",
+                "Ela passa a me proteger."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Cristo guardou a lei com perfeição,",
+                "Sua obediência a mim transferiu.",
+                "Veio escrevê-la no meu coração,",
+                "Pois essa lei Deus jamais aboliu."
+            ]
+        }
+    ]
+}

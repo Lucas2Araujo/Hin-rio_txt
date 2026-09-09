@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "178",
+        "title": "Deus Cuidará De Ti",
+        "originalTitle": "God Will Take Care of You",
+        "subCategory": 11,
+        "lyricsComposer": [
+            69
+        ],
+        "musicComposer": [
+            502
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 40:17",
+        "youtubeURL": "https://www.youtube.com/watch?v=WHCMQjeWqVs",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 40:17",
+            "1 Pedro 5:7",
+            "Mateus 6:31-32"
+        ],
+        "texto_base": "Salmo 40:17",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Aflito e triste coração,",
+                "Deus cuidará de ti.",
+                "Por ti opera a Sua mão.",
+                "Deus cuidará de ti."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deus cuidará de ti;",
+                "Em cada dia proverá.",
+                "Sim, cuidará de ti.",
+                "Deus cuidará de ti."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Na dor cruel, na provação,",
+                "Deus cuidará de ti.",
+                "Socorro dá e proteção.",
+                "Deus cuidará de ti."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deus cuidará de ti;",
+                "Em cada dia proverá.",
+                "Sim, cuidará de ti.",
+                "Deus cuidará de ti."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sentes a fé a vacilar?",
+                "Deus cuidará de ti.",
+                "Ao teu amor quer forças dar.",
+                "Deus cuidará de ti."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deus cuidará de ti;",
+                "Em cada dia proverá.",
+                "Sim, cuidará de ti.",
+                "Deus cuidará de ti."
+            ]
+        }
+    ]
+}

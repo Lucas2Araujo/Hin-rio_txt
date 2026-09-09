@@ -1,0 +1,126 @@
+{
+    "hymn": {
+        "number": "190",
+        "title": "Pertenço A Cristo",
+        "originalTitle": "I Would Be Like Jesus",
+        "subCategory": 11,
+        "lyricsComposer": [
+            250
+        ],
+        "musicComposer": [
+            40
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Filipenses 3:7, 8",
+        "youtubeURL": "https://www.youtube.com/watch?v=NxdttzyFf2o",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Filipenses 3:8",
+            "Gálatas 6:14",
+            "1 João 2:15"
+        ],
+        "texto_base": "Filipenses 3:7, 8",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Já o mundo não me prende;",
+                "Eu pertenço a Cristo!",
+                "Sua voz minh’alma atende,",
+                "Pois pertenço a Cristo."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A Jesus eu seguirei,",
+                "Pois é meu Senhor e Rei.",
+                "Quer lá fora, quer no lar,",
+                "Eu pertenço a Cristo."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não mais temo o inimigo;",
+                "Eu pertenço a Cristo!",
+                "É-me sempre bom abrigo;",
+                "Sim, pertenço a Cristo."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A Jesus eu seguirei,",
+                "Pois é meu Senhor e Rei.",
+                "Quer lá fora, quer no lar,",
+                "Eu pertenço a Cristo."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Desde a Terra até a glória,",
+                "Eu pertenço a Cristo!",
+                "Sempre irei contar a história:",
+                "Eu pertenço a Cristo."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A Jesus eu seguirei,",
+                "Pois é meu Senhor e Rei.",
+                "Quer lá fora, quer no lar,",
+                "Eu pertenço a Cristo."
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Lá no Céu vou contemplá-Lo;",
+                "Eu pertenço a Cristo!",
+                "E eternamente honrá-Lo,",
+                "Pois pertenço a Cristo."
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "A Jesus eu seguirei,",
+                "Pois é meu Senhor e Rei.",
+                "Quer lá fora, quer no lar,",
+                "Eu pertenço a Cristo."
+            ]
+        }
+    ]
+}

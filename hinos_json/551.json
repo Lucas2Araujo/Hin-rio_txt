@@ -1,0 +1,72 @@
+{
+    "hymn": {
+        "number": "551",
+        "title": "Minha Pequenina Luz",
+        "originalTitle": "Let It Shine",
+        "subCategory": 29,
+        "lyricsComposer": [
+            88
+        ],
+        "musicComposer": [
+            385
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 5:16",
+        "youtubeURL": "https://www.youtube.com/watch?v=Wn5nj616hNI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 5:14-16",
+            "Filipenses 2:15",
+            "Efésios 5:8"
+        ],
+        "texto_base": "Mateus 5:16",
+        "temas_relacionados": [
+            "Vida Cristã e Devoção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Minha pequenina luz",
+                "vou deixar brilhar.",
+                "Minha pequenina luz",
+                "vou deixar brilhar,",
+                "Brilhar, brilhar, brilhar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Brilhará em toda a cidade,",
+                "vou deixar brilhar.",
+                "Brilhará em toda a cidade,",
+                "vou deixar brilhar,",
+                "Brilhar, brilhar, brilhar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Satanás não apagará,",
+                "vou deixar brilhar.",
+                "Satanás não apagará,",
+                "vou deixar brilhar",
+                "Brilhar, brilhar, brilhar."
+            ]
+        }
+    ]
+}

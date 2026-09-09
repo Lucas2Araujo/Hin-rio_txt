@@ -1,0 +1,114 @@
+{
+    "hymn": {
+        "number": "485",
+        "title": "Estrelas Terei",
+        "originalTitle": "I Am Thinking Today of That Beautiful Land",
+        "subCategory": 27,
+        "lyricsComposer": [
+            116
+        ],
+        "musicComposer": [
+            282
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Daniel 12:3",
+        "youtubeURL": "https://www.youtube.com/watch?v=_o3lA-GuZdI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Daniel 12:3",
+            "1 Coríntios 15:41",
+            "Provérbios 11:30"
+        ],
+        "texto_base": "Daniel 12:3",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que prazer é pensar",
+                "no meu lar celestial,",
+                "Onde irei habitar, afinal!",
+                "Quando, enfim, por Jesus,",
+                "conseguir lá chegar,",
+                "Na coroa eu estrelas terei!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Na coroa de luz, eu estrelas terei,",
+                "Quando o sol não aqui mais raiar!",
+                "Quando Deus me levar",
+                "para o reino dos Céus,",
+                "Na coroa eu estrelas terei!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "No poder de Jesus,",
+                "vou orar e lutar,",
+                "Para o Céu muita gente guiar.",
+                "Quero, pois, receber",
+                "nesse dia final",
+                "A coroa de glória a brilhar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Na coroa de luz, eu estrelas terei,",
+                "Quando o sol não aqui mais raiar!",
+                "Quando Deus me levar",
+                "para o reino dos Céus,",
+                "Na coroa eu estrelas terei!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que alegria será",
+                "a Jesus contemplar",
+                "E a Seus pés com louvor adorar!",
+                "Na cidade eternal,",
+                "minha glória será",
+                "Receber a coroa a brilhar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Na coroa de luz, eu estrelas terei,",
+                "Quando o sol não aqui mais raiar!",
+                "Quando Deus me levar",
+                "para o reino dos Céus,",
+                "Na coroa eu estrelas terei!"
+            ]
+        }
+    ]
+}

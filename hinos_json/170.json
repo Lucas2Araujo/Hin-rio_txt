@@ -1,0 +1,106 @@
+{
+    "hymn": {
+        "number": "170",
+        "title": "Oh, Que Belo Hino Deus Me Deu!",
+        "originalTitle": "In My Heart There Rings a Melody",
+        "subCategory": 10,
+        "lyricsComposer": [
+            121
+        ],
+        "musicComposer": [
+            121
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 40:3",
+        "youtubeURL": "https://www.youtube.com/watch?v=ZdBnuWtqR0c",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 40:3",
+            "Salmos 33:3",
+            "Salmos 96:1"
+        ],
+        "texto_base": "Salmo 40:3",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu canto um hino inspirado",
+                "Por Jesus, meu Redentor.",
+                "Jamais aqui soou com tal fervor",
+                "Este canto de amor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, que belo hino Deus me deu!",
+                "Me pôs no coração belíssima canção!",
+                "Oh, que belo hino Deus me deu!",
+                "Um hino do divino amor!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu amo a Cristo que foi morto",
+                "Sobre a cruz pra me salvar.",
+                "Jesus um hino em meus lábios pôs",
+                "Para a Deus melhor louvar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, que belo hino Deus me deu!",
+                "Me pôs no coração belíssima canção!",
+                "Oh, que belo hino Deus me deu!",
+                "Um hino do divino amor!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quando estiver eu lá na glória,",
+                "Vendo os anjos a cantar,",
+                "Um belo hino vou cantar também",
+                "Lá no meu eterno lar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, que belo hino Deus me deu!",
+                "Me pôs no coração belíssima canção!",
+                "Oh, que belo hino Deus me deu!",
+                "Um hino do divino amor!"
+            ]
+        }
+    ]
+}

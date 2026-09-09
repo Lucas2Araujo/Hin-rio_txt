@@ -1,0 +1,122 @@
+{
+    "hymn": {
+        "number": "468",
+        "title": "Quase No Lar",
+        "originalTitle": "",
+        "subCategory": 25,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Romanos 13:11",
+        "youtubeURL": "https://www.youtube.com/watch?v=pmHkUUEsbPM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Romanos 13:11",
+            "Hebreus 10:25",
+            "Filipenses 3:20"
+        ],
+        "texto_base": "Romanos 13:11",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Missão e Serviço",
+            "Oração e Comunhão",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "No arraial dos santos,",
+                "Ouvem-se muitas vozes.",
+                "Estão felizes cantando Em celebração.",
+                "Alguns estão pregando,",
+                "Outros vão ensinando,",
+                "Mas o amor é o tom da canção."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Estamos quase no lar!",
+                "Quase no lar!",
+                "Falta pouco tempo pra esse dia chegar.",
+                "Estamos quase no lar!",
+                "Quase no lar!",
+                "Com Jesus viveremos",
+                "nas mansões celestiais."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus está voltando;",
+                "Vamos falar a todos.",
+                "Enfim está chegando a libertação.",
+                "Devemos ter coragem",
+                "de viver a mensagem",
+                "Que foi plantada lá no coração. "
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Estamos quase no lar!",
+                "Quase no lar!",
+                "Falta pouco tempo pra esse dia chegar.",
+                "Estamos quase no lar!",
+                "Quase no lar!",
+                "Com Jesus viveremos",
+                "nas mansões celestiais."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vamos dar as mãos",
+                "E juntos vamos prosseguir.",
+                "No poder de Deus,",
+                "Vitória vamos conseguir!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Estamos quase no lar!",
+                "Quase no lar!",
+                "Falta pouco tempo pra esse dia chegar.",
+                "Estamos quase no lar!",
+                "Quase no lar!",
+                "Com Jesus viveremos",
+                "Com Jesus viveremos",
+                "Com Jesus viveremos",
+                "nas mansões celestiais."
+            ]
+        }
+    ]
+}

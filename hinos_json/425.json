@@ -1,0 +1,106 @@
+{
+    "hymn": {
+        "number": "425",
+        "title": "Ouço O Clamor Do Bom Pastor",
+        "originalTitle": "Bring Them in",
+        "subCategory": 23,
+        "lyricsComposer": [
+            12
+        ],
+        "musicComposer": [
+            512
+        ],
+        "versionComposer": [
+            445
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 10:14",
+        "youtubeURL": "https://www.youtube.com/watch?v=9xNmt3L6D5U",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Lucas 15:4",
+            "Ezequiel 34:11-12",
+            "João 10:11"
+        ],
+        "texto_base": "João 10:14",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ouço o clamor do bom Pastor",
+                "Pelo deserto assolador;",
+                "Seus cordeirinhos a chamar,",
+                "Tão desejoso de os salvar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "“Vai buscar, vai buscar",
+                "Esses Meus cordeirinhos, já!",
+                "Vai buscar, vai buscar,",
+                "Para que os possa abençoar.”"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Todos precisam ajudar",
+                "E os cordeirinhos ir salvar",
+                "E encaminhá-los a Jesus,",
+                "Fonte de vida, amor e luz."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "“Vai buscar, vai buscar",
+                "Esses Meus cordeirinhos, já!",
+                "Vai buscar, vai buscar,",
+                "Para que os possa abençoar.”"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pelo deserto a padecer,",
+                "Pelas estradas a sofrer,",
+                "Seus cordeirinhos vai buscar",
+                "Para que os possa abençoar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "“Vai buscar, vai buscar",
+                "Esses Meus cordeirinhos, já!",
+                "Vai buscar, vai buscar,",
+                "Para que os possa abençoar.”"
+            ]
+        }
+    ]
+}

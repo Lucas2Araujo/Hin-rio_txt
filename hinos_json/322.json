@@ -1,0 +1,103 @@
+{
+    "hymn": {
+        "number": "322",
+        "title": "Jesus Me Guia",
+        "originalTitle": "He Leadeth Me",
+        "subCategory": 22,
+        "lyricsComposer": [
+            295
+        ],
+        "musicComposer": [
+            513
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Isaías 58:11",
+        "youtubeURL": "https://www.youtube.com/watch?v=WmkAm7Eog80",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 23:3",
+            "Isaías 58:11",
+            "Salmos 32:8"
+        ],
+        "texto_base": "Isaías 58:11",
+        "temas_relacionados": [
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus me guia; que prazer!",
+                "Que paz me vem ao coração!",
+                "Nas aflições que eu viver,",
+                "Me guia sempre a Sua mão."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Jesus me guia; que prazer!",
+                "É Sua mão que me conduz.",
+                "De Ti preciso em meu viver!",
+                "Que me dirija meu Jesus!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Às vezes, quando em aflição,",
+                "Em meio de perigo e dor,",
+                "Por água mansa ou bravo mar,",
+                "Me guia a mão do meu Senhor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Jesus me guia; que prazer!",
+                "É Sua mão que me conduz.",
+                "De Ti preciso em meu viver!",
+                "Que me dirija meu Jesus!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ajuda-me a não murmurar",
+                "Qualquer que seja a condição.",
+                "Contente vou, pois guiarás",
+                "Com Tua tão bondosa mão."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Jesus me guia; que prazer!",
+                "É Sua mão que me conduz.",
+                "De Ti preciso em meu viver!",
+                "Que me dirija meu Jesus!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "hymn": {
+        "number": "153",
+        "title": "O Que Penso De Meu Mestre",
+        "originalTitle": "No One Ever Cared for Me Like Jesus",
+        "subCategory": 10,
+        "lyricsComposer": [
+            59
+        ],
+        "musicComposer": [
+            59
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Romanos 5:8-11",
+        "youtubeURL": "https://www.youtube.com/watch?v=Qc_6UoL0Y2g",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Romanos 5:8",
+            "Gálatas 2:20",
+            "1 João 3:16"
+        ],
+        "texto_base": "Romanos 5:8-11",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vou contar-vos o que penso de meu Mestre,",
+                "Como Dele recebi a luz e a paz.",
+                "Transformou o meu viver completamente;",
+                "Só Jesus a minha alma satisfaz."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sempre cuidará de mim meu Mestre",
+                "Com amor e compaixão sem fim!",
+                "Nenhum outro tira a culpa do pecado.",
+                "Oh, como Ele ama a mim!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Com a vida toda cheia de pecado,",
+                "Na miséria e com dor no coração,",
+                "Em Seus braços Ele ergueu-me com ternura,",
+                "Deu-me vida, deu-me paz, consolação."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sempre cuidará de mim meu Mestre",
+                "Com amor e compaixão sem fim!",
+                "Nenhum outro tira a culpa do pecado.",
+                "Oh, como Ele ama a mim!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cada dia Ele vem com segurança",
+                "Mais e mais me revelar o Seu amor.",
+                "Como anelo compreender completamente",
+                "Esse dom tão divinal, restaurador!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sempre cuidará de mim meu Mestre",
+                "Com amor e compaixão sem fim!",
+                "Nenhum outro tira a culpa do pecado.",
+                "Oh, como Ele ama a mim!"
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Meu maior desejo agora é honrá-Lo,",
+                "Proclamar o que Ele fez pra me salvar.",
+                "E, cantando esse amor inigualável,",
+                "Quero a Deus a minha vida consagrar."
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sempre cuidará de mim meu Mestre",
+                "Com amor e compaixão sem fim!",
+                "Nenhum outro tira a culpa do pecado.",
+                "Oh, como Ele ama a mim!"
+            ]
+        }
+    ]
+}

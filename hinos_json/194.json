@@ -1,0 +1,71 @@
+{
+    "hymn": {
+        "number": "194",
+        "title": "Tem Fé Em Deus",
+        "originalTitle": "",
+        "subCategory": 11,
+        "lyricsComposer": [
+            88
+        ],
+        "musicComposer": [
+            185
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Marcos 11:22",
+        "youtubeURL": "https://www.youtube.com/watch?v=UabnP6pgbTc",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Marcos 11:22",
+            "Hebreus 11:6",
+            "Provérbios 3:5"
+        ],
+        "texto_base": "Marcos 11:22",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tem fé em Deus se a treva oculta o Sol.",
+                "Tem fé em Deus se o dia está a findar.",
+                "Tem fé em Deus, à noite ou no arrebol.",
+                "Tem fé, amigo, em Deus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tem fé em Deus se o sonho se desfaz.",
+                "Tem fé em Deus, não podes andar só.",
+                "Tem fé em Deus, e busca Dele a paz.",
+                "Tem fé, amigo, em Deus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Tem fé em Deus se calma a vida vai.",
+                "Tem fé em Deus se treme o coração.",
+                "Tem fé em Deus, que é teu bondoso Pai.",
+                "Tem fé, amigo, em Deus."
+            ]
+        }
+    ]
+}

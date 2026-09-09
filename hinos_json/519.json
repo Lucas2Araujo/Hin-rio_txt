@@ -1,0 +1,89 @@
+{
+    "hymn": {
+        "number": "519",
+        "title": "Amigo Do Coração",
+        "originalTitle": "",
+        "subCategory": 29,
+        "lyricsComposer": [
+            471
+        ],
+        "musicComposer": [
+            471
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Provérbios 18:24",
+        "youtubeURL": "https://www.youtube.com/watch?v=ojukNBX0xRs",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Provérbios 18:24",
+            "João 15:14-15",
+            "Tiago 2:23"
+        ],
+        "texto_base": "Provérbios 18:24",
+        "temas_relacionados": [
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não é segredo, não há mistério,",
+                "Não conheço a tristeza,",
+                "meu sorriso é sincero.",
+                "Vou contar o motivo dessa minha euforia:",
+                "Conheci um Amigo que é minha alegria."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vou te contar do meu Amigo",
+                "que está sempre comigo.",
+                "Meus segredos e aventuras",
+                "conto a Ele em oração.",
+                "Não há no mundo quem me faça",
+                "separar do meu Amigo.",
+                "Esse Amigo é Jesus, Amigo do coração."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não é segredo, não há mistério,",
+                "Não conheço a tristeza,",
+                "meu sorriso é sincero.",
+                "Vou contar o motivo dessa minha euforia:",
+                "Conheci um Amigo que é minha alegria."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vou te contar do meu Amigo",
+                "que está sempre comigo.",
+                "Meus segredos e aventuras",
+                "conto a Ele em oração.",
+                "Não há no mundo quem me faça",
+                "separar do meu Amigo.",
+                "Esse Amigo é Jesus, Amigo do coração."
+            ]
+        }
+    ]
+}

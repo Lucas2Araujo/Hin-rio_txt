@@ -1,0 +1,113 @@
+{
+    "hymn": {
+        "number": "299",
+        "title": "Dia Santo",
+        "originalTitle": "",
+        "subCategory": 20,
+        "lyricsComposer": [
+            86,
+            133,
+            76
+        ],
+        "musicComposer": [
+            86,
+            133,
+            76
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Ezequiel 20:12",
+        "youtubeURL": "https://www.youtube.com/watch?v=2jlp0c_gOck",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Ezequiel 20:20",
+            "Êxodo 31:13",
+            "Isaías 58:13"
+        ],
+        "texto_base": "Ezequiel 20:12",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Missão e Serviço",
+            "Palavra de Deus e Lei",
+            "Segunda Vinda e Esperança",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O sol já vai partindo,",
+                "dando início ao dia santo.",
+                "Toda a natureza",
+                "é bem-vinda ao seu encanto.",
+                "Da imutável lei divina",
+                "é a marca tão perfeita.",
+                "O sinal que traz descanso",
+                "à fiel nação eleita."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Toda bênção nesse dia",
+                "é sempre redobrada",
+                "Se minhas vontades",
+                "pessoais são desprezadas.",
+                "Quão imaculado exemplo",
+                "deu o Pai em seu descanso,",
+                "Encerrando Seu trabalho",
+                "e nos dando um dia santo."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Dia santo, dia do Senhor,",
+                "O teu pôr do sol revela o plano redentor.",
+                "Dia da aliança, selo da esperança,",
+                "Marca de um povo escolhido pelo amor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Muitos acreditam",
+                "que um dia não faz diferença;",
+                "Basta ser sincero",
+                "e a Deus oferecer a própria crença.",
+                "Mas a Bíblia é clara",
+                "quanto ao dia escolhido:",
+                "Sábado no Éden",
+                "foi o dia definido."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Dia santo, dia do Senhor,",
+                "O teu pôr do sol revela o plano redentor.",
+                "Dia da aliança, selo da esperança,",
+                "Marca de um povo escolhido pelo amor."
+            ]
+        }
+    ]
+}

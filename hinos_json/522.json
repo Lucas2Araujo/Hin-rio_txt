@@ -1,0 +1,110 @@
+{
+    "hymn": {
+        "number": "522",
+        "title": "Eu Quero Esse Poder",
+        "originalTitle": "",
+        "subCategory": 29,
+        "lyricsComposer": [
+            251
+        ],
+        "musicComposer": [
+            251
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Joel 2:28",
+        "youtubeURL": "https://www.youtube.com/watch?v=cjw0Xd-BcIg",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Atos 1:8",
+            "Lucas 24:49",
+            "Joel 2:28"
+        ],
+        "texto_base": "Joel 2:28",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Espírito Santo",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nas cenas finais deste mundo,",
+                "Muita gente vai se espantar",
+                "Com o modo tão simples, mas tão eficaz,",
+                "Que o Santo Espírito vai Se manifestar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Num futuro que está tão próximo,",
+                "Crianças serão revestidas",
+                "Com o Santo Espírito.",
+                "Então proclamarão",
+                "que Jesus Cristo em breve virá."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Crianças assim,",
+                "Pequenas como nós,",
+                "E jovens cristãos",
+                "Se encherão de poder.",
+                "Despertarão grande admiração,",
+                "Falando co’ardor que Jesus vai voltar!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu quero esse poder!",
+                "Eu quero esse poder!",
+                "Eu quero esse poder!",
+                "Eu quero esse poder!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Crianças assim,",
+                "Pequenas como nós, ",
+                "E jovens cristãos ",
+                "Se encherão de poder. ",
+                "Despertarão grande admiração, ",
+                "Falando co’ardor que Jesus vai voltar! "
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu quero esse poder!",
+                "Eu quero esse poder! ",
+                "Eu quero esse poder! ",
+                "Eu quero esse poder! "
+            ]
+        }
+    ]
+}

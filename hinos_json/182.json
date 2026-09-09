@@ -1,0 +1,120 @@
+{
+    "hymn": {
+        "number": "182",
+        "title": "Eu Pertenço Ao Meu Rei",
+        "originalTitle": "I Belong to the King",
+        "subCategory": 11,
+        "lyricsComposer": [
+            222
+        ],
+        "musicComposer": [
+            358
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Coríntios 6:19, 20",
+        "youtubeURL": "https://www.youtube.com/watch?v=ubclOJpcEgc",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Coríntios 6:20",
+            "Romanos 14:8",
+            "Isaías 43:1"
+        ],
+        "texto_base": "1 Coríntios 6:19, 20",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu pertenço ao meu Rei,",
+                "filho sou do Senhor;",
+                "Nas eternas mansões morarei.",
+                "Já das glórias ouvi,",
+                "lá da pátria de amor;",
+                "Com Seus filhos as desfrutarei."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu pertenço ao meu Rei,",
+                "filho sou do Senhor.",
+                "Ele nunca me esquece, eu o sei.",
+                "Eu terei salvação",
+                "por Seu grande favor",
+                "E na glória perene estarei."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu pertenço ao meu Rei;",
+                "é por mim Seu amor.",
+                "Sua paz e descanso terei.",
+                "Seu conforto me vem",
+                "suavizar qualquer dor.",
+                "Guardará os Seus filhos, bem sei."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu pertenço ao meu Rei,",
+                "filho sou do Senhor.",
+                "Ele nunca me esquece, eu o sei.",
+                "Eu terei salvação",
+                "por Seu grande favor",
+                "E na glória perene estarei."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu pertenço ao meu Rei;",
+                "a promessa é real.",
+                "Honrará os que amarem Sua lei.",
+                "Junto ao trono de Deus,",
+                "na cidade eternal,",
+                "Com os salvos um dia estarei."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu pertenço ao meu Rei,",
+                "filho sou do Senhor.",
+                "Ele nunca me esquece, eu o sei.",
+                "Eu terei salvação",
+                "por Seu grande favor",
+                "E na glória perene estarei."
+            ]
+        }
+    ]
+}

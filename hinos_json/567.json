@@ -1,0 +1,72 @@
+{
+    "hymn": {
+        "number": "567",
+        "title": "Introito",
+        "originalTitle": "",
+        "subCategory": 30,
+        "lyricsComposer": [
+            492
+        ],
+        "musicComposer": [
+            326
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Hebreus 11:16",
+        "youtubeURL": "https://www.youtube.com/watch?v=-O3V4eXegCA",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Hebreus 11:16",
+            "Salmos 24:3",
+            "Salmos 15:1"
+        ],
+        "texto_base": "Hebreus 11:16",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ó Deus eterno e santo,",
+                "Vem conosco habitar.",
+                "Derrama Teu Espírito",
+                "Sobre nós neste lugar.",
+                "A Ti rendemos glórias",
+                "Pela paz que vem da cruz,",
+                "Por ter nos concedido",
+                "Vida eterna em Jesus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Recebe, Pai querido,",
+                "Nossa humilde adoração",
+                "Por Tua eterna graça",
+                "Que nos trouxe salvação.",
+                "Em Ti nós descansamos,",
+                "Rei eterno e Criador,",
+                "Pois pela fé buscamos",
+                "Uma pátria superior."
+            ]
+        }
+    ]
+}

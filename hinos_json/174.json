@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "174",
+        "title": "Que Consolo E Paz!",
+        "originalTitle": "Leaning on the Everlasting Arms",
+        "subCategory": 11,
+        "lyricsComposer": [
+            115
+        ],
+        "musicComposer": [
+            23
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "",
+        "youtubeURL": "https://www.youtube.com/watch?v=AbkpBk1b3Rc",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 11:28",
+            "Salmos 62:1",
+            "Salmos 116:7"
+        ],
+        "texto_base": "",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que consolo e paz, que prazer me traz",
+                "O descanso ter nas mãos de Deus!",
+                "Ele tem prazer em tomar meu ser",
+                "E descanso dá nos braços Seus."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Que paz e amor",
+                "E descanso traz a mão de Deus!",
+                "Feliz estou",
+                "Em poder estar nos braços Seus!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sempre avante vou, confiante estou,",
+                "Pois descanso achei na mão de Deus.",
+                "Tudo irei vencer pelo Seu poder",
+                "E descanso ter nos braços Seus."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Que paz e amor",
+                "E descanso traz a mão de Deus!",
+                "Feliz estou",
+                "Em poder estar nos braços Seus!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Lutas hei de ter pelo meu viver,",
+                "Mas poder terei nas mãos de Deus.",
+                "Minha vida assim há de ser sem fim,",
+                "Pois a salvo estou nos braços Seus."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Que paz e amor",
+                "E descanso traz a mão de Deus!",
+                "Feliz estou",
+                "Em poder estar nos braços Seus!"
+            ]
+        }
+    ]
+}

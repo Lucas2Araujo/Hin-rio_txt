@@ -1,0 +1,81 @@
+{
+    "hymn": {
+        "number": "207",
+        "title": "Confiei No Meu Senhor",
+        "originalTitle": "",
+        "subCategory": 11,
+        "lyricsComposer": [
+            492
+        ],
+        "musicComposer": [
+            326
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 40:1-4",
+        "youtubeURL": "https://www.youtube.com/watch?v=t9Pp34pZ1AQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 40:1",
+            "Salmos 28:7",
+            "Salmos 56:7"
+        ],
+        "texto_base": "Salmo 40:1-4",
+        "temas_relacionados": [
+            "Adoração e Louvor"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Confiei no meu Senhor,",
+                "E Ele me ouviu.",
+                "Do pecado me livrou,",
+                "E a vida em mim surgiu."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Muitos O verão e temerão,",
+                "Deus, Criador da Terra e Céu.",
+                "Bem-aventurado o que confia no Senhor.",
+                "A Cristo honra, glória e louvor!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Os meus pés guiou no bem.",
+                "Um sol em mim nasceu.",
+                "Minha vida há de ser",
+                "Um hino ao meu bom Deus."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Muitos O verão e temerão,",
+                "Deus, Criador da Terra e Céu.",
+                "Bem-aventurado o que confia no Senhor.",
+                "A Cristo honra, glória e louvor!",
+                "A Cristo honra, glória e louvor!"
+            ]
+        }
+    ]
+}

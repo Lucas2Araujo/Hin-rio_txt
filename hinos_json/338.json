@@ -1,0 +1,131 @@
+{
+    "hymn": {
+        "number": "338",
+        "title": "Deus Não Se Cansa De Amar",
+        "originalTitle": "",
+        "subCategory": 22,
+        "lyricsComposer": [
+            492
+        ],
+        "musicComposer": [
+            326
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Jeremias 31:3",
+        "youtubeURL": "https://www.youtube.com/watch?v=SuB1C8QF8RM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Jeremias 31:3",
+            "Lamentações 3:22-23",
+            "Romanos 8:38-39"
+        ],
+        "texto_base": "Jeremias 31:3",
+        "temas_relacionados": [
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quando andamos pela vida",
+                "sem destino ou direção,",
+                "Quando faltam os amigos,",
+                "autoestima e emoção,",
+                "Deus nos chama pelo nome,",
+                "Ele vê nosso cansaço,",
+                "Quer nos devolver a paz",
+                "E quer de volta nosso abraço."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deus não Se cansa de amar;",
+                "Deus não Se cansa de amar;",
+                "Deus não Se cansa de amar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus comprou-nos com Seu sangue,",
+                "Deus conhece nossa dor.",
+                "Se este mundo nos maltrata,",
+                "em Seus braços há amor.",
+                "Sua graça é infinita;",
+                "Nele está a salvação.",
+                "Se são grandes nossas quedas,",
+                "Bem maior é o Seu perdão."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo é nossa esperança;",
+                "Numa cruz por nós morreu",
+                "Pra ter sempre ao Seu lado",
+                "Quem um dia se perdeu.",
+                "Ele o ama pessoalmente.",
+                "É o Cordeiro de Deus.",
+                "Se Ele tira os pecados do mundo,",
+                "Ele vai tirar os seus."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deus não Se cansa de amar;",
+                "Deus não Se cansa de amar;",
+                "Deus não Se cansa de amar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus não Se cansa de amar;",
+                "Deus não Se cansa de amar.",
+                "Deus ampara Seus filhos;",
+                "paz à alma quer dar",
+                "Pra curar as feridas",
+                "que ainda estão por fechar.",
+                "E, se estamos cansados de cair e falhar,",
+                "Deus nos toma em Seus braços;",
+                "não Se cansa de amar."
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deus não Se cansa de amar;",
+                "Deus não Se cansa de amar;",
+                "Deus não Se cansa de amar."
+            ]
+        }
+    ]
+}

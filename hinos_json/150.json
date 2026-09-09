@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "150",
+        "title": "Ó Jesus, Habita Em Mim",
+        "originalTitle": "Herr, ich komme",
+        "subCategory": 10,
+        "lyricsComposer": [
+            181
+        ],
+        "musicComposer": [
+            224
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Efésios 3:17-19",
+        "youtubeURL": "https://www.youtube.com/watch?v=H6uJzMKrSF8",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Efésios 3:17",
+            "João 14:23",
+            "Colossenses 1:27"
+        ],
+        "texto_base": "Efésios 3:17-19",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Meu pecado perdoado",
+                "Foi na cruz por Teu amor.",
+                "E da morte, triste sorte,",
+                "Me livraste, ó Senhor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vem, inflama viva chama",
+                "De fervor e fé sem fim!",
+                "Eu Te adoro, sempre imploro:",
+                "Ó Jesus, habita em mim!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se hesitante, vacilante,",
+                "Ouço a voz do tentador,",
+                "Tu me guias, me auxilias",
+                "E me tornas vencedor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vem, inflama viva chama",
+                "De fervor e fé sem fim!",
+                "Eu Te adoro, sempre imploro:",
+                "Ó Jesus, habita em mim!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Redimida para a vida,",
+                "Foi minh’alma pelo amor.",
+                "Com apreço, reconheço",
+                "Quanto devo a Ti, Senhor."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vem, inflama viva chama",
+                "De fervor e fé sem fim!",
+                "Eu Te adoro, sempre imploro:",
+                "Ó Jesus, habita em mim!"
+            ]
+        }
+    ]
+}

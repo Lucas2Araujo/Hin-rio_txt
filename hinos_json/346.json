@@ -1,0 +1,83 @@
+{
+    "hymn": {
+        "number": "346",
+        "title": "Como Agradecer",
+        "originalTitle": "My Tribute",
+        "subCategory": 22,
+        "lyricsComposer": [
+            19
+        ],
+        "musicComposer": [
+            19
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 116:12, 13",
+        "youtubeURL": "https://www.youtube.com/watch?v=K0dtLwEBX3Q",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 116:12",
+            "1 Tessalonicenses 5:18",
+            "Colossenses 3:15"
+        ],
+        "texto_base": "Salmo 116:12, 13",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Como agradecer",
+                "a Jesus o que fez por mim?",
+                "Sem eu merecer,",
+                "vem provar o Seu amor sem fim.",
+                "As vozes de um milhão de anjos",
+                "não poderiam expressar",
+                "A gratidão que vibra em meu ser,",
+                "pois tudo devo a Ti."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A Deus seja a glória,",
+                "a Deus seja a glória,",
+                "A Deus seja a glória",
+                "pelo que fez por mim!",
+                "Com Seu sangue lavou-me,",
+                "Seu poder transformou-me.",
+                "A Deus seja a glória",
+                "pelo que fez por mim!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quero entregar, Senhor,",
+                "a minha vida em Tuas mãos",
+                "E quero dar meu louvor",
+                "pela Tua eterna salvação.",
+                "Com Seu sangue lavou-me,",
+                "Seu poder transformou-me.",
+                "A Deus seja a glória",
+                "pelo que fez por mim!"
+            ]
+        }
+    ]
+}

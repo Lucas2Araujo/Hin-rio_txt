@@ -1,0 +1,103 @@
+{
+    "hymn": {
+        "number": "255",
+        "title": "As Águas Batismais",
+        "originalTitle": "We Will Stand the Storm",
+        "subCategory": 15,
+        "lyricsComposer": [
+            11
+        ],
+        "musicComposer": [
+            88
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Romanos 6:3, 4",
+        "youtubeURL": "https://www.youtube.com/watch?v=vf3jfoQFP3U",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Romanos 6:4",
+            "Colossenses 2:12",
+            "Atos 22:16"
+        ],
+        "texto_base": "Romanos 6:3, 4",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Oração e Comunhão"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Nas claras águas deste mar,",
+                "Os meus pecados deixarei.",
+                "Depois, então, irei morar",
+                "Com o divino Rei."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deixarei no mar",
+                "Minhas culpas deixarei, deixarei.",
+                "Deixarei no mar",
+                "E no Céu irei morar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Desejo agora consagrar",
+                "A minha vida ao Salvador,",
+                "Deixando todo o meu pesa",
+                "Aos pés do Redentor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deixarei no mar",
+                "Minhas culpas deixarei, deixarei.",
+                "Deixarei no mar",
+                "E no Céu irei morar."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Aqui as culpas vou deixar,",
+                "E vida nova então terei.",
+                "E assim um dia irei morar",
+                "Com o divino Rei."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deixarei no mar",
+                "Minhas culpas deixarei, deixarei.",
+                "Deixarei no mar",
+                "E no Céu irei morar."
+            ]
+        }
+    ]
+}

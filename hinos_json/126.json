@@ -1,0 +1,70 @@
+{
+    "hymn": {
+        "number": "126",
+        "title": "Foge Para O Monte",
+        "originalTitle": "Flee As a Bird",
+        "subCategory": 10,
+        "lyricsComposer": [
+            355
+        ],
+        "musicComposer": [
+            366
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 121",
+        "youtubeURL": "https://www.youtube.com/watch?v=1SBM9-TndOU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 46:1",
+            "Provérbios 18:10",
+            "Gênesis 19:17"
+        ],
+        "texto_base": "Salmo 121",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Foge veloz para o monte,",
+                "Ó pecador, sem tardar.",
+                "Busca perdão junto à fonte,",
+                "Fonte que está a jorrar.",
+                "Lá fruirás paz dos santos,",
+                "Lá findarão os teus prantos.",
+                "Olha do Céu os encantos",
+                "E vem a Jesus sem tardar.",
+                "Oh, vem a Jesus sem tardar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sente terror tua alma?",
+                "Buscas a paz, pecador?",
+                "Hás de sentir doce calma",
+                "Junto do teu Salvador.",
+                "Ele é gentil, bom e amável.",
+                "Quer só teu bem cada instante.",
+                "Não fiques, pois, vacilante,",
+                "Oh, vem a Jesus sem tardar!",
+                "Oh, vem a Jesus sem tardar!"
+            ]
+        }
+    ]
+}

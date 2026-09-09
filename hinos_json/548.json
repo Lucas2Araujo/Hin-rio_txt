@@ -1,0 +1,80 @@
+{
+    "hymn": {
+        "number": "548",
+        "title": "O Milagre Da Vida",
+        "originalTitle": "",
+        "subCategory": 29,
+        "lyricsComposer": [
+            251
+        ],
+        "musicComposer": [
+            251
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 139:13, 14",
+        "youtubeURL": "https://www.youtube.com/watch?v=A6KuXacY6MU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 139:13-14",
+            "Jeremias 1:5",
+            "Jó 33:4"
+        ],
+        "texto_base": "Salmo 139:13, 14",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Antes mesmo de ter um nome",
+                "E abrir os meus olhinhos,",
+                "Ou alguém ver o meu rostinho,",
+                "Eu estava num lugar especial",
+                "Que Deus fez para mim,",
+                "Cercado de amor, de calor."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Minhas mãos eram tão pequeninas,",
+                "Meus pezinhos inseguros ainda,",
+                "Mas no peito meu coraçãozinho",
+                "Já mostrava que o milagre do nascer,",
+                "Do viver, do existir,",
+                "Outra vez aconteceu."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu sou o milagre da vida,",
+                "Milagre da criação;",
+                "Com Deus, sim, eu quero crescer,",
+                "Pois Ele quem me fez nascer.",
+                "Eu sou o milagre da vida,",
+                "Milagre da criação;",
+                "Com Deus, sim, eu quero crescer,",
+                "Pois Ele quem me fez nascer.",
+                "Pois Ele quem me fez nascer."
+            ]
+        }
+    ]
+}

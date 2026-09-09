@@ -1,0 +1,90 @@
+{
+    "hymn": {
+        "number": "458",
+        "title": "Não Tardará",
+        "originalTitle": "It Won‘t Be Long",
+        "subCategory": 25,
+        "lyricsComposer": [
+            19
+        ],
+        "musicComposer": [
+            19
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 22:12",
+        "youtubeURL": "https://www.youtube.com/watch?v=wH6SLP6wEMY",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Hebreus 10:37",
+            "2 Pedro 3:9",
+            "Habacuque 2:3"
+        ],
+        "texto_base": "Apocalipse 22:12",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não tardará, Cristo irá voltar.",
+                "Não tardará, vamos para o lar.",
+                "Não tardará, Cristo irá voltar.",
+                "Não tardará, vamos para o lar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu quero me preparar,",
+                "Pois vamos logo subir;",
+                "E quero junto a você,",
+                "lá no Céu,",
+                "Conversar com Jesus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não tardará, Cristo irá voltar.",
+                "Não tardará, vamos para o lar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu quero me preparar,",
+                "Pois vamos logo subir;",
+                "E quero junto a você,",
+                "lá no Céu,",
+                "Conversar com Jesus."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não tardará, Cristo irá voltar.",
+                "Não tardará, vamos para o lar."
+            ]
+        }
+    ]
+}

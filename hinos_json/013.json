@@ -1,0 +1,106 @@
+{
+    "hymn": {
+        "number": "13",
+        "title": "Louvamos-te, Ó Deus",
+        "originalTitle": "Revive Us Again",
+        "subCategory": 1,
+        "lyricsComposer": [
+            530
+        ],
+        "musicComposer": [
+            278
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 113:1, 2",
+        "youtubeURL": "https://www.youtube.com/watch?v=xAzZsKdefi0",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Romanos 5:8",
+            "João 3:16",
+            "Efésios 1:13-14"
+        ],
+        "texto_base": "Salmo 113:1, 2",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Louvamos-Te, ó Deus,",
+                "pelo dom de Jesus,",
+                "Que por nós, pecadores,",
+                "foi morto na cruz."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Aleluia! Toda a glória",
+                "Te rendemos sem fim.",
+                "Aleluia! Tua graça",
+                "Celebramos. Amém!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Louvamos-Te, ó Deus,",
+                "pelo Espírito, luz",
+                "Que nos tira das trevas",
+                "e a Cristo conduz."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Aleluia! Toda a glória",
+                "Te rendemos sem fim.",
+                "Aleluia! Tua graça",
+                "Celebramos. Amém!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ó vem nos encher",
+                "de celeste fervor,",
+                "De esperança e bondade,",
+                "de fé, zelo e amor."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Aleluia! Toda a glória",
+                "Te rendemos sem fim.",
+                "Aleluia! Tua graça",
+                "Celebramos. Amém!"
+            ]
+        }
+    ]
+}

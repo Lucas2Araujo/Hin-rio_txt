@@ -1,0 +1,75 @@
+{
+    "hymn": {
+        "number": "504",
+        "title": "Mais Perto Desse Lar",
+        "originalTitle": "Más Cerca del Hogar",
+        "subCategory": 28,
+        "lyricsComposer": [
+            386
+        ],
+        "musicComposer": [
+            386
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 14:1-3",
+        "youtubeURL": "https://www.youtube.com/watch?v=JKzMvlzTQIs",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Romanos 13:11",
+            "Hebreus 10:25",
+            "Tiago 5:8"
+        ],
+        "texto_base": "João 14:1-3",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Palavra de Deus e Lei",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A Bíblia assegura que Jesus",
+                "Em breve com as nuvens voltará.",
+                "A Cristo iremos logo contemplar,",
+                "Pois perto estamos desse lar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Mais perto desse lar,",
+                "mais perto desse lar,",
+                "Mais perto estamos hoje",
+                "de entrar no lar.",
+                "Mais perto desse lar,",
+                "mais perto desse lar,",
+                "Mais perto estamos hoje",
+                "de entrar no novo lar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A obra nós devemos terminar,",
+                "Pois muitos precisamos alcançar.",
+                "Das boas-novas temos que falar,",
+                "Mais perto estamos desse lar."
+            ]
+        }
+    ]
+}

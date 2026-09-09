@@ -1,0 +1,105 @@
+{
+    "hymn": {
+        "number": "469",
+        "title": "Enquanto Ele Não Vem",
+        "originalTitle": "",
+        "subCategory": 25,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Hebreus 10:23-25",
+        "youtubeURL": "https://www.youtube.com/watch?v=3AFtQj-ZbXU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Hebreus 10:23",
+            "Tiago 5:7",
+            "2 Pedro 3:12"
+        ],
+        "texto_base": "Hebreus 10:23-25",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "As palavras de Jesus ainda ecoam",
+                "No Universo e dentro do meu coração.",
+                "Foram ditas pelo Mestre há tanto tempo,",
+                "Mas são tão incrivelmente atuais.",
+                "Quando vejo as notícias, vejo o mundo",
+                "Quase a ponto de se desintegrar,",
+                "Eu me lembro da promessa tão preciosa",
+                "De que Cristo, muito em breve, vai voltar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Mas, enquanto Ele não vem,",
+                "sigo esperando.",
+                "Enquanto Ele não vem, sigo com fé.",
+                "Levanto os meus olhos para o alto;",
+                "O meu coração me diz: Ele está vindo.",
+                "E vivo os meus dias pensando:",
+                "Pode ser hoje,",
+                "Talvez um dia ou dois depois de amanhã.",
+                "O que importa saber é que Ele volta",
+                "E vem pra recolher os que já são Seus."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Meu maior desejo um dia é abraçá-Lo",
+                "E lançar-me a Seus pés em gratidão.",
+                "Contemplá-Lo face a face como os anjos",
+                "E tocar as mãos feridas lá na cruz.",
+                "Quando penso que esse dia está chegando,",
+                "Quando o mal já não mais existirá,",
+                "Eu me animo e renovo as minhas forças",
+                "Na certeza de que o Céu será meu lar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Mas, enquanto Ele não vem,",
+                "sigo esperando.",
+                "Enquanto Ele não vem, sigo com fé.",
+                "Levanto os meus olhos para o alto;",
+                "O meu coração me diz: Ele está vindo.",
+                "E vivo os meus dias pensando:",
+                "Pode ser hoje,",
+                "Talvez um dia ou dois depois de amanhã.",
+                "O que importa saber é que Ele volta",
+                "E vem pra recolher os que já são Seus.",
+                "E vem pra recolher os que já são Seus."
+            ]
+        }
+    ]
+}

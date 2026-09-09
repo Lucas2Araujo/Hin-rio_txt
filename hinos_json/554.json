@@ -1,0 +1,93 @@
+{
+    "hymn": {
+        "number": "554",
+        "title": "Sou Aventureiro",
+        "originalTitle": "",
+        "subCategory": 29,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Lucas 18:16",
+        "youtubeURL": "https://www.youtube.com/watch?v=Xlva_BqXBgk",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Provérbios 20:11",
+            "Eclesiastes 12:1",
+            "1 Timóteo 4:12"
+        ],
+        "texto_base": "Lucas 18:16",
+        "temas_relacionados": [
+            "Crianças e Jovens",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Sou aventureiro, sou feliz;",
+                "Tenho bons motivos pra sorrir.",
+                "Sou obediente ao meu Pastor;",
+                "Sou um cordeirinho do Senhor.",
+                "Vou cantar pra quem quiser me ouvir.",
+                "Gosto de brincar e de sorrir.",
+                "E vou dizer e esclarecer",
+                "O motivo de ser assim:"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu escolhi Jesus para ser meu Guia;",
+                "Eu vou seguir Seus passos a cada dia.",
+                "Eu não quero outra alegria;",
+                "Quero sempre estar",
+                "Em Sua doce companhia."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quero estar por perto pra ajudar",
+                "A quem por acaso precisar.",
+                "Mesmo no deserto vou plantar",
+                "Flores coloridas pra enfeitar;",
+                "Vou tornar o mundo bem melhor,",
+                "Cheio de amor, bondade e paz,",
+                "Cheio de verde, cheio de azul,",
+                "Cheio de beleza incomum."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eu escolhi Jesus para ser meu Guia;",
+                "Eu vou seguir Seus passos a cada dia.",
+                "Eu não quero outra alegria;",
+                "Quero sempre estar",
+                "Em Sua doce companhia."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "hymn": {
+        "number": "303",
+        "title": "Minha Entrega",
+        "originalTitle": "Have Thine Own Way, Lord",
+        "subCategory": 21,
+        "lyricsComposer": [
+            5
+        ],
+        "musicComposer": [
+            168
+        ],
+        "versionComposer": [
+            517
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Filipenses 4:13",
+        "youtubeURL": "https://www.youtube.com/watch?v=FlkCgkhQ5CI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 37:5",
+            "Provérbios 16:3",
+            "1 Pedro 5:7"
+        ],
+        "texto_base": "Filipenses 4:13",
+        "temas_relacionados": [
+            "Vida Cristã e Devoção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo, bom Mestre, eis meu querer:",
+                "Tua vontade sempre cumprir.",
+                "Faze-me forte para vencer",
+                "Duras fraquezas que possam vir."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo, bom Mestre, eis meu querer:",
+                "Mais santidade sempre buscar.",
+                "Faze-me sábio, dá-me poder",
+                "Para a verdade nunca deixar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo, bom Mestre, eis meu querer:",
+                "Todas as minhas faltas vencer.",
+                "Faze-me firme para lutar,",
+                "Para a vitória sempre ganhar."
+            ]
+        }
+    ]
+}

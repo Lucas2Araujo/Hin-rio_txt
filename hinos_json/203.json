@@ -1,0 +1,134 @@
+{
+    "hymn": {
+        "number": "203",
+        "title": "Abrigo Na Rocha",
+        "originalTitle": "He Hideth My Soul",
+        "subCategory": 11,
+        "lyricsComposer": [
+            132
+        ],
+        "musicComposer": [
+            526
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 31:2, 3",
+        "youtubeURL": "https://www.youtube.com/watch?v=TqplFQwwgGM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 31:2-3",
+            "Salmos 71:3",
+            "Salmos 18:2"
+        ],
+        "texto_base": "Salmo 31:2, 3",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus, amoroso e",
+                "fiel Salvador,",
+                "Tão maravilhoso pra mim!",
+                "No abrigo da rocha me esconde ao calor,",
+                "E dá-me alegria sem fim."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "No abrigo da rocha me esconde ao calor,",
+                "Em árida terra de sol.",
+                "Oculta minh’alma em Seu plácido amor",
+                "E cobre-me com Sua mão.",
+                "Sim, cobre-me com Sua mão."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus, amoroso e",
+                "fiel Salvador,",
+                "Afasta-me a carga e o pesar.",
+                "Restaura-me as forças, renova o fervor,",
+                "E assim já não temo lutar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "No abrigo da rocha me esconde ao calor,",
+                "Em árida terra de sol.",
+                "Oculta minh’alma em Seu plácido amor",
+                "E cobre-me com Sua mão.",
+                "Sim, cobre-me com Sua mão."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Concede-me bênçãos",
+                "de paz e de luz.",
+                "Nos lábios me põe o louvor.",
+                "Cantando, contente, dou glória a Jesus,",
+                "Excelso e leal Salvador."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "No abrigo da rocha me esconde ao calor,",
+                "Em árida terra de sol.",
+                "Oculta minh’alma em Seu plácido amor",
+                "E cobre-me com Sua mão.",
+                "Sim, cobre-me com Sua mão."
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "E enfim, quando em glória",
+                "eu feliz ressurgir,",
+                "E for meu Jesus abraçar,",
+                "Delícias perenes eu hei de fruir,",
+                "No reino sublime, sem-par."
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "No abrigo da rocha me esconde ao calor,",
+                "Em árida terra de sol.",
+                "Oculta minh’alma em Seu plácido amor",
+                "E cobre-me com Sua mão.",
+                "Sim, cobre-me com Sua mão."
+            ]
+        }
+    ]
+}

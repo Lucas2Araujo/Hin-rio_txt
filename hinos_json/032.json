@@ -1,0 +1,91 @@
+{
+    "hymn": {
+        "number": "32",
+        "title": "Brilha Jesus",
+        "originalTitle": "Shine, Jesus, Shine",
+        "subCategory": 3,
+        "lyricsComposer": [
+            179
+        ],
+        "musicComposer": [
+            179
+        ],
+        "versionComposer": [
+            492
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 8:12",
+        "youtubeURL": "https://www.youtube.com/watch?v=pnjg15RB6f8",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 4:16",
+            "1 João 1:5",
+            "2 Coríntios 4:6"
+        ],
+        "texto_base": "João 8:12",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pai, o Teu grande amor me inspira.",
+                "Pai, o Teu resplendor me anima.",
+                "Tua luz ilumina os caminhos meus.",
+                "Como um sol, o amor desses olhos Teus",
+                "Brilha em mim, brilha em mim."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Brilha, Jesus!",
+                "Vem trazer a luz que vem da glória.",
+                "O Teu calor traz a paz e amor.",
+                "Vem como um sol",
+                "Às nações trazer misericórdia.",
+                "Brilha, Jesus! Vem trazer Tua luz."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pai, a Tua real grandeza",
+                "Traz à vida real beleza.",
+                "Teu amor transformou nossa história.",
+                "Hoje a luz que nos vem lá da glória",
+                "Brilha em mim, brilha em mim."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Brilha, Jesus!",
+                "Vem trazer a luz que vem da glória.",
+                "O Teu calor traz a paz e amor.",
+                "Vem como um sol",
+                "Às nações trazer misericórdia.",
+                "Brilha, Jesus! Vem trazer Tua luz."
+            ]
+        }
+    ]
+}

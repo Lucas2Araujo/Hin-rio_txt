@@ -1,0 +1,95 @@
+{
+    "hymn": {
+        "number": "269",
+        "title": "Sal Da Terra",
+        "originalTitle": "",
+        "subCategory": 17,
+        "lyricsComposer": [
+            104,
+            326
+        ],
+        "musicComposer": [
+            104,
+            326
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 5:13",
+        "youtubeURL": "https://www.youtube.com/watch?v=ROWbiKrX-1U",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 5:13",
+            "Marcos 9:50",
+            "Lucas 14:34"
+        ],
+        "texto_base": "Mateus 5:13",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Missão e Serviço",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Jesus nos deu esta missão:",
+                "O Seu amor compartilhar.",
+                "Somente entraremos em ação",
+                "Se o amor de Deus nos motivar.",
+                "O Seu poder nos moverá,",
+                "E assim iremos repartir",
+                "O amor de Deus, a verdadeira paz",
+                "E a doce esperança no porvir."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vós sois o sal da terra,",
+                "Vós sois o sal da terra,",
+                "Restaurando o sabor",
+                "E a alegria de viver.",
+                "Vós sois o sal da terra."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A vida que Jesus viveu,",
+                "O exemplo que Ele nos deixou",
+                "Demonstram o real sentido",
+                "Da missão que o Senhor nos confiou.",
+                "Saber a todos perdoar,",
+                "Querer a todos aceitar",
+                "Revelam a grandeza do serviço",
+                "E apontam para o Salvador."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vós sois o sal da terra,",
+                "Vós sois o sal da terra,",
+                "Restaurando o sabor",
+                "E a alegria de viver.",
+                "Vós sois o sal da terra."
+            ]
+        }
+    ]
+}

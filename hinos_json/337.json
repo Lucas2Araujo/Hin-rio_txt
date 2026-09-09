@@ -1,0 +1,109 @@
+{
+    "hymn": {
+        "number": "337",
+        "title": "Amor Nos Faz Contentes",
+        "originalTitle": "’Tis Love That Makes Us Happy",
+        "subCategory": 22,
+        "lyricsComposer": [
+            147
+        ],
+        "musicComposer": [
+            147
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 13:34, 35",
+        "youtubeURL": "https://www.youtube.com/watch?v=6qSurkv7NNM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 13:34-35",
+            "1 João 4:7-8",
+            "Romanos 13:10"
+        ],
+        "texto_base": "João 13:34, 35",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Palavra de Deus e Lei"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Amor nos faz contentes,",
+                "Amor nos dá prazer.",
+                "E para a lei cumprirmos",
+                "O amor nos dá poder."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deus é bom, Seus filhinhos somos.",
+                "Deus é bom, quer o nosso amor.",
+                "Amor nos faz contentes,",
+                "Amor nos dá prazer.",
+                "E para a lei cumprirmos",
+                "O amor nos dá poder."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O mundo tem tristezas",
+                "E cheio está de dor.",
+                "Co’amor, então, busquemos",
+                "Perdidos ao Senhor."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deus é bom, Seus filhinhos somos.",
+                "Deus é bom, quer o nosso amor.",
+                "Amor nos faz contentes,",
+                "Amor nos dá prazer.",
+                "E para a lei cumprirmos",
+                "O amor nos dá poder."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "E quando enfim a vida",
+                "De lutas se acabar,",
+                "No Céu também iremos",
+                "O amor de Deus louvar."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Deus é bom, Seus filhinhos somos.",
+                "Deus é bom, quer o nosso amor.",
+                "Amor nos faz contentes,",
+                "Amor nos dá prazer.",
+                "E para a lei cumprirmos",
+                "O amor nos dá poder."
+            ]
+        }
+    ]
+}

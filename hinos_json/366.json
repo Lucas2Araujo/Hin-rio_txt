@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "366",
+        "title": "No Jardim",
+        "originalTitle": "In the Garden",
+        "subCategory": 22,
+        "lyricsComposer": [
+            56
+        ],
+        "musicComposer": [
+            56
+        ],
+        "versionComposer": [
+            83
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 20:1, 11-18",
+        "youtubeURL": "https://www.youtube.com/watch?v=SnSVCN7Vuzk",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "João 20:14-16",
+            "Cantares 6:2",
+            "Gênesis 3:8"
+        ],
+        "texto_base": "João 20:1, 11-18",
+        "temas_relacionados": [
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu fui ao jardim bem a sós,",
+                "Aos primeiros raios celestes;",
+                "Pude então ouvir doce e meiga voz,",
+                "A voz gentil do Mestre."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Que alegria sempre essa voz ouvir:",
+                "“Eu te amo, ó pecador!",
+                "Mesmo a morte lá sobre a cruz sofri,",
+                "Para sempre te redimi.”"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ouvi Sua voz divinal",
+                "Em acentos muito suaves,",
+                "Que falava a mim com ternura igual",
+                "À voz gentil das aves."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Que alegria sempre essa voz ouvir:",
+                "“Eu te amo, ó pecador!",
+                "Mesmo a morte lá sobre a cruz sofri,",
+                "Para sempre te redimi.”"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu fico a escutar Sua voz",
+                "Na intensa luta terrestre,",
+                "E, ao me vir tentar o inimigo atroz,",
+                "Quão bom ouvir o Mestre!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Que alegria sempre essa voz ouvir:",
+                "“Eu te amo, ó pecador!",
+                "Mesmo a morte lá sobre a cruz sofri,",
+                "Para sempre te redimi.”"
+            ]
+        }
+    ]
+}

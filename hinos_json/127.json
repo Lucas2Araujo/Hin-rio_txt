@@ -1,0 +1,104 @@
+{
+    "hymn": {
+        "number": "127",
+        "title": "Vida Em Olhar",
+        "originalTitle": "There Is Life for a Look",
+        "subCategory": 10,
+        "lyricsComposer": [
+            18
+        ],
+        "musicComposer": [
+            96
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 3:14, 15",
+        "youtubeURL": "https://www.youtube.com/watch?v=DMdabK3IbAU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Números 21:8-9",
+            "Isaías 45:22",
+            "Hebreus 12:2"
+        ],
+        "texto_base": "João 3:14, 15",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Missão e Serviço",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vida tens em olhar a Jesus, Salvador.",
+                "Ele diz: “Vida eterna te dou.”",
+                "Pois então, pecador,",
+                "considera esse amor;",
+                "Vê Jesus que na cruz expirou."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vê, vê; viverás!",
+                "Vida tens em olhar a Jesus, Salvador.",
+                "Ele diz: “Vida em Mim acharás.”"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vida tens em olhar a Jesus, Salvador,",
+                "Pois o Seu grande amor já provou.",
+                "Com Seu sangue na cruz,",
+                "e sofrendo em dor,",
+                "Tua falta também já pagou."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vê, vê; viverás!",
+                "Vida tens em olhar a Jesus, Salvador.",
+                "Ele diz: “Vida em Mim acharás.”"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                " Vida tens em olhar a Jesus, Salvador;",
+                "Já por ti Ele tudo sofreu.",
+                "Com amor dá perdão",
+                "ao maior transgressor.",
+                "Vê Jesus que por ti padeceu."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vê, vê; viverás!",
+                "Vida tens em olhar a Jesus, Salvador.",
+                "Ele diz: “Vida em Mim acharás.”"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "hymn": {
+        "number": "142",
+        "title": "Perdão, Poder E Paz",
+        "originalTitle": "Pardon, Peace and Power",
+        "subCategory": 10,
+        "lyricsComposer": [
+            82
+        ],
+        "musicComposer": [
+            248
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Romanos 5:1, 2",
+        "youtubeURL": "https://www.youtube.com/watch?v=QbgZAOmi0lc",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Efésios 1:7",
+            "Colossenses 1:14",
+            "Romanos 5:1"
+        ],
+        "texto_base": "Romanos 5:1, 2",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Se nós quisermos vida ter,",
+                "Busquemos, pois, a Deus,",
+                "Colhendo as bênçãos, com prazer,",
+                "Que em Seu amor nos deu."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Há perdão, poder e paz,",
+                "E graça e luz, e amor gentil",
+                "Em Cristo, a fonte de prazer.",
+                "A Ele demos glórias e honras mil!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "O Espírito divino em mim",
+                "Me livra de pecar.",
+                "Em Sua graça quero assim",
+                "Perdidos alcançar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Há perdão, poder e paz,",
+                "E graça e luz, e amor gentil",
+                "Em Cristo, a fonte de prazer.",
+                "A Ele demos glórias e honras mil!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Só é possível pela fé",
+                "Tais bênçãos receber.",
+                "Por Cristo, o Pai concederá",
+                "O reino ao que crer."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Há perdão, poder e paz,",
+                "E graça e luz, e amor gentil",
+                "Em Cristo, a fonte de prazer.",
+                "A Ele demos glórias e honras mil!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "hymn": {
+        "number": "461",
+        "title": "Jesus Precisa Voltar",
+        "originalTitle": "",
+        "subCategory": 25,
+        "lyricsComposer": [
+            235
+        ],
+        "musicComposer": [
+            235
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 24:12-14",
+        "youtubeURL": "https://www.youtube.com/watch?v=BkwPPB2tjOI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 24:12",
+            "2 Timóteo 3:1",
+            "Lucas 21:28"
+        ],
+        "texto_base": "Mateus 24:12-14",
+        "temas_relacionados": [
+            "Espírito Santo",
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança",
+            "Segunda Vinda e Esperança",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "No coração do homem existe Deus,",
+                "Pois cada célula que existe",
+                "surgiu de Deus.",
+                "Embora não pareça,",
+                "embora a gente se esqueça,",
+                "Das santas mãos de Deus viemos",
+                "e para lá nós voltaremos.",
+                "O mundo é sorrateiro, cruel e mau;",
+                "Se opõe ao Reino que é eterno",
+                "e instala o caos,",
+                "Quebranta os mandamentos,",
+                "desfaz a lei que é santa e pura,",
+                "Pois troca o certo pelo errado;",
+                "coloca tudo do avesso."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Jesus precisa voltar!",
+                "Jesus precisa voltar!",
+                "A natureza está clamando,",
+                "a criação está gritando.",
+                "Jesus precisa voltar!",
+                "Jesus precisa voltar!",
+                "Queremos ver os anjos,",
+                "trombetas ressoando;",
+                "Queremos ver Jesus nas nuvens do céu."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu olho pra mim mesmo e tento achar",
+                "Explicação pras minhas quedas",
+                "e meu pecar.",
+                "O bem que quero não faço;",
+                "o mal que abomino tanto",
+                "Está ali ao meu alcance",
+                "constantemente me chamando.",
+                "O medo me persegue por onde vou.",
+                "A falta de amor é grande; nos dá pavor.",
+                "O Espírito do Eterno",
+                "aos poucos vai Se afastando.",
+                "Os ventos fortes da maldade",
+                "com toda fúria estão soprando."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Jesus precisa voltar!",
+                "Jesus precisa voltar!",
+                "A natureza está clamando,",
+                "a criação está gritando.",
+                "Jesus precisa voltar!",
+                "Jesus precisa voltar!",
+                "Queremos ver os anjos,",
+                "trombetas ressoando;",
+                "Queremos ver Jesus nas nuvens do céu."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "As profecias já apontam: chegou o fim!",
+                "A triste história do passado",
+                "chegou ao seu final.",
+                "O amor e a verdade triunfarão.",
+                "A paz e a justiça pra sempre reinarão."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Jesus precisa voltar!",
+                "Jesus precisa voltar!",
+                "A natureza está clamando,",
+                "a criação está gritando.",
+                "Jesus precisa voltar!",
+                "Jesus precisa voltar!",
+                "Queremos ver os anjos,",
+                "trombetas ressoando;",
+                "Queremos ver Jesus nas nuvens do céu.",
+                "Queremos ver Jesus quando Ele voltar."
+            ]
+        }
+    ]
+}

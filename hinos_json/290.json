@@ -1,0 +1,105 @@
+{
+    "hymn": {
+        "number": "290",
+        "title": "Do Santo Sábado És Senhor",
+        "originalTitle": "Far From All Care",
+        "subCategory": 20,
+        "lyricsComposer": [
+            95
+        ],
+        "musicComposer": [
+            95
+        ],
+        "versionComposer": [
+            11
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Marcos 2:27, 28",
+        "youtubeURL": "https://www.youtube.com/watch?v=EhZFepZ47yY",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Marcos 2:27-28",
+            "Isaías 58:13",
+            "Levítico 19:30"
+        ],
+        "texto_base": "Marcos 2:27, 28",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Horas benditas,",
+                "Santas e felizes",
+                "São as que passo",
+                "Junto a Ti, meu Deus"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó Mestre amado,",
+                "Criador divino,",
+                "Do santo sábado",
+                "Tu és Senhor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Busco Tua face",
+                "De manhã bem cedo,",
+                "Pois Tuas bênçãos",
+                "Quero receber."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó Mestre amado,",
+                "Criador divino,",
+                "Do santo sábado",
+                "Tu és Senhor."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "E logo à tarde,",
+                "Quando o Sol se esconde,",
+                "Quero, prostrado,",
+                "Aos Teus pés estar."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó Mestre amado,",
+                "Criador divino,",
+                "Do santo sábado",
+                "Tu és Senhor."
+            ]
+        }
+    ]
+}

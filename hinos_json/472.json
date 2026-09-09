@@ -1,0 +1,101 @@
+{
+    "hymn": {
+        "number": "472",
+        "title": "Ó Alegrai-vos, Filhos De Sião",
+        "originalTitle": "Thine Is the Glory",
+        "subCategory": 26,
+        "lyricsComposer": [
+            101
+        ],
+        "musicComposer": [
+            164
+        ],
+        "versionComposer": [
+            83
+        ],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Coríntios 15:54-57",
+        "youtubeURL": "https://www.youtube.com/watch?v=TmkQmQ04aQk",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Coríntios 15:54-55",
+            "Oséias 13:14",
+            "Isaías 25:8"
+        ],
+        "texto_base": "1 Coríntios 15:54-57",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Crianças e Jovens",
+            "Lar e Família",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ó alegrai-vos, filhos de Sião!",
+                "Eis que vem raiando vossa redenção.",
+                "Honras e louvores dai ao Rei do Céu,",
+                "Pois a própria morte Ele já venceu!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó alegrai-vos, filhos de Sião!",
+                "Eis que vem raiando vossa redenção!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Glória ao nome santo de Jesus,",
+                "Que, ressuscitando, triunfou em luz.",
+                "Anjos poderosos, cheios de esplendor,",
+                "Deram glória a Cristo, o Conquistador!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó alegrai-vos, filhos de Sião!",
+                "Eis que vem raiando vossa redenção!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Ó Rei eterno, nosso grande Deus,",
+                "Já venceste a morte, já estás nos Céus!",
+                "Mais que vencedores faze-nos também,",
+                "E Te louvaremos lá no lar de além!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Ó alegrai-vos, filhos de Sião!",
+                "Eis que vem raiando vossa redenção!"
+            ]
+        }
+    ]
+}

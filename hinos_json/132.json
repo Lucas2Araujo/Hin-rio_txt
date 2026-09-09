@@ -1,0 +1,108 @@
+{
+    "hymn": {
+        "number": "132",
+        "title": "Pra Quem Nada Tem",
+        "originalTitle": "",
+        "subCategory": 10,
+        "lyricsComposer": [
+            129
+        ],
+        "musicComposer": [
+            129
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Hebreus 3:7, 8",
+        "youtubeURL": "https://www.youtube.com/watch?v=WLANtS8injM",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 95:7-8",
+            "Hebreus 4:7",
+            "João 6:35"
+        ],
+        "texto_base": "Hebreus 3:7, 8",
+        "temas_relacionados": [
+            "Espírito Santo",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "“Hoje se ouvirdes a Sua voz,",
+                "Não endureçais o vosso coração.”",
+                "Essas são palavras do Espírito de Deus,",
+                "Que outra vez você ouviu"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não resista mais ao convite.",
+                "Nos braços de Jesus cabemos todos nós.",
+                "Ele nos restaura",
+                "com o toque de Suas mãos.",
+                "Mas qual será sua decisão?"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pra toda culpa e dor,",
+                "Jesus tem a cura.",
+                "Para quem quer viver,",
+                "Ele é o pão.",
+                "Pra qualquer sofrer da alma,",
+                "Ele traz a paz.",
+                "Pra quem nada tem,",
+                "Ele tudo é."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Não resista mais ao convite.",
+                "Nos braços de Jesus cabemos todos nós.",
+                "Ele nos restaura",
+                "com o toque de Suas mãos.",
+                "Mas qual será sua decisão?"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pra toda culpa e dor,",
+                "Jesus tem a cura.",
+                "Para quem quer viver,",
+                "Ele é o pão.",
+                "Pra qualquer sofrer da alma,",
+                "Ele traz a paz.",
+                "Pra quem nada tem,",
+                "Jesus Cristo é tudo.",
+                "Pra quem quer viver,",
+                "Ele é o Pão da vida.",
+                "Pra quem quer viver,",
+                "Ele é o pão."
+            ]
+        }
+    ]
+}

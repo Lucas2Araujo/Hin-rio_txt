@@ -1,0 +1,84 @@
+{
+    "hymn": {
+        "number": "464",
+        "title": "Não Desistir",
+        "originalTitle": "Never Give Up",
+        "subCategory": 25,
+        "lyricsComposer": [
+            67
+        ],
+        "musicComposer": [
+            67
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 24:10-13",
+        "youtubeURL": "https://www.youtube.com/watch?v=c9JfsHZ5Ark",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Hebreus 10:35",
+            "Gálatas 6:9",
+            "Apocalipse 2:10"
+        ],
+        "texto_base": "Mateus 24:10-13",
+        "temas_relacionados": [
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Dias há, bem sei,",
+                "em que triste te sentes,",
+                "Sem ter esperança e prazer,",
+                "Mas existe Alguém",
+                "que promete ajudar-te,",
+                "E forças à alma trazer."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Não desistir! Cristo vem logo!",
+                "Breve a aurora há de raiar!",
+                "Não desistir! Cristo vem logo!",
+                "Não desistir! Ele virá!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Este mundo, eu sei,",
+                "já não vai muito longe,",
+                "E o mal vai em breve findar.",
+                "Minha fé em Deus,",
+                "sim, está bem firmada:",
+                "Jesus logo vai regressar."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Não desistir! Cristo vem logo!",
+                "Breve a aurora há de raiar!",
+                "Não desistir! Cristo vem logo!",
+                "Não desistir! Ele virá!"
+            ]
+        }
+    ]
+}

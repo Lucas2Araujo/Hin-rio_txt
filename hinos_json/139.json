@@ -1,0 +1,103 @@
+{
+    "hymn": {
+        "number": "139",
+        "title": "Sou De Jesus Agora",
+        "originalTitle": "Now I Belong to Jesus",
+        "subCategory": 10,
+        "lyricsComposer": [
+            388
+        ],
+        "musicComposer": [
+            388
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "1 Coríntios 6:20",
+        "youtubeURL": "https://www.youtube.com/watch?v=9SHy1_R9Rx4",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "1 Coríntios 7:23",
+            "Gálatas 3:13",
+            "1 Pedro 1:18-19"
+        ],
+        "texto_base": "1 Coríntios 6:20",
+        "temas_relacionados": [
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo me tem fiel amizade,",
+                "Nele encontrei real liberdade,",
+                "Pois sobre a cruz minh’alma comprou;",
+                "Dele, portanto, eu sou."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sou de Jesus agora,",
+                "Meu é Jesus também.",
+                "Meu Ele é agora,",
+                "Meu para sempre. Amém!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Cristo salvou-me; sinto em minh’alma",
+                "Grata esperança e a mais doce calma!",
+                "Pra libertar-me o preço pagou;",
+                "Dele, portanto, eu sou."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sou de Jesus agora,",
+                "Meu é Jesus também.",
+                "Meu Ele é agora,",
+                "Meu para sempre. Amém!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quando perdido em dor e pecado,",
+                "Cristo salvou-me, fui libertado.",
+                "Vida eternal Jesus me outorgou;",
+                "Dele, portanto, eu sou."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Sou de Jesus agora,",
+                "Meu é Jesus também.",
+                "Meu Ele é agora,",
+                "Meu para sempre. Amém!"
+            ]
+        }
+    ]
+}

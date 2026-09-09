@@ -1,0 +1,105 @@
+{
+    "hymn": {
+        "number": "94",
+        "title": "Vestido Em Linho",
+        "originalTitle": "Ivory Palaces",
+        "subCategory": 9,
+        "lyricsComposer": [
+            203
+        ],
+        "musicComposer": [
+            203
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 45:8",
+        "youtubeURL": "https://www.youtube.com/watch?v=jgwICRa17Ts",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Cantares 3:6",
+            "Mateus 2:11",
+            "João 19:39"
+        ],
+        "texto_base": "Salmo 45:8",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vestido em linho Jesus desceu,",
+                "Trazendo salvação.",
+                "De mirra o bálsamo traz do Céu",
+                "Beleza e perfeição."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vindo ao mundo, deixou no Céu",
+                "Palácios de marfim.",
+                "Glória não quis, em dor morreu.",
+                "A cruz suportou por mim."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Trazendo em Si de aloés o odor,",
+                "A morte atroz sofreu.",
+                "Provou aqui amargura e dor;",
+                "Ao mundo abriu o Céu."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vindo ao mundo, deixou no Céu",
+                "Palácios de marfim.",
+                "Glória não quis, em dor morreu.",
+                "A cruz suportou por mim."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Odor de cássia as vestes têm;",
+                "Sim, Ele ressurgiu.",
+                "E junto ao Pai Se assentou no além;",
+                "Ao mundo redimiu."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Vindo ao mundo, deixou no Céu",
+                "Palácios de marfim.",
+                "Glória não quis, em dor morreu.",
+                "A cruz suportou por mim."
+            ]
+        }
+    ]
+}

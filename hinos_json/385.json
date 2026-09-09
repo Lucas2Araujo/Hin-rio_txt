@@ -1,0 +1,71 @@
+{
+    "hymn": {
+        "number": "385",
+        "title": "Música Celeste",
+        "originalTitle": "What Heavenly Music",
+        "subCategory": 22,
+        "lyricsComposer": [
+            221
+        ],
+        "musicComposer": [
+            220
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Lucas 2:13, 14",
+        "youtubeURL": "https://www.youtube.com/watch?v=wScrNQt-IhU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Lucas 2:13-14",
+            "Apocalipse 14:2-3",
+            "Salmos 150:4"
+        ],
+        "texto_base": "Lucas 2:13, 14",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que música celeste vem das ondas do mar!",
+                "Comove minh’alma qual santa canção.",
+                "São as vozes de anjos soando no ar.",
+                "A mim estão cantando celeste saudação."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Às margens do Jordão, me detenho a orar",
+                "E, com fervente prece, estendo a mão.",
+                "Ó envia os Teus anjos, amável Jesus!",
+                "E deixa-me cantar, sim, a santa canção."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Em forte tormenta que infunde pavor,",
+                "Não tenho temor se Jesus me guiar,",
+                "Pois a santa melodia envolveu-me de amor.",
+                "Junto ao coro dos anjos desejo cantar."
+            ]
+        }
+    ]
+}

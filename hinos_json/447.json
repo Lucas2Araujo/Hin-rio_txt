@@ -1,0 +1,126 @@
+{
+    "hymn": {
+        "number": "447",
+        "title": "Vigiai, Cristãos",
+        "originalTitle": "Watch, Ye Saints",
+        "subCategory": 25,
+        "lyricsComposer": [
+            404
+        ],
+        "musicComposer": [
+            526
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Mateus 25:13",
+        "youtubeURL": "https://www.youtube.com/watch?v=3_kr1ba7voQ",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Mateus 25:13",
+            "Marcos 13:33",
+            "Lucas 21:36"
+        ],
+        "texto_base": "Mateus 25:13",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Vigiai, cristãos sinceros,",
+                "Pois o fim está bem perto!",
+                "Tende as lâmpadas acesas,",
+                "Sempre prontos e despertos!"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eis que vem, sim, Cristo vem!",
+                "Vem reinar em grande glória,",
+                "Com os santos em vitória!",
+                "Eis que vem, sim, Cristo vem!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eis que só Jesus promete",
+                "Dar-nos paz, perdão e graça.",
+                "Aceitai o Seu convite;",
+                "Avisai a toda raça!"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eis que vem, sim, Cristo vem!",
+                "Vem reinar em grande glória,",
+                "Com os santos em vitória!",
+                "Eis que vem, sim, Cristo vem!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Reinos e nações se abalam.",
+                "Proclamai a todo o mundo",
+                "Que Jesus a vir Se apressa",
+                "E que tem amor profundo!"
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eis que vem, sim, Cristo vem!",
+                "Vem reinar em grande glória,",
+                "Com os santos em vitória!",
+                "Eis que vem, sim, Cristo vem!"
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Pecadores, vinde todos;",
+                "Cristo ainda intercede!",
+                "Vinde enquanto graça existe;",
+                "Vinde enquanto Deus vos pede!"
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Eis que vem, sim, Cristo vem!",
+                "Vem reinar em grande glória,",
+                "Com os santos em vitória!",
+                "Eis que vem, sim, Cristo vem!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "hymn": {
+        "number": "333",
+        "title": "Oh, Que Amigo Em Cristo Temos!",
+        "originalTitle": "What a Friend We Have in Jesus",
+        "subCategory": 22,
+        "lyricsComposer": [
+            296
+        ],
+        "musicComposer": [
+            57
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 15:15",
+        "youtubeURL": "https://www.youtube.com/watch?v=MeeNmIEjLVs",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Filipenses 4:6",
+            "1 Pedro 5:7",
+            "Provérbios 18:24"
+        ],
+        "texto_base": "João 15:15",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Oh, que amigo em Cristo temos!",
+                "Mais chegado que um irmão!",
+                "Quer que tudo nós levemos",
+                "Ao bom Deus em oração.",
+                "Oh, que paz perdemos sempre!",
+                "Oh, que dor de coração!",
+                "Só porque não recorremos",
+                "Ao bom Deus em oração."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Há tristezas e pesares;",
+                "Há na vida tentação.",
+                "Não ficamos sem conforto,",
+                "Indo a Cristo em oração.",
+                "Não existe um outro amigo",
+                "Tão grandioso em compaixão.",
+                "Aos humildes e contritos,",
+                "Cristo atende em oração."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Quando em dor desfalecemos,",
+                "Cristo estende-nos a mão,",
+                "Pois é sempre a nossa força;",
+                "É refúgio em oração.",
+                "E, se aqui nos menosprezam,",
+                "Cristo é nosso em oração.",
+                "Em Seus braços nos acolhe",
+                "E nos dá consolação."
+            ]
+        }
+    ]
+}

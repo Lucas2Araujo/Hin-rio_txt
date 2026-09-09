@@ -1,0 +1,127 @@
+{
+    "hymn": {
+        "number": "254",
+        "title": "Agora Posso Ver",
+        "originalTitle": "The Cleansing Wave",
+        "subCategory": 15,
+        "lyricsComposer": [
+            404
+        ],
+        "musicComposer": [
+            403
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Zacarias 13:1",
+        "youtubeURL": "https://www.youtube.com/watch?v=VxOMU2J_ZAI",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Zacarias 13:1",
+            "João 9:25",
+            "Apocalipse 1:5"
+        ],
+        "texto_base": "Zacarias 13:1",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Paz, Cuidado e Confiança",
+            "Sacrifício e Redenção"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Agora enfim eu posso ver",
+                "Da fonte, ali, correr",
+                "O sangue que o meu Jesus",
+                "Por mim verteu na cruz."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, fonte, sim, de vida e amor,",
+                "Que vem tirar o mal e a dor!",
+                "Oh, graças mil ao bom Jesus",
+                "Que a vida deu por mim na cruz!"
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Que nova luz, mudança e paz",
+                "No coração se faz!",
+                "O antigo ser, corrupto e vil,",
+                "Não mais se mostra hostil."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, fonte, sim, de vida e amor,",
+                "Que vem tirar o mal e a dor!",
+                "Oh, graças mil ao bom Jesus",
+                "Que a vida deu por mim na cruz!"
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Andando estou à luz do Céu;",
+                "Perdão se deu ao réu!",
+                "Justiça Cristo me outorgou,",
+                "E agora salvo estou."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, fonte, sim, de vida e amor,",
+                "Que vem tirar o mal e a dor!",
+                "Oh, graças mil ao bom Jesus",
+                "Que a vida deu por mim na cruz!"
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Grandiosa graça revelou",
+                "Quem sangue derramou!",
+                "Por toda a vida hei de cantar",
+                "A redenção sem-par!"
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Oh, fonte, sim, de vida e amor,",
+                "Que vem tirar o mal e a dor!",
+                "Oh, graças mil ao bom Jesus",
+                "Que a vida deu por mim na cruz!"
+            ]
+        }
+    ]
+}

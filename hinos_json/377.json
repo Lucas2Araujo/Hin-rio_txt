@@ -1,0 +1,128 @@
+{
+    "hymn": {
+        "number": "377",
+        "title": "Mais De Cristo",
+        "originalTitle": "More About Jesus",
+        "subCategory": 22,
+        "lyricsComposer": [
+            116
+        ],
+        "musicComposer": [
+            282
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "João 15:7-9",
+        "youtubeURL": "https://www.youtube.com/watch?v=-pYZX4k5weo",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Filipenses 3:10",
+            "2 Pedro 3:18",
+            "Efésios 4:15"
+        ],
+        "texto_base": "João 15:7-9",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Graça e Salvação",
+            "Lar e Família",
+            "Palavra de Deus e Lei",
+            "Paz, Cuidado e Confiança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Mais de Cristo quero ser,",
+                "Mais do Seu amor obter,",
+                "Mais de Sua compaixão,",
+                "Mais de Sua mansidão."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Mais, mais de Cristo!",
+                "Mais, mais de Cristo!",
+                "Mais do Seu puro e santo amor,",
+                "Mais de meu Mestre, meu Senhor."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Mais de Cristo perto estar",
+                "E com Ele sempre andar;",
+                "Quero Sua voz ouvir,",
+                "Sempre Sua lei cumprir."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Mais, mais de Cristo!",
+                "Mais, mais de Cristo!",
+                "Mais do Seu puro e santo amor,",
+                "Mais de meu Mestre, meu Senhor."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Mais a Cristo quero olhar,",
+                "Vê-Lo em glória enfim reinar.",
+                "Reine sempre em mim também",
+                "Desde agora até no além."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Mais, mais de Cristo!",
+                "Mais, mais de Cristo!",
+                "Mais do Seu puro e santo amor,",
+                "Mais de meu Mestre, meu Senhor."
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Mais de Cristo quero ter,",
+                "Mais igual a Ele ser,",
+                "Dando ao triste e sofredor",
+                "Mais conforto e mais amor."
+            ]
+        },
+        {
+            "order": 8,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Mais, mais de Cristo!",
+                "Mais, mais de Cristo!",
+                "Mais do Seu puro e santo amor,",
+                "Mais de meu Mestre, meu Senhor."
+            ]
+        }
+    ]
+}

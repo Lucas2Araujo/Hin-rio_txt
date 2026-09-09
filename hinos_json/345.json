@@ -1,0 +1,99 @@
+{
+    "hymn": {
+        "number": "345",
+        "title": "Novo Dia Chegará",
+        "originalTitle": "",
+        "subCategory": 22,
+        "lyricsComposer": [
+            505
+        ],
+        "musicComposer": [
+            505
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Salmo 30:5",
+        "youtubeURL": "https://www.youtube.com/watch?v=Xm1zBfeI-RY",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 30:5",
+            "Apocalipse 21:4",
+            "Romanos 8:18"
+        ],
+        "texto_base": "Salmo 30:5",
+        "temas_relacionados": [
+            "Graça e Salvação",
+            "Oração e Comunhão",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Muitas vezes aqui nós queremos saber",
+                "A razão para tanto sofrer.",
+                "Vemos gente chorar, vozes a lamentar;",
+                "Já não há mais razão pra cantar.",
+                "Mas, em meio à dor, nós podemos sentir",
+                "A presença do nosso Senhor.",
+                "Ele estende Sua mão, não nos deixa cair.",
+                "Com bondade assim nos diz:"
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "O choro pode durar uma noite;",
+                "A alegria virá de manhã.",
+                "O sofrimento e a dor deste mundo",
+                "Muito em breve irão se findar.",
+                "Jesus Cristo prometeu,",
+                "Sua promessa cumprirá.",
+                "Logo a noite escura se acaba;",
+                "novo dia chegará."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Você pode confiar em Jesus, o Senhor.",
+                "Ele aqui muita dor suportou.",
+                "Carregou uma cruz por você e por mim.",
+                "Seu amor divinal não tem fim.",
+                "Tão sozinho sofreu, tão sozinho morreu",
+                "Pra podermos agora viver.",
+                "Mesmo a morte venceu; novo dia nasceu.",
+                "E podemos então dizer:"
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "O choro pode durar uma noite;",
+                "A alegria virá de manhã.",
+                "O sofrimento e a dor deste mundo",
+                "Muito em breve irão se findar.",
+                "Jesus Cristo prometeu,",
+                "Sua promessa cumprirá.",
+                "Logo a noite escura se acaba;",
+                "novo dia chegará."
+            ]
+        }
+    ]
+}

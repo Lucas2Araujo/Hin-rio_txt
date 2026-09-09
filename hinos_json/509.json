@@ -1,0 +1,99 @@
+{
+    "hymn": {
+        "number": "509",
+        "title": "Criação",
+        "originalTitle": "",
+        "subCategory": 29,
+        "lyricsComposer": [
+            291
+        ],
+        "musicComposer": [
+            291
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Gênesis 1:1",
+        "youtubeURL": "https://www.youtube.com/watch?v=MVST2oE5nBE",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Gênesis 1:1",
+            "Hebreus 11:3",
+            "Salmos 33:6"
+        ],
+        "texto_base": "Gênesis 1:1",
+        "temas_relacionados": [
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus fez a luz, Deus fez a luz,",
+                "Deus fez a luz no primeiro dia."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus fez o ar, Deus fez o ar,",
+                "Deus fez o ar no segundo dia."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus fez a terra, Deus fez o mar,",
+                "Deus fez as plantas no terceiro dia."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus fez o Sol, Deus fez a Lua,",
+                "Fez as estrelas no quarto dia."
+            ]
+        },
+        {
+            "order": 5,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus fez os peixes e os passarinhos",
+                "E as borboletas no quinto dia."
+            ]
+        },
+        {
+            "order": 6,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus fez o homem e a mulher",
+                "E os animais no sexto dia."
+            ]
+        },
+        {
+            "order": 7,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Deus descansou, Deus descansou,",
+                "Deus descansou no sétimo dia."
+            ]
+        }
+    ]
+}

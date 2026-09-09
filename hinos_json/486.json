@@ -1,0 +1,88 @@
+{
+    "hymn": {
+        "number": "486",
+        "title": "Até Então",
+        "originalTitle": "Until Then",
+        "subCategory": 27,
+        "lyricsComposer": [
+            50
+        ],
+        "musicComposer": [
+            50
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "Apocalipse 21:1-4",
+        "youtubeURL": "https://www.youtube.com/watch?v=EmNa2mC1REU",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Apocalipse 2:10",
+            "Mateus 24:13",
+            "Apocalipse 21:4"
+        ],
+        "texto_base": "Apocalipse 21:1-4",
+        "temas_relacionados": [
+            "Lar e Família",
+            "Oração e Comunhão",
+            "Sacrifício e Redenção",
+            "Segunda Vinda e Esperança"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Meu coração",
+                "alegre hoje canta,",
+                "Ao relembrar que as dores cessarão.",
+                "Virá o fim",
+                "a este mundo escuro.",
+                "Meu lar será nas terras de Sião."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Mas, té então, eu seguirei cantando;",
+                "Té então, contente eu hei de estar;",
+                "Até o dia em que a cidade eu veja",
+                "E ouça Deus chamar-me ao lar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "A morte e a dor",
+                "não mais pavor nos trazem,",
+                "Pois eu bem sei",
+                "que em breve findarão.",
+                "De todo o mal",
+                "que aqui nos faz trementes,",
+                "Ao recordar, os salvos sorrirão."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Mas, té então, eu seguirei cantando;",
+                "Té então, contente eu hei de estar;",
+                "Até o dia em que a cidade eu veja",
+                "E ouça Deus chamar-me ao lar."
+            ]
+        }
+    ]
+}

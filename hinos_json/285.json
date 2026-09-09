@@ -1,0 +1,92 @@
+{
+    "hymn": {
+        "number": "285",
+        "title": "Eu Amo A Tua Lei",
+        "originalTitle": "",
+        "subCategory": 19,
+        "lyricsComposer": [
+            471
+        ],
+        "musicComposer": [
+            471
+        ],
+        "versionComposer": [],
+        "adaptComposer": [],
+        "translateComposer": [],
+        "verse": "",
+        "youtubeURL": "https://www.youtube.com/watch?v=qNqAq54JUxg",
+        "sheetMusicURL": "https://www.cpb.com.br/",
+        "thumbURL": "https://www.cpb.com.br/",
+        "audioSungURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/cantado/",
+        "audioInstrumentalURL": "https://storage.googleapis.com/data.cpb.com.br/hinario-adventista/novo/audio/instrumental/",
+        "isfavorite": false,
+        "favoriteDate": "1995-12-17T03:24:00",
+        "textos_relacionados": [
+            "Salmos 119:97",
+            "Salmos 119:113",
+            "Salmos 1:2"
+        ],
+        "texto_base": "",
+        "temas_relacionados": [
+            "Adoração e Louvor",
+            "Missão e Serviço",
+            "Oração e Comunhão",
+            "Palavra de Deus e Lei",
+            "Sábado e Criação"
+        ]
+    },
+    "lyrics": [
+        {
+            "order": 1,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu amo a Tua lei, pois ela é Teu querer.",
+                "Seguir os Teus caminhos",
+                "é a missão do meu viver.",
+                "Eu sigo a Tua lei, pois ela é direção.",
+                "É onde o Criador",
+                "Se encontra com a criação."
+            ]
+        },
+        {
+            "order": 2,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Tua lei reflete quem Tu és.",
+                "Tua lei revela quem eu sou.",
+                "Pensando sempre em mim",
+                "e no meu bem-estar,",
+                "Deixaste por escrito",
+                "uma forma de me amar."
+            ]
+        },
+        {
+            "order": 3,
+            "chorus": false,
+            "image": "",
+            "strophe": [
+                "Eu leio a Tua lei, pois nela eu aprendi",
+                "Que os Teus pensamentos",
+                "são perfeitos para mim.",
+                "Eu guardo a Tua lei, pois ela é instrução.",
+                "Escondo-a com carinho",
+                "dentro do meu coração."
+            ]
+        },
+        {
+            "order": 4,
+            "chorus": true,
+            "image": "",
+            "strophe": [
+                "Tua lei reflete quem Tu és.",
+                "Tua lei revela quem eu sou.",
+                "Pensando sempre em mim",
+                "e no meu bem-estar,",
+                "Deixaste por escrito",
+                "uma forma de me amar."
+            ]
+        }
+    ]
+}
