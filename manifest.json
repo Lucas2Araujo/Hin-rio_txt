@@ -83,19 +83,19 @@
       "id": "hinario",
       "file": "hinario.db.gz",
       "size_bytes": 707850,
-      "url": "https://github.com/Lucas2Araujo/Hin-rio_txt/releases/download/v1.0/hinario.db.gz"
+      "url": "https://github.com/Lucas2Araujo/Hin-rio_txt/releases/download/v1.1/hinario.db.gz"
     },
     {
       "id": "hinario_antigo",
       "file": "hinario_antigo.db.gz",
-      "size_bytes": 623236,
-      "url": "https://github.com/Lucas2Araujo/Hin-rio_txt/releases/download/v1.0/hinario_antigo.db.gz"
+      "size_bytes": 634370,
+      "url": "https://github.com/Lucas2Araujo/Hin-rio_txt/releases/download/v1.1/hinario_antigo.db.gz"
     },
     {
       "id": "hinario_comparativo",
       "file": "hinario_comparativo.db.gz",
       "size_bytes": 868076,
-      "url": "https://github.com/Lucas2Araujo/Hin-rio_txt/releases/download/v1.0/hinario_comparativo.db.gz"
+      "url": "https://github.com/Lucas2Araujo/Hin-rio_txt/releases/download/v1.1/hinario_comparativo.db.gz"
     }
   ]
 }
